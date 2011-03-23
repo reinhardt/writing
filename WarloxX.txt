@@ -1,0 +1,10 @@
+Als Tom die Kneipe betrat fiel ihm als erstes die blaue LED-Anzeige über der Bar auf. Dort waren abwechselnd die Uhrzeit - es war gerade kurz nach 21 Uhr -, der Name der Location - "Freiraum" - und diverse kurze Nachrichten über Happy-Hour-Zeiten und ähnliches zu lesen. Das LED-Panel gehörte zusammen mit der auf ein Minimum herabgedimmten Deckenbeleuchtung zu den größten Lichtquellen, dicht gefolgt vom vagen Schein mehrerer Rechnerbildschirme. Tatsächlich schienen etwa genau so viele Laptops wie Gäste anwesend zu sein, was Tom freilich wenig überraschte, schließlich war er hier mit einem Hacker verabredet - oder vielmehr einem "SEC", wie er lieber genannt wurde, einem "Specialist for Electronic Communication". Tom hielt Ausschau nach dem Gerät mit dem leuchtenden Feuerball auf der Displayrückseite und fand es in der Ecke rechts von der Bar. Dahinter saß ein stämmiger Mann von Mitte Dreißig mit breitem Gesicht und Drei-Tage-Bart - das musste ''Smoothly'' sein, auch wenn diese Gestalt absolut nichts mit seinem Alias gemeinsam hatte. Tom ging zielstrebig auf ihn zu, konnte aber einen leisen Zweifel nicht aus seiner Stimme verbannen, als er fragte, "Bist du ''Smoothly''?"<<BR>>
+Der Mann sah auf und nickte. Er wirkte schüchtern. "Dann bist du ''Jetfield''."<<BR>>
+"Genau", bestätigte Tom. Der Hacker wandte sich wieder seinem Rechner zu und tippte irgendetwas ein. Tom kam sich etwas blöd vor und setzte sich unaufgefordert auf einen der Stühle an ''Smoothlys'' Tisch. Dieser schien zufrieden mit dem, was er eingetippt hatte, und nahm unvermittelt das Gespräch wieder auf.<<BR>>
+"Du hast also schon ein bisschen Interface-Erfahrung?"<<BR>>
+"Ja, sowohl Textmodus als auch 3D-Oberflächen. Habe schon einiges ausprobiert und auch ein bisschen selbst gecodet. In 3D fand ich's immer hilfreich, noch eine optionale Textkonsole dabei zu haben. Die meisten 3D-Eingabemethoden sind einfach zu langsam und ungenau."
+''Smoothly'' nickte eifrig und schien ein wenig aufzutauen. "Genau das war unser Ausgangspunkt für das ''WarloxX''-Interface."<<BR>>
+ 
+----
+CategoryStory
+
