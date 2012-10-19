@@ -1,0 +1,15 @@
+Das Streufeldpfad-Verfahren ist eine von den Glith entwickelte und von den Menschen übernommene Methode der überlichtschnellen Fortbewegung. Sie basiert auf einer physikalischen Theorie, die eine Vereinigung der Relativitätstheorie und der Quantentheorie darstellt.
+
+Im Sprachgebrauch der Glith ist das Verfahren nach zwei maßgeblich an der Entwicklung beteiligten Wissenschaftlern benannt. Wohl wegen der für menschliche Zungen schwierigen Aussprache der Namen hat sich bei den Menschen der eher technisch klingende Begriff Streufeldpfad-Verfahren durchgesetzt. Der namensgebende Streufeldpfad ist die Route des sich bewegenden Objektes durch die Raumzeit.
+
+= Prinzip =
+
+Mit der Übernahme der Streufeldtheorie von den Glith wurde klar, dass die Raumzeit eine noch seltsamere und komplexere Struktur hat, als sogar Relativitätstheorie und Quantentheorie lehren. Beide sind, wie sich ja auch zuvor für die Newtonsche Physik zeigte, nur Spezialfälle der übergeordneten Theorie. Die entscheidende Entdeckung, die zur Entwicklung des Streufeldpfad-Verfahrens führte, war, dass die Streufeldgleichungen eines bewegten Körpers in einem Teil der Fälle Lösungen haben, die eine Geschwindigkeit größer oder gleich der Lichtgeschwindigkeit zulassen.
+
+= Praktische Erwägungen =
+
+Die bekannten Verfahren, die überlichtschnellen Lösungen der Streufeldgleichungen zu finden, sind äußerst aufwendig und nur mit Hilfe leistungsfähiger Rechner in angemessener Zeit durchführbar. Da nicht jede Parametermenge eine Lösung zulässt, ist eine gewisse Flexibilität bei der Wahl des Start- und Zielpunktes sowie der Masse des bewegten Objektes notwendig. Ein Raumschiff muss also im Normalfall den ersten und den letzten Teil der zurückzulegenden Strecke unterlichtschnell bewältigen und ein bestimmtes Ladungsgewicht genau einhalten. Ebenso genau eingehalten werden muss der errechnete Streufeldpfad, also der Kurs des Schiffes. Selbst eine kleine Abweichung kann katastrophal sein, da die Lösungen der Gleichungen am Rand des Pfades steil in Bereiche mit geringerer Grenzgeschwindigkeit abfallen, was bei einem Kursfehler zu verheerenden Bremskräften führt.
+
+Trotz dieser Schwierigkeiten haben die Glith im Laufe von nur zwei Jahrhunderten ein praktisch nutzbares Verfahren aus der Theorie entwickelt, was schließlich zur Begegnung mit den Menschen führte.
+
+[[Category:Chrysanthemum - Wissenschaft]]
