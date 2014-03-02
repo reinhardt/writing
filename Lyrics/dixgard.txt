@@ -1,8 +1,14 @@
-a F a F a e F a
+(a F e C a e F)
 
+a F C d a e F
+
+a                 F
 This is where you left me standing
+C                       d                a
 Six miles from home but so far from your heart
+                               e
 The streets were dirty and the lights of the arcade
+     F
 Were scorching my skin
 
 Worlds built on another's shoulders
@@ -10,15 +16,30 @@ Never really last, I know
 But somehow you and I seemed
 So much more at that time
 
-F a F a F e F a
-
-It was just Dixgard that kept us together
+            a                    F
+It was only Dixgard that kept us together
+           a                    G
 Roses were never red enough for me
+            F                        G
 You were my queen of diamonds and my bird of prey
+             F                        d
 But you were never what you seemed to be
+            e              F         a
+No you were never what you seemed to be
 
+        a               d
+Hold my hand for just a moment
+        a                           e
+Hold my breath the rest of my whole life
+                        G
+I never noticed we were running
+       a
+Out of love
 
+a d e G
 Was I not strong enough
 Why did you change your mind
 Where did we go wrong
 Who are you now
+
+
