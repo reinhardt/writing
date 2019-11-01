@@ -91,7 +91,10 @@ Ellen Baker
 41 Jahre, afro-amerikanische Abstammung, Banshee 
 
 Thomas "Tom" Schleier
-36 Jahre, mitteleuropäische Abstammung, Mensch 
+36 Jahre, mitteleuropäische Abstammung, Nicht-Fairy
+
+Sylvia Hagström
+48 Jahre, nordeuropäische Abstammung, Nicht-Fairy
 
 ## Storyboard
 
