@@ -4,7 +4,11 @@ Jessica Nguyen ist Polizistin. Und eine verdammt gute, wie viele ihrer Kollegen 
 
 # Setting
 
-Six Silver Bedlam spielt in der futuristischen Großstadt Bedlam. Dort leben sogenannte Fairies weitgehend unerkannt mit den Menschen zusammen. Die breite Öffentlichkeit ignoriert die Fairies einfach. Die meisten Menschen wissen entweder nicht, dass es sie gibt, oder denken nicht über sie nach, so lange sie nicht unmittelbar mit ihnen konfrontiert sind. Die Fairies wiederum kennen oft gegenseitig ihre Identitäten und haben eine Subkultur gebildet. Einige Menschen sind eingeweiht und pflegen entweder Kontakte zu den Fairies oder sind mit ihnen verfeindet.
+Six Silver Bedlam spielt in der futuristischen Großstadt Bedlam. Diese liegt am Fluss Tey inmitten von Niemandsland, das durch Umweltverschmutzung und Klimawandel unbewohnbar gemacht wurde. Die Stadt diente vielen Bewohnern des Umlandes als Zuflucht vor Naturkatastrophen, Hunger und Konflikten. Doch auch Bedlam stößt an seine Grenzen. Die Ressourcen werden stetig knapper, was zu starken Spannungen führt. Eine ungewisse Zukunft liegt vor Bedlam.
+
+## Fairies
+
+In Bedlam leben sogenannte Fairies weitgehend unerkannt mit den Menschen zusammen. Die breite Öffentlichkeit ignoriert die Fairies einfach. Die meisten Menschen wissen entweder nicht, dass es sie gibt, oder denken nicht über sie nach, so lange sie nicht unmittelbar mit ihnen konfrontiert sind. Die Fairies wiederum kennen oft gegenseitig ihre Identitäten und haben eine Subkultur gebildet. Einige Menschen sind eingeweiht und pflegen entweder Kontakte zu den Fairies oder sind mit ihnen verfeindet.
 
 Die größten Gruppen unter den Fairies sind
 
@@ -23,6 +27,22 @@ Bestimmte Cyberimplantate bieten einen gewissen Schutz vor Fairy-Fähigkeiten.
 Die meisten Fairies haben eine besondere Verbindung zur Natur (Dryaden zum Wald, Sirenen zum Meer etc.) und nehmen ihre Zerstörung übel.
 
 Metalle wirken in konzentrierter Form schwächend auf Fairies. Insbesondere Silber negiert ihre Kräfte und kann ihnen auch darüber hinaus Schaden zufügen. Sich einer größeren Menge Silber zu nähern verursacht ihnen körperliches Unbehagen. Berührung hat Verletzungen zur Folge, die Verbrennungen ähneln. Eine silberne oder versilberte Klinge oder gar eine silberne Patrone kann leicht zum Tod führen.
+
+* besserer Name als "Fairies"? 
+* Name für Nicht-Fairies? 
+
+Andere 
+Berührte 
+Selenen
+Astrale
+
+## Technologie
+
+Augmented Reality, neuronale Implantate und fortgeschrittene (schwache) künstliche Intelligenz sind gang und gebe - wenn man sie sich leisten kann. Der Luftraum wird von Drohnen beherrscht. Auf dem Boden sind Kraftfahrzeuge mit Antrieben von Verbrennungsmotoren über Elektromotoren bis zu Brennstoffzellen unterwegs. Beliebt sind wegen ständiger Staus auch kleinere Fortbewegungsmittel. 
+
+## Politik
+
+Die Politik von Bedlam ist geprägt von Korruption und faschistischen Tendenzen. Die hohe Armut wird ignoriert, Proteste niedergeschlagen. Bürgerrechte werden regelmäßig verletzt, es gibt umfassende Überwachung und häufige gewaltsame Übergriffe durch die Polizei. Das organisierte Verbrechen floriert und wird geduldet. 
 
 ## Stadtteile von Bedlam
 
@@ -100,10 +120,6 @@ Sylvia Hagström
 
 Jessica geht spät abends durch Bedlam. Setting und Stimmung einführen: düster, unpersönliche Großstadt, evtl. Rassismus und Misogynismus andeuten.
 
-Jessica kommt in die Arbeit, Small Talk mit Tom. Vorgesetzte(r) stellt Fall vor.
+Jessica kommt in die Arbeit, Small Talk mit Tom. Vorgesetzte(r) stellt Fall vor: eine Leiche mit zahlreichen Messerstichen sehr nahe am Herzen, eine zweite mit Schusswunden in der Brust. Beide waren zum Zeitpunkt der Tat gefesselt. 
 
-Jessica und Tom sind am Fundort der Leichen. Spusi gibt Briefing: eine Leiche mit zahlreichen Messerstichen sehr nahe am Herzen, eine zweite mit drei Schusswunden in der Brust, eine davon tödlich. Beide waren zum Zeitpunkt der Tat gefesselt. 
-
-Jessica und Tom sehen sich in der Nähe um. In einem verlassenen Fabrikgebäude finden sie den möglichen Tatort. 
-
-
+Jessica und Tom sehen sich in der Nähe des Fundorts um. In einem verlassenen Fabrikgebäude finden sie den möglichen Tatort. 
