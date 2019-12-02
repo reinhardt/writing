@@ -1,3 +1,5 @@
+# Prolog
+
 Jessica fühlte sich taub. Sie spürte kaum den stetigen Nieselregen, der sie nach und
 nach durchnässte und die herbstliche Kälte in ihre Knochen sickern ließ. Die nasse
 Straße reflektierte das kalte Licht der Straßenlaternen und Leuchtreklamen. Obwohl es
@@ -32,6 +34,7 @@ Bei diesem Gedanken drehte sie sich abrupt um und schlug den Weg nach Hause ein.
 würde ein Bad nehmen, und dann versuchen, zu schlafen. Morgen würde zumindest die
 Dunkelheit sich für eine Weile zurück ziehen.
 
+# Kapitel 1
 
 Mit einer routinierten Bewegung warf Jessica ihren Mantel an einen Haken der Garderobe.
 Ihre Stimmung war nicht wesentlich besser als am Abend zuvor, aber sie hatte Übung
@@ -153,12 +156,30 @@ hinein. Dann senkte Tom plötzlich den Blick. Er ging in die Knie und fuhr mit d
 über den Boden. Da traf es auch Jessica wie ein Blitz. "Kein Staub!" rief sie. "In den
 anderen Räumen ist überall eine dünne Schicht Staub."
 
-"Hier nicht," nickte Tom und streckte ihr seinen Zeigefinger entgegen. "Hier hat jemand
-vor kurzem geputzt."
+"Hier nicht," nickte Tom und streckte ihr seinen klinisch sauberen Zeigefinger entgegen.
+"Hier hat jemand vor kurzem geputzt."
 
 Beide fingen an, kreuz und quer durch die Halle zu laufen und nach weiteren Hinweisen zu
-suchen, doch sie war komplett leer und einfach nur ein wenig zu sauber.
+suchen, doch sie war komplett leer und einfach nur ein ganzes Stück zu sauber.
 
 "Lass uns die Experten holen.", schlug Jessica vor. "Die Spurensicherung findet
 normalerweise auch noch Blutspuren und dergleichen, wenn jemand einen Frühjahrsputz
 gemacht hat."
+
+# Kapitel 2
+
+Siobhan erwachte schweißgebadet. Fetzen eines Albtraums geisterten noch durch ihren
+Kopf; Blut und Schreie, ein großer leerer Raum, eine Waffe in ihrer Hand. Anezkas
+Gesicht zu einer Grimasse verzerrt, und zwei weitere Gesichter, zu denen ihr die Namen
+nicht einfielen, aber die sich in ihre Netzhaut gebrannt hatten. Ihr Herz klopfte und
+ihr Atem ging schnell und stoßweise. Sie presste die Augen zu, als hoffte sie, wieder
+einzuschlafen, und diesmal von sanfteren Träumen empfangen zu werden. Doch sie wusste,
+dass das nicht passieren würde. Sie kämpfte die aufsteigende Panik hinunter, so gut es
+ging, und stand mit einem Ruck aus dem Bett auf. Es würde noch eine Stunde dauern, bis
+ihr Wecker klingelte, aber an Schlaf war nicht mehr zu denken, also konnte sie genau so
+gut aufstehen. Sie versuchte, nicht an den Traum und vor allem nicht an die letzten paar
+Tage zu denken, sondern sich auf den Tag vor ihr zu konzentrieren. Sie zog sich ein
+T-Shirt und eine Sporthose über, ging zur Küchenzeile und schaltete die Kaffeemühle ein.
+Während sich die schwarzen Bohnen in feines Pulver verwandelten, öffnete sie einen der
+Küchenschränke. Sie hatte keinen Appetit, aber sie beschloss, wenigstens eine Scheibe
+Toast zu essen, um einen gewissen Anschein von Normalität herauf zu beschwören.
