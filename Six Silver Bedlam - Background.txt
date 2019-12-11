@@ -46,13 +46,13 @@ Die Politik von Bedlam ist geprägt von Korruption und faschistischen Tendenzen.
 
 ## Stadtteile von Bedlam
 
-### Downtown 
+### Zentrum/Downtown 
 
 Nachtleben, Business, Tourismus 
 
-### Lexington 
+### Jottenhamn (Jotunheim) 
 
-Oberschicht 
+Oberschicht
 Ehemaliges Industriegebiet 
 
 ### Teyside
@@ -63,27 +63,27 @@ Sport
 
 Linksautonome Szene 
 
-### Mornington 
+### Talpin (Delphi) 
 
 Universität 
 
 ### Harth
 
-### Southend
+### Kelhamn (Hel) 
 
 Unterschicht
 
-### Portobello 
+### Asgard
 
-### Bluebury
+### Valis (Falias) 
 
-### Arches
+### Arches (Argo) 
 
 Gated Community 
 
 ### Santa Clara 
 
-### Julestown
+### Julston
 
 
 # Story
@@ -115,6 +115,9 @@ Thomas "Tom" Schleier
 
 Sylvia Hagström
 48 Jahre, nordeuropäische Abstammung, Nicht-Fairy
+
+Moira Flannigan
+41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade), Betreiberin des "Labyrinth" 
 
 ## Storyboard
 
