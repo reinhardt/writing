@@ -1,3 +1,10 @@
+---
+title: Die Gefallene
+description: |
+    Eine Gefallene taucht im Dorf auf. Der Dorfpriester Iridas muss sich um die Sache
+    kümmern. Nach und nach geraten er und das ganze Dorf in einen Strudel von
+    Ereignissen nahezu kosmischen Ausmaßes.
+---
 Sie hatten sie in das Verlies unter dem alten Wachturm gesperrt. Sie war eine von den Gefallenen, so viel war klar. Mochte das Blut auf ihrem schlichten, ausgefransten Kleid noch anders erklärbar sein, so sprachen doch die Flügel Bände. Sie hatten in nichts mehr Ähnlichkeit mit den weißen Taubenflügeln der Himmlischen. Die grau-braunen, fledermaushaften Schwingen waren so zerfetzt, dass sie an Spinnweben erinnerten. Nach oben hin liefen sie zu messerscharfen, hornigen Spitzen zu. Nein, hier gab es keinen Zweifel. Ohne die Flügel jedoch hätte sie so manchen an der Nase herum geführt, denn davon abgesehen war sie schön. Ach, was war sie doch schön: Ein Körper zum Niederknien, makellose Haut - höchstens eine Spur zu blass, lockiges Haar, das bis zu den Kniekehlen fiel, ein Gesicht, das jeder Beschreibung spottete. Hätte sie ihre Flügel verstecken können, wäre gewiss manches anders gekommen. Doch ihre Kräfte mussten erschöpft gewesen sein, und das war das Glück der Dorfbewohner gewesen. Der Geselle des Schmieds hatte sie beim Holz Holen gefunden und sofort seinen Meister verständigt. Nach einer kurzen Besprechung hatten die Männer die Bewusstlose in den Wachturm gebracht. Eiserne Gitter und eine Fessel um ihren Hals hielten sie an Ort und Stelle. Doch niemand wusste, wann sie sich so weit erholt haben würde, dass simples Eisen ihr keinen Widerstand mehr bieten konnte. Natürlich hatte man sofort einen Boten nach dem Priester ausgeschickt, der, wie das Schicksal es wollte, gerade bei den nördlichen Höfen unterwegs war, und wartete nun bangend auf seine Ankunft.
 Eine Stunde nachdem man sie gefunden hatte war sie erwacht. Ohne einen Laut war sie aufgestanden, hatte mit einem Blick ihre Situation erfasst, und stand seitdem regungslos vor der nördlichen Wand ihres Gefängnisses. Schweigend. Wartend.
 

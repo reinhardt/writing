@@ -1,3 +1,11 @@
+---
+title: Six Silver Bedlam
+description: |
+    Jessica Nguyen ist Polizistin. Und eine verdammt gute, wie viele ihrer
+    Kollegen bestätigen würden. Was die meisten von ihnen nicht wissen: sie ist
+    eine Norne, genau gesagt eine Sirene. Als sie einen Doppelmord untersucht,
+    werden ihre Loyalitäten auf eine harte Probe gestellt.
+---
 # Prolog
 
 Jessica fühlte sich taub. Sie spürte kaum den stetigen Nieselregen, der sie nach und
