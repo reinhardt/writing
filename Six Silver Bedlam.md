@@ -18,11 +18,11 @@ haften blieb. Sie meinte, Feindseligkeit oder Verachtung darin zu lesen, obwohl 
 wusste, dass das Unsinn war. Man sah ihr nicht an, dass sie anders war. Für einen
 zufälligen Beobachter war sie nur eine von Millionen. Sie war mittelgroß, hatte
 asiatische Gesichtszüge und dunkle Haare - nichts, was sie von der Masse abhob. Was sie
-anders machte, verbarg sich unter der unscheinbaren Oberfläche. Nicht jeder bekam ihre außergewöhnlichen
-Fähigkeiten - und erst recht nicht ihre Schwächen - zu Gesicht. Viele Bewohner der Stadt
-wussten nicht einmal, dass es Frauen wie sie gab, und das war vielleicht auch besser so.
-Jessica hatte schon mehr als einmal erfahren müssen, was die Angst vor dem Anderen
-anrichten konnte.
+anders machte, verbarg sich unter der unscheinbaren Oberfläche. Nicht jeder bekam ihre
+außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen - zu Gesicht. Viele
+Bewohner der Stadt wussten nicht einmal, dass es Frauen wie sie gab, und das war
+vielleicht auch besser so. Jessica hatte schon mehr als einmal erfahren müssen, was die
+Angst vor dem Anderen anrichten konnte.
 
 Sie bog an der nächsten Ecke ab und gelangte auf eine weniger bevölkerte Straße.
 Wahrscheinlich sollte sie einfach nach Hause gehen und sich ins Bett legen. Sie hatte
@@ -167,8 +167,7 @@ Beide fingen an, kreuz und quer durch die Halle zu laufen und nach weiteren Hinw
 suchen, doch sie war komplett leer und einfach nur ein ganzes Stück zu sauber.
 
 "Lass uns die Experten holen.", schlug Jessica vor. "Die Spurensicherung findet
-normalerweise auch noch etwas, wenn jemand einen Frühjahrsputz
-gemacht hat."
+normalerweise auch noch etwas, wenn jemand einen Frühjahrsputz gemacht hat."
 
 # Kapitel 2
 
@@ -226,29 +225,117 @@ gab es noch mehrere andere Räume, in denen Billardtische, Videospiele, Sofas, e
 Konzertbühne und noch eine weitere Bar standen. Sie waren durch verwinkelte Gänge
 miteinander verbunden. Von den Leuten um sie herum kannte Siobhan viele zumindest vom
 Sehen. Zeitweise verbrachte sie alle ihre freien Abende hier. Das Pub hatte den Ruf,
-auch Leute willkommen zu heißen, die anderswo verstoßen wurden. Hier tummelte sich eine bunte Mischung aus Punks, Queers, Platinenköpfen, Nornen, Goths, Ökos, Mutanten und was die abgelegenen Gassen von Bedlam sonst noch her gaben. Auch Siobhan fühlte sich hier wohler als an den meisten anderen Orten der Stadt, abgesehen von einem kleinen Park in Granna. Beim Gedanken an den Park drohte eine Flut von Bildern in ihr Bewusstsein zu drängen, doch sie schob sie energisch beiseite. Sie konnte jetzt nicht daran denken. Nicht hier. Sie würde sich später damit befassen. Glücklicherweise kam in diesem Moment Ellen mit zwei vollen Gläsern von der Bar zurück. Sie reichte Siobhan ein helles Bier und behielt selbst das Glas Weißwein in der Hand. Sie stießen an. 
+auch Leute willkommen zu heißen, die anderswo verstoßen wurden. Hier tummelte sich eine
+bunte Mischung aus Punks, Queers, Platinenköpfen, Nornen, Goths, Ökos, Mutanten und was
+die abgelegenen Gassen von Bedlam sonst noch her gaben. Auch Siobhan fühlte sich hier
+wohler als an den meisten anderen Orten der Stadt, abgesehen von einem kleinen Park in
+Granna. Beim Gedanken an den Park drohte eine Flut von Bildern in ihr Bewusstsein zu
+drängen, doch sie schob sie energisch beiseite. Sie konnte jetzt nicht daran denken.
+Nicht hier. Sie würde sich später damit befassen. Glücklicherweise kam in diesem Moment
+Ellen mit zwei vollen Gläsern von der Bar zurück. Sie reichte Siobhan ein helles Bier
+und behielt selbst das Glas Weißwein in der Hand. Sie stießen an. 
 
-"Auf uns", sagte Ellen lächelnd. "Kommst du direkt von der Arbeit?" fragte sie dann. Siobhan nickte. "Armes Ding", bedauerte Ellen sie. "Ich war vorhin im Krankenhaus. Hast du gehört, dass es schon wieder eine Explosion in der Mine gegeben hat? Jacinta hat es böse erwischt, aber sie kann noch von Glück reden - drei andere sind tot, und einige der Verletzen schweben noch in Lebensgefahr."
+"Auf uns", sagte Ellen lächelnd. "Kommst du direkt von der Arbeit?" fragte sie dann.
+Siobhan nickte. "Armes Ding", bedauerte Ellen sie. "Ich war vorhin im Krankenhaus. Hast
+du gehört, dass es schon wieder eine Explosion in der Mine gegeben hat? Jacinta hat es
+böse erwischt, aber sie kann noch von Glück reden - drei andere sind tot, und einige der
+Verletzen schweben noch in Lebensgefahr."
 
-"Verdammt", stieß Siobhan zwischen zusammen gepressten Zähnen hervor. Sie hatte noch nichts von dem neuen Unglück gehört, aber das Bergwerk war ihr seit langem ein Dorn im Auge. Es verschmutzte den Fluss, hatte zur Abholzung der Wälder in der Umgebung beigetragen und damit Überschwemmungen verursacht, und die Arbeiter mussten sich unter unsäglichen Bedingungen und großer Gefahr für Leib und Leben für einen Hungerlohn abrackern. Siobhan hatte sich an mehreren Protesten und Blockaden beteiligt, aber es hatte sich offensichtlich nichts verändert.
+"Verdammt", stieß Siobhan zwischen zusammen gepressten Zähnen hervor. Sie hatte noch
+nichts von dem neuen Unglück gehört, aber das Bergwerk war ihr seit langem ein Dorn im
+Auge. Es verschmutzte den Fluss, hatte zur Abholzung der Wälder in der Umgebung
+beigetragen und damit Überschwemmungen verursacht, und die Arbeiter mussten sich unter
+unsäglichen Bedingungen und großer Gefahr für Leib und Leben für einen Hungerlohn
+abrackern. Siobhan hatte sich an mehreren Protesten und Blockaden beteiligt, aber es
+hatte sich offensichtlich nichts verändert.
 
-Ellen schien ihren Gedankengang zu erahnen. "Entschuldige", sagte sie sanft, "das muss frustrierend für dich sein. Lass uns über etwas angenehmeres reden. Maeva und Ngozi sind jetzt zusammen", wechselte sie übergangslos das Thema. "Nicht, dass es irgend jemanden überraschen würde", fügte sie grinsend hinzu. 
+Ellen schien ihren Gedankengang zu erahnen. "Entschuldige", sagte sie sanft, "das muss
+frustrierend für dich sein. Lass uns über etwas angenehmeres reden. Maeva und Ngozi sind
+jetzt zusammen", wechselte sie übergangslos das Thema. "Nicht, dass es irgend jemanden
+überraschen würde", fügte sie grinsend hinzu. 
 
-Siobhan musste auch lächeln. Die beiden tänzelten schon seit Wochen umeinander herum, ohne dass einer den entscheidenden Schritt machte. "Und wer hat jetzt die Initiative ergriffen?" 
+Siobhan musste auch lächeln. Die beiden tänzelten schon seit Wochen umeinander herum,
+ohne dass einer den entscheidenden Schritt machte. "Und wer hat jetzt die Initiative
+ergriffen?" 
 
 "Was denkst du?" schmunzelte Ellen. 
 
-Siobhan dachte kurz nach. "Maeva?" Sie waren zwar beide relativ jung und schüchtern, doch ihr traute Siobhan es am ehesten zu, über ihren Schatten zu springen. 
+Siobhan dachte kurz nach. "Maeva?" Sie waren zwar beide relativ jung und schüchtern,
+doch ihr traute Siobhan es am ehesten zu, über ihren Schatten zu springen. 
 
 Ellen nickte zufrieden. "Du kennst die beiden."
 
-Die zweite Runde Getränke holte Siobhan, und sie unterhielten sich noch eine Weile über Neuigkeiten und Gerüchte. 
+Die zweite Runde Getränke holte Siobhan, und sie unterhielten sich noch eine Weile über
+Neuigkeiten und Gerüchte. 
 
 # Kapitel 3
 
-Während die Spurensicherung ihrer Arbeit nachging, sahen sich Jessica und Tom weiter in der Umgebung um. Sie kontrollierten noch die übrigen Gebäude auf dem Gelände, jedoch ohne Erfolg. Dann fuhren sie ein paar Runden durch die Umgebung. Sie hätten auch eine Drohne schicken können, aber wenn sie nicht genau wusste, wonach sie suchte, vertraute Jessica lieber auf menschliche Augen und altmodischen Instinkt. Ein paar Halbstarke tummelten sich an einer ehemaligen Bushaltestelle, aber waren zu schnell wieder verschwunden, um sie zu befragen. Dabei fiel Jessica der Jugendliche ein, der die Leichen gefunden hatte, und sie schickte eine Nachricht ans Revier, dass die Kollegen ihn noch einmal vorladen sollten. Beim Umherfahren entdeckten sie vereinzelt Obdachlose, die in der Nähe Ihr Quartier aufgeschlagen hatten. Dem ersten und zweiten konnten sie nichts Verwertbares entlocken, doch der dritte erzählte im Austausch gegen eine großzügige Spende in seinen Hut von zwei Frauen, die ihm aufgefallen waren. Er habe sie in den letzten Tagen zwei Mal gesehen, "eine Öko und eine Grufti", beide blond und mittelgroß und zwischen dreißig und vierzig. Sie nahmen alles auf, an das er sich erinnern konnte. 
+Während die Spurensicherung ihrer Arbeit nachging, sahen sich Jessica und Tom weiter in
+der Umgebung um. Sie kontrollierten noch die übrigen Gebäude auf dem Gelände, jedoch
+ohne Erfolg. Dann fuhren sie ein paar Runden durch die Umgebung. Sie hätten auch eine
+Drohne schicken können, aber wenn sie nicht genau wusste, wonach sie suchte, vertraute
+Jessica lieber auf menschliche Augen und altmodischen Instinkt. Ein paar Halbstarke
+tummelten sich an einer ehemaligen Bushaltestelle, aber waren zu schnell wieder
+verschwunden, um sie zu befragen. Dabei fiel Jessica der Jugendliche ein, der die
+Leichen gefunden hatte, und sie schickte eine Nachricht ans Revier, dass die Kollegen
+ihn noch einmal vorladen sollten. Beim Umherfahren entdeckten sie vereinzelt Obdachlose,
+die in der Nähe Ihr Quartier aufgeschlagen hatten. Dem ersten und zweiten konnten sie
+nichts Verwertbares entlocken, doch der dritte erzählte im Austausch gegen eine
+großzügige Spende in seinen Hut von zwei Frauen, die ihm aufgefallen waren. Er habe sie
+in den letzten Tagen zwei Mal gesehen, "eine Öko und eine Grufti", beide blond und
+mittelgroß und zwischen dreißig und vierzig. Sie nahmen alles auf, an das er sich
+erinnern konnte. 
 
-Es war bereits weit nach Mittag, also fuhren sie erst einmal zu Stavros Imbiss, um sich zu stärken. Danach kehrten sie zum Revier zurück und gaben die Beschreibung des Obdachlosen an die Techniker weiter, die eine entsprechende Suche in den Aufzeichnungen aller verfügbaren Überwachungskameras programmierten. Da der Zeitraum relativ groß war, würde es eine Weile dauern, bis die ersten Ergebnisse kamen. Anschließend erledigte Jessica noch einige notwendige aber wenig produktive Arbeiten, dann nahm sie erschöpft ihren Mantel und machte sich auf den Weg nach Hause.
+Es war bereits weit nach Mittag, also fuhren sie erst einmal zu Stavros Imbiss, um sich
+zu stärken. Danach kehrten sie zum Revier zurück und gaben die Beschreibung des
+Obdachlosen an die Techniker weiter, die eine entsprechende Suche in den Aufzeichnungen
+aller verfügbaren Überwachungskameras programmierten. Da der Zeitraum relativ groß war,
+würde es eine Weile dauern, bis die ersten Ergebnisse kamen. Anschließend erledigte
+Jessica noch einige notwendige aber wenig produktive Arbeiten, dann nahm sie erschöpft
+ihren Mantel und machte sich auf den Weg nach Hause.
 
-Das Dunkelgrau des Regentages war dem Schwarz der Nacht gewichen. Es hatte aufgehört zu regnen, aber die Straßen waren noch nass und die Pfützen schimmerten in allen Regenbogenfarben. Die Artemisstraße, in der das Revier lag, war eine der belebteren Straßen in der Innenstadt. Es war etwa eine Viertelstunde Fußweg von hier bis zu Jessicas Wohnung. In Gedanken versunken trottete sie los und kam bald durch einsamere Sträßchen und Gassen. Nur wenige Straßenlaternen leuchteten, doch sie kannte den Weg in- und auswendig und achtete kaum auf ihre Umgebung. Um so heftiger zuckte sie zusammen, als sie eine plötzliche Bewegung direkt neben sich sah. Sie fuhr herum. Vor ihr stand ein Mann, einen Kopf größer als sie und dunkel gekleidet. Er musste im Schatten eines Hauseinganges gestanden haben. Bevor sie reagieren konnte trat er noch einen Schritt auf sie zu, packte sie am Arm und zog sie in Richtung des Eingangs. Sein Atem stank nach billigem Schnaps. "He!" rief sie. "Lass mich los! Was willst du von mir?" Doch als seine Augen sie für einen Moment fixierten, meinte sie, die Antwort nur zu deutlich darin zu sehen. Es war nicht das erste Mal, dass sie diese seltsame Mischung aus Abscheu und Gier bei einem Mann sah. Ihr Puls raste. Sie spürte ihn in ihrem Hals und in ihren Schläfen pochen. Verzweifelt versuchte sie, sich los zu reißen, aber sein Griff war zu fest. Instinktiv kehrte sie ihre Bemühungen um und versuchte stattdessen, den Fremden nach hinten um zu schubsen. Er taumelte kurz, stieß dann jedoch gegen die Hauswand und fing sich dadurch wieder. Während er noch unsicher auf den Beinen war, zog sie ihn mit dem Arm, den er fest hielt, wieder zu sich hin und schlug mit der freien Hand nach seiner Kehle. Doch er hatte entweder Glück oder gute Reflexe, und parierte mit seinem freien Arm ihren Schlag. 
-Verzweiflung machte sich in ihr breit. Körperlich war sie ihrem Gegner nicht gewachsen, und durch die Überraschung war sie in einer schlechten Position für einen Kampf. Ihr blieb nur noch eine Möglichkeit. Sie gefiel ihr nicht, und sie war nicht unfehlbar, doch sie würde auf keinen Fall aufgeben und sich dem Willen dieses Scheusals beugen. Sie schloss für einen Moment die Augen und sammelte sich. Dann begann sie zu singen. Sofort lockerte sich der Griff des Angreifers ein wenig. Jessica sang ohne Worte, doch die Melodie erzählte vom Meer, von der Stille und der Tiefe und der Dunkelheit, von der Sehnsucht und der Unendlichkeit. Mit jeder Note löste sich die Hand des Mannes ein bisschen mehr. Sein Blick wurde leer, und sein Körper verlor die Spannung. Endlich ließ er sie ganz los. Er drehte sich von ihr weg und begann langsam zu gehen. Jessicas Stimme hallte durch die Häuserschluchten. Sie sang von geheimen Höhlen im Ozean, von versunkenen Städten voller Reichtümer und von unvorstellbarer Glückseligkeit auf dem Grund des Meeres. Der Fremde hatte einen Müllcontainer erreicht und kletterte an ihm hoch. Ohne ihren Gesang zu beenden setzte sich auch Jessica wieder in Bewegung, weiter die Straße hinab. Sie sah noch, wie der Angreifer auf dem Container stehend eine Feuerleiter zu sich herunter zog und begann, sie hinauf zu steigen. Dann war sie an ihm vorbei und sah nicht mehr zurück. Durch ihr Lied drang leise der metallische Klang von Schuhen auf Leitersprossen. Dann verstummte er. Ihr Lied mündete in ein subtiles Crescendo. Als sie die nächste Straßenecke erreichte, hörte sie einen dumpfen Aufprall. Sie erlaubte ihrem Gesang, langsam leiser zu werden und schließlich zu enden. Ihr Herz schlug wieder normal, doch sie fühlte sich noch elender und ausgelaugter als zuvor. Sie blinzelte Tränen aus ihren Augen und beschleunigte ihre Schritte. In fünf Minuten würde sie zu Hause sein. Sie würde ein Bad nehmen, sich unter ihrer Bettdecke verstecken, und versuchen, alles zu vergessen. 
+Das Dunkelgrau des Regentages war dem Schwarz der Nacht gewichen. Es hatte aufgehört zu
+regnen, aber die Straßen waren noch nass und die Pfützen schimmerten in allen
+Regenbogenfarben. Die Artemisstraße, in der das Revier lag, war eine der belebteren
+Straßen in der Innenstadt. Es war etwa eine Viertelstunde Fußweg von hier bis zu
+Jessicas Wohnung. In Gedanken versunken trottete sie los und kam bald durch einsamere
+Sträßchen und Gassen. Nur wenige Straßenlaternen leuchteten, doch sie kannte den Weg in-
+und auswendig und achtete kaum auf ihre Umgebung. Um so heftiger zuckte sie zusammen,
+als sie eine plötzliche Bewegung direkt neben sich sah. Sie fuhr herum. Vor ihr stand
+ein Mann, einen Kopf größer als sie und dunkel gekleidet. Er musste im Schatten eines
+Hauseinganges gestanden haben. Bevor sie reagieren konnte trat er noch einen Schritt auf
+sie zu, packte sie am Arm und zog sie in Richtung des Eingangs. Sein Atem stank nach
+billigem Schnaps. "He!" rief sie. "Lass mich los! Was willst du von mir?" Doch als seine
+Augen sie für einen Moment fixierten, meinte sie, die Antwort nur zu deutlich darin zu
+sehen. Es war nicht das erste Mal, dass sie diese seltsame Mischung aus Abscheu und Gier
+bei einem Mann sah. Ihr Puls raste. Sie spürte ihn in ihrem Hals und in ihren Schläfen
+pochen. Verzweifelt versuchte sie, sich los zu reißen, aber sein Griff war zu fest.
+Instinktiv kehrte sie ihre Bemühungen um und versuchte stattdessen, den Fremden nach
+hinten um zu schubsen. Er taumelte kurz, stieß dann jedoch gegen die Hauswand und fing
+sich dadurch wieder. Während er noch unsicher auf den Beinen war, zog sie ihn mit dem
+Arm, den er fest hielt, wieder zu sich hin und schlug mit der freien Hand nach seiner
+Kehle. Doch er hatte entweder Glück oder gute Reflexe, und parierte mit seinem freien
+Arm ihren Schlag. Verzweiflung machte sich in ihr breit. Körperlich war sie ihrem Gegner
+nicht gewachsen, und durch die Überraschung war sie in einer schlechten Position für
+einen Kampf. Ihr blieb nur noch eine Möglichkeit. Sie gefiel ihr nicht, und sie war
+nicht unfehlbar, doch sie würde auf keinen Fall aufgeben und sich dem Willen dieses
+Scheusals beugen. Sie schloss für einen Moment die Augen und sammelte sich. Dann begann
+sie zu singen. Sofort lockerte sich der Griff des Angreifers ein wenig. Jessica sang
+ohne Worte, doch die Melodie erzählte vom Meer, von der Stille und der Tiefe und der
+Dunkelheit, von der Sehnsucht und der Unendlichkeit. Mit jeder Note löste sich die Hand
+des Mannes ein bisschen mehr. Sein Blick wurde leer, und sein Körper verlor die
+Spannung. Endlich ließ er sie ganz los. Er drehte sich von ihr weg und begann langsam zu
+gehen. Jessicas Stimme hallte durch die Häuserschluchten. Sie sang von geheimen Höhlen
+im Ozean, von versunkenen Städten voller Reichtümer und von unvorstellbarer
+Glückseligkeit auf dem Grund des Meeres. Der Fremde hatte einen Müllcontainer erreicht
+und kletterte an ihm hoch. Ohne ihren Gesang zu beenden setzte sich auch Jessica wieder
+in Bewegung, weiter die Straße hinab. Sie sah noch, wie der Angreifer auf dem Container
+stehend eine Feuerleiter zu sich herunter zog und begann, sie hinauf zu steigen. Dann
+war sie an ihm vorbei und sah nicht mehr zurück. Durch ihr Lied drang leise der
+metallische Klang von Schuhen auf Leitersprossen. Dann verstummte er. Ihr Lied mündete
+in ein subtiles Crescendo. Als sie die nächste Straßenecke erreichte, hörte sie einen
+dumpfen Aufprall. Sie erlaubte ihrem Gesang, langsam leiser zu werden und schließlich zu
+enden. Ihr Herz schlug wieder normal, doch sie fühlte sich noch elender und ausgelaugter
+als zuvor. Sie blinzelte Tränen aus ihren Augen und beschleunigte ihre Schritte. In fünf
+Minuten würde sie zu Hause sein. Sie würde ein Bad nehmen, sich unter ihrer Bettdecke
+verstecken, und versuchen, alles zu vergessen. 
