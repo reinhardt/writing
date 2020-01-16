@@ -294,7 +294,7 @@ würde es eine Weile dauern, bis die ersten Ergebnisse kamen. Anschließend erle
 Jessica noch einige notwendige aber wenig produktive Arbeiten, dann nahm sie erschöpft
 ihren Mantel und machte sich auf den Weg nach Hause.
 
-Das Dunkelgrau des Regentages war dem Schwarz der Nacht gewichen. Es hatte aufgehört zu
+Das Dunkelgrau des Regentages war dem Schwarz der Nacht gewichen. Es hatte aufgehört, zu
 regnen, aber die Straßen waren noch nass und die Pfützen schimmerten in allen
 Regenbogenfarben. Die Artemisstraße, in der das Revier lag, war eine der belebteren
 Straßen in der Innenstadt. Es war etwa eine Viertelstunde Fußweg von hier bis zu
@@ -302,40 +302,44 @@ Jessicas Wohnung. In Gedanken versunken trottete sie los und kam bald durch eins
 Sträßchen und Gassen. Nur wenige Straßenlaternen leuchteten, doch sie kannte den Weg in-
 und auswendig und achtete kaum auf ihre Umgebung. Um so heftiger zuckte sie zusammen,
 als sie eine plötzliche Bewegung direkt neben sich sah. Sie fuhr herum. Vor ihr stand
-ein Mann, einen Kopf größer als sie und dunkel gekleidet. Er musste im Schatten eines
-Hauseinganges gestanden haben. Bevor sie reagieren konnte trat er noch einen Schritt auf
-sie zu, packte sie am Arm und zog sie in Richtung des Eingangs. Sein Atem stank nach
-billigem Schnaps. "He!" rief sie. "Lass mich los! Was willst du von mir?" Doch als seine
-Augen sie für einen Moment fixierten, meinte sie, die Antwort nur zu deutlich darin zu
-sehen. Es war nicht das erste Mal, dass sie diese seltsame Mischung aus Abscheu und Gier
-bei einem Mann sah. Ihr Puls raste. Sie spürte ihn in ihrem Hals und in ihren Schläfen
-pochen. Verzweifelt versuchte sie, sich los zu reißen, aber sein Griff war zu fest.
-Instinktiv kehrte sie ihre Bemühungen um und versuchte stattdessen, den Fremden nach
-hinten um zu schubsen. Er taumelte kurz, stieß dann jedoch gegen die Hauswand und fing
-sich dadurch wieder. Während er noch unsicher auf den Beinen war, zog sie ihn mit dem
-Arm, den er fest hielt, wieder zu sich hin und schlug mit der freien Hand nach seiner
-Kehle. Doch er hatte entweder Glück oder gute Reflexe, und parierte mit seinem freien
-Arm ihren Schlag. Verzweiflung machte sich in ihr breit. Körperlich war sie ihrem Gegner
-nicht gewachsen, und durch die Überraschung war sie in einer schlechten Position für
-einen Kampf. Ihr blieb nur noch eine Möglichkeit. Sie gefiel ihr nicht, und sie war
-nicht unfehlbar, doch sie würde auf keinen Fall aufgeben und sich dem Willen dieses
-Scheusals beugen. Sie schloss für einen Moment die Augen und sammelte sich. Dann begann
-sie zu singen. Sofort lockerte sich der Griff des Angreifers ein wenig. Jessica sang
-ohne Worte, doch die Melodie erzählte vom Meer, von der Stille und der Tiefe und der
-Dunkelheit, von der Sehnsucht und der Unendlichkeit. Mit jeder Note löste sich die Hand
-des Mannes ein bisschen mehr. Sein Blick wurde leer, und sein Körper verlor die
-Spannung. Endlich ließ er sie ganz los. Er drehte sich von ihr weg und begann langsam zu
-gehen. Jessicas Stimme hallte durch die Häuserschluchten. Sie sang von geheimen Höhlen
-im Ozean, von versunkenen Städten voller Reichtümer und von unvorstellbarer
-Glückseligkeit auf dem Grund des Meeres. Der Fremde hatte einen Müllcontainer erreicht
-und kletterte an ihm hoch. Ohne ihren Gesang zu beenden setzte sich auch Jessica wieder
-in Bewegung, weiter die Straße hinab. Sie sah noch, wie der Angreifer auf dem Container
-stehend eine Feuerleiter zu sich herunter zog und begann, sie hinauf zu steigen. Dann
-war sie an ihm vorbei und sah nicht mehr zurück. Durch ihr Lied drang leise der
-metallische Klang von Schuhen auf Leitersprossen. Dann verstummte er. Ihr Lied mündete
-in ein subtiles Crescendo. Als sie die nächste Straßenecke erreichte, hörte sie einen
-dumpfen Aufprall. Sie erlaubte ihrem Gesang, langsam leiser zu werden und schließlich zu
-enden. Ihr Herz schlug wieder normal, doch sie fühlte sich noch elender und ausgelaugter
-als zuvor. Sie blinzelte Tränen aus ihren Augen und beschleunigte ihre Schritte. In fünf
-Minuten würde sie zu Hause sein. Sie würde ein Bad nehmen, sich unter ihrer Bettdecke
-verstecken, und versuchen, alles zu vergessen. 
+ein Mann, einen Kopf größer als sie und dunkel gekleidet. Er kam aus dem Schatten eines
+Hauseinganges heraus. Bevor sie reagieren konnte trat er noch einen Schritt auf sie zu,
+packte sie am Arm und zog sie in Richtung des Eingangs. Sein Atem stank nach billigem
+Schnaps. "He!" rief sie. "Lass mich los! Was willst du von mir?" Doch als seine Augen
+sie für einen Moment fixierten, meinte sie, die Antwort nur zu deutlich darin zu sehen.
+Es war nicht das erste Mal, dass sie diese seltsame Mischung aus Abscheu und Gier bei
+einem Mann sah. Ihr Puls raste. Sie spürte ihn in ihrem Hals und in ihren Schläfen
+pochen. "Hilfe! Loslassen! Hilfe!" rief sie, so laut sie konnte. "Halt's Maul,
+Schlampe," knurrte der Angreifer. "Dich hört eh niemand." Jessica ahnte, dass er Recht
+hatte, oder vielmehr, dass niemand zu Hilfe kommen würde, selbst wenn jemand sie hörte.
+Verzweifelt versuchte sie, sich los zu reißen, aber sein Griff war zu fest. Instinktiv
+kehrte sie ihre Bemühungen um und versuchte stattdessen, den Fremden nach hinten um zu
+schubsen. Er taumelte kurz, stieß dann jedoch gegen die Hauswand und fing sich dadurch
+wieder. Während er noch unsicher auf den Beinen war, zog sie ihn mit dem Arm, den er
+fest hielt, wieder zu sich hin und schlug mit der freien Hand nach seiner Kehle. Doch er
+hatte entweder Glück oder gute Reflexe, und parierte mit seinem freien Arm ihren Schlag.
+Verzweiflung machte sich in ihr breit. Körperlich war sie ihrem Gegner nicht gewachsen,
+und durch die Überraschung war sie in einer schlechten Position für einen Kampf. Mit
+Hilfe von Passanten oder Anwohnern konnte sie nicht rechnen. Ihr blieb nur noch eine
+Möglichkeit. Sie gefiel ihr nicht, und sie war nicht unfehlbar, doch sie würde auf
+keinen Fall aufgeben und sich dem Willen dieses Scheusals beugen. Sie schloss für einen
+Moment die Augen und sammelte sich. Dann begann sie zu singen. Sofort lockerte sich der
+Griff des Angreifers ein wenig. Jessica sang ohne Worte, doch die Melodie erzählte vom
+Meer, von der Stille und der Tiefe und der Dunkelheit, von der Sehnsucht und der
+Unendlichkeit. Mit jeder Note löste sich die Hand des Mannes ein bisschen mehr. Sein
+Blick wurde leer, und sein Körper verlor die Spannung. Endlich ließ er sie ganz los. Er
+drehte sich von ihr weg und begann langsam zu gehen. Jessicas Stimme hallte durch die
+Häuserschluchten. Sie sang von geheimen Höhlen im Ozean, von versunkenen Städten voller
+Reichtümer und von unvorstellbarer Glückseligkeit auf dem Grund des Meeres. Der Fremde
+hatte einen Müllcontainer erreicht und kletterte an ihm hoch. Ohne ihren Gesang zu
+beenden setzte sich auch Jessica wieder in Bewegung, weiter die Straße hinab. Sie sah
+noch, wie der Angreifer auf dem Container stehend eine Feuerleiter zu sich herunter zog
+und begann, sie hinauf zu steigen. Dann war sie an ihm vorbei und sah nicht mehr zurück.
+Durch ihr Lied drang leise der metallische Klang von Schuhen auf Leitersprossen. Dann
+verstummte er. Ihr Lied mündete in ein subtiles Crescendo. Als sie die nächste
+Straßenecke erreichte, hörte sie einen dumpfen Aufprall. Sie erlaubte ihrem Gesang,
+langsam leiser zu werden und schließlich zu enden. Ihr Herz schlug wieder normal, doch
+sie fühlte sich noch elender und ausgelaugter als zuvor. Sie blinzelte Tränen aus ihren
+Augen und beschleunigte ihre Schritte. In fünf Minuten würde sie zu Hause sein. Sie
+würde ein Bad nehmen, sich unter ihrer Bettdecke verstecken, und versuchen, alles zu
+vergessen. 
