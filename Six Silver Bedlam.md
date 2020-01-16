@@ -343,3 +343,16 @@ sie fühlte sich noch elender und ausgelaugter als zuvor. Sie blinzelte Tränen 
 Augen und beschleunigte ihre Schritte. In fünf Minuten würde sie zu Hause sein. Sie
 würde ein Bad nehmen, sich unter ihrer Bettdecke verstecken, und versuchen, alles zu
 vergessen. 
+
+# Kapitel 4
+
+Siobhan ließ ihre Tasche fallen und schob die Wohnungstür hinter sich zu. Sie streifte
+ihre Schuhe und Socken ab und tapste barfuß zur Küchenzeile, wo sie Wasser für einen Tee
+aufsetzte. Sie hatte heute nach der Arbeit keine Lust auf Gesellschaft gehabt, aber
+nicht, weil sie schlechte Laune hätte; im Gegenteil. Sie freute sich auf einen
+entspannten Abend zu Hause. Während das Wasser langsam heiß wurde, holte sie die
+Steuerung für die Audioanlage in ihr Gesichtsfeld und schaltete halblaute psychedelische
+Musik ein. Dann bückte sie sich zu einem der unteren Küchenschränke hinunter und holte
+eine unscheinbare Dose hervor. Sie öffnete sie, nahm einen kleinen, graubraunen Pilz
+heraus, und ließ ihn in eine Tasse fallen, die noch vom Frühstück auf der Arbeitsfläche
+stand. Vorsichtig goß sie heißes Wasser darauf.
