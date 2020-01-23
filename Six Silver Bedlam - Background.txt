@@ -6,6 +6,10 @@ Jessica Nguyen ist Polizistin. Und eine verdammt gute, wie viele ihrer Kollegen 
 
 Six Silver Bedlam spielt in der futuristischen Großstadt Bedlam. Diese liegt am Fluss Tey inmitten von Niemandsland, das durch Umweltverschmutzung und Klimawandel unbewohnbar gemacht wurde. Die Stadt diente vielen Bewohnern des Umlandes als Zuflucht vor Naturkatastrophen, Hunger und Konflikten. Doch auch Bedlam stößt an seine Grenzen. Die Ressourcen werden stetig knapper, was zu starken Spannungen führt. Eine ungewisse Zukunft liegt vor Bedlam.
 
+Durch Umweltgifte, Strahlung usw. werden viele Menschen mit Missbildungen und Behinderungen geboren. 
+
+Drogenkonsum ist in allen Gesellschaftsschichten sehr hoch. 
+
 ## Nornen
 
 In Bedlam leben sogenannte Nornen weitgehend unerkannt mit den Nicht-Nornen, den Milesiern, zusammen. Die breite Öffentlichkeit ignoriert die Nornen einfach. Die meisten Milesier wissen entweder nicht, dass es sie gibt, oder denken nicht über sie nach, so lange sie nicht unmittelbar mit ihnen konfrontiert sind. Die Nornen wiederum kennen oft gegenseitig ihre Identitäten und haben eine Subkultur gebildet. Einige Milesier sind eingeweiht und pflegen entweder Kontakte zu den Nornen oder sind mit ihnen verfeindet.
@@ -18,7 +22,7 @@ Die größten Gruppen unter den Nornen sind
 * Walküren
 * Furien/Erinyes
 
-Jede Art der Nornen hat gewisse Fähigkeiten. Nymphen haben eine außerordentliche Ausstrahlung und wirken sehr anziehend auf Milesier, aber auch auf andere Nornen, unabhängig von Geschlecht und sexueller Orientierung. Sirenen können jeden, der ihren Gesang hört, beeinflussen und ihrem Willen unterwerfen. Banshees können mit ihren Schreien Angst und Schrecken verbreiten und können in begrenztem Maß Aspekte der Zukunft voraus sehen. Walküren sind begnadete Kämpferinnen und können in anderen ähnliche Fähigkeiten inspirieren. Furien können in eine Art Kampfrausch verfallen, der sie zu fürchterlichen Gegnern macht.
+Jede Art der Nornen hat gewisse Fähigkeiten. Nymphen haben eine außerordentliche Ausstrahlung und wirken sehr anziehend auf Milesier, aber auch auf andere Nornen, unabhängig von Geschlecht und sexueller Orientierung. Sirenen können jeden, der ihren Gesang hört, beeinflussen und ihrem Willen unterwerfen. Banshees können mit ihren Schreien Angst und Schrecken verbreiten und können in begrenztem Maß Aspekte der Zukunft voraus sehen. Außerdem können sie einschätzen, wie anfällig bzw. empfänglich jemand für Nornen-Fähigkeiten ist. Walküren sind begnadete Kämpferinnen und können in anderen ähnliche Fähigkeiten inspirieren. Furien können in eine Art Kampfrausch verfallen, der sie zu fürchterlichen Gegnern macht.
 
 Alle Nornen von Bedlam sind weiblich. Wenn sie sich mit einem menschlichen Partner fortpflanzen, sind männliche Nachkommen Milesier, weibliche Nachkommen Nornen (der gleichen Art wie die Mutter). 
 
@@ -34,7 +38,21 @@ Augmented Reality, neuronale Implantate und fortgeschrittene (schwache) künstli
 
 ## Politik
 
-Die Politik von Bedlam ist geprägt von Korruption und faschistischen Tendenzen. Die hohe Armut wird ignoriert, Proteste niedergeschlagen. Bürgerrechte werden regelmäßig verletzt, es gibt umfassende Überwachung und häufige gewaltsame Übergriffe durch die Polizei. Das organisierte Verbrechen floriert und wird geduldet. 
+Die Politik von Bedlam ist geprägt von Korruption und faschistischen Tendenzen. Die meisten öffentlichen Einrichtungen, insbesondere die Polizei, sind privatisiert. Die politische Macht ist de facto in der Hand großer Konzerne. Die hohe Armut wird ignoriert, Proteste niedergeschlagen. Bürgerrechte werden regelmäßig verletzt, es gibt umfassende Überwachung und häufige gewaltsame Übergriffe durch die Polizei. Das organisierte Verbrechen floriert und wird geduldet. 
+
+## Konzerne
+
+### Scorpion Systems 🦂
+
+Hervorgegangen aus ScorpionSoft, heute Anbieter verschiedener Soft- und Hardware sowie Dienstleistungen, Logistik, Immobilien, Tochter Scorpion Security ist eine gefürchtete paramilitärische Truppe, Kürzel "SS" weckt zu Recht faschistische Assoziationen, Logo: Buchstabe S, nach unten verlängert, einmal normal und einmal gespiegelt über stilisiertem Skorpion 
+
+### Zhongyi 忠義 (loyal and righteous) 
+
+Dienstleistung, Waffen, Elektronik, Telekommunikation, Logo: Schwert, Waage und Lorbeerkranz, umfassende Überwachung 
+
+### CP8
+
+Pharma, Chemie, Kunststoff, Lebensmittel, Tochter Hexachem stellt inoffiziell Drogen her 
 
 ## Stadtteile von Bedlam
 
@@ -89,10 +107,10 @@ Siobhan O'Malley
 28 Jahre, Irisch-britische Abstammung, Nymphe (Dryade) 
 
 Anezka Nemcekova
-30 Jahre, osteuropäische Abstammung, Furie 
+30 Jahre, osteuropäische Abstammung, Furie, Implantate 
 
 Ellen Baker 
-41 Jahre, afro-amerikanische Abstammung, Banshee 
+41 Jahre, afro-amerikanische Abstammung, Banshee, sitzt im Rollstuhl? 
 
 Thomas "Tom" Schleier
 36 Jahre, mitteleuropäische Abstammung, Milesier
