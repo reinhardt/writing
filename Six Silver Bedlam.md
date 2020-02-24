@@ -6,7 +6,7 @@ description: |
     kennen. Als sie einen Doppelmord untersucht, werden ihre Loyalitäten auf eine harte
     Probe gestellt.
 ---
-# Prolog
+# Kapitel 1
 
 Jessica fühlte sich taub. Sie spürte kaum den stetigen Nieselregen, der sie nach und
 nach durchnässte und die herbstliche Kälte in ihre Knochen sickern ließ. Die nasse
@@ -42,7 +42,7 @@ Bei diesem Gedanken drehte sie sich abrupt um und schlug den Weg nach Hause ein.
 würde ein Bad nehmen, und dann versuchen, zu schlafen. Morgen würde zumindest die
 Dunkelheit sich für eine Weile zurück ziehen.
 
-# Kapitel 1
+# Kapitel 2
 
 Mit einer routinierten Bewegung warf Jessica ihren Mantel an einen Haken der Garderobe.
 Ihre Stimmung war nicht wesentlich besser als am Abend zuvor, aber sie hatte Übung
@@ -169,7 +169,7 @@ suchen, doch sie war komplett leer und einfach nur ein ganzes Stück zu sauber.
 "Lass uns die Experten holen.", schlug Jessica vor. "Die Spurensicherung findet
 normalerweise auch noch etwas, wenn jemand einen Frühjahrsputz gemacht hat."
 
-# Kapitel 2
+# Kapitel 3
 
 Siobhan erwachte schweißgebadet. Fetzen eines Albtraums geisterten noch durch ihren
 Kopf; Blut und Schreie, ein großer leerer Raum, eine Waffe in ihrer Hand. Anezkas
@@ -268,7 +268,7 @@ Ellen nickte zufrieden. "Du kennst die beiden."
 Die zweite Runde Getränke holte Siobhan, und sie unterhielten sich noch eine Weile über
 Neuigkeiten und Gerüchte. 
 
-# Kapitel 3
+# Kapitel 4
 
 Während die Spurensicherung ihrer Arbeit nachging, sahen sich Jessica und Tom weiter in
 der Umgebung um. Sie kontrollierten noch die übrigen Gebäude auf dem Gelände, jedoch
@@ -344,7 +344,7 @@ Augen und beschleunigte ihre Schritte. In fünf Minuten würde sie zu Hause sein
 würde ein Bad nehmen, sich unter ihrer Bettdecke verstecken, und versuchen, alles zu
 vergessen. 
 
-# Kapitel 4
+# Kapitel 5
 
 Siobhan ließ ihre Tasche fallen und schob die Wohnungstür hinter sich zu. Sie streifte
 ihre Schuhe und Socken ab und tapste barfuß zur Küchenzeile, wo sie Wasser für einen Tee
