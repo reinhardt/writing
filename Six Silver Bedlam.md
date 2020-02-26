@@ -11,17 +11,17 @@ description: |
 Jessica fühlte sich taub. Sie spürte kaum den stetigen Nieselregen, der sie nach und
 nach durchnässte und die herbstliche Kälte in ihre Knochen sickern ließ. Die nasse
 Straße reflektierte das kalte Licht der Straßenlaternen und Leuchtreklamen. Obwohl es
-spät war, begegneten ihr noch viele Leute, die - genau wie sie - in dunkle Mäntel
-gehüllt waren; die Kragen hoch gestellt, manche mit Regenschirmen in der Hand. Die
-meisten ignorierten sie, doch hin und wieder spürte Jessica einen Blick, der auf ihr
+spät war, begegneten ihr noch viele Leute, die, genau wie sie, in dunkle Mäntel
+gehüllt waren, die Kragen hoch gestellt, manche mit Regenschirmen in der Hand. Die
+meisten ignorierten sie, doch hin und wieder spürte Jessica einen Blick, der einen Moment länger auf ihr
 haften blieb. Sie meinte, Feindseligkeit oder Verachtung darin zu lesen, obwohl sie
 wusste, dass das Unsinn war. Man sah ihr nicht an, dass sie anders war. Für einen
 zufälligen Beobachter war sie nur eine von Millionen. Sie war mittelgroß, hatte
 asiatische Gesichtszüge und dunkle Haare - nichts, was sie von der Masse abhob. Was sie
 anders machte, verbarg sich unter der unscheinbaren Oberfläche. Nicht jeder bekam ihre
-außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen - zu Gesicht. Viele
+außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen - zu Gesicht. Manche
 Bewohner der Stadt wussten nicht einmal, dass es Frauen wie sie gab, und das war
-vielleicht auch besser so. Jessica hatte schon mehr als einmal erfahren müssen, was die
+vielleicht auch besser so. Jessica hatte schon mehr als einmal erleben müssen, was die
 Angst vor dem Anderen anrichten konnte.
 
 Sie bog an der nächsten Ecke ab und gelangte auf eine weniger bevölkerte Straße.
@@ -31,8 +31,7 @@ anderen halben Tag versucht, sich zu motivieren, irgend etwas zu unternehmen, in
 Fitnessstudio zu gehen, jemanden anzurufen, oder wenigstens etwas zu lesen. Ohne Erfolg.
 Schließlich war sie nach draußen gegangen, doch das hatte auch nichts besser gemacht.
 Die Stadt schien die Energie aus ihr heraus zu saugen. Bedlam würde irgendwann ihr
-Untergang sein; diese Stadt, die einst ihre Rettung gewesen war, als sie dachte, sie
-könne nirgendwo mehr hin gehen. Entgegen aller Erwartungen hatte sie hier eine Karriere
+Untergang sein; diese Stadt, die einst ihre Rettung gewesen war, als sie ihre Heimat verlassen musste und dem Tod im Niemandsland ins Auge gesehen hatte. Entgegen aller Erwartungen hatte sie hier eine Karriere
 gefunden, Freunde, für eine Weile sogar so etwas wie Geborgenheit. Doch im Lauf der Zeit
 fühlte sie sich immer öfter gefangen, ziellos und ausgelaugt. Die dunklen
 Häuserschluchten bedrückten sie. Man konnte kaum den Himmel sehen. Bäume und andere
@@ -62,7 +61,7 @@ reduzieren können."
 Jessica vergrub das Gesicht in einer Handfläche. Beinahe hätte sie angefangen, zu
 weinen. "Nicht dein Ernst", stöhnte sie. Sie blendete mit ein paar Handbewegungen ihren
 Posteingang in ihr Sichtfeld ein und öffnete die Nachricht, um sich selbst zu
-überzeugen. "Die haben ihre Schreibtische wahrscheinlich seit zwanzig Jahren nicht mehr
+überzeugen. "Was denken die sich dabei? Die haben ihre Schreibtische wahrscheinlich seit zwanzig Jahren nicht mehr
 verlassen." lamentierte sie mit nur leicht übertriebener Verzweiflung. "Die haben keine
 Ahnung, was wir brauchen, um unsere Arbeit da draußen zu machen, oder?"
 
@@ -82,20 +81,17 @@ beide zusammen einweisen. Es gibt einen neuen Fall."
 Sylvia Hagström war Jessicas und Toms Vorgesetzte. Sie war eine der wenigen Frauen in
 einer Führungsposition, oder vielmehr, eine der wenigen Frauen überhaupt bei der Polizei
 von Bedlam. Das war vermutlich der Grund dafür, dass sie versuchte, keinerlei Schwäche
-zu zeigen. Doch wenn man gelernt hatte, hinter die harte Fassade zu sehen, sah man, dass
-sie vernünftig und nicht ohne Mitgefühl war.
+zu zeigen. Doch Jessica hatte gelernt, dass hinter der harte Fassade ein denkender, fühlender Mensch und eine wertvolle Verbündete steckte.
 
 Hagström gestikulierte einen Moment lang in der Luft herum. Zwischendurch zeigte sie auf
-Jessica und Tom. Neben Jessicas Posteingang leuchtete ein rotes Symbol auf. Hagström
-hatte eine Ansicht mit den beiden geteilt. Jessica führte ihre Hand zu der halb
-durchsichtigen Grafik. Ihre Nachrichten verschwanden. Hagström wischte von links nach
-rechts durch die Luft, und es erschienen mehrere Fotos vor Jessicas Augen, die
+Jessica und Tom. Neben Jessicas Nachrichteneingang leuchtete ein rotes Symbol auf. Hagström
+hatte eine Ansicht mit den beiden geteilt. Jessica führte ihre Hand zu dem Symbol, und es erschienen mehrere Fotos vor ihren Augen, die
 vermutlich einen Tatort zeigten.
 
 "Wir haben zwei Leichen; einen Mann, Anfang vierzig, mit etlichen Messerstichen, und
 eine Frau, Mitte dreißig, mit Schusswunden in der Brust. Klingt an sich nach zwei
 Fällen, außer, dass beide im gleichen Schuttcontainer im ehemaligen Industriegebiet in
-Lexington gefunden wurden."
+Jottenhamn gefunden wurden."
 
 "Wer hat sie gefunden?" fragte Tom.
 
@@ -110,8 +106,8 @@ nichts Definitives."
 
 
 Der dunkelblaue Dienstwagen rollte durch menschenleere Straßen. Am Fundort hatte es
-wenig Neues zu erfahren gegeben. Die unterschiedlichen mutmaßlichen Todesursachen gaben
-immer noch Rätsel auf. Eventuell würde die medizinische Untersuchung Klarheit schaffen.
+wenig Neues zu erfahren gegeben. Die unterschiedlichen Todesursachen gaben
+immer noch Rätsel auf. Vielleicht würde die medizinische Untersuchung Klarheit schaffen.
 Auch wer die beiden waren, war noch immer unbekannt. Die einzige unmittelbar verwertbare
 Spur waren Reifenabdrücke, die von den Tätern stammen konnten. Die Spurensicherung hatte
 eine Drohne los geschickt, um ähnliche Abdrücke in der Umgebung zu finden und den Abrieb
@@ -130,14 +126,18 @@ alles nur, weil es den wohlhabenden Herrschaften in der Nachbarschaft ein Dorn i
 war."
 
 Jessica seufzte. "Das geht natürlich nicht, dass die Geldsäcke auf Schornsteine schauen
-müssen. Da verlegt der Herr Bürgermeister doch lieber das ganze Gebiet in den Süden, zu
-den armen Schluckern, die keine Lobby haben. So läuft es doch immer." Sie öffnete die
+müssen."
+
+Eines der Privilegien der Arbeit bei der Polizei war, dass man offener sprechen konnte und sich weniger Sorgen um Überwachung machen musste. Schließlich war es die Polizei, die einen Großteil der Überwachung durchführte. Dann waren da natürlich noch die anderen Sicherheitsdienste, die Geheimdienste und der Grenzschutz, aber zu viel durfte man darüber nicht nachdenken, sonst wurde man wahnsinnig. 
+
+"Da verlegt der Herr Bürgermeister doch lieber das ganze Gebiet in den Süden, zu
+den armen Schluckern, die keine Lobby haben. So läuft es doch immer." Jessica öffnete die
 Tür. "Komm, wir sehen uns um."
 
 Sie gingen zuerst in das vorderste Gebäude, an dessen Fassade noch die Schatten eines
 Firmen-Schriftzuges zu sehen waren. Das Innere bestand hauptsächlich aus Büros und ein
 paar Konferenzräumen. Vereinzelt waren kaputte Möbelstücke zurück geblieben, doch die
-meisten Zimmer waren fast komplett leer. Der Verfall hatte noch nicht ernsthaft
+meisten Zimmer waren, bis auf einzelne kaputte Maschinen, Materialreste und ähnlichen Müll, leer. Der Verfall hatte noch nicht ernsthaft
 eingesetzt, aber eine dünne Staubschicht ruhte auf allen Böden und Oberflächen. Sie
 fanden keine Anzeichen dafür, dass hier ein Verbrechen stattgefunden hatte, und gingen
 schließlich weiter zum nächsten Gebäude. Hier dominierten Fertigungshallen und
@@ -148,23 +148,14 @@ runzelte die Stirn und blickte sich um.
 
 "Was ist?" fragte Tom, der ihren Gesichtsausdruck bemerkt hatte.
 
-"Irgendetwas stimmt nicht," sagte Jessica nachdenklich. Sie ging noch einmal zurück zur
-letzten Halle und ließ ihren Blick umher schweifen.
+"Irgendetwas stimmt nicht," sagte Jessica nachdenklich. "Es sieht hier so... aufgeräumt aus." Außer zwei, drei Stücken Papier lag absolute nichts auf dem Boden. Tom ging in die Knie und fuhr mit dem Finger
+über den Boden. "Kein Staub", sagte er . "In den
+anderen Räumen ist überall eine Schicht Staub."
 
-Tom folgte ihr. "Was meinst du?" fragte er.
+Jessica nickte. "Hier hat jemand vor kurzem geputzt."
 
-"Ich weiß nicht. Etwas ist anders in der nächsten Halle."
-
-Sie gingen gemeinsam wieder hinüber. Sekundenlang starrten sie beide in den leeren Raum
-hinein. Dann senkte Tom plötzlich den Blick. Er ging in die Knie und fuhr mit dem Finger
-über den Boden. Da traf es auch Jessica wie ein Blitz. "Kein Staub!" rief sie. "In den
-anderen Räumen ist überall eine dünne Schicht Staub."
-
-"Hier nicht," nickte Tom und streckte ihr seinen klinisch sauberen Zeigefinger entgegen.
-"Hier hat jemand vor kurzem geputzt."
-
-Beide fingen an, kreuz und quer durch die Halle zu laufen und nach weiteren Hinweisen zu
-suchen, doch sie war komplett leer und einfach nur ein ganzes Stück zu sauber.
+Beide fingen an, durch die Halle zu gehen und nach weiteren Hinweisen zu
+suchen, doch sie war wirklich komplett leer und einfach nur ein ganzes Stück zu sauber.
 
 "Lass uns die Experten holen.", schlug Jessica vor. "Die Spurensicherung findet
 normalerweise auch noch etwas, wenn jemand einen Frühjahrsputz gemacht hat."
@@ -172,9 +163,9 @@ normalerweise auch noch etwas, wenn jemand einen Frühjahrsputz gemacht hat."
 # Kapitel 3
 
 Siobhan erwachte schweißgebadet. Fetzen eines Albtraums geisterten noch durch ihren
-Kopf; Blut und Schreie, ein großer leerer Raum, eine Waffe in ihrer Hand. Anezkas
+Kopf; Blut und Schreie, hohe weiße Wände, eine Waffe in ihrer Hand. Anezkas
 Gesicht, zu einer Grimasse verzerrt, und zwei weitere Gesichter, zu denen ihr die Namen
-nicht einfielen, aber die sich geradezu in ihre Netzhaut gebrannt hatten. Ihr Herz
+nicht einfielen, aber deren Züge sich geradezu in ihre Netzhaut gebrannt hatten. Ihr Herz
 klopfte und ihr Atem ging schnell und stoßweise. Sie presste die Augen zu, als hoffte
 sie, wieder einzuschlafen, und diesmal von sanfteren Träumen empfangen zu werden. Doch
 sie wusste, dass das nicht passieren würde. Sie kämpfte die aufsteigende Panik hinunter
@@ -183,7 +174,7 @@ Wecker klingelte, aber an Schlaf war nicht mehr zu denken, also konnte sie genau
 aufstehen. Sie versuchte, nicht an den Traum und vor allem nicht an die letzten paar
 Tage zu denken, sondern sich auf den Tag vor ihr zu konzentrieren. Sie zog sich ein
 T-Shirt und eine Sporthose über, ging zur Küchenzeile und schaltete die Kaffeemühle ein.
-Das Schnarren, das anzeigte, dass sich die schwarzen Bohnen in feines Pulver
+Das Schnarren, mit dem sich die schwarzen Bohnen in feines Pulver
 verwandelten, holte Siobhan in ihren Alltag zurück. Sie öffnete einen der Küchenschränke
 und fischte zwei Scheiben Toast heraus, wie jeden Morgen. Als sie sie in den Toaster
 gesteckt und ihn angeschaltet hatte, war die Kaffeemühle fertig. Sie klopfte den alten
@@ -202,14 +193,14 @@ waren schon weg, nur Mirembe werkelte auch noch an einem Design. Siobhan schaute
 ihr hinein und plauderte ein wenig mit ihr, bevor sie das Büro verließ. Draußen war es
 schon wieder dunkel. Ohne einen Abstecher nach Hause ging sie direkt ins Labyrinth.
 Moira, die Betreiberin, stand heute selbst hinter dem Tresen. Siobhan winkte ihr zu,
-aber Moira war beschäftigt und sah sie nicht. Das Pub war wie immer gut besucht. Als
+aber Moira war mit einem Kunden beschäftigt und sah sie nicht. Das Pub war wie immer gut besucht. Als
 Siobhan sich nach einem freien Platz umsah, bemerkte sie Ellen, die alleine an einem
 kleinen Tisch saß. Ihre Augen waren ins Leere gerichtet und bewegten sich langsam hin
-und her. Vermutlich las sie etwas. Sie war in ihrem Stuhl zurück gelehnt und hatte die
+und her. Vermutlich las sie etwas. Sie war in ihrem Rollstuhl zurück gelehnt und hatte die
 Hände im Schoß gefaltet. Zu einer einfachen Jeans trug sie eine schwarze Bluse mit einem
 roten Aufdruck. Ihre dünnen schwarzen Zöpfe waren locker zusammen gebunden. Siobhan ging
 zu ihr hinüber. "Darf ich stören?" fragte sie mit gespielter Höflichkeit. Ellen drehte
-den Kopf, lächelte und stand auf, um sie zu umarmen.
+den Kopf, lächelte und stecke die Arme zu ihr hoch, um sie zu umarmen.
 
 "Hey, Süße! Wie geht es dir?"
 
@@ -392,15 +383,14 @@ Siobhan suchte noch nach Worten, da ergriff die Frau das Wort. "Guten Abend, ich
 Leutnant Nguyen und das ist Feldwebel Schleier." Sie und Ihr Begleiter zogen
 Polizeimarken hervor und hielten sie Siobhan entgegen. "Sind Sie Siobhan O'Malley?"
 
-"Ja", brachte Siobhan heraus.
+"Ja", brachte Siobhan heraus. Ein flaues Gefühl breitete sich in ihrem Magen aus. Die Polizei. Was nun?
 
 "Dürfen wir herein kommen?" fragte Nguyen. "Wir würden Ihnen gerne ein paar Fragen
 stellen." Siobhan überlegte fieberhaft. Sie hatte noch immer Schwierigkeiten, sich zu
 konzentrieren, aber langsam fanden ihre Gedanken wieder geordnete Bahnen. Wenn sie die
 beiden weg schickte, machte sie sich nur verdächtig. Wenn sie sie herein bat, konnte sie
 hingegen einen Eindruck davon gewinnen, was die Polizei wusste. Vielleicht ging es sogar
-um etwas völlig anderes... Der Elefant im Raum drückte gegen die mentalen Barrieren, die
-sie unbewusst aufgebaut hatte, doch sie hielten stand.
+um etwas völlig anderes... Die Bilder und Gesichter, die sie für fast zwei Tage los gewesen war, drängten wieder in ihr Bewusstsein. Wieder schob sie sie von sich, doch es brauchte mehr und mehr Kraft. *Ein Schritt nach dem anderen,* sagte sie sich.
 
 "Natürlich." Siobhan war zufrieden, wie ruhig sich ihre Stimme anhörte. Sie trat zur
 Seite und ließ die Besucher in die kleine Wohnung. Es gab nur eine Sitzgelegenheit, wenn
@@ -409,8 +399,8 @@ schien diese nicht zu stören. Der Mann - Schleier? - sagte zum ersten Mal etwas
 kam gleich zur Sache. "Wo waren Sie am Montag zwischen vierzehn und zwanzig Uhr?"
 
 Jegliche Illusionen, dass es um eine Bagatelle gegen könnte, waren damit geplatzt.
-Siobhan tat so, als müsste sie nachdenken, aber sie wusste genau, wo sie in diesem
-Zeitraum gewesen war. Sie spürte etwas wie einen Klumpen aus Eis in ihrem Magen.
+Siobhan wusste genau, wo sie in diesem
+Zeitraum gewesen war, doch sie tat so, als müsste sie nachdenken, um Zeit zu gewinnen. Die Zeitangabe war erschreckend genau. Und wie war die Polizei so schnell auf Siobhan gekommen? Das flaue Gefühl in ihrem Magen verwandelte sich in einen Klumpen aus Eis.
 
 "Ich glaube, ich war im Donarpark in Granna." Besser, nahe an der Wahrheit zu bleiben.
 Dort hatte sie sich wirklich mit Anezka getroffen.
@@ -424,15 +414,19 @@ hatte weit früher den Park verlassen, aber war viel später heim gekommen.
 
 Siobhan zögerte. Am liebsten würde sie Anezka nicht erwähnen, um sie nicht in Gefahr zu
 bringen. Aber was, wenn die beiden schon bei Anezka gewesen waren? Bestimmt hätte Anezka
-sie dann kontaktiert. Vielleicht hatte sie das auch. Siobhan war offline gewesen seit...
-Wie spät war es überhaupt? Sie suchte die kleine Uhr rechts unten in ihrem Gesichtsfeld,
-doch ohne ihre Kontaktlinsen war da nichts. Es war dumm gewesen, sich nicht besser mit
-Anezka abzusprechen. Jetzt musste sie ein Risiko eingehen. Sie nahm an, dass die Polizei
+sie dann kontaktiert. Andererseits, vielleicht hatte sie das auch versucht. Siobhan war offline gewesen seit...
+Wie spät war es überhaupt? Sie suchte automatisch die kleine Uhr rechts unten in ihrem Gesichtsfeld,
+doch ohne ihre Kontaktlinsen fehlte diese genauso wie das Symbol für ihren Nachrichteneingang. Es war dumm gewesen, sich nicht besser mit
+Anezka abzusprechen. Jetzt musste sie ein Risiko eingehen. Sie hoffte, dass die Polizei
 sie noch nicht beide ausfindig gemacht hatte, und dass sie also noch nichts von Anezka
 wusste. "Ja, ich war alleine", behauptete sie.
 
 "Hat jemand Sie gesehen?"
 
 Siobhan schüttelte zögernd den Kopf. "Ich glaube nicht." Sie fühlte sich in die Ecke
-gedrängt. Höchste Zeit, aus der Defensive heraus zu kommen. "Um was geht es denn
+gedrängt. Sie zitterte ein wenig, und ihr war schlecht. Sie musste schleunigst aus der Defensive heraus kommen. "Um was geht es denn
 eigentlich?" fragte sie möglichst unverbindlich.
+
+Schleier warf seiner Kollegin einen Blick zu, und sie übernahm. "In Jottenhamn wurden in einem Schuttcontainer ein Mann und eine Frau tot aufgefunden. Wissen Sie irgend etwas darüber?"
+
+Siobhan wollte schreien, oder weg laufen, oder sich verkriechen. Sie sah die beiden Gesichter jetzt deutlich vor sich, blass und leblos. Ihre eigene Stimme hörte sich fremd an. "Nein, tut mir leid." Sie war am Ende. Ihre Instinkte begannen, über ihren Verstand die Oberhand zu gewinnen. Ihre Gedanken, Befürchtungen und Erinnerungen traten in den Hintergrund, und ihre unmittelbaren Wahrnehmungen wurden deutlicher. Sie sah die beiden Polizisten mit anderen Augen. Sie nahm jedes Detail ihrer Körperformen in sich auf, verfolgte jede noch so kleine Bewegung, und stimmte ihre eigene Körpersprache darauf ab. Ihr Verstand registrierte, was geschah, und wollte noch nicht aufgeben. Was, wenn die beiden durch Implantate geschützt waren? Oder wenn Ngyuen eine Norne war? Ein anderer Teil von ihr sehnte sich danach, ihrem Impuls nachzugeben. 
