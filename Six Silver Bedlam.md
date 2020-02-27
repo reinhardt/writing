@@ -421,23 +421,22 @@ Lederjacke. Eine schwarze Hose und braune Halbschuhe ergänzten seine
 zweckmäßige Garderobe. Sein Lächeln war nur angedeutet, aber wirkte
 freundlicher.
 
-Siobhan suchte noch nach Worten, da ergriff die Frau das Wort. "Guten Abend,
-ich bin Leutnant Nguyen und das ist Feldwebel Schleier." Sie und Ihr Begleiter
-zogen Polizeimarken hervor und hielten sie Siobhan entgegen. "Sind Sie Siobhan
+Siobhan war noch dabei, eine Begrüßung zu formulieren, da ergriff die Frau das Wort.
+"Guten Abend, ich bin Leutnant Nguyen und das ist Feldwebel Schleier." Sie und Ihr
+Begleiter zogen Polizeimarken hervor und hielten sie Siobhan entgegen. "Sind Sie Siobhan
 O'Malley?"
 
 "Ja", brachte Siobhan heraus. Ein flaues Gefühl breitete sich in ihrem Magen
 aus. Die Polizei. Was nun?
 
-"Dürfen wir herein kommen?" fragte Nguyen. "Wir würden Ihnen gerne ein paar
-Fragen stellen." Siobhan überlegte fieberhaft. Sie hatte noch immer
-Schwierigkeiten, sich zu konzentrieren, aber langsam fanden ihre Gedanken
-wieder geordnete Bahnen. Wenn sie die beiden weg schickte, machte sie sich nur
-verdächtig. Wenn sie sie herein bat, konnte sie hingegen einen Eindruck davon
-gewinnen, was die Polizei wusste. Vielleicht ging es sogar um etwas völlig
-anderes... Die Bilder und Gesichter, die sie für fast zwei Tage los gewesen
-war, drängten wieder in ihr Bewusstsein. Wieder schob sie sie von sich, doch es
-brauchte mehr und mehr Kraft. *Ein Schritt nach dem anderen,* sagte sie sich.
+"Dürfen wir herein kommen?" fragte Nguyen. "Wir würden Ihnen gerne ein paar Fragen
+stellen." Siobhan überlegte fieberhaft. Sie hatte noch immer Schwierigkeiten, sich zu
+konzentrieren, aber langsam fanden ihre Gedanken wieder geordnete Bahnen. Wenn sie die
+beiden weg schickte, machte sie sich nur verdächtig. Wenn sie sie herein bat, konnte sie
+hingegen einen Eindruck davon gewinnen, was die Polizei wusste. Vielleicht ging es sogar
+um etwas völlig anderes... Die Bilder und Gesichter, die sie für fast zwei Tage los
+gewesen war, drängten wieder in ihr Bewusstsein. Wieder schob sie sie von sich, doch es
+brauchte mehr und mehr Kraft.
 
 "Natürlich." Siobhan war zufrieden, wie ruhig sich ihre Stimme anhörte. Sie
 trat zur Seite und ließ die Besucher in die kleine Wohnung. Es gab nur eine
@@ -500,19 +499,38 @@ wurden in einem Schuttcontainer ein Mann und eine Frau tot aufgefunden. Wissen
 Sie irgend etwas darüber?"
 
 Siobhan wollte schreien, oder weg laufen, oder sich verkriechen. Sie sah die
-beiden Gesichter jetzt deutlich vor sich, blass und leblos. Dass diese
-Polizistin es aussprach, machte es so furchtbar real. Ihre eigene Stimme hörte
-sich fremd an. "Nein, tut mir leid." Automatisch leugnete sie noch nach außen
-hin, doch sie schaffte es nicht länger, sich selbst zu belügen. Sie hatte die
-vergangenen Tage aus ihrem Kopf verbannt, doch das hatte sie nicht ungeschehen
-gemacht. Es hatte eher alles schlimmer gemacht. Jetzt war die Polizei hier, und
-Siobhan war völlig unvorbereitet, und die Erinnerungen begannen, auf sie ein zu
-strömen und sie zu quälen. Sie war am Ende. Ihre Instinkte begannen, über ihren
-Verstand die Oberhand zu gewinnen. Ihre Gedanken, Befürchtungen und
-Erinnerungen traten in den Hintergrund, und ihre unmittelbaren Wahrnehmungen
-wurden deutlicher. Sie sah die beiden Polizisten mit anderen Augen. Sie nahm
-jedes Detail ihrer Körperformen in sich auf, verfolgte jede noch so kleine
-Bewegung, und stimmte ihre eigene Körpersprache darauf ab. Ihr Verstand
-registrierte, was geschah, und wollte noch nicht aufgeben. Was, wenn die beiden
-durch Implantate geschützt waren? Oder wenn Ngyuen eine Norne war? Ein anderer
-Teil von ihr sehnte sich danach, ihrem Impuls nachzugeben. 
+beiden Gesichter jetzt deutlich vor sich, blass und leblos. Dass diese Polizistin es
+aussprach, machte es so furchtbar real. "Nein, tut mir leid." Ihre eigene Stimme hörte
+sich fremd an. Nach außen hin leugnete sie noch, doch sie schaffte es nicht länger, sich
+selbst zu belügen. Sie hatte die vergangenen Tage aus ihrem Kopf verbannt, die Albträume
+ignoriert, die Schuldgefühle verdrängt, doch das hatte nichts ungeschehen gemacht. Es
+hatte eher alles schlimmer gemacht. Jetzt war die Polizei hier, und Siobhan war völlig
+unvorbereitet, und die Erinnerungen begannen, auf sie ein zu stürmen, und sie hatte
+ihnen nichts mehr entgegen zu setzen. Sie war am Ende. Ihre Instinkte begannen, über
+ihren Verstand die Oberhand zu gewinnen. Ihre Gedanken, Befürchtungen und Erinnerungen
+traten in den Hintergrund, und ihre unmittelbaren Wahrnehmungen wurden deutlicher. Sie
+sah die beiden Polizisten mit anderen Augen. Sie nahm jedes Detail ihrer Körperformen in
+sich auf, verfolgte jede noch so kleine Bewegung, und stimmte ihre eigene Körpersprache
+darauf ab. Ihr Verstand registrierte, was geschah, und war entsetzt. Was, wenn die
+beiden durch Implantate geschützt waren? Oder wenn Ngyuen eine Norne war? Ein anderer
+Teil von ihr sehnte sich danach, ihrem Impuls nachzugeben, ihre Macht zu spüren, die
+Kontrolle zurück zu gewinnen. Sie hatte ihre Fähigkeit lange nicht benutzt, teils aus
+moralischen Gründen, teils aus Angst vor Anfeindung. Doch sie hatte nichts verlernt.
+Jede Faser ihres Körpers wusste, was sie tun musste. Sie sah Leutnant Nguyen direkt in
+die Augen und verlagerte ihr Körpergewicht vom linken Bein auf das rechte. Jede ihrer
+Bewegungen, mochte sie noch so beiläufig wirken, konnte ungeahnte Wirkung haben. Es war
+schwieriger, wenn sie sich auf zwei Personen gleichzeitig einstellen musste, doch sie
+vertraute ihrem Können. Nguyen und Schleier tauschten einen Blick aus. Gerade, als beide
+wieder zu ihr her sahen, ließ Siobhan wie zufällig ihre rechte Hand ihre Hüfte berühren.
+Es würde funktionieren, sie spürte es.
+
+"Wenn Ihnen noch etwas einfällt, melden Sie sich bitte", sagte Nguyen.
+
+Siobhan brauchte einen Moment, um zu registrieren, was das bedeutete. Es hatte nichts
+mit ihren Bemühungen zu tun; sie war noch nicht so weit. Die beiden wollten gerade ganz
+von sich aus gehen. "Natürlich", murmelte sie.
+
+Schleier lächelte, Nguyen nickte ihr zu, und dann wandten sie sich um und gingen.
+Benommen schloss Siobhan die Tür hinter ihnen ab, ließ sich aufs Bett fallen und fing an
+zu weinen. Heftige Schluchzer schüttelten sie, als sie sich erlaubte, längst überfällige
+Gefühle zu fühlen. *Warum,* dachte sie. *Warum nur? Was in Gaias Namen haben wir getan?*
