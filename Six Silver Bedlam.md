@@ -363,9 +363,9 @@ lächelte zufrieden.
 
 Plötzlich schreckte sie hoch. War da ein Geräusch gewesen? Es fühlte sich nah und
 bedrohlich an. Sie brauchte einen Moment, um zu sich zu kommen. War sie eingeschlafen?
-Da war das Geräusch wieder. Jemand klopfte an ihre Tür. Sie erwartete niemanden. Ihr
+Da war das Geräusch wieder. Jemand klopfte an ihre Tür. Sie erwartete niemanden. Ihre
 Gedanken waren langsam, aber sie fühlten sich an, als würden sie sich überschlagen.
-Während sie noch nachdachte, was überhaupt los war, stand sie wie automatisch auf und
+Während sie noch nachdachte, was überhaupt los war, stand sie automatisch auf und
 ging langsam zur Tür. Sie streckte ihre Hand nach der Türklinke aus, und obwohl eine
 Stimme in ihrem langsam wach werdenden Kopf schrie, nicht auf zu machen, griff sie zu,
 drücke die Klinke herunter und zog die Tür auf. Draußen standen zwei Personen, eine Frau
@@ -421,12 +421,20 @@ Anezka abzusprechen. Jetzt musste sie ein Risiko eingehen. Sie hoffte, dass die 
 sie noch nicht beide ausfindig gemacht hatte, und dass sie also noch nichts von Anezka
 wusste. "Ja, ich war alleine", behauptete sie.
 
-"Hat jemand Sie gesehen?"
+"Hat jemand Sie gesehen?" Schleiers Fragen wollten kein Ende nehmen.
 
-Siobhan schüttelte zögernd den Kopf. "Ich glaube nicht." Sie fühlte sich in die Ecke
+Siobhan schüttelte zögernd den Kopf. "Ich glaube nicht."
+
+"Wie sieht es mit vergangenem Freitag aus? Wo waren Sie um 18:15 Uhr?"
+
+Siobhan lief es kalt den Rücken herunter. Freitag Abend musste sie in Jottenhamn gewesen sein. Wusste die Polizei das? Hatte jemand sie dort gesehen? Hatte Anezka doch schon geredet? Verzweifelt suchte sie eine halbwegs plausible Antwort. "Ich bin nach der Arbeit eine Weile spazieren gegangen." behauptete sie. "Allein." fügte sie hinzu.
+
+"Wo?" fragte Schleier ruhig.
+
+"In der Innenstadt. Und dann über den Fluss, ich glaube über die Bifrost-Brücke, und wieder zurück." Das würde zumindest erklären, dass sie in Jottenhamn war. Sie fühlte sich in die Ecke
 gedrängt. Sie zitterte ein wenig, und ihr war schlecht. Sie musste schleunigst aus der Defensive heraus kommen. "Um was geht es denn
 eigentlich?" fragte sie möglichst unverbindlich.
 
 Schleier warf seiner Kollegin einen Blick zu, und sie übernahm. "In Jottenhamn wurden in einem Schuttcontainer ein Mann und eine Frau tot aufgefunden. Wissen Sie irgend etwas darüber?"
 
-Siobhan wollte schreien, oder weg laufen, oder sich verkriechen. Sie sah die beiden Gesichter jetzt deutlich vor sich, blass und leblos. Ihre eigene Stimme hörte sich fremd an. "Nein, tut mir leid." Sie war am Ende. Ihre Instinkte begannen, über ihren Verstand die Oberhand zu gewinnen. Ihre Gedanken, Befürchtungen und Erinnerungen traten in den Hintergrund, und ihre unmittelbaren Wahrnehmungen wurden deutlicher. Sie sah die beiden Polizisten mit anderen Augen. Sie nahm jedes Detail ihrer Körperformen in sich auf, verfolgte jede noch so kleine Bewegung, und stimmte ihre eigene Körpersprache darauf ab. Ihr Verstand registrierte, was geschah, und wollte noch nicht aufgeben. Was, wenn die beiden durch Implantate geschützt waren? Oder wenn Ngyuen eine Norne war? Ein anderer Teil von ihr sehnte sich danach, ihrem Impuls nachzugeben. 
+Siobhan wollte schreien, oder weg laufen, oder sich verkriechen. Sie sah die beiden Gesichter jetzt deutlich vor sich, blass und leblos. Dass diese Polizistin es aussprach, machte es so furchtbar real. Ihre eigene Stimme hörte sich fremd an. "Nein, tut mir leid." Automatisch leugnete sie noch nach außen hin, doch sie schaffte es nicht länger, sich selbst zu belügen. Sie hatte die vergangenen Tage aus ihrem Kopf verbannt, doch das hatte sie nicht ungeschehen gemacht. Es hatte eher alles schlimmer gemacht. Jetzt war die Polizei hier, und Siobhan war völlig unvorbereitet, und die Erinnerungen begannen, auf sie ein zu strömen und sie zu quälen. Sie war am Ende. Ihre Instinkte begannen, über ihren Verstand die Oberhand zu gewinnen. Ihre Gedanken, Befürchtungen und Erinnerungen traten in den Hintergrund, und ihre unmittelbaren Wahrnehmungen wurden deutlicher. Sie sah die beiden Polizisten mit anderen Augen. Sie nahm jedes Detail ihrer Körperformen in sich auf, verfolgte jede noch so kleine Bewegung, und stimmte ihre eigene Körpersprache darauf ab. Ihr Verstand registrierte, was geschah, und wollte noch nicht aufgeben. Was, wenn die beiden durch Implantate geschützt waren? Oder wenn Ngyuen eine Norne war? Ein anderer Teil von ihr sehnte sich danach, ihrem Impuls nachzugeben. 
