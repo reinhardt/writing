@@ -19,10 +19,10 @@ sie wusste, dass das Unsinn war. Man sah ihr nicht an, dass sie anders war. Für
 zufälligen Beobachter war sie nur eine von Millionen. Sie war mittelgroß, hatte
 asiatische Gesichtszüge und dunkle Haare - nichts, was sie von der Masse abhob. Was sie
 anders machte, verbarg sich unter der unscheinbaren Oberfläche. Nicht jeder bekam ihre
-außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen
-- zu Gesicht. Manche Bewohner der Stadt wussten nicht einmal, dass es Frauen wie sie
-  gab, und das war vielleicht auch besser so. Jessica hatte schon mehr als einmal
-  erleben müssen, was die Angst vor dem Anderen anrichten konnte.
+außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen zu Gesicht. Manche
+Bewohner der Stadt wussten nicht einmal, dass es Frauen wie sie gab, und das war
+vielleicht auch besser so. Jessica hatte schon mehr als einmal erleben müssen, was die
+Angst vor dem Anderen anrichten konnte.
 
 Sie bog an der nächsten Ecke ab und gelangte auf eine weniger bevölkerte Straße.
 Wahrscheinlich sollte sie einfach nach Hause gehen und sich ins Bett legen. Sie hatte
@@ -39,7 +39,7 @@ ziellos und ausgelaugt. Die dunklen Häuserschluchten bedrückten sie. Man konnt
 Himmel sehen. Bäume und andere Pflanzen waren eine Rarität geworden. Alles war voll von
 Menschen, aber die leeren Gesichter der Fremden machten sie nur noch einsamer. Am
 meisten vermisste sie das Meer. Bei diesem Gedanken drehte sie sich abrupt um und schlug
-den Weg nach Hause ein. Sie würde ein Bad nehmen, und dann versuchen, zu schlafen.
+den Weg nach Hause ein.  Sie würde ein Bad nehmen, und dann versuchen, zu schlafen.
 Morgen würde zumindest die Dunkelheit sich für eine Weile zurück ziehen.
 
 # Kapitel 2
@@ -93,7 +93,7 @@ Symbol, und es erschienen mehrere Fotos vor ihren Augen, die vermutlich einen Ta
 zeigten.
 
 "Wir haben zwei Leichen; einen Mann, Anfang vierzig, mit etlichen Messerstichen, und
-eine Frau, Mitte dreißig, mit Schusswunden in der Brust. Klingt an sich nach zwei
+eine Frau, Mitte dreißig, mit Schusswunden in der Brust.  Klingt an sich nach zwei
 Fällen, außer, dass beide im gleichen Schuttcontainer im ehemaligen Industriegebiet in
 Jottenhamn gefunden wurden."
 
@@ -147,7 +147,7 @@ Firmen-Schriftzuges zu sehen waren. Das Innere bestand hauptsächlich aus Büros
 paar Konferenzräumen. Vereinzelt waren kaputte Möbelstücke zurück geblieben, doch die
 meisten Zimmer waren, bis auf einzelne kaputte Maschinen, Materialreste und ähnlichen
 Müll, leer. Der Verfall hatte noch nicht ernsthaft eingesetzt, aber eine dünne
-Staubschicht ruhte auf allen Böden und Oberflächen. Sie fanden keine Anzeichen dafür,
+Staubschicht ruhte auf allen Böden und Oberflächen.  Sie fanden keine Anzeichen dafür,
 dass hier ein Verbrechen stattgefunden hatte, und gingen schließlich weiter zum nächsten
 Gebäude. Hier dominierten Fertigungshallen und Lagerräume, auch sie weitgehend leer,
 abgesehen von einigen Regalen und der ein oder anderen Werkbank. Zuerst sah es auch hier
@@ -156,7 +156,7 @@ dass hier etwas anders war. Sie blieb stehen, runzelte die Stirn und blickte sic
 
 "Was ist?" fragte Tom, der ihren Gesichtsausdruck bemerkt hatte.
 
-"Irgendetwas stimmt nicht," sagte Jessica nachdenklich. "Es sieht hier so... aufgeräumt
+"Irgendetwas stimmt nicht," sagte Jessica nachdenklich. "Es sieht hier so...  aufgeräumt
 aus." Außer zwei, drei Stücken Papier lag absolute nichts auf dem Boden. Tom ging in die
 Knie und fuhr mit dem Finger über den Boden. "Kein Staub", sagte er . "In den anderen
 Räumen ist überall eine Schicht Staub."
@@ -172,7 +172,7 @@ normalerweise auch noch etwas, wenn jemand einen Frühjahrsputz gemacht hat."
 # Kapitel 3
 
 Siobhan erwachte schweißgebadet. Fetzen eines Albtraums geisterten noch durch ihren
-Kopf; Blut und Schreie, hohe weiße Wände, eine Waffe in ihrer Hand. Anezkas Gesicht, zu
+Kopf; Blut und Schreie, hohe weiße Wände, eine Waffe in ihrer Hand.  Anezkas Gesicht, zu
 einer Grimasse verzerrt, und zwei weitere Gesichter, zu denen ihr die Namen nicht
 einfielen, aber deren Züge sich geradezu in ihre Netzhaut gebrannt hatten. Ihr Herz
 klopfte und ihr Atem ging schnell und stoßweise. Sie presste die Augen zu, als hoffte
@@ -203,14 +203,14 @@ ihr hinein und plauderte ein wenig mit ihr, bevor sie das Büro verließ. Drauß
 schon wieder dunkel. Ohne einen Abstecher nach Hause ging sie direkt ins Labyrinth.
 Moira, die Betreiberin, stand heute selbst hinter dem Tresen. Siobhan winkte ihr zu,
 aber Moira war mit einem Kunden beschäftigt und sah sie nicht. Das Pub war wie immer gut
-besucht. Als Siobhan sich nach einem freien Platz umsah, bemerkte sie Ellen, die alleine
-an einem kleinen Tisch saß. Ihre Augen waren ins Leere gerichtet und bewegten sich
-langsam hin und her. Vermutlich las sie etwas. Sie war in ihrem Rollstuhl zurück gelehnt
-und hatte die Hände im Schoß gefaltet. Zu einer einfachen Jeans trug sie eine schwarze
-Bluse mit einem roten Aufdruck. Ihre dünnen schwarzen Zöpfe waren locker zusammen
-gebunden. Siobhan ging zu ihr hinüber. "Darf ich stören?" fragte sie mit gespielter
-Höflichkeit. Ellen drehte den Kopf, lächelte und stecke die Arme zu ihr hoch, um sie zu
-umarmen.
+besucht.  Als Siobhan sich nach einem freien Platz umsah, bemerkte sie Ellen, die
+alleine an einem kleinen Tisch saß. Ihre Augen waren ins Leere gerichtet und bewegten
+sich langsam hin und her. Vermutlich las sie etwas. Sie war in ihrem Rollstuhl zurück
+gelehnt und hatte die Hände im Schoß gefaltet. Zu einer einfachen Jeans trug sie eine
+schwarze Bluse mit einem roten Aufdruck. Ihre dünnen schwarzen Zöpfe waren locker
+zusammen gebunden. Siobhan ging zu ihr hinüber. "Darf ich stören?" fragte sie mit
+gespielter Höflichkeit. Ellen drehte den Kopf, lächelte und stecke die Arme zu ihr hoch,
+um sie zu umarmen.
 
 "Hey, Süße! Wie geht es dir?"
 
@@ -251,9 +251,9 @@ abrackern. Siobhan hatte sich an mehreren Protesten und Blockaden beteiligt, abe
 hatte sich offensichtlich nichts verändert.
 
 Ellen schien ihren Gedankengang zu erahnen. "Entschuldige", sagte sie sanft, "das muss
-frustrierend für dich sein. Lass uns über etwas angenehmeres reden. Maeva und Ngozi sind
-jetzt zusammen", wechselte sie übergangslos das Thema. "Nicht, dass es irgend jemanden
-überraschen würde", fügte sie grinsend hinzu. 
+frustrierend für dich sein. Lass uns über etwas angenehmeres reden.  Maeva und Ngozi
+sind jetzt zusammen", wechselte sie übergangslos das Thema.  "Nicht, dass es irgend
+jemanden überraschen würde", fügte sie grinsend hinzu. 
 
 Siobhan musste auch lächeln. Die beiden tänzelten schon seit Wochen umeinander herum,
 ohne dass einer den entscheidenden Schritt machte. "Und wer hat jetzt die Initiative
@@ -284,7 +284,7 @@ die in der Nähe Ihr Quartier aufgeschlagen hatten. Dem ersten und zweiten konnt
 nichts Verwertbares entlocken, doch der dritte erzählte im Austausch gegen eine
 großzügige Spende in seinen Hut von zwei Frauen, die ihm aufgefallen waren. Er habe sie
 in den letzten Tagen zwei Mal gesehen, "eine Öko und eine Grufti", beide blond und
-mittelgroß und zwischen dreißig und vierzig. Sie nahmen alles auf, an das er sich
+mittelgroß und zwischen dreißig und vierzig.  Sie nahmen alles auf, an das er sich
 erinnern konnte. 
 
 Es war bereits weit nach Mittag, also fuhren sie erst einmal zu Stavros Imbiss, um sich
@@ -310,13 +310,13 @@ Schnaps. "He!" rief sie. "Lass mich los! Was willst du von mir?" Doch als seine 
 sie für einen Moment fixierten, meinte sie, die Antwort nur zu deutlich darin zu sehen.
 Es war nicht das erste Mal, dass sie diese seltsame Mischung aus Abscheu und Gier bei
 einem Mann sah. Ihr Puls raste. Sie spürte ihn in ihrem Hals und in ihren Schläfen
-pochen. "Hilfe! Loslassen! Hilfe!" rief sie, so laut sie konnte. "Halt's Maul,
+pochen. "Hilfe! Loslassen! Hilfe!" rief sie, so laut sie konnte.  "Halt's Maul,
 Schlampe," knurrte der Angreifer. "Dich hört eh niemand." Jessica ahnte, dass er Recht
 hatte, oder vielmehr, dass niemand zu Hilfe kommen würde, selbst wenn jemand sie hörte.
 Verzweifelt versuchte sie, sich los zu reißen, aber sein Griff war zu fest. Instinktiv
 kehrte sie ihre Bemühungen um und versuchte stattdessen, den Fremden nach hinten um zu
 schubsen. Er taumelte kurz, stieß dann jedoch gegen die Hauswand und fing sich dadurch
-wieder. Während er noch unsicher auf den Beinen war, zog sie ihn mit dem Arm, den er
+wieder.  Während er noch unsicher auf den Beinen war, zog sie ihn mit dem Arm, den er
 fest hielt, wieder zu sich hin und schlug mit der freien Hand nach seiner Kehle. Doch er
 hatte entweder Glück oder gute Reflexe, und parierte mit seinem freien Arm ihren Schlag.
 Verzweiflung machte sich in ihr breit. Körperlich war sie ihrem Gegner nicht gewachsen,
@@ -328,7 +328,7 @@ Moment die Augen und sammelte sich. Dann begann sie zu singen. Sofort lockerte s
 Griff des Angreifers ein wenig. Jessica sang ohne Worte, doch die Melodie erzählte vom
 Meer, von der Stille und der Tiefe und der Dunkelheit, von der Sehnsucht und der
 Unendlichkeit. Mit jeder Note löste sich die Hand des Mannes ein bisschen mehr. Sein
-Blick wurde leer, und sein Körper verlor die Spannung. Endlich ließ er sie ganz los. Er
+Blick wurde leer, und sein Körper verlor die Spannung.  Endlich ließ er sie ganz los. Er
 drehte sich von ihr weg und begann langsam zu gehen. Jessicas Stimme hallte durch die
 Häuserschluchten. Sie sang von geheimen Höhlen im Ozean, von versunkenen Städten voller
 Reichtümer und von unvorstellbarer Glückseligkeit auf dem Grund des Meeres. Der Fremde
@@ -350,14 +350,14 @@ vergessen.
 Siobhan ließ ihre Tasche fallen und schob die Wohnungstür hinter sich zu. Sie streifte
 ihre Schuhe und Socken ab und tapste barfuß zur Küchenzeile, wo sie Wasser für einen Tee
 aufsetzte. Sie hatte heute nach der Arbeit keine Lust auf Gesellschaft gehabt, aber
-nicht, weil sie schlechte Laune hätte; im Gegenteil. Sie freute sich auf einen
+nicht, weil sie schlechte Laune hätte; im Gegenteil.  Sie freute sich auf einen
 entspannten Abend zu Hause. Während das Wasser langsam heiß wurde, holte sie die
 Steuerung für die Audioanlage in ihr Gesichtsfeld und schaltete halblaute psychedelische
 Musik ein. Dann bückte sie sich zu einem der unteren Küchenschränke hinunter und holte
 eine unscheinbare Dose hervor. Sie öffnete sie, nahm mit drei Fingern eine Portion ihrer
 Spezialkräuter heraus, und ließ sie in eine Tasse fallen, die noch vom Frühstück auf der
-Arbeitsfläche stand. Vorsichtig goß sie heißes Wasser darauf. Sie ließ den Tee ziehen
-und nahm inzwischen im Bad ihre Kontaktlinsen heraus. Ohne sie wurde es zwar schwierig,
+Arbeitsfläche stand. Vorsichtig goß sie heißes Wasser darauf.  Sie ließ den Tee ziehen
+und nahm inzwischen im Bad ihre Kontaktlinsen heraus.  Ohne sie wurde es zwar schwierig,
 Musik an oder aus zu machen, einen Anruf entgegen zu nehmen, oder auch nur etwas zu
 lesen, aber die Dinger den ganzen Tag zu tragen, wurde ihr meistens zu anstrengend. Denn
 Ohrhörer entfernte sie auch und legte ihn daneben. Blinzelnd holte sie ihren Tee und
@@ -415,8 +415,8 @@ kam gleich zur Sache. "Wo waren Sie am Montag zwischen vierzehn und zwanzig Uhr?
 Jegliche Illusionen, dass es um eine Bagatelle gegen könnte, waren damit geplatzt.
 Siobhan wusste genau, wo sie in diesem Zeitraum gewesen war, doch sie tat so, als müsste
 sie nachdenken, um Zeit zu gewinnen. Die Zeitangabe war erschreckend genau. Und wie war
-die Polizei so schnell auf Siobhan gekommen? Das flaue Gefühl in ihrem Magen verwandelte
-sich in einen Klumpen aus Eis.
+die Polizei so schnell auf Siobhan gekommen?  Das flaue Gefühl in ihrem Magen
+verwandelte sich in einen Klumpen aus Eis.
 
 "Ich glaube, ich war im Donarpark in Granna." Besser, nahe an der Wahrheit zu bleiben.
 Dort hatte sie sich wirklich mit Anezka getroffen.
@@ -429,14 +429,14 @@ hatte weit früher den Park verlassen, aber war viel später heim gekommen.
 "Waren Sie alleine?"
 
 Siobhan zögerte. Am liebsten würde sie Anezka nicht erwähnen, um sie nicht in Gefahr zu
-bringen. Aber was, wenn die beiden schon bei Anezka gewesen waren? Bestimmt hätte Anezka
-sie dann kontaktiert. Andererseits, vielleicht hatte sie das auch versucht. Siobhan war
-offline gewesen seit... Wie spät war es überhaupt? Sie suchte automatisch die kleine Uhr
-rechts unten in ihrem Gesichtsfeld, doch ohne ihre Kontaktlinsen fehlte diese genauso
-wie das Symbol für ihren Nachrichteneingang. Es war dumm gewesen, sich nicht besser mit
-Anezka abzusprechen. Jetzt musste sie ein Risiko eingehen. Sie hoffte, dass die Polizei
-sie noch nicht beide ausfindig gemacht hatte, und dass sie also noch nichts von Anezka
-wusste. "Ja, ich war alleine", behauptete sie.
+bringen. Aber was, wenn die beiden schon bei Anezka gewesen waren?  Bestimmt hätte
+Anezka sie dann kontaktiert. Andererseits, vielleicht hatte sie das auch versucht.
+Siobhan war offline gewesen seit... Wie spät war es überhaupt? Sie suchte automatisch
+die kleine Uhr rechts unten in ihrem Gesichtsfeld, doch ohne ihre Kontaktlinsen fehlte
+diese genauso wie das Symbol für ihren Nachrichteneingang. Es war dumm gewesen, sich
+nicht besser mit Anezka abzusprechen. Jetzt musste sie ein Risiko eingehen. Sie hoffte,
+dass die Polizei sie noch nicht beide ausfindig gemacht hatte, und dass sie also noch
+nichts von Anezka wusste. "Ja, ich war alleine", behauptete sie.
 
 "Hat jemand Sie gesehen?" Schleiers Fragen wollten kein Ende nehmen.
 
@@ -445,7 +445,7 @@ Siobhan schüttelte zögernd den Kopf. "Ich glaube nicht."
 "Wie sieht es mit vergangenem Freitag aus? Wo waren Sie um 18:15 Uhr?"
 
 Siobhan lief es kalt den Rücken herunter. Freitag Abend musste sie in Jottenhamn gewesen
-sein. Wusste die Polizei das? Hatte jemand sie dort gesehen? Hatte Anezka doch schon
+sein. Wusste die Polizei das? Hatte jemand sie dort gesehen?  Hatte Anezka doch schon
 geredet? Verzweifelt suchte sie eine halbwegs plausible Antwort. "Ich bin nach der
 Arbeit eine Weile spazieren gegangen." behauptete sie. "Allein." fügte sie hinzu.
 
@@ -454,7 +454,7 @@ Arbeit eine Weile spazieren gegangen." behauptete sie. "Allein." fügte sie hinz
 "In der Innenstadt. Und dann über den Fluss, ich glaube über die Bifrost-Brücke, und
 wieder zurück." Das würde zumindest erklären, dass sie in Jottenhamn war. Sie fühlte
 sich in die Ecke gedrängt. Sie zitterte ein wenig, und ihr war schlecht. Sie musste
-schleunigst aus der Defensive heraus kommen. "Um was geht es denn eigentlich?" fragte
+schleunigst aus der Defensive heraus kommen.  "Um was geht es denn eigentlich?" fragte
 sie möglichst unverbindlich.
 
 Schleier warf seiner Kollegin einen Blick zu, und sie übernahm. "In Jottenhamn wurden in
@@ -475,7 +475,7 @@ traten in den Hintergrund, und ihre unmittelbaren Wahrnehmungen wurden deutliche
 sah die beiden Polizisten mit anderen Augen. Sie nahm jedes Detail ihrer Körperformen in
 sich auf, verfolgte jede noch so kleine Bewegung, und stimmte ihre eigene Körpersprache
 darauf ab. Ihr Verstand registrierte, was geschah, und war entsetzt. Was, wenn die
-beiden durch Implantate geschützt waren? Oder wenn Ngyuen eine Norne war? Ein anderer
+beiden durch Implantate geschützt waren? Oder wenn Ngyuen eine Norne war?  Ein anderer
 Teil von ihr sehnte sich danach, ihrem Impuls nachzugeben, ihre Macht zu spüren, die
 Kontrolle zurück zu gewinnen. Sie hatte ihre Fähigkeit lange nicht benutzt, teils aus
 moralischen Gründen, teils aus Angst vor Anfeindung. Doch sie hatte nichts verlernt.
@@ -483,9 +483,9 @@ Jede Faser ihres Körpers wusste, was sie tun musste. Sie sah Leutnant Nguyen di
 die Augen und verlagerte ihr Körpergewicht vom linken Bein auf das rechte. Jede ihrer
 Bewegungen, mochte sie noch so beiläufig wirken, konnte ungeahnte Wirkung haben. Es war
 schwieriger, wenn sie sich auf zwei Personen gleichzeitig einstellen musste, doch sie
-vertraute ihrem Können. Nguyen und Schleier tauschten einen Blick aus. Gerade, als beide
-wieder zu ihr her sahen, ließ Siobhan wie zufällig ihre rechte Hand ihre Hüfte berühren.
-Es würde funktionieren, sie spürte es.
+vertraute ihrem Können. Nguyen und Schleier tauschten einen Blick aus.  Gerade, als
+beide wieder zu ihr her sahen, ließ Siobhan wie zufällig ihre rechte Hand ihre Hüfte
+berühren.  Es würde funktionieren, sie spürte es.
 
 "Wenn Ihnen noch etwas einfällt, melden Sie sich bitte", sagte Nguyen.
 
