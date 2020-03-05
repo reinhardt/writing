@@ -19,7 +19,7 @@ sie wusste, dass das Unsinn war. Man sah ihr nicht an, dass sie anders war. Für
 zufälligen Beobachter war sie nur eine von Millionen. Sie war mittelgroß, hatte
 asiatische Gesichtszüge und dunkle Haare - nichts, was sie von der Masse abhob. Was sie
 anders machte, verbarg sich unter der unscheinbaren Oberfläche. Nicht jeder bekam ihre
-außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen zu Gesicht. Manche
+außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen - zu Gesicht. Manche
 Bewohner der Stadt wussten nicht einmal, dass es Frauen wie sie gab, und das war
 vielleicht auch besser so. Jessica hatte schon mehr als einmal erleben müssen, was die
 Angst vor dem Anderen anrichten konnte.
