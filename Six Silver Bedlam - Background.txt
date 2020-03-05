@@ -1,5 +1,6 @@
 # To Do
 
+- Ellen spürt Mord
 - Subkulturen
 - Hintergründe der Charaktere
 - Historie
@@ -41,11 +42,13 @@ Die meisten Nornen haben eine besondere Verbindung zur Natur (Dryaden zum Wald, 
 
 Metalle wirken in konzentrierter Form schwächend auf Nornen. Insbesondere Silber negiert ihre Kräfte und kann ihnen auch darüber hinaus Schaden zufügen. Sich einer größeren Menge Silber zu nähern verursacht ihnen körperliches Unbehagen. Berührung hat Verletzungen zur Folge, die Verbrennungen ähneln. Eine silberne oder versilberte Klinge oder gar eine silberne Patrone kann leicht zum Tod führen.
 
-## Geschichte 
+## Historie
 
-Als die ersten Nornen nach Bedlam kamen, blieben sie unerkannt und mischten sich unter die Milesier, ohne aufzufallen. Dies konnte natürlich nicht für immer so bleiben. Früher oder später setzten sie ihre Fähigkeiten ein, und immer wieder wurden Milesier Zeugen (und manche davon überlebten auch, um davon zu erzählen). Sie erlangten zuerst den Status von Gerüchten und Urban Legends, dann wurden sie als Realität akzeptiert, aber ihnen wurde meist mit Furcht und Ablehnung begegnet. Die Feindseligkeit schaukelte sich immer weiter auf. Es wurden elektronische Implantate entwickelt, die vor manchen der Nornen-Fähigkeiten einen gewissen Schutz boten. Wurde eine Norne beim Einsatz ihrer Fähigkeit beobachtet, wurde sie nicht selten gelyncht. Oft reichte auch schon der Verdacht oder eine vage Anschuldigung, um Gewalt auszulösen. Für alles, was falsch lief, wurden Nornen verantwortlich gemacht. Als eine Lebensmittelknappheit ausbrach, erreichte die Nornenverfolgung ihren Höhepunkt. Viele Nornen verließen Bedlam, um einen schlimmeren Schicksal zu entgehen. Auch Milesierinnen wanderten ab; schließlich gab es keine Möglichkeit, zu beweisen, dass man keine Norne war - es sei denn, man war ein Mann. Nachdem der Anteil der Nornen (und Frauen generell) in der Stadt stark gesunken war, legte sich die Hysterie langsam. Die Lebensmittelversorgung normalisierte sich; man brauchte nicht mehr so dringend Sündenböcke. Als etwas Gras über die Sache gewachsen war, kamen nach und nach Frauen aus dem Exil zurück, darunter auch mutige Nornen. Sie schworen sich, diesmal unentdeckt zu bleiben, doch auch diesmal scheiterte es, und die Geschichte begann, sich zu wiederholen. Bald kamen neue Gerüchte auf, dass wieder Nornen in der Stadt seien. 
+Anfang des 21. Jahrhunderts trafen zwei Ereignisse zusammen, die verheerende Folgen hatten. Das eine war ein Hackerangriff auf mehrere Kernkraftwerke und Standorte von Atomwaffen, der eine Reihe von Störfällen und sogar nuklearen Explosionen verursachte. Das zweite war eine Reihe von Unwettern und Sturmtiefs, die zusammen fast globale Ausmaße annahmen. Neben großflächigen Zerstörungen durch Sturm und Überschwemmungen verteilten die Unwetter auch die freigesetzte radioaktive Strahlung innerhalb kürzester Zeit fast um die ganze Welt. Ganze Landstriche wurden unbewohnbar, unzählige Menschen starben und noch mehr wurden obdach- und heimatlos. Ströme von Flüchtenden zogen umher und suchen Zuflucht in den weniger betroffenen Gebieten und Städten, darunter auch in Bedlam.
 
-(ca. 100 Jahre von der ersten Ankunft bis zur Rückkehr) 
+Als die erste große Welle von Einwanderern nach Bedlam kam, waren auch viele Nornen darunter. Sie blieben unerkannt und mischten sich unter die Milesier, ohne aufzufallen. Dies konnte natürlich nicht für immer so bleiben. Früher oder später setzten sie ihre Fähigkeiten ein, und immer wieder wurden Milesier Zeugen (und manche davon überlebten auch, um davon zu erzählen). Sie erlangten zuerst den Status von Gerüchten und Urban Legends, dann wurden sie nach und nach als Realität akzeptiert, aber ihnen wurde meist mit Furcht und Ablehnung begegnet. Die Feindseligkeit schaukelte sich immer weiter auf. Es wurden elektronische Implantate entwickelt, die vor manchen der Nornen-Fähigkeiten einen gewissen Schutz boten. Wurde eine Norne beim Einsatz ihrer Fähigkeit beobachtet, wurde sie nicht selten gelyncht. Oft reichte auch schon der Verdacht oder eine vage Anschuldigung, um Gewalt auszulösen. Für alles, was falsch lief, wurden Nornen verantwortlich gemacht. Als eine Lebensmittelknappheit ausbrach, erreichte die Nornenverfolgung ihren Höhepunkt. Viele Nornen verließen Bedlam, um einen schlimmeren Schicksal zu entgehen. Auch Milesierinnen wanderten ab; schließlich gab es keine Möglichkeit, zu beweisen, dass man keine Norne war - es sei denn, man war ein Mann. Nachdem der Anteil der Nornen (und Frauen generell) in der Stadt stark gesunken war, legte sich die Hysterie langsam. Die Lebensmittelversorgung normalisierte sich; man brauchte nicht mehr so dringend Sündenböcke. Als etwas Gras über die Sache gewachsen war, kamen nach und nach Frauen aus dem Exil zurück, darunter auch mutige Nornen. Sie schworen sich, diesmal unentdeckt zu bleiben, doch auch diesmal scheiterte es, und die Geschichte begann, sich zu wiederholen. Bald kamen neue Gerüchte auf, dass wieder Nornen in der Stadt seien. 
+
+(ca. 100 Jahre von der ersten Ankunft bis zur Rückkehr?) 
 
 ## Technologie
 
@@ -173,26 +176,40 @@ Online it's a different picture of course. Groups are much more diverse on the n
 
 ## Charaktere 
 
-Jessica Nguyen
+### Jessica Nguyen
+
 31 Jahre, asiatische Abstammung, Sirene
-Jessicas Mutter Nguyen Yang (洋) wuchs in einer kleinen Siedlung auf. Während einer besonders langen Dürreperiode wurde beschlossen, ein halbes Dutzend junge Leute, nach Bedlam zu schicken, in der Hoffnung, dass es ihnen dort besser ginge und außerdem die Ressourcen der Siedlung geschont würden. Unter ihnen war Yang, damals 21 Jahre alt, sowie eine weitere Norne. Nur vier von ihnen kamen in Bedlam an, und ein weiterer kam beim Versuch, illegal in die Stadt zu gelangen, ums Leben. Yang gelang es, eine leidliche Existenz aufzubauen. Schließlich lernte sie Jessicas Vater Son kennen, sagte ihm jedoch nichts davon, dass sie eine Sirene war. Selbst als sie heirateten und sie mit Jessica schwanger war, verheimlichte sie ihm ihre Fähigkeit, aus Angst, auf Ablehnung zu stoßen, wie so oft in ihrer Zeit in Bedlam. Heimlich brachte sie Jessica den Umgang mit ihrer Stimme bei, schärfte ihr jedoch ein, ihre Fähigkeit ebenfalls geheim zu halten. Als Jessica vier Jahre alt war, bekam Son jedoch mit, wie sie ihren Gesang benutzte, und das Geheimnis flog auf. Son fühlte sich betrogen und ausgeschlossen und verließ seine Familie.
 
-Siobhan O'Malley
-28 Jahre, Irisch-britische Abstammung, Nymphe (Dryade) 
+Jessica wuchs mit ihrer Mutter Nguyen Yang (洋) in einer kleinen Siedlung auf. Während einer besonders langen Dürreperiode wurde beschlossen, ein halbes Dutzend junge Leute, nach Bedlam zu schicken, in der Hoffnung, dass es ihnen dort besser ginge und außerdem die Ressourcen der Siedlung geschont würden. Unter ihnen war Jessica, damals 21 Jahre alt, sowie eine weitere Norne. Nur vier von ihnen kamen in Bedlam an, und ein weiterer kam beim Versuch, illegal in die Stadt zu gelangen, ums Leben. Jessica gelang es, eine leidliche Existenz aufzubauen. Schließlich lernte sie Son kennen, sagte ihm jedoch nichts davon, dass sie eine Sirene war. Selbst als sie heirateten und sie schwanger war, verheimlichte sie ihm ihre Fähigkeit, aus Angst, auf Ablehnung zu stoßen, wie so oft in ihrer Zeit in Bedlam. Heimlich brachte sie ihrer Tochter den Umgang mit ihrer Stimme bei, schärfte ihr jedoch ein, ihre Fähigkeit ebenfalls geheim zu halten. Als sie vier Jahre alt war, bekam Son jedoch mit, wie sie ihren Gesang benutzte, und das Geheimnis flog auf. Son fühlte sich betrogen und ausgeschlossen und verließ seine Familie.
 
-Anezka Nemcekova
-30 Jahre, osteuropäische Abstammung, Furie, Implantate 
+Jessicas Tochter war politisch aktiv und beteiligte sich oft an Protesten und Blockaden. Sie wurde den Behörden ein Dorn im Auge und wurde schließlich aus der Stadt verbannt.
 
-Ellen Baker 
-41 Jahre, afro-amerikanische Abstammung, Banshee, sitzt im Rollstuhl? 
+### Siobhan O'Malley
 
-Thomas "Tom" Schleier
+28 Jahre, Irisch-britische Abstammung, Nymphe (Dryade)
+
+Siobhans Vater ist IT-Techniker. Seit er bei Scorpion Systems arbeitet und immer mehr in deren skrupellose Machenschaften hinein gezogen wird, verschlechtert sich ihr Verhältnis zu ihm. Ihre Mutter starb vor fast zehn Jahren an Krebs.
+
+### Anezka Nemcekova
+
+30 Jahre, osteuropäische Abstammung, Furie
+
+Anezka hat Implantate, die ihre Sinneswahrnehmungen erweitern (infrarot & ultraviolett, Nachsicht, zusätzliche akustische Frequenzen, Radar?). Obwohl es metallarme Spezialanfertigungen sind und sie Medikamente nimmt, die ihre Toleranz verbessern, beeinträchtigen sie ihre Furien-Fähigkeiten. Sie verliert gelegentlich die Kontrolle und gerät ungewollt in einen Kampfrausch.
+
+### Ellen Baker
+
+41 Jahre, afro-amerikanische Abstammung, Banshee, sitzt im Rollstuhl
+
+### Thomas "Tom" Schleier
+
 36 Jahre, mitteleuropäische Abstammung, Milesier
 
-Sylvia Hagström
+### Sylvia Hagström
+
 48 Jahre, nordeuropäische Abstammung, Milesier
 
-Moira Flannigan
+### Moira Flannigan
+
 41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade), Betreiberin des "Labyrinth" 
 
 ## Storyboard
