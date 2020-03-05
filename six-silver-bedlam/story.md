@@ -35,6 +35,11 @@ zu ihm. Ihre Mutter starb vor fast zehn Jahren an Krebs.
 
 30 Jahre, osteuropäische Abstammung, Furie
 
+Anezka wuchs mit zwei älteren Geschwistern, einer Schwester und einem Bruder, auf.
+Zwischen den Kindern, besonders zwischen Anezka und ihrer Schwester, entwickelte sich
+eine starke Rivalität. Auch wenn ihre Schwester nicht direkt involviert ist legt Anezka
+großen Ehrgeiz an den Tag.
+
 Anezka hat Implantate, die ihre Sinneswahrnehmungen erweitern (infrarot & ultraviolett,
 Nachsicht, zusätzliche akustische Frequenzen, Radar?). Obwohl es metallarme
 Spezialanfertigungen sind und sie Medikamente nimmt, die ihre Toleranz verbessern,
@@ -100,8 +105,11 @@ gerät in Panik und tötet auch den anderen Gefangenen. Die beiden werfen die Le
 einen zurück gelassenen Schuttcontainer im gleichen alten Industriegebiet und versuchen,
 ihre Spuren so gut es geht zu verwischen. 
 
-Do-So: Gefangenschaft So: Tod Mo Abend: Fund Di: Meldung, Fund des Tatorts Mi: Befragung
-von Siobhan 
+- Do-So: Gefangenschaft
+- So: Tod
+- Mo Abend: Fund
+- Di: Meldung, Fund des Tatorts
+- Mi: Befragung von Siobhan 
 
 ## Plot 
 
