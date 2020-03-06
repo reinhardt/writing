@@ -61,7 +61,14 @@ oder gar eine silberne Patrone kann leicht zum Tod führen.
 
 ## Historie
 
-Anfang des 21. Jahrhunderts trafen zwei Ereignisse zusammen, die verheerende Folgen
+Im Altertum blieben Nornen oft unter sich. Sie lebten allein oder in kleinen Gruppen an abgelegenen Orten. Sirenen bevorzugten 
+Inseln und schwer zugängliche Buchten, Nymphen einsame Wälder, Banshees weitläufiges Hügelland und Moore. Lediglich Furien und Walküren lebten oft mit Milesiern zusammen, zumindest in Kulturen, die Frauen als Kämpfer erlaubten. Für die Fortpflanzung waren die Nornen natürlich auf männliche Milesier angewiesen. Manche Sirenen und Nymphen setzen ihre Fähigkeiten ein, um Männer gefügig zu machen. Andere gingen zeitweise echte Partnerschaften mit Männern ein. Aus sporadischen Kontakten entstanden Geschichten und Legenden. Viele Milesier glauben an die Existenz von Nornen, aber wenige hatten je eine zu Gesicht bekommen.
+
+Auch im Mittelalter hielten sich die Nornen eher fern von den Milesiern. Aberglaube war weit verbreitet, und ihre Fähigkeiten wurden oft mit dämonischen Mächten in Verbindung gebracht. Noch schlimmer wurde es in der frühen Neuzeit mit den Hexenverfolgungen.
+
+Erst mit der Aufklärung kamen mehr Nornen in die Siedlungen der Milesier. Gewisse Vorfälle wurden nun nicht mehr verteufelt, sondern oft weg erklärt, nach und nach aber als real akzeptiert und schließlich wissenschaftlich untersucht. Im Laufe des 19. Jahrhunderts wurden Nornen eine Konstante in der Gesellschaft, wenn sie auch oft marginalisiert, schikaniert oder angefeindet wurden. Viele Nornen gaben sich deshalb nicht als solche zu erkennen. Bis zum zweiten Weltkrieg steigerten sich diese Feindseligkeiten, weswegen sich nach dessen Ende die meisten Nornen wieder in die Einsamkeit zurück zogen, wenngleich das durch die stark gewachsene Bevölkerung schwieriger geworden war. Nach und nach verschwanden die Nornen wieder aus dem Bewusstsein der Milesier.
+
+Mitte des 21. Jahrhunderts trafen zwei Ereignisse zusammen, die verheerende Folgen
 hatten. Das eine war ein Hackerangriff auf mehrere Kernkraftwerke und Standorte von
 Atomwaffen, der eine Reihe von Störfällen und sogar nuklearen Explosionen verursachte.
 Das zweite war eine Reihe von Unwettern und Sturmtiefs, die zusammen fast globale
@@ -77,14 +84,14 @@ darunter. Sie blieben unerkannt und mischten sich unter die Milesier, ohne aufzu
 Dies konnte natürlich nicht für immer so bleiben. Früher oder später setzten sie ihre
 Fähigkeiten ein, und immer wieder wurden Milesier Zeugen (und manche davon überlebten
 auch, um davon zu erzählen). Sie erlangten zuerst den Status von Gerüchten und Urban
-Legends, dann wurden sie nach und nach als Realität akzeptiert, aber ihnen wurde meist
+Legends, dann wurden sie nach und nach wieder als Realität akzeptiert, aber erneut wurde ihnen meist
 mit Furcht und Ablehnung begegnet. Die Feindseligkeit schaukelte sich immer weiter auf.
 Es wurden elektronische Implantate entwickelt, die vor manchen der Nornen-Fähigkeiten
 einen gewissen Schutz boten. Wurde eine Norne beim Einsatz ihrer Fähigkeit beobachtet,
 wurde sie nicht selten gelyncht. Oft reichte auch schon der Verdacht oder eine vage
 Anschuldigung, um Gewalt auszulösen. Für alles, was falsch lief, wurden Nornen
 verantwortlich gemacht. Als eine Lebensmittelknappheit ausbrach, erreichte die
-Nornenverfolgung ihren Höhepunkt. Viele Nornen verließen Bedlam, um einen schlimmeren
+Nornenverfolgung ihren Höhepunkt. Viele Nornen verließen Bedlam, um einem schlimmeren
 Schicksal zu entgehen. Auch Milesierinnen wanderten ab; schließlich gab es keine
 Möglichkeit, zu beweisen, dass man keine Norne war - es sei denn, man war ein Mann.
 Nachdem der Anteil der Nornen (und Frauen generell) in der Stadt stark gesunken war,
@@ -95,7 +102,17 @@ schworen sich, diesmal unentdeckt zu bleiben, doch auch diesmal scheiterte es, u
 Geschichte begann, sich zu wiederholen. Bald kamen neue Gerüchte auf, dass wieder Nornen
 in der Stadt seien. 
 
-(ca. 100 Jahre von der ersten Ankunft bis zur Rückkehr?) 
+(ca. 150 Jahre von der Ankunft der Flüchtlinge bis zur Rückkehr?) 
+
+2065 Atomsturm
+2065-2070 Flüchtlingskrise
+2070-2080 Gerüchte
+2080-2090 Realität
+2090-2132 Anfeindungen
+2132 Hungersnot
+2132-2137 Abwanderung
+2137-2155 Exil
+2155-2175 Rückkehr
 
 ## Technologie
 
