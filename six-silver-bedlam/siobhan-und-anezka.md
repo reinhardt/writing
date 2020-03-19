@@ -1,5 +1,5 @@
 ---
-title: Six Silver Bedlam
+title: Siobhan und Anezka
 description: |
     Jessica Nguyen ist Polizistin. Und eine verdammt gute, wie viele ihrer Kollegen
     bestätigen würden. Doch sie hat ein Geheimnis, das die meisten von ihnen nicht
