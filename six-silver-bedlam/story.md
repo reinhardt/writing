@@ -46,6 +46,12 @@ Spezialanfertigungen sind und sie Medikamente nimmt, die ihre Toleranz verbesser
 beeinträchtigen sie ihre Furien-Fähigkeiten. Sie verliert gelegentlich die Kontrolle und
 gerät ungewollt in einen Kampfrausch.
 
+Anezka arbeitet bei einer kleinen Sicherheitsfirma im Personen- und Objektschutz. Sie
+hat eine Walküre als Kollegin, die ihr hilft, die speziellen Implantate zu organisieren.
+Sie versucht, sich von den großen Konzernen und deren moralisch zweifelhaften Praktiken
+fern zu halten. Doch auch bei ihrem aktuellen Arbeitgeber kommt sie gelegentlich in
+Konflikt mit ihrem Gewissen.
+
 ### Ellen Baker
 
 41 Jahre, afro-amerikanische Abstammung, Banshee, sitzt im Rollstuhl
