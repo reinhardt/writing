@@ -38,9 +38,8 @@ Jede Art der Nornen hat gewisse Fähigkeiten. Nymphen haben eine
 außerordentliche Ausstrahlung und wirken sehr anziehend auf Milesier, aber auch
 auf andere Nornen, unabhängig von Geschlecht und sexueller Orientierung.
 Sirenen können jeden, der ihren Gesang hört, beeinflussen und ihrem Willen
-unterwerfen. Banshees können mit ihren Schreien Angst und Schrecken verbreiten
-und können in begrenztem Maß Aspekte der Zukunft voraus sehen. Außerdem können
-sie einschätzen, wie anfällig bzw. empfänglich jemand für Nornen-Fähigkeiten
+unterwerfen. Banshees sind äußerst empathisch und können mit ihren Schreien starke Emotionen auf andere übertragen. Klassisches Beispiel: der Tod eines Menschen löst starke Trauer und Verzweiflung in der Banshee aus. Ihr Schrei verursacht die gleichen Emotionen in verstärkter Form in den Opfern. Außerdem können
+Banshees einschätzen, wie anfällig bzw. empfänglich jemand für Nornen-Fähigkeiten
 ist. Walküren sind begnadete Kämpferinnen und können in anderen ähnliche
 Fähigkeiten inspirieren. Furien können in eine Art Kampfrausch verfallen, der
 sie zu fürchterlichen Gegnern macht.
