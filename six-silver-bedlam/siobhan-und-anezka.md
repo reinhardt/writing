@@ -42,7 +42,7 @@ meisten vermisste sie das Meer. Bei diesem Gedanken drehte sie sich abrupt um un
 den Weg nach Hause ein. Sie würde ein Bad nehmen, und dann versuchen, zu schlafen.
 Morgen würde zumindest die Dunkelheit sich für eine Weile zurück ziehen.
 
-# Kapitel 2
+---
 
 Mit einer routinierten Bewegung warf Jessica ihren Mantel an einen Haken der Garderobe.
 Ihre Stimmung war nicht wesentlich besser als am Abend zuvor, aber sie hatte Übung
@@ -67,7 +67,7 @@ zwanzig Jahren nicht mehr verlassen." lamentierte sie mit nur leicht übertriebe
 Verzweiflung. "Die haben keine Ahnung, was wir brauchen, um unsere Arbeit da draußen zu
 machen, oder?"
 
-Tom breitete zustimmend die Arme aus. "Wahnsinn, oder? Und dann wundern sie sich, wenn
+Tom breitete zustimmend die Arme aus. "Wahnsinn, nicht wahr? Und dann wundern sie sich, wenn
 die Aufklärungsraten einbrechen, und behaupten, wir hätten zu viel Urlaub oder zu lange
 Mittagspausen."
 
@@ -108,6 +108,7 @@ nichts Definitives."
 
 "Wir fahren gleich mal hin und sehen uns das an." beschloss Jessica. 
 
+---
 
 Der dunkelblaue Dienstwagen rollte durch menschenleere Straßen. Am Fundort hatte es
 wenig Neues zu erfahren gegeben. Die unterschiedlichen Todesursachen gaben immer noch
@@ -169,7 +170,7 @@ sie war wirklich komplett leer und einfach nur ein ganzes Stück zu sauber.
 "Lass uns die Experten holen.", schlug Jessica vor. "Die Spurensicherung findet
 normalerweise auch noch etwas, wenn jemand einen Frühjahrsputz gemacht hat."
 
-# Kapitel 3
+# Kapitel 2
 
 Siobhan erwachte schweißgebadet. Fetzen eines Albtraums geisterten noch durch ihren
 Kopf; Blut und Schreie, hohe weiße Wände, eine Waffe in ihrer Hand. Anezkas Gesicht, zu
@@ -269,7 +270,7 @@ Ellen nickte zufrieden. "Du kennst die beiden."
 Die zweite Runde Getränke holte Siobhan, und sie unterhielten sich noch eine Weile über
 Neuigkeiten und Gerüchte. 
 
-# Kapitel 4
+# Kapitel 3
 
 Während die Spurensicherung ihrer Arbeit nachging, sahen sich Jessica und Tom weiter in
 der Umgebung um. Sie kontrollierten noch die übrigen Gebäude auf dem Gelände, jedoch
@@ -345,7 +346,7 @@ Augen und beschleunigte ihre Schritte. In fünf Minuten würde sie zu Hause sein
 würde ein Bad nehmen, sich unter ihrer Bettdecke verstecken, und versuchen, alles zu
 vergessen. 
 
-# Kapitel 5
+# Kapitel 4
 
 Siobhan ließ ihre Tasche fallen und schob die Wohnungstür hinter sich zu. Sie streifte
 ihre Schuhe und Socken ab und tapste barfuß zur Küchenzeile, wo sie Wasser für einen Tee
@@ -502,7 +503,7 @@ Moment lang war sie wir erstarrt. Dann fing sie an zu weinen. Heftige Schluchzer
 schüttelten sie, als sie sich erlaubte, längst überfällige Gefühle zu fühlen. *Warum,*
 dachte sie. *Warum nur? Was in Gaias Namen haben wir getan?*
 
-# Kapitel 6
+# Kapitel 5
 
 Ellen kam mit einer Tasse Tee zur Couch, wo Siobhan in sich zusammen gesunken war und
 leise schluchzte. "Jetzt noch mal ganz langsam", sagte sie mit ruhiger Stimme. "Die
@@ -510,18 +511,19 @@ Polizei war also bei dir?"
 
 Siobhan nickte. "Gerade vorhin", schniefte sie.
 
-"Und was wollte sie?"
+"Und was wollten sie?"
 
-"Sie wollte wissen, wo ich am Montag Nachmittag war."
+"Sie wollten wissen, wo ich am Montag Nachmittag war."
 
 Ellen runzelte die Stirn. "Hast du etwas angestellt?"
 
-Siobhan schluchzte laut auf, und es sprudelte aus ihr heraus. "Wir haben Mist gebaut,
-Ellen. Ganz großen Mist. Anezka hat es doch nur gut gemeint. Aber dann ist alles aus dem
-Ruder gelaufen. Wir hätten ..."
+Siobhans Gesicht verfinsterte sich noch mehr. "Wir haben Mist gebaut, Ellen", gestand
+sie mit zitternder Stimme. "Ganz großen Mist." Sie schüttelte verzweifelt den Kopf.
+"Anezka hat es doch nur gut gemeint. Aber dann ist alles aus dem Ruder gelaufen. Wir
+hätten nie dem Lieferwagen folgen sollen ..."
 
-"Halt, halt, halt", unterbrach sie Ellen. "Eins nach dem anderen. Versuch mal, von vorne
-anzufangen."
+"Halt, halt, halt", unterbrach sie Ellen. "Eins nach dem anderen. Hol erst mal Luft, und
+denn versuche, von vorne anzufangen."
 
 Siobhan zwang sich, tief durch zu atmen. Wie hatte alles angefangen? "Du weißt doch,
 dass ich öfter im Donar-Park bin, wenn ich auftanken muss." Ellen nickte. "Anezka ist in

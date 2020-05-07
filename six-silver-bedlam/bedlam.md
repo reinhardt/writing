@@ -159,6 +159,33 @@ regelmäßig verletzt, es gibt umfassende Überwachung und häufige gewaltsame
 Übergriffe durch die Polizei. Das organisierte Verbrechen floriert und wird
 geduldet. 
 
+## Kultur
+
+### Subkulturen
+
+#### Voodoopunk
+
+Aus der Tradition des Goth Punk kommend ist der Voodoopunk um Elemente westafrikanischer
+und Haitianischer Religion angereichert. Der ferne Gott (Bondye) wird von manchen
+Anhängern durch den toten Gott des Nihilismus ersetzt; Opferrituale werden zu Symbolen
+der Hilflosigkeit angesichts der Sinnlosigkeit des Daseins. Andere Untergruppen leben
+dagegen mehr die Faszination mit der Geisterwelt, der Trance und allgemein dem
+Übernatürlichen und Jenseitigen aus.
+
+Viele Voodoopunks sind ethnisch und traditionell dem Voodoo (Vodun) fern, was manchen
+traditionelle Voodoo-Anhängern ein Ärgernis ist.
+
+#### Umweltbewegung
+
+Die zwei Hauptströmungen der Umweltbewegung sind Bioniker und Animisten. Die Bioniker
+wollen den "Geist" der Natur (im Sinne von "Idee", "Essenz") schützen und nehmen dafür
+unter Umständen Verluste konkreter Ausprägungen der Natur in Kauf. Sie nehmen die Natur
+als Maß für technologische Innovationen und billigen am ehesten Technologie, die Ideen
+aus der Natur aufgreift. Die Animisten schreiben dagegen der Natur einen "Geist" im
+Sinne von "Seele" oder "Bewusstsein" zu und betrachten jedes Wesen oder Objekt in der
+Natur als heilig und schützenswert. Die Idee, dass die Erde ein eigenständiges Wesen
+("Gaia") ist, ist weit verbreitet.
+
 ## Konzerne
 
 ### Scorpion Systems 🦂

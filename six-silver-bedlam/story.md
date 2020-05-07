@@ -29,7 +29,8 @@ Sie wurde den Behörden ein Dorn im Auge und wurde schließlich aus der Stadt ve
 
 Siobhans Vater ist IT-Techniker. Seit er bei Scorpion Systems arbeitet und immer mehr in
 deren skrupellose Machenschaften hinein gezogen wird, verschlechtert sich ihr Verhältnis
-zu ihm. Ihre Mutter starb vor fast zehn Jahren an Krebs.
+zu ihm. Ihre Mutter starb vor fast zehn Jahren an Krebs. Siobhan gehört dem
+animistischen Zweig der Umweltbewegung an.
 
 ### Anezka Nemcekova
 
@@ -45,6 +46,9 @@ Nachsicht, zusätzliche akustische Frequenzen, Radar?). Obwohl es metallarme
 Spezialanfertigungen sind und sie Medikamente nimmt, die ihre Toleranz verbessern,
 beeinträchtigen sie ihre Furien-Fähigkeiten. Sie verliert gelegentlich die Kontrolle und
 gerät ungewollt in einen Kampfrausch.
+
+Anezka steht ideologisch und stilistisch dem Voodoopunk nahe, ist aber nicht in eine
+entsprechende Organisation eingebunden.
 
 Anezka arbeitet bei einer kleinen Sicherheitsfirma im Personen- und Objektschutz. Sie
 hat eine Walküre als Kollegin, die ihr hilft, die speziellen Implantate zu organisieren.
