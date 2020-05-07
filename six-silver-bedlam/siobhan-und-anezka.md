@@ -528,9 +528,11 @@ denn versuche, von vorne anzufangen."
 Siobhan zwang sich, tief durch zu atmen. Wie hatte alles angefangen? "Du weißt doch,
 dass ich öfter im Donar-Park bin, wenn ich auftanken muss." Ellen nickte. "Anezka ist in
 letzter Zeit manchmal mit gekommen", fuhr Siobhan fort. "An einem Abend waren wir noch
-spät dort. Wir waren auf die Eiche geklettert und müssen schwer zu sehen gewesen sein.
-Plötzlich bog ein Lieferwagen von der Straße ab und hielt mitten im Park. Zwei Leute
-stiegen aus und fingen an, Fässer mit Flüssigkeit auszuleeren; zwischen die Büsche, in
+spät dort. Es war ungewöhnlich warm. Wir waren auf die Eiche geklettert und haben
+einfach nur da oben gesessen und in die Nacht geschaut. Plötzlich bog ein Lieferwagen
+von der Straße ab und hielt mitten im Park. Zwei Leute stiegen aus.  Wir müssen im
+Dunklen zwischen den Ästen schwer zu sehen gewesen sein, denn sie nahmen keinerlei Notiz
+von uns. Sie fingen an, Fässer mit Flüssigkeit aus zu leeren; zwischen die Büsche, in
 den Teich, überall hin. Als sie wieder weg gefahren waren, sind wir herunter geklettert,
 und haben es uns angesehen. Ich weiß nicht genau, was es war, aber es war eindeutig
 irgendein Teufelszeug, das in einem Park nichts zu suchen hat." Sie ballte unwillkürlich
