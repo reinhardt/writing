@@ -1,4 +1,4 @@
-- Ellen spürt Mord
+- Banshees
 - Subkulturen
 - Hintergründe der Charaktere
 - Historie

@@ -34,15 +34,17 @@ Die größten Gruppen unter den Nornen sind
 * Walküren
 * Furien/Erinyes
 
-Jede Art der Nornen hat gewisse Fähigkeiten. Nymphen haben eine
-außerordentliche Ausstrahlung und wirken sehr anziehend auf Milesier, aber auch
-auf andere Nornen, unabhängig von Geschlecht und sexueller Orientierung.
-Sirenen können jeden, der ihren Gesang hört, beeinflussen und ihrem Willen
-unterwerfen. Banshees sind äußerst empathisch und können mit ihren Schreien starke Emotionen auf andere übertragen. Klassisches Beispiel: der Tod eines Menschen löst starke Trauer und Verzweiflung in der Banshee aus. Ihr Schrei verursacht die gleichen Emotionen in verstärkter Form in den Opfern. Außerdem können
-Banshees einschätzen, wie anfällig bzw. empfänglich jemand für Nornen-Fähigkeiten
-ist. Walküren sind begnadete Kämpferinnen und können in anderen ähnliche
-Fähigkeiten inspirieren. Furien können in eine Art Kampfrausch verfallen, der
-sie zu fürchterlichen Gegnern macht.
+Jede Art der Nornen hat gewisse Fähigkeiten. Nymphen haben eine außerordentliche
+Ausstrahlung und wirken sehr anziehend auf Milesier, aber auch auf andere Nornen,
+unabhängig von Geschlecht und sexueller Orientierung. Sirenen können jeden, der ihren
+Gesang hört, beeinflussen und ihrem Willen unterwerfen. Banshees sind äußerst empathisch
+und können mit ihren Schreien starke Emotionen auf andere übertragen. Klassisches
+Beispiel: der Tod eines Menschen löst starke Trauer und Verzweiflung in der Banshee aus.
+Ihr Schrei verursacht die gleichen Emotionen in verstärkter Form in den Opfern. Außerdem
+können Banshees einschätzen, wie anfällig bzw. empfänglich jemand für Nornen-Fähigkeiten
+ist. Walküren sind begnadete Kämpferinnen und können in anderen ähnliche Fähigkeiten
+inspirieren. Furien können in eine Art Kampfrausch verfallen, der sie zu fürchterlichen
+Gegnern macht.
 
 
 Alle Nornen von Bedlam sind weiblich. Wenn sie sich mit einem menschlichen
@@ -180,10 +182,13 @@ Die zwei Hauptströmungen der Umweltbewegung sind Bioniker und Animisten. Die Bi
 wollen den "Geist" der Natur (im Sinne von "Idee", "Essenz") schützen und nehmen dafür
 unter Umständen Verluste konkreter Ausprägungen der Natur in Kauf. Sie nehmen die Natur
 als Maß für technologische Innovationen und billigen am ehesten Technologie, die Ideen
-aus der Natur aufgreift. Die Animisten schreiben dagegen der Natur einen "Geist" im
-Sinne von "Seele" oder "Bewusstsein" zu und betrachten jedes Wesen oder Objekt in der
+aus der Natur aufgreift. Die Animisten schreiben dagegen der Natur einen "Geist" (im
+Sinne von "Seele" oder "Bewusstsein") zu und betrachten jedes Wesen oder Objekt in der
 Natur als heilig und schützenswert. Die Idee, dass die Erde ein eigenständiges Wesen
 ("Gaia") ist, ist weit verbreitet.
+
+Eine kleinere Gruppierung, die Elemente aus Goth-Kultur und Umweltbewegung vereint, ist
+als die "Dunkelgrünen" bekannt.
 
 ## Konzerne
 
