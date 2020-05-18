@@ -7,7 +7,7 @@
 31 Jahre, asiatische Abstammung, Sirene
 
 Jessica wuchs mit ihrer Mutter Nguyen Yang (洋) in einer kleinen Siedlung auf. Während
-einer besonders langen Dürreperiode wurde beschlossen, ein halbes Dutzend junge Leute,
+einer besonders langen Dürreperiode wurde beschlossen, ein halbes Dutzend junge Leute
 nach Bedlam zu schicken, in der Hoffnung, dass es ihnen dort besser ginge und außerdem
 die Ressourcen der Siedlung geschont würden. Unter ihnen war Jessica, damals 21 Jahre
 alt, sowie eine weitere Norne. Nur vier von ihnen kamen in Bedlam an, und ein weiterer
@@ -42,7 +42,7 @@ eine starke Rivalität. Auch wenn ihre Schwester nicht direkt involviert ist leg
 großen Ehrgeiz an den Tag.
 
 Anezka hat Implantate, die ihre Sinneswahrnehmungen erweitern (infrarot & ultraviolett,
-Nachsicht, zusätzliche akustische Frequenzen, Radar?). Obwohl es metallarme
+Nachtsicht, zusätzliche akustische Frequenzen, Radar?). Obwohl es metallarme
 Spezialanfertigungen sind und sie Medikamente nimmt, die ihre Toleranz verbessern,
 beeinträchtigen sie ihre Furien-Fähigkeiten. Sie verliert gelegentlich die Kontrolle und
 gerät ungewollt in einen Kampfrausch.
@@ -71,6 +71,12 @@ Konflikt mit ihrem Gewissen.
 ### Moira Flannigan
 
 41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade), Betreiberin des "Labyrinth" 
+
+### Alexandria Machado Ferreira
+
+26 Jahre, südamerikanische Abstammung, Milesierin
+
+Alexandrias langjähriger Partner hatte eine Affäre mit einer Banshee. Als er sich mit ihr traf, um die Sache zu beenden, wurde sie zornig und es kam zu einem heftigen Streit. Sie setzte ihren Schrei ein, wodurch auch er in Rage geriet. Der Streit eskalierte. Sie zog eine Waffe; zuerst nur, um ihm Angst zu machen, doch schließlich gab sie zwei Schüsse ab, von denen einer für ihn tödlich war. Alexandria hegt seitdem einen Groll gegen alle Nornen und speziell Banshees. Sie setzt sich für eine strikte Regulierung von Nornen und ihren Fähigkeiten ein. 
 
 ## Storyboard
 
