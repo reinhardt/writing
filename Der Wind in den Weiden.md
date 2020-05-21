@@ -1,5 +1,6 @@
 ---
 title: Der Wind in den Weiden
+workinprogress: !!bool false
 description: |
     Die tragische Geschichte eines Königssohnes, der sich in die Tochter der Sternenkönigin verliebt.
 ---
