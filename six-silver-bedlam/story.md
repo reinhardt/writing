@@ -76,7 +76,14 @@ Konflikt mit ihrem Gewissen.
 
 26 Jahre, südamerikanische Abstammung, Milesierin
 
-Alexandrias langjähriger Partner hatte eine Affäre mit einer Banshee. Als er sich mit ihr traf, um die Sache zu beenden, wurde sie zornig und es kam zu einem heftigen Streit. Sie setzte ihren Schrei ein, wodurch auch er in Rage geriet. Der Streit eskalierte. Sie zog eine Waffe; zuerst nur, um ihm Angst zu machen, doch schließlich gab sie zwei Schüsse ab, von denen einer für ihn tödlich war. Alexandria hegt seitdem einen Groll gegen alle Nornen und speziell Banshees. Sie setzt sich für eine strikte Regulierung von Nornen und ihren Fähigkeiten ein. 
+Alexandrias langjähriger Partner hatte eine Affäre mit einer Banshee. Als er
+sich mit ihr traf, um die Sache zu beenden, wurde sie zornig und es kam zu
+einem heftigen Streit. Sie setzte ihren Schrei ein, wodurch auch er in Rage
+geriet. Der Streit eskalierte. Sie zog eine Waffe; zuerst nur, um ihm Angst zu
+machen, doch schließlich gab sie zwei Schüsse ab, von denen einer für ihn
+tödlich war. Alexandria hegt seitdem einen Groll gegen alle Nornen und speziell
+Banshees. Sie setzt sich für eine strikte Regulierung von Nornen und ihren
+Fähigkeiten ein. 
 
 ## Storyboard
 
