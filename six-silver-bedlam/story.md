@@ -66,15 +66,15 @@ Konflikt mit ihrem Gewissen.
 
 ### Sylvia Hagström
 
-48 Jahre, nordeuropäische Abstammung, Milesier
+48 Jahre, nordeuropäische Abstammung, Milesierin
 
 ### Moira Flannigan
 
 41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade), Betreiberin des "Labyrinth" 
 
-### Alexandria Machado Ferreira
+### Alexandria Kamau Ferreira
 
-26 Jahre, südamerikanische Abstammung, Milesierin
+26 Jahre, südamerikanische/westafrikanische Abstammung, Milesierin
 
 Alexandrias langjähriger Partner hatte eine Affäre mit einer Banshee. Als er
 sich mit ihr traf, um die Sache zu beenden, wurde sie zornig und es kam zu
@@ -83,7 +83,7 @@ geriet. Der Streit eskalierte. Sie zog eine Waffe; zuerst nur, um ihm Angst zu
 machen, doch schließlich gab sie zwei Schüsse ab, von denen einer für ihn
 tödlich war. Alexandria hegt seitdem einen Groll gegen alle Nornen und speziell
 Banshees. Sie setzt sich für eine strikte Regulierung von Nornen und ihren
-Fähigkeiten ein. 
+Fähigkeiten ein. Sie verfügt über zahlreiche Implantate und Geräte, die vor den Fähigkeiten von Nornen schützen oder warnen. 
 
 ## Storyboard
 
@@ -103,13 +103,19 @@ vergangenen Tage und geht zur Arbeit.
 Nach der Arbeit geht Siobhan ins Labyrinth. Dort trifft sie Ellen und redet mit ihr,
 aber zunächst nicht über die Erinnerungen, die sie belasten.
 
+Jessica und Tom bekommen von einem Obdachlosen Beschreibungen von zwei Frauen, die in der Nähe des Tatorts gewesen waren. 
+
 Jessica wird auf dem Weg nach Hause von einem Mann angegriffen. Sie rettet sich mit
 ihrem Gesang.
 
-Am nächsten Tag bekommt Siobhan Besuch von Jessica und Tom, die sie zum Mordfall
+Am nächsten Tag bekommt sie Material von Überwachungskameras, durch das Siobhan in den Fokus der Ermittlungen rückt.
+
+Siobhan bekommt Besuch von Jessica und Tom, die sie zum Mordfall
 befragen. Siobhan gibt vor, nichts zu wissen.
 
 Siobhan ist unruhig, geht zu Ellen und vertraut sich ihr an.
+
+Ellen sucht Jessica auf und versucht, zu vermitteln. 
 
 ## Tathergang und Hintergründe
 
@@ -156,11 +162,11 @@ Bekannte von Jessica und Siobhan ist. Ellen erzählt, dass Siobhan sich ihr anve
 habe, und versucht, zwischen den beiden zu vermitteln. Siobhan streitet zunächst alle
 Vorwürfe ab, doch es ergeben sich Widersprüche. Sie gibt auch vor, Anezka auf den Fotos
 nicht zu erkennen, doch Ellen identifiziert sie. Fingerabdrücke nehmen zu lassen lehnen
-die beiden ab. Als mehr Informationen über den Fall nach außen dringen, werden zum einen
-Nornen-feindliche Stimmen laut, zum anderen bildet sich als Gegenpol in der
+die beiden ab. CP6 vertraut der Polizei nicht und beauftragt Alexandria, selbst Ermittlungen anzustellen. Als sie mit Siobhan spricht, setzt diese ihre Fähigkeit ein. Durch ihre Implantate weiß Alexandria jetzt, dass sie eine Nymphe ist. Sie verbreitet diese Information unter Gleichgesinnten, die den Fall benutzen wollen, um eine strenge Regulierung von Nornen durchzusetzen. Zum anderen bildet sich als Gegenpol in der
 Nornen-Community eine Bewegung heraus, die Siobhan und Anezka schützen will. Ihre
 Anhänger behaupten, dass die beiden unschuldig und Opfer eines Komplotts sind, welches
 die Nornen als Gefahr für die Milesier darstellen und aus der Stadt verbannen will.
+
 Jessica möchte unbewusst an die Unschuld der beiden glauben und überlegt sich
 alternative Theorien, z. B. dass die Opfer Affären mit Nornen gehabt hätten und von
 ihren eifersüchtigen Partnerinnen getötet worden seien. Trotz Toms berechtigten Zweifeln
@@ -174,7 +180,9 @@ dort oft aufhält und damit, in Verbindung mit ihrem Umwelt-Aktivismus, ein Moti
 Dieses versucht Jessica zunächst weg zu erklären, jedoch wird dadurch der Tatverdacht
 dringend genug, dass sie angewiesen wird, Fingerabdrücke der Verdächtigen zu nehmen,
 wenn nötig unter Zwang. Siobhan und Anezka wehren sich und Jessica lässt sie davon
-kommen. Daraufhin tauchen die beiden unter. Ellen organisiert ein Versteck, wohin sie
+kommen. Daraufhin tauchen die beiden unter. 
+
+Ellen organisiert ein Versteck, wohin sie
 sich mit einigen Verbündeten zurück ziehen. Bei einem Gespräch mit Ellen, in dem diese
 andeutet, dass Siobhan und Anezka schuldig sein könnten, aber sie die beiden trotzdem im
 Namen aller Nornen beschützt, trifft Jessica eine Entscheidung. Sie akzeptiert, dass
