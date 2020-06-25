@@ -213,3 +213,89 @@ wird. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf Hexachem im
 Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen, und plädiert dafür,
 nicht alle Nornen über einen Kamm zu scheren, nur weil zwei von ihnen einen Fehler
 begangen haben.
+
+## Outline
+
+### Kapitel 1
+
+1500 Wörter
+
+Tag 1
+
+Jessica und Tom bekommen einen neuen Fall: zwei Leichen mit unterschiedlichen
+Verletzungen. Sie sehen sich den Fundort an, folgen einer Spur und finden den
+mutmaßlichen Tatort im ehemaligen Industriegebiet.
+
+### Kapitel 2
+
+1000 Wörter
+
+Tag 1
+
+Siobhan kämpft mit Alpträumen und Erinnerungen. Sie schafft es, beides zu verdrängen und
+stürzt sich zurück in ihren Alltag. Abends trifft sie Ellen im Labyrinth und plaudert
+mit ihr bei ein paar Drinks.
+
+### Kapitel 3
+
+1000 Wörter
+
+Tag 1
+
+Jessica und Tom bekommen eine Zeugenaussage eines Obdachlosen. Auf deren Basis beginnen
+die Techniker mit der Auswerung von Überwachungsdaten.
+
+Auf dem Heimweg versucht ein Betrunkener, Jessica zu vergewaltigen. Sie setzt ihre
+Fähigkeit ein und er stürzt sich in seinen Tod.
+
+### Kapitel 4
+
+1000 Wörter
+
+Tag 2
+
+Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem.
+
+Die Auswertung der Überwachungskameras liefert Bilder von zwei Personen, auf die die
+Beschreibung des Obdachlosen passt. Zu einer der Frauen gibt es einen Treffer in der
+Datenbank: Siobhan O'Malley. Jessica und Tom beschließen, sie zu besuchen.
+
+### Kapitel 5
+
+1600 Wörter
+
+Tag 2
+
+Siobhan macht es sich zu Hause gemütlich und wird von Jessica und Tom überrascht, die
+ihr Fragen zum Mordfall stellen. Sie will ihre Fähigkeit einsetzen, aber bevor es so
+weit kommt, gehen die beiden wieder.
+
+### Kapitel 6
+
+(Streichen? Leser soll noch nicht wissen, ob Siobhan Täterin ist)
+
+1000 Wörter
+
+Tag 2
+
+Siobhans Erinnerungen brechen wieder hervor und sie geht zu Ellen. Sie erzählt ihr, was
+passiert ist.
+
+### Kapitel 7
+
+1500 Wörter
+
+Tag 3
+
+Ellen kommt zu Jessica und erzählt, dass Siobhan sich ihr anvertraut habe. Sie
+behauptet, dass Siobhan in die Entführung verwickelt sei, aber den Mord nicht begangen
+habe. Jessica zeigt ihr die Bilder der Überwachungskamera und Ellen identifiziert die
+zweite Person als Anezka Nemcekova.
+
+### Kapitel 8
+
+1000 Wörter
+
+Tag 3
+
+Jessica und Tom besuchen Anezka.
