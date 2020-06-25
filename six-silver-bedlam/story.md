@@ -76,14 +76,14 @@ Konflikt mit ihrem Gewissen.
 
 26 Jahre, südamerikanische/westafrikanische Abstammung, Milesierin
 
-Alexandrias langjähriger Partner hatte eine Affäre mit einer Banshee. Als er
-sich mit ihr traf, um die Sache zu beenden, wurde sie zornig und es kam zu
-einem heftigen Streit. Sie setzte ihren Schrei ein, wodurch auch er in Rage
-geriet. Der Streit eskalierte. Sie zog eine Waffe; zuerst nur, um ihm Angst zu
-machen, doch schließlich gab sie zwei Schüsse ab, von denen einer für ihn
-tödlich war. Alexandria hegt seitdem einen Groll gegen alle Nornen und speziell
-Banshees. Sie setzt sich für eine strikte Regulierung von Nornen und ihren
-Fähigkeiten ein. Sie verfügt über zahlreiche Implantate und Geräte, die vor den Fähigkeiten von Nornen schützen oder warnen. 
+Alexandrias langjähriger Partner hatte eine Affäre mit einer Banshee. Als er sich mit
+ihr traf, um die Sache zu beenden, wurde sie zornig und es kam zu einem heftigen Streit.
+Sie setzte ihren Schrei ein, wodurch auch er in Rage geriet. Der Streit eskalierte. Sie
+zog eine Waffe; zuerst nur, um ihm Angst zu machen, doch schließlich gab sie zwei
+Schüsse ab, von denen einer für ihn tödlich war. Alexandria hegt seitdem einen Groll
+gegen alle Nornen und speziell Banshees. Sie setzt sich für eine strikte Regulierung von
+Nornen und ihren Fähigkeiten ein. Sie verfügt über zahlreiche Implantate und Geräte, die
+vor den Fähigkeiten von Nornen schützen oder warnen. 
 
 ## Storyboard
 
@@ -103,15 +103,17 @@ vergangenen Tage und geht zur Arbeit.
 Nach der Arbeit geht Siobhan ins Labyrinth. Dort trifft sie Ellen und redet mit ihr,
 aber zunächst nicht über die Erinnerungen, die sie belasten.
 
-Jessica und Tom bekommen von einem Obdachlosen Beschreibungen von zwei Frauen, die in der Nähe des Tatorts gewesen waren. 
+Jessica und Tom bekommen von einem Obdachlosen Beschreibungen von zwei Frauen, die in
+der Nähe des Tatorts gewesen waren. 
 
 Jessica wird auf dem Weg nach Hause von einem Mann angegriffen. Sie rettet sich mit
 ihrem Gesang.
 
-Am nächsten Tag bekommt sie Material von Überwachungskameras, durch das Siobhan in den Fokus der Ermittlungen rückt.
+Am nächsten Tag bekommt sie Material von Überwachungskameras, durch das Siobhan in den
+Fokus der Ermittlungen rückt.
 
-Siobhan bekommt Besuch von Jessica und Tom, die sie zum Mordfall
-befragen. Siobhan gibt vor, nichts zu wissen.
+Siobhan bekommt Besuch von Jessica und Tom, die sie zum Mordfall befragen. Siobhan gibt
+vor, nichts zu wissen.
 
 Siobhan ist unruhig, geht zu Ellen und vertraut sich ihr an.
 
@@ -162,7 +164,11 @@ Bekannte von Jessica und Siobhan ist. Ellen erzählt, dass Siobhan sich ihr anve
 habe, und versucht, zwischen den beiden zu vermitteln. Siobhan streitet zunächst alle
 Vorwürfe ab, doch es ergeben sich Widersprüche. Sie gibt auch vor, Anezka auf den Fotos
 nicht zu erkennen, doch Ellen identifiziert sie. Fingerabdrücke nehmen zu lassen lehnen
-die beiden ab. CP6 vertraut der Polizei nicht und beauftragt Alexandria, selbst Ermittlungen anzustellen. Als sie mit Siobhan spricht, setzt diese ihre Fähigkeit ein. Durch ihre Implantate weiß Alexandria jetzt, dass sie eine Nymphe ist. Sie verbreitet diese Information unter Gleichgesinnten, die den Fall benutzen wollen, um eine strenge Regulierung von Nornen durchzusetzen. Zum anderen bildet sich als Gegenpol in der
+die beiden ab. CP6 vertraut der Polizei nicht und beauftragt Alexandria, selbst
+Ermittlungen anzustellen. Als sie mit Siobhan spricht, setzt diese ihre Fähigkeit ein.
+Durch ihre Implantate weiß Alexandria jetzt, dass sie eine Nymphe ist. Sie verbreitet
+diese Information unter Gleichgesinnten, die den Fall benutzen wollen, um eine strenge
+Regulierung von Nornen durchzusetzen. Zum anderen bildet sich als Gegenpol in der
 Nornen-Community eine Bewegung heraus, die Siobhan und Anezka schützen will. Ihre
 Anhänger behaupten, dass die beiden unschuldig und Opfer eines Komplotts sind, welches
 die Nornen als Gefahr für die Milesier darstellen und aus der Stadt verbannen will.
@@ -182,28 +188,28 @@ dringend genug, dass sie angewiesen wird, Fingerabdrücke der Verdächtigen zu n
 wenn nötig unter Zwang. Siobhan und Anezka wehren sich und Jessica lässt sie davon
 kommen. Daraufhin tauchen die beiden unter. 
 
-Ellen organisiert ein Versteck, wohin sie
-sich mit einigen Verbündeten zurück ziehen. Bei einem Gespräch mit Ellen, in dem diese
-andeutet, dass Siobhan und Anezka schuldig sein könnten, aber sie die beiden trotzdem im
-Namen aller Nornen beschützt, trifft Jessica eine Entscheidung. Sie akzeptiert, dass
-gegen die Verdächtigen zu ermitteln nichts damit zu tun hat, ob sie Nornen sind oder
-nicht, sondern nur damit, ob sie schuldig sind oder nicht. Sie kann die Nornen-Community
-unterstützen und trotzdem Individuen, die das Gesetz brechen, hinter Gitter bringen. Sie
-spricht mit Leuten, die sich auf die Seite von Siobhan und Anezka geschlagen haben, und
-versucht, sie von ihrer Ansicht zu überzeugen - mit gemischten Ergebnissen. Schließlich
-findet sie heraus, wo sich das Versteck befindet, und redet mit den dort versteckten
-Nornen und Milesiern. Sie weigern sich jedoch, die Verdächtigen heraus zu geben. Jessica
-befürchtet ein Blutbad, falls die Polizei das Gebäude stürmen sollte. Deshalb stellt sie
-auf eigene Faust ein Team zusammen. Sie hofft immer noch, die Situation ohne Gewalt
-auflösen zu können, aber sie will auch, falls es zu einem Kampf kommt, vorbereitet sein.
-Sie kommt mit ihren Mitstreitern wieder zum Versteck und versucht ein letztes Mal, zu
-verhandeln. Die dort Verschanzten fordern, dass zuerst jemand von Hexachem für die
-Umweltverschmutzung verhaftet wird, bevor im Mordfall weiter ermittelt wird. Jessica
-erklärt, dass sie das nicht erfüllen kann, und als die Gegenseite die Forderung nicht
-aufgibt, eskaliert die Situation. Siobhan wird im Lauf der Auseinandersetzung tödlich
-verletzt, woraufhin Anezka in Rage gerät und mehrere Mitglieder von Jessicas Team schwer
-verletzt, einen davon tödlich, bevor sie überwältigt wird und Jessica dafür sorgt, dass
-sie festgenommen wird. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf
-Hexachem im Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen, und
-plädiert dafür, nicht alle Nornen über einen Kamm zu scheren, nur weil zwei von ihnen
-einen Fehler begangen haben.
+Ellen organisiert ein Versteck, wohin sie sich mit einigen Verbündeten zurück ziehen.
+Bei einem Gespräch mit Ellen, in dem diese andeutet, dass Siobhan und Anezka schuldig
+sein könnten, aber sie die beiden trotzdem im Namen aller Nornen beschützt, trifft
+Jessica eine Entscheidung. Sie akzeptiert, dass gegen die Verdächtigen zu ermitteln
+nichts damit zu tun hat, ob sie Nornen sind oder nicht, sondern nur damit, ob sie
+schuldig sind oder nicht. Sie kann die Nornen-Community unterstützen und trotzdem
+Individuen, die das Gesetz brechen, hinter Gitter bringen. Sie spricht mit Leuten, die
+sich auf die Seite von Siobhan und Anezka geschlagen haben, und versucht, sie von ihrer
+Ansicht zu überzeugen - mit gemischten Ergebnissen. Schließlich findet sie heraus, wo
+sich das Versteck befindet, und redet mit den dort versteckten Nornen und Milesiern. Sie
+weigern sich jedoch, die Verdächtigen heraus zu geben. Jessica befürchtet ein Blutbad,
+falls die Polizei das Gebäude stürmen sollte. Deshalb stellt sie auf eigene Faust ein
+Team zusammen. Sie hofft immer noch, die Situation ohne Gewalt auflösen zu können, aber
+sie will auch, falls es zu einem Kampf kommt, vorbereitet sein. Sie kommt mit ihren
+Mitstreitern wieder zum Versteck und versucht ein letztes Mal, zu verhandeln. Die dort
+Verschanzten fordern, dass zuerst jemand von Hexachem für die Umweltverschmutzung
+verhaftet wird, bevor im Mordfall weiter ermittelt wird. Jessica erklärt, dass sie das
+nicht erfüllen kann, und als die Gegenseite die Forderung nicht aufgibt, eskaliert die
+Situation. Siobhan wird im Lauf der Auseinandersetzung tödlich verletzt, woraufhin
+Anezka in Rage gerät und mehrere Mitglieder von Jessicas Team schwer verletzt, einen
+davon tödlich, bevor sie überwältigt wird und Jessica dafür sorgt, dass sie festgenommen
+wird. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf Hexachem im
+Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen, und plädiert dafür,
+nicht alle Nornen über einen Kamm zu scheren, nur weil zwei von ihnen einen Fehler
+begangen haben.
