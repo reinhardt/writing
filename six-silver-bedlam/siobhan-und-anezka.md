@@ -564,7 +564,7 @@ beiden ausstiegen. Der Parkplatz war beleuchtet, und wir konnten endlich einen
 vernünftigen Blick auf sie werfen. Es war eine Frau und ein Mann, etwas älter als wir,
 in dunkler Kleidung. Als sie in das Gebäude gegangen waren, sahen wir uns noch etwas um.
 Der Parkplatz war nicht gekennzeichnet, aber auf der anderen Seite des Gebäudes war ein
-Firmenlogo - ein Sechseck mit einem Erlenmeyerkolben. Hexachem." Sie rieb sich mit
+Firmenlogo - ein Erlenmeyerkolben in einem Sechseck . Hexachem." Sie rieb sich mit
 beiden Händen die Schläfen. "Dann hauten wir ab. Wir hatten es geschafft. Wir waren
 nicht entdeckt worden, wir hatten heraus gefunden, welche Firma dahinter steckte, und
 wir trauten uns sogar zu, die Leute im Lieferwagen wieder zu erkennen. Jetzt gab es

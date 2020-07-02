@@ -243,22 +243,19 @@ mit ihr bei ein paar Drinks.
 Tag 1
 
 Jessica und Tom bekommen eine Zeugenaussage eines Obdachlosen. Auf deren Basis beginnen
-die Techniker mit der Auswerung von Überwachungsdaten.
+die Techniker mit der Auswertung von Überwachungsdaten.
 
-Auf dem Heimweg versucht ein Betrunkener, Jessica zu vergewaltigen. Sie setzt ihre
+Auf dem Heimweg versucht ein Mann, Jessica zu vergewaltigen. Sie setzt ihre
 Fähigkeit ein und er stürzt sich in seinen Tod.
 
 ### Kapitel 4
 
-1000 Wörter
+1500 Wörter
 
 Tag 2
 
-Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem.
-
-Die Auswertung der Überwachungskameras liefert Bilder von zwei Personen, auf die die
-Beschreibung des Obdachlosen passt. Zu einer der Frauen gibt es einen Treffer in der
-Datenbank: Siobhan O'Malley. Jessica und Tom beschließen, sie zu besuchen.
+Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem. Die Auswertung der Überwachungskameras liefert Bilder von zwei Personen, auf die die
+Beschreibung des Obdachlosen passt. Jessica und Tom befragen die Partner und Kollegen der Opfer. Ein Kollege sagt aus, die Frauen in der Nähe der Firma gesehen zu haben. Mit seiner Hilfe erstellen sie ein Phantombild, für das die Polizeidatenbank einen Namen ausspuckt: Siobhan O'Malley.
 
 ### Kapitel 5
 
