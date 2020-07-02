@@ -216,7 +216,7 @@ begangen haben.
 
 ## Outline
 
-### Kapitel 1
+### Intro
 
 1500 Wörter
 
@@ -226,7 +226,7 @@ Jessica und Tom bekommen einen neuen Fall: zwei Leichen mit unterschiedlichen
 Verletzungen. Sie sehen sich den Fundort an, folgen einer Spur und finden den
 mutmaßlichen Tatort im ehemaligen Industriegebiet.
 
-### Kapitel 2
+### Siobhan
 
 1000 Wörter
 
@@ -236,7 +236,7 @@ Siobhan kämpft mit Alpträumen und Erinnerungen. Sie schafft es, beides zu verd
 stürzt sich zurück in ihren Alltag. Abends trifft sie Ellen im Labyrinth und plaudert
 mit ihr bei ein paar Drinks.
 
-### Kapitel 3
+### Sirene
 
 1000 Wörter
 
@@ -245,19 +245,23 @@ Tag 1
 Jessica und Tom bekommen eine Zeugenaussage eines Obdachlosen. Auf deren Basis beginnen
 die Techniker mit der Auswertung von Überwachungsdaten.
 
-Auf dem Heimweg versucht ein Mann, Jessica zu vergewaltigen. Sie setzt ihre
-Fähigkeit ein und er stürzt sich in seinen Tod.
+Auf dem Heimweg versucht ein Mann, Jessica zu vergewaltigen. Sie setzt ihre Fähigkeit
+ein und er stürzt sich in seinen Tod.
 
-### Kapitel 4
+### Hexachem
 
 1500 Wörter
 
 Tag 2
 
-Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem. Die Auswertung der Überwachungskameras liefert Bilder von zwei Personen, auf die die
-Beschreibung des Obdachlosen passt. Jessica und Tom befragen die Partner und Kollegen der Opfer. Ein Kollege sagt aus, die Frauen in der Nähe der Firma gesehen zu haben. Mit seiner Hilfe erstellen sie ein Phantombild, für das die Polizeidatenbank einen Namen ausspuckt: Siobhan O'Malley.
+Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem. Die Auswertung der
+Überwachungskameras liefert Bilder von zwei Personen, auf die die Beschreibung des
+Obdachlosen passt. Jessica und Tom befragen die Partner und Kollegen der Opfer. Ein
+Kollege sagt aus, die Frauen in der Nähe der Firma gesehen zu haben. Mit seiner Hilfe
+erstellen sie ein Phantombild, für das die Polizeidatenbank einen Namen ausspuckt:
+Siobhan O'Malley.
 
-### Kapitel 5
+### Ein paar Fragen
 
 1600 Wörter
 
@@ -267,7 +271,7 @@ Siobhan macht es sich zu Hause gemütlich und wird von Jessica und Tom überrasc
 ihr Fragen zum Mordfall stellen. Sie will ihre Fähigkeit einsetzen, aber bevor es so
 weit kommt, gehen die beiden wieder.
 
-### Kapitel 6
+### Beichte
 
 (Streichen? Leser soll noch nicht wissen, ob Siobhan Täterin ist)
 
@@ -278,7 +282,7 @@ Tag 2
 Siobhans Erinnerungen brechen wieder hervor und sie geht zu Ellen. Sie erzählt ihr, was
 passiert ist.
 
-### Kapitel 7
+### Von Norne zu Norne
 
 1500 Wörter
 
@@ -289,7 +293,7 @@ behauptet, dass Siobhan in die Entführung verwickelt sei, aber den Mord nicht b
 habe. Jessica zeigt ihr die Bilder der Überwachungskamera und Ellen identifiziert die
 zweite Person als Anezka Nemcekova.
 
-### Kapitel 8
+### Anezka
 
 1000 Wörter
 
