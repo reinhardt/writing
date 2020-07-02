@@ -242,8 +242,8 @@ mit ihr bei ein paar Drinks.
 
 Tag 1
 
-Jessica und Tom bekommen eine Zeugenaussage eines Obdachlosen. Auf deren Basis beginnen
-die Techniker mit der Auswertung von Überwachungsdaten.
+Jessica und Tom bekommen eine Zeugenaussage eines Obdachlosen. Er beschreibt zwei
+Frauen, die zur ungefähren Tatzeit in der Nähe waren.
 
 Auf dem Heimweg versucht ein Mann, Jessica zu vergewaltigen. Sie setzt ihre Fähigkeit
 ein und er stürzt sich in seinen Tod.
@@ -254,12 +254,17 @@ ein und er stürzt sich in seinen Tod.
 
 Tag 2
 
-Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem. Die Auswertung der
-Überwachungskameras liefert Bilder von zwei Personen, auf die die Beschreibung des
-Obdachlosen passt. Jessica und Tom befragen die Partner und Kollegen der Opfer. Ein
-Kollege sagt aus, die Frauen in der Nähe der Firma gesehen zu haben. Mit seiner Hilfe
-erstellen sie ein Phantombild, für das die Polizeidatenbank einen Namen ausspuckt:
-Siobhan O'Malley.
+Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem. Blutspuren am
+mutmaßlichen Tatort stimmen mit den Opfern überein. Dort gefundene Fingerabdrücke können
+zunächst nicht zugeordnet werden. Jessica und Tom befragen die Partner der Opfer. Sie
+denken, dass die beiden am Abend der Tat länger arbeiten mussten.
+
+Anschließend sprechen Sie mit den Kollegen der Opfer. Diese geben an, dass beide das
+Büro zur normalen Zeit verlassen hätten. Ein Kollege sagt aus, die Frauen in der Nähe
+der Firma gesehen zu haben. Auf Basis seiner Beschreibung und der des Obdachlosen
+erstellen sie Phantombilder. Für eines davon spuckt die Polizeidatenbank einen Namen
+aus: Siobhan O'Malley. Die Bilder werden außerdem für eine Suche in Daten von
+Überwachungskameras benutzt.
 
 ### Ein paar Fragen
 
@@ -282,6 +287,17 @@ Tag 2
 Siobhans Erinnerungen brechen wieder hervor und sie geht zu Ellen. Sie erzählt ihr, was
 passiert ist.
 
+###
+
+1000 Wörter
+
+Tag 3
+
+Jessica überlegt, ob Siobhan eine Norne ist.
+
+Die Auswertung der Überwachungskameras liefert Bilder von zwei Personen, die am Tag vor
+der Tat in der Nähe waren. Eine davon könnte Siobhan sein.
+
 ### Von Norne zu Norne
 
 1500 Wörter
@@ -299,4 +315,17 @@ zweite Person als Anezka Nemcekova.
 
 Tag 3
 
-Jessica und Tom besuchen Anezka.
+Jessica und Tom besuchen Anezka. Sie bestreitet, am Tatort gewesen oder eine der
+Personen auf den Bildern zu sein. Sie lehnt ab, Fingerabdrücke nehmen zu lassen.
+
+### Alexandria
+
+2500 Wörter
+
+Tag 3
+
+Alexandria beginnt, Ermittlungen anzustellen. Sie durchsucht das Netz nach Informationen
+zum Fall, aktiviert Kontakte und schreckt auch nicht davor zurück, sich illegal Zugang
+zu Datenbanken zu verschaffen. Sie macht Siobhan ausfindig und befragt sie. Siobhan
+versucht, ihre Fähigkeit einzusetzen, doch Alexandrias Implantate schützen sie und
+entlarven Siobhan als Norne.

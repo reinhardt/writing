@@ -205,7 +205,7 @@ einmal normal und einmal gespiegelt über stilisiertem Skorpion
 Dienstleistung, Waffen, Elektronik, Telekommunikation, Logo: Schwert, Waage und
 Lorbeerkranz, umfassende Überwachung 
 
-### CP8
+### CP6
 
 Pharma, Chemie, Kunststoff, Lebensmittel, Tochter Hexachem stellt inoffiziell
 Drogen her 
