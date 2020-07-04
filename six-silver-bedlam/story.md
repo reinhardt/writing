@@ -181,7 +181,7 @@ Befragung der Partnerinnen. Beide geben an, dass sie dachten, ihre Partner würd
 fraglichen Tag länger arbeiten, doch andere Hexachem-Mitarbeiter beteuern, dass beide
 die Firma pünktlich verlassen hätten. Es stellt sich jedoch heraus, dass dies mit der
 illegalen Entsorgung zu tun hat, in die nur die wenigsten Mitarbeiter eingeweiht waren.
-Die Spur führt schließlich zu Siobhans Park. Jessica findet heraus, dass Siobhan sich
+Alexandria bekommt schnell Wind davon. Sie sieht sich Siobhans Park an. Jessica hat sie beschatten lassen und kommt dadurch ebenfalls auf diese Spur. Sie findet über Ellen heraus, dass Siobhan sich
 dort oft aufhält und damit, in Verbindung mit ihrem Umwelt-Aktivismus, ein Motiv hat.
 Dieses versucht Jessica zunächst weg zu erklären, jedoch wird dadurch der Tatverdacht
 dringend genug, dass sie angewiesen wird, Fingerabdrücke der Verdächtigen zu nehmen,
@@ -329,3 +329,33 @@ zum Fall, aktiviert Kontakte und schreckt auch nicht davor zurück, sich illegal
 zu Datenbanken zu verschaffen. Sie macht Siobhan ausfindig und befragt sie. Siobhan
 versucht, ihre Fähigkeit einzusetzen, doch Alexandrias Implantate schützen sie und
 entlarven Siobhan als Norne.
+
+### Die Neue
+
+1000 Wörter 
+
+Tag 4
+
+Ellen kontaktiert erneut Jessica und fragt, ob sie etwas über Alexandria weiß. Jessica verneint, aber beschließt, nachzuforschen.
+
+### Bewegung
+
+1000 Wörter
+
+Tag 4
+
+Alexandria erzählt Gleichgesinnten von ihren Entdeckungen.
+
+### Kontrolle 
+
+Tag 4
+
+Jessica holt Informationen über Alexandria ein und lässt sie beschatten.
+
+### Park
+
+Tag 4
+
+Alexandria findet heraus, wo Hexachem illegal seine Abfälle entsorgt, und sieht sich den Park an.
+
+ 
