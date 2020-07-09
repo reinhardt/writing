@@ -266,6 +266,9 @@ erstellen sie Phantombilder. Für eines davon spuckt die Polizeidatenbank einen 
 aus: Siobhan O'Malley. Die Bilder werden außerdem für eine Suche in Daten von
 Überwachungskameras benutzt.
 
+Jessicas und Toms Hypothese ist, dass die Opfer Affären mit den beiden Frauen hatten,
+und ihre Partner sie gemeinsam getötet haben.
+
 ### Ein paar Fragen
 
 1600 Wörter
@@ -273,21 +276,11 @@ aus: Siobhan O'Malley. Die Bilder werden außerdem für eine Suche in Daten von
 Tag 2
 
 Siobhan macht es sich zu Hause gemütlich und wird von Jessica und Tom überrascht, die
-ihr Fragen zum Mordfall stellen. Sie hat kein Alibi für die Tatzeit. Sie will ihre Fähigkeit einsetzen, aber bevor es so
-weit kommt, gehen die beiden wieder.
+ihr Fragen zum Mordfall stellen. Sie gibt vor, die Opfer nicht zu erkennen. Sie hat kein
+Alibi für die Tatzeit. Sie will ihre Fähigkeit einsetzen, aber bevor es so weit kommt,
+gehen die beiden wieder.
 
-### Beichte
-
-(Streichen? Leser soll noch nicht wissen, ob Siobhan Täterin ist)
-
-1000 Wörter
-
-Tag 2
-
-Siobhans Erinnerungen brechen wieder hervor und sie geht zu Ellen. Sie erzählt ihr, was
-passiert ist.
-
-###
+### Bilder
 
 1000 Wörter
 
@@ -304,19 +297,18 @@ der Tat in der Nähe waren. Eine davon könnte Siobhan sein.
 
 Tag 3
 
-Ellen kommt zu Jessica und erzählt, dass Siobhan sich ihr anvertraut habe. Sie
-behauptet, dass Siobhan in die Entführung verwickelt sei, aber den Mord nicht begangen
-habe. Jessica zeigt ihr die Bilder der Überwachungskamera und Ellen identifiziert die
-zweite Person als Anezka Nemcekova.
+Ellen kommt zu Jessica und erzählt, dass Siobhan sich ihr anvertraut habe. Sie sagt,
+dass Siobhan eine Nymphe sei, und bittet sie, aus Solidarität nicht gegen sie zu
+ermitteln. Jessica zeigt ihr die Bilder der Überwachungskamera, doch Ellen kommentiert
+sie nicht.
 
-### Anezka
-
-1000 Wörter
+###
 
 Tag 3
 
-Jessica und Tom besuchen Anezka. Sie bestreitet, am Tatort gewesen oder eine der
-Personen auf den Bildern zu sein. Sie lehnt ab, Fingerabdrücke nehmen zu lassen.
+Jessica und Tom sprechen noch einmal mit den Partnern der Opfer und konfrontieren sie
+mit dem Verdacht, dass sie aus Eifersucht getötet hätten. Die Partner sind entsetzt und
+empört. Sie erkennen Siobhan auf den Bildern nicht und haben Alibis für die Tatzeit.
 
 ### Alexandria
 
@@ -330,32 +322,57 @@ zu Datenbanken zu verschaffen. Sie macht Siobhan ausfindig und befragt sie. Siob
 versucht, ihre Fähigkeit einzusetzen, doch Alexandrias Implantate schützen sie und
 entlarven Siobhan als Norne.
 
+Alexandria erzählt Gleichgesinnten von ihren Entdeckungen.
+
 ### Die Neue
 
-1000 Wörter 
+1500 Wörter 
 
 Tag 4
 
-Ellen kontaktiert erneut Jessica und fragt, ob sie etwas über Alexandria weiß. Jessica verneint, aber beschließt, nachzuforschen.
+Ellen kontaktiert erneut Jessica und fragt, ob sie etwas über Alexandria weiß. Jessica
+verneint, aber beschließt, nachzuforschen.
 
-### Bewegung
+Sie holt Informationen über Alexandria ein und lässt sie beschatten. Sie trifft Ellen
+und tauscht Informationen mit ihr - Jessica erzählt ihr, was sie über Alexandria
+herausgefunden hat, und Ellen identifiziert die zweite Person auf den
+Überwachungsbildern als Anezka Nemcekova.
+
+### Anezka
 
 1000 Wörter
 
 Tag 4
 
-Alexandria erzählt Gleichgesinnten von ihren Entdeckungen.
+Jessica erzählt Tom von Anezka, aber sagt ihm nicht, woher sie von ihr weiß. Tom ist
+irritiert.
 
-### Kontrolle 
-
-Tag 4
-
-Jessica holt Informationen über Alexandria ein und lässt sie beschatten.
-
-### Park
-
-Tag 4
-
-Alexandria findet heraus, wo Hexachem illegal seine Abfälle entsorgt, und sieht sich den Park an.
-
+Gemeinsam besuchen sie Anezka. Sie bestreitet, am Tatort gewesen oder eine der Personen
+auf den Bildern zu sein. Sie lehnt ab, Fingerabdrücke nehmen zu lassen.
  
+### Donar
+
+2000 Wörter
+
+Tag 4
+
+Alexandria findet heraus, wo Hexachem illegal seine Abfälle entsorgt, und sieht sich den
+Donarpark an. Sie findet Anzeichen für Verschmutzung.
+
+Jessica erfährt, dass Alexandria dort war und erinnert sich, dass Siobhan den Park
+erwähnt hat, und dass sie in Zusammenhang mit Umweltaktivismus festgenommen wurde. Sie
+schließt auf ihr Motiv, möchte aber andererseits an der ursprünglichen Hypothese
+festhalten. Sie weiß, dass sie auf Ellens Bitte nicht eingehen kann, will aber dennoch
+unbewusst Siobhan schützen.
+
+### Coming Out
+
+2000 Wörter
+
+Tag 5
+
+Tom erhält versehentlich Informationen über Alexandria. Er stellt Jessica wegen ihrer
+Geheimnisse zur Rede - Wer ist Alexandria? Woher wusste sie von Anezka? Was hat es mit
+dem Donarpark auf sich? Jessica erzählt ihm von Ellen und offenbart dabei, dass Ellen,
+Siobhan, Anezka und Jessica selbst Nornen sind. Tom dachte, dass es keine Nornen mehr in
+Bedlam gäbe.
