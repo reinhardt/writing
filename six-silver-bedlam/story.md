@@ -181,7 +181,7 @@ Befragung der Partnerinnen. Beide geben an, dass sie dachten, ihre Partner würd
 fraglichen Tag länger arbeiten, doch andere Hexachem-Mitarbeiter beteuern, dass beide
 die Firma pünktlich verlassen hätten. Es stellt sich jedoch heraus, dass dies mit der
 illegalen Entsorgung zu tun hat, in die nur die wenigsten Mitarbeiter eingeweiht waren.
-Alexandria bekommt schnell Wind davon. Sie sieht sich Siobhans Park an. Jessica hat sie beschatten lassen und kommt dadurch ebenfalls auf diese Spur. Sie findet über Ellen heraus, dass Siobhan sich
+Alexandria bekommt schnell Wind davon. Sie sieht sich Siobhans Park an. Jessica weiß von Ellen, dass Siobhan sich
 dort oft aufhält und damit, in Verbindung mit ihrem Umwelt-Aktivismus, ein Motiv hat.
 Dieses versucht Jessica zunächst weg zu erklären, jedoch wird dadurch der Tatverdacht
 dringend genug, dass sie angewiesen wird, Fingerabdrücke der Verdächtigen zu nehmen,
@@ -273,7 +273,7 @@ aus: Siobhan O'Malley. Die Bilder werden außerdem für eine Suche in Daten von
 Tag 2
 
 Siobhan macht es sich zu Hause gemütlich und wird von Jessica und Tom überrascht, die
-ihr Fragen zum Mordfall stellen. Sie will ihre Fähigkeit einsetzen, aber bevor es so
+ihr Fragen zum Mordfall stellen. Sie hat kein Alibi für die Tatzeit. Sie will ihre Fähigkeit einsetzen, aber bevor es so
 weit kommt, gehen die beiden wieder.
 
 ### Beichte
