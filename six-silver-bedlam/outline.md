@@ -161,3 +161,45 @@ dem Donarpark auf sich? Jessica erzählt ihm von Ellen und offenbart dabei, dass
 Siobhan, Anezka und Jessica selbst Nornen sind. Tom dachte, dass es keine Nornen mehr in
 Bedlam gäbe.
 
+Tom besteht darauf, Fingerabdrücke von Siobhan und Anezka zu nehmen, und sie wenn nötig
+dafür zu verhaften. Jessica lenkt widerwillig ein.
+
+## Flucht
+
+Tag 5
+
+Siobhan geht zu Anezka und redet mit ihr darüber, was geschehen ist. Sie macht sich
+Vorwürfe, doch Anezka ist nicht bereit, ihre Schuld einzugestehen. Während sie
+diskutieren kommen Jessica und Tom dazu und fordern sie auf, Fingerabdrücke nehmen zu
+lassen. Es kommt zu einem Kampf. Siobhan und Anezka fliehen. Jessica könnte sie
+aufhalten, tut es jedoch nicht.
+
+## Flucht 2
+
+Tag 5
+
+Alexandria kommt mit zwei Söldnern zu Ellen, wo Siobhan und Anezka Zuflucht gesucht
+haben. Ellen hält sie mit ihrer Banshee-Fähigkeit in Schach, damit Siobhan und Anezka
+fliehen können.
+
+Ellen kontaktiert die beiden und gibt ihnen eine Adresse. Siobhan lässt ihre
+Kontaktlinsen und Ohrstöpsel zurück. Sie gehen zusammen zu Lujayn, die Anezka ein
+Stealth-Upgrade für ihre Implantate gibt. Dann gehen sie zu der Adresse und verschanzen
+sich in dem Haus, das sie dort finden.
+
+## Wende
+
+Tag 5
+
+Ellen berichtet Jessica, was geschehen ist, und fordert, dass sie etwas gegen Alexandria
+unternimmt. Jessica ist zuerst auf ihrer Seite, doch als Ellen andeutet, dass sie
+Siobhan und Anezka unterstützt, obwohl sie schuldig sind, wendet Jessica sich gegen sie
+und beschließt, keine Nachsicht mehr zu üben.
+
+##
+
+Tag 5
+
+Tom, Jessica und weitere Polizisten gehen zu Ellen, nehmen Spuren auf und befragen
+Ellen. Diese berichtet bereitwillig über Alexandria, aber hält sich bedeckt über den
+Verbleib von Siobhan und Anezka.

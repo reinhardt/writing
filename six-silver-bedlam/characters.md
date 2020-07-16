@@ -49,14 +49,14 @@ Anezka steht ideologisch und stilistisch dem Voodoopunk nahe, ist aber nicht in 
 entsprechende Organisation eingebunden.
 
 Anezka arbeitet bei einer kleinen Sicherheitsfirma im Personen- und Objektschutz. Sie
-hat eine Walküre als Kollegin, die ihr hilft, die speziellen Implantate zu organisieren.
-Sie versucht, sich von den großen Konzernen und deren moralisch zweifelhaften Praktiken
-fern zu halten. Doch auch bei ihrem aktuellen Arbeitgeber kommt sie gelegentlich in
-Konflikt mit ihrem Gewissen.
+hat eine Walküre als Kollegin, Lujayn, die ihr hilft, die speziellen Implantate zu
+organisieren. Sie versucht, sich von den großen Konzernen und deren moralisch
+zweifelhaften Praktiken fern zu halten. Doch auch bei ihrem aktuellen Arbeitgeber kommt
+sie gelegentlich in Konflikt mit ihrem Gewissen.
 
-## Ellen Baker
+## Ellen Masozi Owusu
 
-41 Jahre, afro-amerikanische Abstammung, Banshee, sitzt im Rollstuhl
+41 Jahre, afrikanische Abstammung, Banshee, sitzt im Rollstuhl
 
 ## Thomas "Tom" Schleier
 
@@ -82,3 +82,7 @@ Schüsse ab, von denen einer für ihn tödlich war. Alexandria hegt seitdem eine
 gegen alle Nornen und speziell Banshees. Sie setzt sich für eine strikte Regulierung von
 Nornen und ihren Fähigkeiten ein. Sie verfügt über zahlreiche Implantate und
 Geräte, die vor den Fähigkeiten von Nornen schützen oder warnen. 
+
+## Lujayn Sayegh
+
+29 Jahre, arabische Abstammung, Walküre
