@@ -348,6 +348,49 @@ vergessen.
 
 # Kapitel 4
 
+Der Regen war über Nacht zurückgekehrt. Er fiel aus dichten, dunklen Wolken, die das
+Licht des Morgens fast komplett verschluckten. Trotz seiner Trostlosigkeit hatte das
+Wetter für Jessica etwas Beruhigendes. Sie fühlte sich geborgen unter der Wolkendecke,
+und stellte sich vor, dass ihr Elend unter einer solchen Decke begraben lag. Fast
+bedauerte sie es, als sie am Revier ankam und die grau-in-graue Stadt draußen zurück
+ließ. Diesmal war sie vor Tom im Büro. Sie hatte schlecht geschlafen, war früh
+aufgewacht und hatte sich früher als sonst auf den Weg zur Arbeit gemacht. Dafür ließ
+sie sich jetzt Zeit und holte sich erst mal einen Kaffee. Gesprächen ging sie aus dem
+Weg und setzte sich mit ihrer Tasse an ihren Schreibtisch. Sie schaute ein bisschen
+ziellos im Netz herum, doch schließlich öffnete sie doch ihren Nachrichteneingang.
+Sofort sprangen ihr zwei Betreffzeilen ins Auge, und alles andere war vergessen.
+
+Wenig später kam Tom herein. "Na, ist der Fall schon gelöst?" witzelte er gut gelaunt
+und warf seine braune Ledertasche schwungvoll auf seinen Tisch.
+
+"So gut wie", behauptete Jessica lächelnd. Sie drehte ihren Stuhl zu ihm herum und
+verschränkte die Arme. "Erst die gute oder erst die schlechte Nachricht?"
+
+Tom tat so, als müsse er überlegen. "Die schlechte", forderte er dann.
+
+"Die Fingerabdrücke am mutmaßlichen Tatort sind nicht in der Datenbank."
+
+Tom runzelte die Stirn. "Warte mal, dann ist die gute Nachricht, dass Fingerabdrücke
+gefunden wurden?"
+
+"Besser. Fingerabdrücke _und_ Blutspuren. Das Blut passt zu den Opfern. Damit wird aus
+dem mutmaßlichen Tatort der tatsächliche Tatort."
+
+"Nicht schlecht", gab Tom zu.
+
+"Ist aber auch noch nicht alles. Wir wissen jetzt, wer die Opfer sind."
+
+"Mach es nicht so spannend", beschwerte sich Tom.
+
+"Katashi Sakamoto, 37 Jahre alt, wohnhaft in Arches, und Jadvyga Kavaliauskas, 33 Jahre
+alt, wohnhaft in Harth. Beide haben für Hexachem gearbeitet, ein Pharmaunternehmen der
+CP6-Gruppe."
+
+"Ausgezeichnet", nickte Tom zufrieden. "Wobei das natürlich einen anstrengenden Tag
+bedeutet", fügte er mit einem Seufzen hinzu. "Wo geht's zuerst hin?"
+
+# Kapitel 5
+
 Siobhan ließ ihre Tasche fallen und schob die Wohnungstür hinter sich zu. Sie streifte
 ihre Schuhe und Socken ab und tapste barfuß zur Küchenzeile, wo sie Wasser für einen Tee
 aufsetzte. Sie hatte heute nach der Arbeit keine Lust auf Gesellschaft gehabt, aber
@@ -503,7 +546,7 @@ Moment lang war sie wir erstarrt. Dann fing sie an zu weinen. Heftige Schluchzer
 schüttelten sie, als sie sich erlaubte, längst überfällige Gefühle zu fühlen. *Warum,*
 dachte sie. *Warum nur? Was in Gaias Namen haben wir getan?*
 
-# Kapitel 5
+# Kapitel 6
 
 Ellen kam mit einer Tasse Tee zur Couch, wo Siobhan in sich zusammen gesunken war und
 leise schluchzte. "Jetzt noch mal ganz langsam", sagte sie mit ruhiger Stimme. "Die
