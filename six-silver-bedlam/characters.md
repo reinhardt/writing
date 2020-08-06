@@ -86,3 +86,27 @@ Geräte, die vor den Fähigkeiten von Nornen schützen oder warnen.
 ## Lujayn Sayegh
 
 29 Jahre, arabische Abstammung, Walküre
+
+## Katashi
+
+Japanische Abstammung, Milesier 
+
+Eines der Opfer 
+
+## Ndidi
+
+Afrikanische Abstammung, Milesierin
+
+Partnerin von Katashi
+
+## Jadvyga
+
+Baltische Abstammung, Milesierin
+
+Eines der Opfer
+
+## Amihan
+
+Philippinische Abstammung, Milesierin
+
+Partnerin von Jadvyga
