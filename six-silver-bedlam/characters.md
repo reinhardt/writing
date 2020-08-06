@@ -87,7 +87,7 @@ Geräte, die vor den Fähigkeiten von Nornen schützen oder warnen.
 
 29 Jahre, arabische Abstammung, Walküre
 
-## Katashi
+## Katashi Sakamoto
 
 Japanische Abstammung, Milesier 
 
@@ -99,7 +99,7 @@ Afrikanische Abstammung, Milesierin
 
 Partnerin von Katashi
 
-## Jadvyga
+## Jadvyga Kavaliauskas
 
 Baltische Abstammung, Milesierin
 

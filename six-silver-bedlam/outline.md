@@ -203,3 +203,12 @@ Tag 5
 Tom, Jessica und weitere Polizisten gehen zu Ellen, nehmen Spuren auf und befragen
 Ellen. Diese berichtet bereitwillig über Alexandria, aber hält sich bedeckt über den
 Verbleib von Siobhan und Anezka.
+
+## Showdown
+
+Team Jessica: Jessica, Tom, Alexandria
+
+Team Siobhan/Anezka: Siobhan, Anezka, Ellen, Lujayn, Moira
+
+Tag ?
+
