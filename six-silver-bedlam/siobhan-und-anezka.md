@@ -351,17 +351,17 @@ vergessen.
 Der Regen war über Nacht zurückgekehrt. Er fiel aus dichten, dunklen Wolken, die das
 Licht des Morgens fast komplett verschluckten. Trotz seiner Trostlosigkeit hatte das
 Wetter für Jessica etwas Beruhigendes. Sie fühlte sich geborgen unter der Wolkendecke,
-und stellte sich vor, dass ihr Elend unter einer solchen Decke begraben lag. Fast
-bedauerte sie es, als sie am Revier ankam und die grau-in-graue Stadt draußen zurück
-ließ. Diesmal war sie vor Tom im Büro. Sie hatte schlecht geschlafen, war früh
-aufgewacht und hatte sich früher als sonst auf den Weg zur Arbeit gemacht. Dafür ließ
-sie sich jetzt Zeit und holte sich erst mal einen Kaffee. Gesprächen ging sie aus dem
-Weg und setzte sich mit ihrer Tasse an ihren Schreibtisch. Sie schaute ein bisschen
-ziellos im Netz herum, doch schließlich öffnete sie doch ihren Nachrichteneingang.
-Sofort sprangen ihr zwei Betreffzeilen ins Auge, und alles andere war vergessen.
+und stellte sich vor, dass ihr Elend unter ihr begraben lag. Fast bedauerte sie es, als
+sie am Revier ankam und die grau-in-graue Stadt draußen zurück ließ. Diesmal war sie vor
+Tom im Büro. Sie hatte schlecht geschlafen, war früh aufgewacht und hatte sich früher
+als sonst auf den Weg zur Arbeit gemacht. Dafür ließ sie sich jetzt Zeit und holte sich
+erst mal einen Kaffee. Gesprächen ging sie aus dem Weg und setzte sich mit ihrer Tasse
+an ihren Schreibtisch. Sie schaute ein bisschen ziellos im Netz herum, doch schließlich
+öffnete sie doch ihren Nachrichteneingang. Sofort sprangen ihr zwei Betreffzeilen ins
+Auge, und alles andere war vergessen.
 
-Wenig später kam Tom herein. "Na, ist der Fall schon gelöst?" witzelte er gut gelaunt
-und warf seine braune Ledertasche schwungvoll auf seinen Tisch.
+Wenig später kam Tom herein. "Na, ist der Fall schon gelöst?" witzelte er und warf seine
+braune Ledertasche schwungvoll auf seinen Tisch.
 
 "So gut wie", behauptete Jessica lächelnd. Sie drehte ihren Stuhl zu ihm herum und
 verschränkte die Arme. "Erst die gute oder erst die schlechte Nachricht?"
@@ -383,11 +383,42 @@ dem mutmaßlichen Tatort der tatsächliche Tatort."
 "Mach es nicht so spannend", beschwerte sich Tom.
 
 "Katashi Sakamoto, 37 Jahre alt, wohnhaft in Arches, und Jadvyga Kavaliauskas, 33 Jahre
-alt, wohnhaft in Harth. Beide haben für Hexachem gearbeitet, ein Pharmaunternehmen der
-CP6-Gruppe."
+alt, wohnhaft in Aschgarten. Beide haben für Hexachem gearbeitet, ein Pharmaunternehmen
+der CP6-Gruppe."
 
 "Ausgezeichnet", nickte Tom zufrieden. "Wobei das natürlich einen anstrengenden Tag
 bedeutet", fügte er mit einem Seufzen hinzu. "Wo geht's zuerst hin?"
+
+---
+
+Sie fuhren zuerst nach Aschgarten. Unterwegs unterrichtete Jessica Tom über die weiteren
+Details, die die Datenbank ausgespuckt hatte. "Jadvyga Kavaliauskas hat mit ihrer Frau,
+Amihan Marasigan, zusammen gewohnt. Marasigan ist Feinmechanikerin. Die beiden waren
+seit vier Jahren verheiratet. Sie hat Kavaliauskas vor zwei Tagen als vermisst
+gemeldet."
+
+Sie parkte den blauen Dienstwagen am Straßenrand vor einem großzügigen Stadthaus. Im
+ersten Stock brannte Licht. Tom spannte beim Aussteigen einen Regenschirm auf, ging zur
+Fahrerseite hinüber und ließ Jessica mit darunter. Sie gingen die wenigen Schritte zur
+Haustür. Jessica klingelte. Es dauerte einen Moment, bis die Tür geöffnet wurde. Eine
+zierliche Frau stand im Eingang und sah sie unsicher an.
+
+"Guten Morgen, ich bin Leutnant Nguyen und das ist Feldwebel Schleier. Amihan
+Marasigan?"
+
+"Ja", antwortete die Frau leise. "Wissen Sie etwas von Jagvyga?"
+
+Jessica atmete tief durch. Todesnachrichten zu überbringen wurde auch im Lauf vieler
+Jahre nicht einfacher. "Es tut mir sehr Leid, Frau Marasigan. Jadvyga Kavaliauskas wurde
+gestern Abend tot aufgefunden."
+
+Marasigan verzog das Gesicht und legte eine Hand auf die Augen. "W-was ist passiert?"
+fragte sie mit zitternder Stimme.
+
+"Das werden wir heraus finden", versprach Jessica. "Dafür müssten wir Ihnen ein paar
+Fragen stellen. Ist das in Ordnung?"
+
+Ihr Gegenüber schluchzte und nickte.
 
 # Kapitel 5
 

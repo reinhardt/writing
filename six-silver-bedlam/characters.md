@@ -93,7 +93,7 @@ Japanische Abstammung, Milesier
 
 Eines der Opfer 
 
-## Ndidi
+## Ndidi Otieno
 
 Afrikanische Abstammung, Milesierin
 
@@ -105,8 +105,8 @@ Baltische Abstammung, Milesierin
 
 Eines der Opfer
 
-## Amihan
+## Amihan Marasigan
 
 Philippinische Abstammung, Milesierin
 
-Partnerin von Jadvyga
+Ehefrau von Jadvyga (seit vier Jahren), Feinmechanikerin
