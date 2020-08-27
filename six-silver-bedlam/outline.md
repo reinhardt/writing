@@ -1,3 +1,26 @@
+# Acts/Plot Points
+
+## Act 1
+
+* *Plot Point 1:* Doppelmord mit unterschiedlichen Tatwaffen
+* Siobhan vertraut sich Ellen an, woraufhin diese versucht, sie zu schützen
+* Alexandria beginnt ihre Nachforschungen, was Druck sowohl auf Jessica als auch auf
+  Siobhan und Anezka ausübt
+* *Pinch Point 1:* Siohans Motiv wird klar
+
+## Act 2
+
+* Tom stellt Jessica zur Rede und erfährt, dass sie und die Verdächtigen Nornen sind
+* Siobhan und Anezka fliehen vor Jessica und Tom und dann vor Alexandria
+* *Midpoint:* Jessica beschließt, Siobhan und Anezka nicht zu schonen
+* *Pinch Point 2:* Jessica versucht, Siobhan und Anezka zum Aufgeben zu bewegen
+
+# Act 3
+
+* *Plot Point 2:* Jessica stellt ein Team zusammen
+* Climax/Resolution: Jessica stürmt das Versteck, Siobhan wird getötet, Anezka
+  festgenommen
+
 # Outline
 
 ## Intro
