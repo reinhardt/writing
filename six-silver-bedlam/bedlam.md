@@ -216,13 +216,19 @@ Drogen her
 
 Nachtleben, Business, Tourismus 
 
+Kathedrale, ehemalige Porzellanfabrik, Krankenhaus, Hafen
+
 ### Jottenhamn (Jotunheim) 
 
-Oberschicht Ehemaliges Industriegebiet 
+Oberschicht
+
+Ehemaliges Industriegebiet 
 
 ### Teystrand
 
 Sport 
+
+Stadion, Funkturm
 
 ### Granna (Grannus) 
 

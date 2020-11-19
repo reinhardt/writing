@@ -208,10 +208,10 @@ besucht. Als Siobhan sich nach einem freien Platz umsah, bemerkte sie Ellen, die
 an einem kleinen Tisch saß. Ihre Augen waren ins Leere gerichtet und bewegten sich
 langsam hin und her. Vermutlich las sie etwas. Sie war in ihrem Rollstuhl zurück gelehnt
 und hatte die Hände im Schoß gefaltet. Zu einer einfachen Jeans trug sie eine schwarze
-Bluse mit einem roten Aufdruck. Ihre dünnen schwarzen Zöpfe waren locker zusammen
-gebunden. Siobhan ging zu ihr hinüber. "Darf ich stören?" fragte sie mit gespielter
-Höflichkeit. Ellen drehte den Kopf, lächelte und stecke die Arme zu ihr hoch, um sie zu
-umarmen.
+Bluse mit einem roten Aufdruck. Ihre dutzenden dünnen, schwarzen Zöpfe waren locker
+zusammen gebunden. Siobhan ging zu ihr hinüber. "Darf ich stören?" fragte sie mit
+gespielter Höflichkeit. Ellen drehte den Kopf, lächelte und stecke die Arme zu ihr hoch,
+um sie zu umarmen.
 
 "Hey, Süße! Wie geht es dir?"
 
@@ -237,11 +237,15 @@ Nicht hier. Sie würde sich später damit befassen. Glücklicherweise kam in die
 Ellen mit zwei vollen Gläsern von der Bar zurück. Sie reichte Siobhan ein helles Bier
 und behielt selbst das Glas Weißwein in der Hand. Sie stießen an. 
 
-"Auf uns", sagte Ellen lächelnd. "Kommst du direkt von der Arbeit?" fragte sie dann.
-Siobhan nickte. "Armes Ding", bedauerte Ellen sie. "Ich war vorhin im Krankenhaus. Hast
-du gehört, dass es schon wieder eine Explosion in der Mine gegeben hat? Jacinta hat es
-böse erwischt, aber sie kann noch von Glück reden - drei andere sind tot, und einige der
-Verletzen schweben noch in Lebensgefahr."
+"Auf uns", sagte Ellen lächelnd. "Kommst du direkt von der Arbeit?" fragte sie dann mit
+einem Blick auf ihr Outfit. Siobhan sah an sich herunter und nickte. Sie trug einen
+dunkelgrauen Hosenanzug, den sie normalerweise bei der ersten Gelegenheit gegen weite
+Kleidung aus Hanf oder Leinen in bunten Farben tauschte, dazu reichlich Schmuck aus
+Stein oder, wenn sie etwas davon in die Finger bekommen konnte, Holz und Leder. "Armes
+Ding", bedauerte Ellen sie. "Ich war vorhin im Krankenhaus. Hast du gehört, dass es
+schon wieder eine Explosion in der Mine gegeben hat? Jacinta hat es böse erwischt, aber
+sie kann noch von Glück reden - drei andere sind tot, und einige der Verletzen schweben
+noch in Lebensgefahr."
 
 "Verdammt", stieß Siobhan zwischen zusammen gepressten Zähnen hervor. Sie hatte noch
 nichts von dem neuen Unglück gehört, aber das Bergwerk war ihr seit langem ein Dorn im
@@ -401,7 +405,9 @@ Sie parkte den blauen Dienstwagen am Straßenrand vor einem großzügigen Stadth
 ersten Stock brannte Licht. Tom spannte beim Aussteigen einen Regenschirm auf, ging zur
 Fahrerseite hinüber und ließ Jessica mit darunter. Sie gingen die wenigen Schritte zur
 Haustür. Jessica klingelte. Es dauerte einen Moment, bis die Tür geöffnet wurde. Eine
-zierliche Frau stand im Eingang und sah sie unsicher an.
+zierliche Frau stand im Eingang und sah sie unsicher an. Ihre Haut war etwas dunkler als
+die Jessicas, und sie war ein Stück kleiner, aber sie hatte ähnlich weiche Gesichtszüge
+und mandelförmige Augen.
 
 "Guten Morgen, ich bin Leutnant Nguyen und das ist Feldwebel Schleier. Amihan
 Marasigan?"
@@ -412,8 +418,8 @@ Jessica atmete tief durch. Todesnachrichten zu überbringen wurde auch im Lauf v
 Jahre nicht einfacher. "Es tut mir sehr Leid, Frau Marasigan. Jadvyga Kavaliauskas wurde
 gestern Abend tot aufgefunden."
 
-Marasigan verzog das Gesicht und legte eine Hand auf die Augen. "W-was ist passiert?"
-fragte sie mit zitternder Stimme.
+Marasigan wurde bleich und hielt sich am Türrahmen fest. "W-was ist passiert?" fragte
+sie mit zitternder Stimme.
 
 "Das werden wir heraus finden", versprach Jessica. "Dafür müssten wir Ihnen ein paar
 Fragen stellen. Ist das in Ordnung?"

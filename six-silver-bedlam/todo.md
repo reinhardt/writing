@@ -2,3 +2,5 @@
 - Subkulturen
 - Hintergründe der Charaktere
 - Historie
+- Turncoat
+- Did you forget to take your meds?
