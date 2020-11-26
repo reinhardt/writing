@@ -355,14 +355,14 @@ vergessen.
 Der Regen war über Nacht zurückgekehrt. Er fiel aus dichten, dunklen Wolken, die das
 Licht des Morgens fast komplett verschluckten. Trotz seiner Trostlosigkeit hatte das
 Wetter für Jessica etwas Beruhigendes. Sie fühlte sich geborgen unter der Wolkendecke,
-und stellte sich vor, dass ihr Elend unter ihr begraben lag. Fast bedauerte sie es, als
-sie am Revier ankam und die grau-in-graue Stadt draußen zurück ließ. Diesmal war sie vor
-Tom im Büro. Sie hatte schlecht geschlafen, war früh aufgewacht und hatte sich früher
-als sonst auf den Weg zur Arbeit gemacht. Dafür ließ sie sich jetzt Zeit und holte sich
-erst mal einen Kaffee. Gesprächen ging sie aus dem Weg und setzte sich mit ihrer Tasse
-an ihren Schreibtisch. Sie schaute ein bisschen ziellos im Netz herum, doch schließlich
-öffnete sie doch ihren Nachrichteneingang. Sofort sprangen ihr zwei Betreffzeilen ins
-Auge, und alles andere war vergessen.
+und stellte sich vor, dass ihr Elend unter einer ähnlichen, dicken Decke begraben lag.
+Fast bedauerte sie es, als sie am Revier ankam und die grau-in-graue Stadt draußen
+zurück ließ. Diesmal war sie vor Tom im Büro. Sie hatte schlecht geschlafen, war früh
+aufgewacht und hatte sich früher als sonst auf den Weg zur Arbeit gemacht. Dafür ließ
+sie sich jetzt Zeit und holte sich erst mal einen Kaffee. Gesprächen ging sie aus dem
+Weg und setzte sich mit ihrer Tasse an ihren Schreibtisch. Sie schaute ein bisschen
+ziellos im Netz herum, doch schließlich öffnete sie doch ihren Nachrichteneingang.
+Sofort sprangen ihr zwei Betreffzeilen ins Auge, und alles andere war vergessen.
 
 Wenig später kam Tom herein. "Na, ist der Fall schon gelöst?" witzelte er und warf seine
 braune Ledertasche schwungvoll auf seinen Tisch.
@@ -387,8 +387,8 @@ dem mutmaßlichen Tatort der tatsächliche Tatort."
 "Mach es nicht so spannend", beschwerte sich Tom.
 
 "Katashi Sakamoto, 37 Jahre alt, wohnhaft in Arches, und Jadvyga Kavaliauskas, 33 Jahre
-alt, wohnhaft in Aschgarten. Beide haben für Hexachem gearbeitet, ein Pharmaunternehmen
-der CP6-Gruppe."
+alt, wohnhaft in Aschgarten. Beide haben für Hexachem gearbeitet, ein
+Pharmaunternehmen."
 
 "Ausgezeichnet", nickte Tom zufrieden. "Wobei das natürlich einen anstrengenden Tag
 bedeutet", fügte er mit einem Seufzen hinzu. "Wo geht's zuerst hin?"
@@ -398,8 +398,7 @@ bedeutet", fügte er mit einem Seufzen hinzu. "Wo geht's zuerst hin?"
 Sie fuhren zuerst nach Aschgarten. Unterwegs unterrichtete Jessica Tom über die weiteren
 Details, die die Datenbank ausgespuckt hatte. "Jadvyga Kavaliauskas hat mit ihrer Frau,
 Amihan Marasigan, zusammen gewohnt. Marasigan ist Feinmechanikerin. Die beiden waren
-seit vier Jahren verheiratet. Sie hat Kavaliauskas vor zwei Tagen als vermisst
-gemeldet."
+seit vier Jahren verheiratet. Sie hat Kavaliauskas vor vier Tagen vermisst gemeldet."
 
 Sie parkte den blauen Dienstwagen am Straßenrand vor einem großzügigen Stadthaus. Im
 ersten Stock brannte Licht. Tom spannte beim Aussteigen einen Regenschirm auf, ging zur
@@ -409,10 +408,10 @@ zierliche Frau stand im Eingang und sah sie unsicher an. Ihre Haut war etwas dun
 die Jessicas, und sie war ein Stück kleiner, aber sie hatte ähnlich weiche Gesichtszüge
 und mandelförmige Augen.
 
-"Guten Morgen, ich bin Leutnant Nguyen und das ist Feldwebel Schleier. Amihan
+"Guten Morgen, ich bin Leutnant Nguyen und das ist Feldwebel Schleier. Sind Sie Amihan
 Marasigan?"
 
-"Ja", antwortete die Frau leise. "Wissen Sie etwas von Jagvyga?"
+"Ja", antwortete die Frau leise. "Wissen Sie etwas von Jadvyga?"
 
 Jessica atmete tief durch. Todesnachrichten zu überbringen wurde auch im Lauf vieler
 Jahre nicht einfacher. "Es tut mir sehr Leid, Frau Marasigan. Jadvyga Kavaliauskas wurde
@@ -424,7 +423,39 @@ sie mit zitternder Stimme.
 "Das werden wir heraus finden", versprach Jessica. "Dafür müssten wir Ihnen ein paar
 Fragen stellen. Ist das in Ordnung?"
 
-Ihr Gegenüber schluchzte und nickte.
+Ihr Gegenüber schluchzte und nickte. Sie ging voraus und führte Jessica und Tom durch
+den Flur in die geräumige Küche. Marasigan setzte sich auf einen Barhocker, der an einem
+Tresen aus dunklem Holz stand, und vergrub das Gesicht in den Händen. Die beiden
+Polizisten blieben stehen. Jessica gab ihr einen Moment Zeit, dann erklärte sie
+behutsam: "Ich darf momentan noch nicht über Einzelheiten sprechen, aber wir müssen von
+einem Verbrechen ausgehen. Wissen Sie von irgend jemandem, der Frau Kavaliauskas etwas
+antun wollen würde?"
+
+Marasigan sah auf. Sie konnte die Tränen nicht ganz zurück halten. "Nein", schluchzte
+sie und schüttelte den Kopf. "Das kann ich mir absolut nicht vorstellen."
+
+"Sie haben angegeben, dass sie am Donnerstag Abend nicht nach Hause gekommen ist. Wissen
+Sie, was sie an diesem Abend gemacht hat?"
+
+"Sie musste länger arbeiten."
+
+"Kam das öfter vor?" hakte Jessica nach.
+
+"Ja, hin und wieder."
+
+"Ist in der Zeit vor Frau Kavaliauskas' Verschwinden irgend etwas Ungewöhnliches
+vorgefallen? Hat sie sich anders als sonst verhalten?"
+
+Marasigan runzelte die Stirn. "Nein. Nein, mir ist nichts aufgefallen."
+
+"Sie machen das großartig, Frau Marasigan." Jessica lächelte ihr aufmunternd zu. "Wir
+sind auch bald durch. Wie war Ihr Verhältnis zu Ihrer Frau in letzter Zeit? Hatten Sie
+Streit oder sonstige Schwierigkeiten?"
+
+Neue Tränen drängten in Marasigans Augen. "Nein, es war alles gut. Wir waren glücklich.
+Wir haben hart gearbeitet für das Haus. Wir haben über Kinder nachgedacht." Sie
+schluchzte und versteckte ihr Gesicht wieder in den Händen.
+
 
 # Kapitel 5
 
