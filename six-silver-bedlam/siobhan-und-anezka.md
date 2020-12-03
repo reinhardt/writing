@@ -404,9 +404,9 @@ Sie parkte den blauen Dienstwagen am Straßenrand vor einem großzügigen Stadth
 ersten Stock brannte Licht. Tom spannte beim Aussteigen einen Regenschirm auf, ging zur
 Fahrerseite hinüber und ließ Jessica mit darunter. Sie gingen die wenigen Schritte zur
 Haustür. Jessica klingelte. Es dauerte einen Moment, bis die Tür geöffnet wurde. Eine
-zierliche Frau stand im Eingang und sah sie unsicher an. Ihre Haut war etwas dunkler als
-die Jessicas, und sie war ein Stück kleiner, aber sie hatte ähnlich weiche Gesichtszüge
-und mandelförmige Augen.
+zierliche Frau stand im Eingang und sah sie unsicher an. Sie hatte weiche Gesichtszüge
+und mandelförmige Augen, ähnlich wie Jessica, nur ihre Haut war etwas dunkler und sie
+war ein Stück kleiner.
 
 "Guten Morgen, ich bin Leutnant Nguyen und das ist Feldwebel Schleier. Sind Sie Amihan
 Marasigan?"
@@ -418,7 +418,7 @@ Jahre nicht einfacher. "Es tut mir sehr Leid, Frau Marasigan. Jadvyga Kavaliausk
 gestern Abend tot aufgefunden."
 
 Marasigan wurde bleich und hielt sich am Türrahmen fest. "W-was ist passiert?" fragte
-sie mit zitternder Stimme.
+sie mit zitternder Stimme. "Wo war sie?"
 
 "Das werden wir heraus finden", versprach Jessica. "Dafür müssten wir Ihnen ein paar
 Fragen stellen. Ist das in Ordnung?"
@@ -428,8 +428,8 @@ den Flur in die geräumige Küche. Marasigan setzte sich auf einen Barhocker, de
 Tresen aus dunklem Holz stand, und vergrub das Gesicht in den Händen. Die beiden
 Polizisten blieben stehen. Jessica gab ihr einen Moment Zeit, dann erklärte sie
 behutsam: "Ich darf momentan noch nicht über Einzelheiten sprechen, aber wir müssen von
-einem Verbrechen ausgehen. Wissen Sie von irgend jemandem, der Frau Kavaliauskas etwas
-antun wollen würde?"
+einem Verbrechen ausgehen. Wissen Sie von irgend jemandem, der ihrer Frau etwas antun
+wollen würde?"
 
 Marasigan sah auf. Sie konnte die Tränen nicht ganz zurück halten. "Nein", schluchzte
 sie und schüttelte den Kopf. "Das kann ich mir absolut nicht vorstellen."
@@ -448,6 +448,15 @@ vorgefallen? Hat sie sich anders als sonst verhalten?"
 
 Marasigan runzelte die Stirn. "Nein. Nein, mir ist nichts aufgefallen."
 
+"Sagt Ihnen der Name Katashi Sakamoto etwas?"
+
+"Katashi... Ich weiß seinen Nachnamen nicht, aber ein Arbeitskollege von Jadvyga heißt
+Katashi. Sie hat ihn manchmal erwähnt, aber ich kenne ihn nicht persönlich."
+
+"Kann es sein, dass sie mit ihm zusammen war, als sie verschwunden ist?"
+
+Marasigan überlegte kurz. "Ja. Sie haben wohl öfter zusammen gearbeitet."
+
 "Sie machen das großartig, Frau Marasigan." Jessica lächelte ihr aufmunternd zu. "Wir
 sind auch bald durch. Wie war Ihr Verhältnis zu Ihrer Frau in letzter Zeit? Hatten Sie
 Streit oder sonstige Schwierigkeiten?"
@@ -455,6 +464,18 @@ Streit oder sonstige Schwierigkeiten?"
 Neue Tränen drängten in Marasigans Augen. "Nein, es war alles gut. Wir waren glücklich.
 Wir haben hart gearbeitet für das Haus. Wir haben über Kinder nachgedacht." Sie
 schluchzte und versteckte ihr Gesicht wieder in den Händen.
+
+"Dann war Ihre Frau Ihnen treu, nach allem was Sie wissen?"
+
+"Ja", sagte Marasigan tonlos.
+
+Jessica wartete noch einen Moment, ob sie noch etwas hinzufügen würde, dann übertrug sie
+mit einer schiebenden Handbewegung ihre Kontaktdaten. "Vielen Dank für Ihre Hilfe, Frau
+Marasigan. Bitte melden Sie sich, falls Ihnen noch etwas einfällt. Wir lassen Sie es
+wissen, wenn wir etwas heraus finden."
+
+Marasigan nickte. Sie wirkte noch kleiner, so zusammen gesunken auf dem Barhocker.
+Schwerfällig richtete sie sich auf und begleitete die beiden wortlos zur Tür.
 
 
 # Kapitel 5
