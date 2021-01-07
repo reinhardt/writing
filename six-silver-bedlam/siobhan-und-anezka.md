@@ -1,5 +1,5 @@
 ---
-title: Siobhan und Anezka
+title: Six Silver Bedlam: The Roots of Fury
 description: |
     Jessica Nguyen ist Polizistin. Und eine verdammt gute, wie viele ihrer Kollegen
     bestätigen würden. Doch sie hat ein Geheimnis, das die meisten von ihnen nicht
@@ -448,7 +448,16 @@ vorgefallen? Hat sie sich anders als sonst verhalten?"
 
 Marasigan runzelte die Stirn. "Nein. Nein, mir ist nichts aufgefallen."
 
-"Sagt Ihnen der Name Katashi Sakamoto etwas?"
+"Der Vollständigkeit halber müssen wir Sie fragen, wo Sie am Montag zwischen vierzehn
+und zwanzig Uhr waren."
+
+"Ich war in der Arbeit bis gegen sieben, und danach zu Hause."
+
+"Nach neunzehn Uhr waren Sie allein?"
+
+"Ja."
+
+Jessica nickte. "Sagt Ihnen der Name Katashi Sakamoto etwas?"
 
 "Katashi... Ich weiß seinen Nachnamen nicht, aber ein Arbeitskollege von Jadvyga heißt
 Katashi. Sie hat ihn manchmal erwähnt, aber ich kenne ihn nicht persönlich."
@@ -476,6 +485,10 @@ wissen, wenn wir etwas heraus finden."
 
 Marasigan nickte. Sie wirkte noch kleiner, so zusammen gesunken auf dem Barhocker.
 Schwerfällig richtete sie sich auf und begleitete die beiden wortlos zur Tür.
+
+Jessica und Tom eilten unter dem Regenschirm zurück zum Wagen. Jessica steuerte ihn
+zurück auf die Hauptstraße. "Nächster Halt Arches. Katashi Sakamoto und Ndidi Otieno
+haben dort eine Wohnung."
 
 
 # Kapitel 5
