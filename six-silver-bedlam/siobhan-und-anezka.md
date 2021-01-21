@@ -1,5 +1,5 @@
 ---
-title: Six Silver Bedlam: The Roots of Fury
+title: Six Silver Bedlam&#x3A; The Roots of Fury
 description: |
     Jessica Nguyen ist Polizistin. Und eine verdammt gute, wie viele ihrer Kollegen
     bestätigen würden. Doch sie hat ein Geheimnis, das die meisten von ihnen nicht
@@ -8,7 +8,7 @@ description: |
 ---
 # Kapitel 1
 
-Jessica fühlte sich taub. Sie spürte kaum den stetigen Nieselregen, der sie nach und
+Jessica fühlte sich wie taub. Sie spürte kaum den stetigen Nieselregen, der sie nach und
 nach durchnässte und die herbstliche Kälte in ihre Knochen sickern ließ. Die nasse
 Straße reflektierte das kalte Licht der Straßenlaternen und Leuchtreklamen. Obwohl es
 spät war, begegneten ihr noch viele Leute, die, genau wie sie, in dunkle Mäntel gehüllt
@@ -408,8 +408,8 @@ zierliche Frau stand im Eingang und sah sie unsicher an. Sie hatte weiche Gesich
 und mandelförmige Augen, ähnlich wie Jessica, nur ihre Haut war etwas dunkler und sie
 war ein Stück kleiner.
 
-"Guten Morgen, ich bin Leutnant Nguyen und das ist Feldwebel Schleier. Sind Sie Amihan
-Marasigan?"
+"Guten Morgen, Polizei Bedlam. Ich bin Leutnant Nguyen und das ist Feldwebel Schleier.
+Sind Sie Amihan Marasigan?"
 
 "Ja", antwortete die Frau leise. "Wissen Sie etwas von Jadvyga?"
 
@@ -488,7 +488,86 @@ Schwerfällig richtete sie sich auf und begleitete die beiden wortlos zur Tür.
 
 Jessica und Tom eilten unter dem Regenschirm zurück zum Wagen. Jessica steuerte ihn
 zurück auf die Hauptstraße. "Nächster Halt Arches. Katashi Sakamoto und Ndidi Otieno
-haben dort eine Wohnung."
+haben dort eine Wohnung. Sie leben dort seit einem Jahr zusammen; davor haben sie etwas
+mehr als ein Jahr in einer anderen Wohnung in Arches gewohnt. Sie sind nicht
+verheiratet. Ndidi ist Krankenschwester und engagiert sich in einem
+Nachbarschaftshilfe-Verein."
+
+"Haben wir eine Vermisstenanzeige?"
+
+"Negativ. Es könnte natürlich sein, dass sie Katashi nicht vermisst hat, aber ich denke,
+es liegt eher daran, dass die Leute in Arches ihre Angelegenheiten gerne ohne Polizei
+regeln. Man wohnt nicht in einem Stadtviertel, das von einer Stadtmauer umgeben ist,
+wenn man nicht unter sich bleiben will."
+
+"Stimmt", nickte Tom. "Es ist auch ungewöhnlich, dass Katashi einen Arbeitsplatz
+außerhalb hatte. Wer in Arches wohnt, arbeitet auch dort, hat seine Freunde dort...
+Manche Leute verlassen angeblich ihr Leben lang das Viertel nicht."
+
+Sie fuhren über die Brücke, die den Tey zwischen Aschgarten und Jottenhamn überspannte.
+Die Sicht war schlecht, aber man konnte einige wenige Boote erkennen, die auf dem Fluss
+unterwegs waren.
+
+"Wir sollten auf jeden Fall mit Turris Security Kontakt aufnehmen", meinte Jessica. "Als
+örtliche Sicherheitstruppe dürften sie eher das Vertrauen der Anwohner genießen.
+Allerdings waren sie in der Vergangenheit uns gegenüber auch nicht immer sehr
+entgegenkommend."
+
+Sie fuhren ein Stück an der Mauer entlang, die Arches umgab. Klingendraht und Wachtürme
+ließen das Viertel abweisend wirken. Am Checkpoint, zu dem sie kamen, warteten zwei
+weitere Autos vor ihnen. Die Leute von Turris nahmen die Kontrollen sehr genau. Es
+dauerte eine ganze Weile, bis sie an der Reihe waren. Die Polizei Bedlam hatte zwar
+garantierten Zutritt, aber dennoch mussten sie eine ausführliche Kontrolle über sich
+ergehen lassen. Sie mussten aussteigen, die Wachleute in den Kofferraum und auf die
+Rückbank sehen lassen und ihre Jacken aus- und wieder anziehen. Nach einem letzten
+kritischen Blick auf ihre Dienstmarken durften sie schließlich passieren. Jessica
+überlegte kurz, ob sie gleich den Fall ansprechen sollte, doch sie entschied sich
+dagegen. Vermutlich würde sie nur genervt an einen Kontakt in der Verwaltung verwiesen
+werden.
+
+Nach ein paar Minuten hatten sie das Haus erreicht, in dem Otieno und Sakamoto ihre
+Wohnung hatten. Am Eingang waren jede Menge Kameras sowie Klingeln für acht Parteien.
+Tom drückte den Knopf für Wohnung Nummer 6 im zweiten Stock, doch die Sprechanlage blieb
+stumm. Auch nach einem zweiten und dritten Versuch kam keine Reaktion.
+
+"Niemand zu Hause", stellte Tom fest.
+
+"Ich versuche, Otieno anzurufen", schlug Jessica vor. Sie legte eine Hand ans Ohr und
+blätterte mit der anderen die Kontakte durch, die ihr eingeblendet wurden. Sie wählte
+Ndidi Otieno, doch sie bekam keine Verbindung. Mit gerunzelter Stirn sah sie zu Tom und
+schüttelte den Kopf.
+
+Tom zuckte mit den Schultern. "Versuch es später noch einmal. Aber wenn wir schon einmal
+hier sind, lass uns mal mit den Nachbarn sprechen."
+
+Jessica nickte. "Aber wenn jemand fragt, sind wir Bekannte der beiden."
+
+"OK." Tom klingelte bei der Nachbarwohnung. Eine Frauenstimme meldete sich.
+
+"Ja?"
+
+"Guten Morgen. Entschuldigen Sie die Störung - Wir möchten zu Otieno und Katashi. Wissen
+Sie zufällig, wann dort wieder jemand zu Hause ist?"
+
+"Wer will das wissen?"
+
+"Mein Name ist Tom. Ich kenne Katashi von der Arbeit."
+
+Ein paar Sekunden herrschte Stille im Lautsprecher. Dann sagte die selbe Stimme, "Ich
+weiß nicht, wo die beiden sind. Ich habe seit Tagen keinen rein oder raus gehen sehen."
+
+"Denken Sie, irgend etwas stimmt nicht?" hakte Tom nach.
+
+"Nein... oder vielmehr... Ich glaube, die beiden hatten Streit. Aber das wissen Sie
+nicht von mir. Ich weiß eh nicht, was Sie das an geht. Versuchen Sie es doch bitte ein
+andermal wieder."
+
+Ein Klicken signalisierte, dass die Sprechverbindung unterbrochen wurde.
+
+Jessica zog die Augenbrauen hoch. "Seit Tagen?"
+
+Tom schüttelte den Kopf. "Es muss nichts heißen, aber... Hm. Lass mal sehen, ob die
+anderen Nachbarn das bestätigen können."
 
 
 # Kapitel 5

@@ -24,8 +24,14 @@ der Nähe des Tatorts gewesen waren.
 Jessica wird auf dem Weg nach Hause von einem Mann angegriffen. Sie rettet sich mit
 ihrem Gesang.
 
-Am nächsten Tag bekommt sie Material von Überwachungskameras, durch das Siobhan in den
-Fokus der Ermittlungen rückt.
+Am nächsten Tag befragen Jessica und Tom die Angehörigen der Opfer. Amihan sagt aus,
+dass Jadvyga länger arbeiten musste und dass Katashi ein Kollege von ihr war. In Ndidis
+und Katashis Wohnung treffen sie niemanden an. Ndidi reagiert auch nicht auf Anrufe. Sie
+befragen die Nachbarn und finden heraus, dass seit Donnerstag niemand mehr in der
+Wohnung war.
+
+Jessica bekommt Material von Überwachungskameras, durch das Siobhan in den Fokus der
+Ermittlungen rückt.
 
 Siobhan bekommt Besuch von Jessica und Tom, die sie zum Mordfall befragen. Siobhan gibt
 vor, nichts zu wissen.

@@ -1,5 +1,6 @@
 ---
-title: Siobhan and Anezka
+title: Six Silver Bedlam&#x3A; The Roots of Fury
+description: English version
 ---
 
 Jessica felt numb. She hardly noticed the steady drizzle that gradually soaked her and
