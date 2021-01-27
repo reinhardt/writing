@@ -488,8 +488,8 @@ Schwerfällig richtete sie sich auf und begleitete die beiden wortlos zur Tür.
 
 Jessica und Tom eilten unter dem Regenschirm zurück zum Wagen. Jessica steuerte ihn
 zurück auf die Hauptstraße. "Nächster Halt Arches. Katashi Sakamoto und Ndidi Otieno
-haben dort eine Wohnung. Sie leben dort seit einem Jahr zusammen; davor haben sie etwas
-mehr als ein Jahr in einer anderen Wohnung in Arches gewohnt. Sie sind nicht
+haben dort eine Wohnung. Sie haben dort seit einem Jahr zusammen gelebt; davor haben sie
+etwas mehr als ein Jahr in einer anderen Wohnung in Arches gewohnt. Sie sind nicht
 verheiratet. Ndidi ist Krankenschwester und engagiert sich in einem
 Nachbarschaftshilfe-Verein."
 
@@ -497,8 +497,8 @@ Nachbarschaftshilfe-Verein."
 
 "Negativ. Es könnte natürlich sein, dass sie Katashi nicht vermisst hat, aber ich denke,
 es liegt eher daran, dass die Leute in Arches ihre Angelegenheiten gerne ohne Polizei
-regeln. Man wohnt nicht in einem Stadtviertel, das von einer Stadtmauer umgeben ist,
-wenn man nicht unter sich bleiben will."
+regeln. Man wohnt nicht in einem Stadtviertel, das von einer vier Meter hohen Mauer
+umgeben ist, wenn man nicht unter sich bleiben will."
 
 "Stimmt", nickte Tom. "Es ist auch ungewöhnlich, dass Katashi einen Arbeitsplatz
 außerhalb hatte. Wer in Arches wohnt, arbeitet auch dort, hat seine Freunde dort...
@@ -526,21 +526,22 @@ dagegen. Vermutlich würde sie nur genervt an einen Kontakt in der Verwaltung ve
 werden.
 
 Nach ein paar Minuten hatten sie das Haus erreicht, in dem Otieno und Sakamoto ihre
-Wohnung hatten. Am Eingang waren jede Menge Kameras sowie Klingeln für acht Parteien.
-Tom drückte den Knopf für Wohnung Nummer 6 im zweiten Stock, doch die Sprechanlage blieb
-stumm. Auch nach einem zweiten und dritten Versuch kam keine Reaktion.
+Wohnung hatten. Am Eingang waren mindestens drei Kameras sowie Klingeln für acht
+Parteien angebracht. Tom drückte den Knopf für Wohnung Nummer 6 im zweiten Stock, doch
+die Sprechanlage blieb stumm. Auch nach einem zweiten und dritten Versuch kam keine
+Reaktion.
 
 "Niemand zu Hause", stellte Tom fest.
 
 "Ich versuche, Otieno anzurufen", schlug Jessica vor. Sie legte eine Hand ans Ohr und
-blätterte mit der anderen die Kontakte durch, die ihr eingeblendet wurden. Sie wählte
-Ndidi Otieno, doch sie bekam keine Verbindung. Mit gerunzelter Stirn sah sie zu Tom und
-schüttelte den Kopf.
+blätterte mit der anderen die Kontakte durch, die in ihr Gesichtsfeld eingeblendet
+wurden. Sie wählte Ndidi Otieno, doch sie bekam keine Verbindung. Mit gerunzelter Stirn
+sah sie zu Tom und schüttelte den Kopf.
 
 Tom zuckte mit den Schultern. "Versuch es später noch einmal. Aber wenn wir schon einmal
 hier sind, lass uns mal mit den Nachbarn sprechen."
 
-Jessica nickte. "Aber wenn jemand fragt, sind wir Bekannte der beiden."
+Jessica nickte. "Aber wenn jemand fragt, dann sind wir Bekannte der beiden."
 
 "OK." Tom klingelte bei der Nachbarwohnung. Eine Frauenstimme meldete sich.
 
@@ -559,14 +560,15 @@ weiß nicht, wo die beiden sind. Ich habe seit Tagen keinen rein oder raus gehen
 "Denken Sie, irgend etwas stimmt nicht?" hakte Tom nach.
 
 "Nein... oder vielmehr... Ich glaube, die beiden hatten Streit. Aber das wissen Sie
-nicht von mir. Ich weiß eh nicht, was Sie das an geht. Versuchen Sie es doch bitte ein
+nicht von mir. Ich weiß eh nicht, was Sie das an geht. Versuchen Sie es doch ein
 andermal wieder."
 
 Ein Klicken signalisierte, dass die Sprechverbindung unterbrochen wurde.
 
 Jessica zog die Augenbrauen hoch. "Seit Tagen?"
 
-Tom schüttelte den Kopf. "Es muss nichts heißen, aber... Hm. Lass mal sehen, ob die
+Tom schüttelte den Kopf. "Es muss nichts heißen, aber... Wenn Ndidi zur gleichen Zeit
+wie Sakamoto verschwunden ist, dann wirft das einige Fragen auf. Lass mal sehen, ob die
 anderen Nachbarn das bestätigen können."
 
 

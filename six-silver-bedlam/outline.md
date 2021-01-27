@@ -55,26 +55,35 @@ Frauen, die zur ungefähren Tatzeit in der Nähe waren.
 Auf dem Heimweg versucht ein Mann, Jessica zu vergewaltigen. Sie setzt ihre Fähigkeit
 ein und er stürzt sich in seinen Tod.
 
+## Schlechte Nachrichten
+
+1600 Wörter
+
+Tag 2
+
+Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem. Blutspuren am
+mutmaßlichen Tatort stimmen mit den Opfern überein. Dort gefundene Fingerabdrücke können
+zunächst nicht zugeordnet werden. Der Todeszeitpunkt kann eingegrenzt werden. Jessica
+und Tom befragen die Partner der Opfer. Marasigan denkt, dass Kavaliauskas am Abend der
+Tat länger arbeiten musste. Otieno ist zunächst nicht auffindbar oder erreichbar.
+
 ## Hexachem
 
 1500 Wörter
 
 Tag 2
 
-Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem. Blutspuren am
-mutmaßlichen Tatort stimmen mit den Opfern überein. Dort gefundene Fingerabdrücke können
-zunächst nicht zugeordnet werden. Jessica und Tom befragen die Partner der Opfer. Sie
-denken, dass die beiden am Abend der Tat länger arbeiten mussten.
-
 Anschließend sprechen Sie mit den Kollegen der Opfer. Diese geben an, dass beide das
-Büro zur normalen Zeit verlassen hätten. Ein Kollege sagt aus, die Frauen in der Nähe
+Büro zur normalen Zeit verlassen hätten. Ein Kollege sagt aus, zwei Frauen in der Nähe
 der Firma gesehen zu haben. Auf Basis seiner Beschreibung und der des Obdachlosen
 erstellen sie Phantombilder. Für eines davon spuckt die Polizeidatenbank einen Namen
 aus: Siobhan O'Malley. Die Bilder werden außerdem für eine Suche in Daten von
 Überwachungskameras benutzt.
 
+Befragung des Jugendlichen, der die Leichen gefunden hat?
+
 Jessicas und Toms Hypothese ist, dass die Opfer Affären mit den beiden Frauen hatten,
-und ihre Partner sie gemeinsam getötet haben.
+und Otieno sie aus Rache getötet hat.
 
 ## Tee
 
@@ -96,7 +105,8 @@ Tag 3
 Jessica überlegt, ob Siobhan eine Norne ist.
 
 Die Auswertung der Überwachungskameras liefert Bilder von zwei Personen, die am Tag vor
-der Tat in der Nähe waren. Eine davon könnte Siobhan sein.
+der Tat in der Nähe waren. Eine davon könnte Siobhan sein. Jessica zeigt die Bilder Tom
+nicht.
 
 ## Von Norne zu Norne
 
@@ -109,7 +119,7 @@ dass Siobhan eine Nymphe sei, und bittet sie, aus Solidarität nicht gegen sie z
 ermitteln. Jessica zeigt ihr die Bilder der Überwachungskamera, doch Ellen kommentiert
 sie nicht.
 
-##
+## Eifersucht
 
 Tag 3
 
@@ -219,7 +229,7 @@ unternimmt. Jessica ist zuerst auf ihrer Seite, doch als Ellen andeutet, dass si
 Siobhan und Anezka unterstützt, obwohl sie schuldig sind, wendet Jessica sich gegen sie
 und beschließt, keine Nachsicht mehr zu üben.
 
-##
+## Fahndung
 
 Tag 5
 
