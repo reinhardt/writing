@@ -75,16 +75,10 @@ Jessica schüttelte fassungslos den Kopf. Es schien, als wolle die ganze Welt si
 machen. Sie wischte die Nachricht zur Seite und warf noch einen Blick in ihren
 Eingangsordner, in der vagen Erwartung, dass dort noch mehr Hiobsbotschaften auf sie
 warteten. Auf den ersten Blick sah es jedoch nicht so aus, und bevor sie sich mit den
-alltäglichen Nachrichten befassen konnte, kam Hagström herein.
+alltäglichen Nachrichten befassen konnte, kam Solveig Hagström herein.
 
 "Ah, Nguyen, Sie sind auch da," sagte sie statt einer Begrüßung. "Gut. Dann kann ich Sie
 beide zusammen einweisen. Es gibt einen neuen Fall."
-
-Sylvia Hagström war Jessicas und Toms Vorgesetzte. Sie war eine der wenigen Frauen in
-einer Führungsposition, oder vielmehr, eine der wenigen Frauen überhaupt bei der Polizei
-von Bedlam. Das war vermutlich der Grund dafür, dass sie versuchte, keinerlei Schwäche
-zu zeigen. Doch Jessica hatte gelernt, dass hinter der harte Fassade ein denkender,
-fühlender Mensch und eine wertvolle Verbündete steckte.
 
 Hagström gestikulierte einen Moment lang in der Luft herum. Zwischendurch zeigte sie auf
 Jessica und Tom. Neben Jessicas Nachrichteneingang leuchtete ein rotes Symbol auf.
@@ -92,10 +86,10 @@ Hagström hatte eine Ansicht mit den beiden geteilt. Jessica führte ihre Hand z
 Symbol, und es erschienen mehrere Fotos vor ihren Augen, die vermutlich einen Tatort
 zeigten.
 
-"Wir haben zwei Leichen; einen Mann, Anfang vierzig, mit etlichen Messerstichen, und
-eine Frau, Mitte dreißig, mit Schusswunden in der Brust. Klingt an sich nach zwei
-Fällen, außer, dass beide im gleichen Schuttcontainer im ehemaligen Industriegebiet in
-Jottenhamn gefunden wurden."
+"Wir haben zwei Leichen; einen Mann, Anfang vierzig, mit durchgeschnittener Kehle, und
+eine Frau, Mitte dreißig, mit Schusswunden in Brust und Bauch. Klingt an sich nach zwei
+Fällen, außer, dass beide im gleichen Schuttcontainer im Industriegebiet in Jottenhamn
+gefunden wurden."
 
 "Wer hat sie gefunden?" fragte Tom.
 
@@ -107,6 +101,45 @@ Hagström schüttelte den Kopf. "Die Spurensicherung ist fast durch, aber es gib
 nichts Definitives." 
 
 "Wir fahren gleich mal hin und sehen uns das an." beschloss Jessica. 
+
+---
+
+Sie fuhren über die Brücke, die den Tey zwischen Aschgarten und Jottenhamn überspannte.
+Die Sicht war schlecht, aber man konnte einige wenige Boote erkennen, die auf dem Fluss
+unterwegs waren. Sie bogen rechts ab und fuhren durch den Teil des Industriegebiets, der
+noch als solches in Betrieb war. Nach kurzer Fahrt schlossen sich reihenweise leer
+stehende Fabrik- und Lagerhallen an.
+
+"Naheliegende Wahl, um jemanden umzubringen", kommentierte Jessica. "Jede Menge Platz,
+keine störenden Nachbarn."
+
+Tom nickte. "Sie kommen nicht mehr mit dem Umbau hinterher. Ganz im Osten ziehen zwar
+schon die ersten Leute ein, aber mindestens drei viertel des Gebietes sind noch entweder
+im Umbau, stehen leer oder sind noch gar nicht still gelegt. Es war sowieso eine
+furchtbare Idee, das Industriegebiet zu konvertieren. Das hat nur Probleme gemacht,
+nicht zuletzt die horrenden Kosten. Und alles nur, weil es den wohlhabenden Herrschaften
+in der Nachbarschaft ein Dorn im Auge war."
+
+Jessica seufzte. "Das geht natürlich nicht, dass die Geldsäcke auf Schornsteine schauen
+müssen."
+
+Eines der Privilegien der Arbeit bei der Polizei war, dass man offener sprechen konnte
+und sich weniger Sorgen um Überwachung machen musste. Schließlich war es die Polizei,
+die einen Großteil der Überwachung durchführte. Dann waren da natürlich noch die anderen
+Sicherheitsdienste, die Geheimdienste und der Grenzschutz, aber zu viel durfte man
+darüber nicht nachdenken, sonst wurde man wahnsinnig. 
+
+"Da verlegt der Herr Bürgermeister doch lieber die ganze Industrie in den Süden, zu den
+armen Schluckern, die keine Lobby haben. So läuft es doch immer."
+
+Bald kamen die ersten Baustellen in Sicht. Eine davon war mit schwarz-gelbem Absperrband
+umgeben. Statt von Bauarbeitern wimmelte es von Polizisten, teils in Uniform, teils in
+Zivil. Zwei von ihnen wühlten in einem großen Container herum, in dem Bauschutt und
+verschiedene Abfälle lagen. Ein paar Meter davor waren zwei längliche Formen mit
+schwarzen Planen abgedeckt.
+
+Jessica parkte den Wagen. Neben den beiden länglichen Objekten, bei denen es sich
+offensichtlich um die Leichen handelte, stand Swapna Purohit, die Gerichtsmedizinerin.
 
 ---
 
@@ -122,26 +155,8 @@ die Drohne ausgespuckt hatte, kopiert und sich auf den Weg gemacht.
 Nach kurzer Fahrt kamen sie an einem von Stacheldrahtzaun umgebenen Gelände mit einem
 halben Dutzend heruntergekommener Gebäude in verschiedenen Größen an. Das Tor stand
 offen, und sie hielten auf einem Parkplatz, der früher wohl für Besucher bestimmt
-gewesen war. Jessica stellte den Motor ab. "Naheliegende Wahl, um jemanden umzubringen",
-sagte sie. "Jede Menge Platz, keine störenden Nachbarn."
-
-Tom nickte. "Es wird höchste Zeit, dass die Sanierung beginnt. Es war sowieso eine
-furchtbare Idee, das Industriegebiet zu schließen. Das hat nur Probleme gemacht. Und
-alles nur, weil es den wohlhabenden Herrschaften in der Nachbarschaft ein Dorn im Auge
-war."
-
-Jessica seufzte. "Das geht natürlich nicht, dass die Geldsäcke auf Schornsteine schauen
-müssen."
-
-Eines der Privilegien der Arbeit bei der Polizei war, dass man offener sprechen konnte
-und sich weniger Sorgen um Überwachung machen musste. Schließlich war es die Polizei,
-die einen Großteil der Überwachung durchführte. Dann waren da natürlich noch die anderen
-Sicherheitsdienste, die Geheimdienste und der Grenzschutz, aber zu viel durfte man
-darüber nicht nachdenken, sonst wurde man wahnsinnig. 
-
-"Da verlegt der Herr Bürgermeister doch lieber das ganze Gebiet in den Süden, zu den
-armen Schluckern, die keine Lobby haben. So läuft es doch immer." Jessica öffnete die
-Tür. "Komm, wir sehen uns um."
+gewesen war. Jessica stellte den Motor ab. Jessica öffnete die Tür. "Komm, wir sehen uns
+um."
 
 Sie gingen zuerst in das vorderste Gebäude, an dessen Fassade noch die Schatten eines
 Firmen-Schriftzuges zu sehen waren. Das Innere bestand hauptsächlich aus Büros und ein
@@ -448,8 +463,8 @@ vorgefallen? Hat sie sich anders als sonst verhalten?"
 
 Marasigan runzelte die Stirn. "Nein. Nein, mir ist nichts aufgefallen."
 
-"Der Vollständigkeit halber müssen wir Sie fragen, wo Sie am Montag zwischen vierzehn
-und zwanzig Uhr waren."
+"Der Vollständigkeit halber müssen wir Sie fragen, wo Sie am Sonntag zwischen zwölf und
+vierundzwanzig Uhr waren."
 
 "Ich war in der Arbeit bis gegen sieben, und danach zu Hause."
 
@@ -490,28 +505,25 @@ Jessica und Tom eilten unter dem Regenschirm zurück zum Wagen. Jessica steuerte
 zurück auf die Hauptstraße. "Nächster Halt Arches. Katashi Sakamoto und Ndidi Otieno
 haben dort eine Wohnung. Sie haben dort seit einem Jahr zusammen gelebt; davor haben sie
 etwas mehr als ein Jahr in einer anderen Wohnung in Arches gewohnt. Sie sind nicht
-verheiratet. Ndidi ist Krankenschwester und engagiert sich in einem
+verheiratet. Otieno ist Krankenschwester und engagiert sich in einem
 Nachbarschaftshilfe-Verein."
 
 "Haben wir eine Vermisstenanzeige?"
 
-"Negativ. Es könnte natürlich sein, dass sie Katashi nicht vermisst hat, aber ich denke,
-es liegt eher daran, dass die Leute in Arches ihre Angelegenheiten gerne ohne Polizei
-regeln. Man wohnt nicht in einem Stadtviertel, das von einer vier Meter hohen Mauer
-umgeben ist, wenn man nicht unter sich bleiben will."
+"Negativ. Es könnte natürlich sein, dass sie Sakamoto nicht vermisst hat, aber ich
+denke, es liegt eher daran, dass die Leute in Arches ihre Angelegenheiten gerne ohne
+Polizei regeln. Man wohnt nicht in einem Stadtviertel, das von einer vier Meter hohen
+Mauer umgeben ist, wenn man nicht unter sich bleiben will."
 
-"Stimmt", nickte Tom. "Es ist auch ungewöhnlich, dass Katashi einen Arbeitsplatz
+"Stimmt", nickte Tom. "Es ist auch ungewöhnlich, dass Sakamoto einen Arbeitsplatz
 außerhalb hatte. Wer in Arches wohnt, arbeitet auch dort, hat seine Freunde dort...
 Manche Leute verlassen angeblich ihr Leben lang das Viertel nicht."
 
-Sie fuhren über die Brücke, die den Tey zwischen Aschgarten und Jottenhamn überspannte.
-Die Sicht war schlecht, aber man konnte einige wenige Boote erkennen, die auf dem Fluss
-unterwegs waren.
+Sie fuhren wieder über den Tey. Arches grenzte im Osten an Jottenhamn.
 
 "Wir sollten auf jeden Fall mit Turris Security Kontakt aufnehmen", meinte Jessica. "Als
-örtliche Sicherheitstruppe dürften sie eher das Vertrauen der Anwohner genießen.
-Allerdings waren sie in der Vergangenheit uns gegenüber auch nicht immer sehr
-entgegenkommend."
+örtliche Sicherheitstruppe dürften sie eher das Vertrauen der Anwohner genießen. Turris
+wiederum war allerdings bisher uns gegenüber auch nicht immer sehr entgegenkommend."
 
 Sie fuhren ein Stück an der Mauer entlang, die Arches umgab. Klingendraht und Wachtürme
 ließen das Viertel abweisend wirken. Am Checkpoint, zu dem sie kamen, warteten zwei
@@ -547,7 +559,7 @@ Jessica nickte. "Aber wenn jemand fragt, dann sind wir Bekannte der beiden."
 
 "Ja?"
 
-"Guten Morgen. Entschuldigen Sie die Störung - Wir möchten zu Otieno und Katashi. Wissen
+"Guten Morgen. Entschuldigen Sie die Störung - Wir möchten zu Ndidi und Katashi. Wissen
 Sie zufällig, wann dort wieder jemand zu Hause ist?"
 
 "Wer will das wissen?"
@@ -567,9 +579,10 @@ Ein Klicken signalisierte, dass die Sprechverbindung unterbrochen wurde.
 
 Jessica zog die Augenbrauen hoch. "Seit Tagen?"
 
-Tom schüttelte den Kopf. "Es muss nichts heißen, aber... Wenn Ndidi zur gleichen Zeit
-wie Sakamoto verschwunden ist, dann wirft das einige Fragen auf. Lass mal sehen, ob die
-anderen Nachbarn das bestätigen können."
+Tom schüttelte den Kopf. "Es muss nichts heißen, aber... Wenn Otieno zur gleichen Zeit
+wie Sakamoto verschwunden ist, dann wirft das einige Fragen auf." Er sah nach oben zu
+einer der Kameras. "Wenn Turris sich nicht quer stellt, lässt sich das leicht
+überprüfen."
 
 
 # Kapitel 5
@@ -639,13 +652,12 @@ brauchte mehr und mehr Kraft.
 Seite und ließ die Besucher in die kleine Wohnung. Es gab nur eine Sitzgelegenheit, wenn
 man das Bett nicht zählte. Siobhan bot den Besuchern nicht an, sich zu setzen, doch das
 schien diese nicht zu stören. Der Mann - Schleier? - sagte zum ersten Mal etwas, und er
-kam gleich zur Sache. "Wo waren Sie am Montag zwischen vierzehn und zwanzig Uhr?"
+kam gleich zur Sache. "Wo waren Sie am Sonntag zwischen zwölf und vierundzwanzig Uhr?"
 
-Jegliche Illusionen, dass es um eine Bagatelle gegen könnte, waren damit geplatzt.
+Jegliche Illusionen, dass es um eine Bagatelle gehen könnte, waren damit geplatzt.
 Siobhan wusste genau, wo sie in diesem Zeitraum gewesen war, doch sie tat so, als müsste
-sie nachdenken, um Zeit zu gewinnen. Die Zeitangabe war erschreckend genau. Und wie war
-die Polizei so schnell auf Siobhan gekommen? Das flaue Gefühl in ihrem Magen verwandelte
-sich in einen Klumpen aus Eis.
+sie nachdenken, um Zeit zu gewinnen. Wie war die Polizei so schnell auf sie gekommen?
+Das flaue Gefühl in ihrem Magen verwandelte sich in einen Klumpen aus Eis.
 
 "Ich glaube, ich war im Donarpark in Granna." Besser, nahe an der Wahrheit zu bleiben.
 Dort hatte sie sich wirklich mit Anezka getroffen.
@@ -739,7 +751,7 @@ Siobhan nickte. "Gerade vorhin", schniefte sie.
 
 "Und was wollten sie?"
 
-"Sie wollten wissen, wo ich am Montag Nachmittag war."
+"Sie wollten wissen, wo ich am Sonntag Nachmittag war."
 
 Ellen runzelte die Stirn. "Hast du etwas angestellt?"
 

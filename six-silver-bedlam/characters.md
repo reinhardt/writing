@@ -62,7 +62,7 @@ sie gelegentlich in Konflikt mit ihrem Gewissen.
 
 36 Jahre, mitteleuropäische Abstammung, Milesier
 
-## Sylvia Hagström
+## Solveig Hagström
 
 48 Jahre, nordeuropäische Abstammung, Milesierin
 
@@ -110,3 +110,9 @@ Eines der Opfer
 Philippinische Abstammung, Milesierin
 
 Ehefrau von Jadvyga (seit vier Jahren), Feinmechanikerin
+
+## Swapna Purohit
+
+Indische Abstammung, Milesierin
+
+Gerichtsmedizinerin

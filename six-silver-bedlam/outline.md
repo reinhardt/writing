@@ -108,6 +108,13 @@ Die Auswertung der Überwachungskameras liefert Bilder von zwei Personen, die am
 der Tat in der Nähe waren. Eine davon könnte Siobhan sein. Jessica zeigt die Bilder Tom
 nicht.
 
+## 
+
+1000 Wörter
+
+Tom spricht mit Otieno. Sie behauptet, Streit mit Sakamoto gehabt zu haben und deshalb
+am Donnerstag zu einer Freundin gezogen zu sein.
+
 ## Von Norne zu Norne
 
 1500 Wörter
