@@ -100,7 +100,7 @@ gehen die beiden wieder.
 
 1000 Wörter
 
-Tag 3
+Tag 2/3
 
 Jessica überlegt, ob Siobhan eine Norne ist.
 

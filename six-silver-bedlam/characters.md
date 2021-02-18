@@ -56,7 +56,9 @@ sie gelegentlich in Konflikt mit ihrem Gewissen.
 
 ## Ellen Masozi Owusu
 
-41 Jahre, afrikanische Abstammung, Banshee, sitzt im Rollstuhl
+41 Jahre, afrikanische Abstammung, Banshee
+
+sitzt im Rollstuhl
 
 ## Thomas "Tom" Schleier
 
@@ -68,7 +70,9 @@ sie gelegentlich in Konflikt mit ihrem Gewissen.
 
 ## Moira Flannigan
 
-41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade), Betreiberin des "Labyrinth" 
+41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade)
+
+Betreiberin des "Labyrinth" 
 
 ## Alexandria Kamau Ferreira
 
