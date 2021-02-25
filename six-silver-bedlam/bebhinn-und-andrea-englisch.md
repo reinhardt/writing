@@ -36,4 +36,29 @@ don't make it political when it's really about you not getting what you want."
 
 Bébhinn ground her teeth. "Fuck you, Andrea," she hissed. "Really. You're not happy? You
 got everything you wanted out of this. You got to fuck Lexa, you got to fuck me, and now
-that you're tired of it, tired of me, you get to walk away."
+that you're tired of it, tired of me, you get to walk away." She paused. "No," she
+corrected. "Not today." She reached to her left side with her right hand and pulled out
+her gun from under her jacket. "You're not just walking away this time."
+
+A flicker of fear went over his face. "Put that away, Bébhinn."
+
+She ignored him. "You have no idea, Andrea. No idea what it feels like to be treated as
+less than human, to constantly have to look over your shoulder, to be denied things that
+others take for granted. But I'll give you a taste." She concentrated on the flame
+inside her which had turned into a wildfire by now. She felt for her anger, her hurt and
+her frustration, and let all the emotions wash over her until they filled every fibre of
+her body. Andrea said something, but she didn't hear him. She was being consumed by rage
+and pain, and just when she felt like she was about to burst she opened her mouth and
+let out a deafening wail. It was shrill, dissonant and terribly loud. Bébhinn laid all
+her feelings onto it and let them fly like so many arrows. Andrea raised his hands to
+his ears, but it was no use. His eyes grew wide, and she saw her own emotions mirrored
+there. At first it seemed like he was going to cry, but then his face contorted into a
+grimace of rage, and he started to rush towards her. He covered the distance between
+them in three quick steps, his fist raised as if to strike her. There was no room for
+thoughts inside her, and no time to think anyway. She pulled the trigger. Twice. Three
+times. Andrea's expression turned to shock, then to a vacant stare. A red stain quickly
+spread on his shirt. He fell over backwards. Bébhinn stood there, frozen. Her ears were
+ringing in the sudden silence. Slowly, thought seeped back into her mind. "Fuck," she
+whispered. She dropped the gun. Her hands were shaking. Clumsily she put in her
+earpiece. "Lujayn," she said unsteadily when the connection had been made. "I have a
+situation here."
