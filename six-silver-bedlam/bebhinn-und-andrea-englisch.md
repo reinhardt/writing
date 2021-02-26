@@ -60,5 +60,5 @@ times. Andrea's expression turned to shock, then to a vacant stare. A red stain 
 spread on his shirt. He fell over backwards. Bébhinn stood there, frozen. Her ears were
 ringing in the sudden silence. Slowly, thought seeped back into her mind. "Fuck," she
 whispered. She dropped the gun. Her hands were shaking. Clumsily she put in her
-earpiece. "Lujayn," she said unsteadily when the connection had been made. "I have a
-situation here."
+earpiece. "Lujayn," she said unsteadily when the connection had been made. "I could
+really use your help here."
