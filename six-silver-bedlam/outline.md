@@ -246,7 +246,7 @@ Verbleib von Siobhan und Anezka.
 
 ## Showdown
 
-Team Jessica: Jessica, Tom, Alexandria
+Team Jessica: Jessica, Tom, Alexandria, Ndidi, Swapna
 
 Team Siobhan/Anezka: Siobhan, Anezka, Ellen, Lujayn, Moira
 

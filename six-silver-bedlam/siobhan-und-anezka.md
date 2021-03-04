@@ -746,23 +746,24 @@ dachte sie. *Warum nur? Was in Gaias Namen haben wir getan?*
 Jessica atmete tief ein, schloss die Augen und tauchte unter. Sekundenlang genoss sie
 es, vom Wasser komplett umschlossen zu sein. Der salzige Geschmack prickelte auf ihren
 Lippen und kitzelte ihre Nase. Die meisten Leute hätten die Temperatur viel zu kalt für
-ein Bad gefunden, ganz zu schweigen vom Salz, doch für sie war es genau richtig - wie
-der Ozean nach einem Sommertag. Oh, wie vermisste sie den Ozean. Ihre regelmäßigen Bäder
-hielten sie einigermaßen bei Verstand, doch früher oder später würde sie zum Meer zurück
-kehren. Natürlich würde sie dafür tagelang durchs Niemandsland außerhalb von Bedlam
-reisen müssen, und wenn sie Pech hatte, würde sie anschließend nicht mehr in die Stadt
-hinein kommen, doch das war es ihr wert. Das Meer war ein Teil von ihr, es floss durch
-ihre Adern und begleitete ihre Gedanken, wie der Wald für eine Dryade oder die Hügel für
-eine Banshee. Sie tauchte wieder auf und atmete prustend aus. Sie lehnte sich zurück,
-die Augen immer noch geschlossen. Diese Frau, mit der sie gesprochen hatten, diese
-O'Malley... Irgendetwas hatte nicht gestimmt mit ihr. Sie hatte verwirrt oder abgelenkt
-gewirkt. Vielleicht war sie unter Drogen gestanden. Und dann, kurz bevor sie gegangen
-waren, hatte sich etwas verändert - die Art, wie sie sich bewegte, und wie sie Tom und
-Jessica ansah. Konnte es sein... Sie schüttelte den Kopf. Sie durfte sich nicht davon
-beeinflussen lassen, selbst wenn O'Malley auch eine Norne war. Natürlich würde sie auf
-einer persönlichen Ebene eine Verbindung spüren, doch ihre Ermittlungen musste sie davon
-trennen. Das schuldete sie der Gerechtigkeit und der Bevölkerung von Bedlam. Sie
-seufzte. Neugierig war sie aber schon.
+ein Bad gefunden, ganz zu schweigen vom Salz, das sie dem Wasser zugesetzt hatte, doch
+für sie war es genau richtig - wie der Ozean nach einem Sommertag. Oh, wie vermisste sie
+den Ozean. Ihre regelmäßigen Bäder hielten sie einigermaßen bei Verstand, doch früher
+oder später würde sie zum Meer zurück kehren. Natürlich würde sie dafür Bedlam verlassen
+und tagelang durchs Niemandsland reisen müssen, und wenn sie Pech hatte, würde sie
+anschließend nicht mehr in die Stadt hinein kommen, doch das war es ihr wert. Das Meer
+war ein Teil von ihr, es floss durch ihre Adern und begleitete ihre Gedanken, wie der
+Wald eine Dryade oder die Hügel eine Banshee. Sie tauchte wieder auf und atmete prustend
+aus. Dann lehnte sie sich zurück, die Augen immer noch geschlossen. Diese Frau, mit der
+sie gesprochen hatten, diese O'Malley... Irgendetwas hatte nicht gestimmt mit ihr. Sie
+hatte verwirrt oder abgelenkt gewirkt. Vielleicht hatte sie unter Drogen gestanden. Und
+dann, kurz bevor sie gegangen waren, hatte sich etwas verändert - die Art, wie sie sich
+bewegte, und wie sie Tom und Jessica ansah. Konnte es sein... Sie schüttelte den Kopf.
+Selbst wenn es stimmte, durfte sie sich nicht davon beeinflussen lassen. Natürlich würde
+sie auf einer persönlichen Ebene eine Verbindung spüren, wenn O'Malley auch eine Norne
+war, doch ihre Ermittlungen musste sie davon trennen. Das schuldete sie der
+Gerechtigkeit und der Bevölkerung von Bedlam. Sie seufzte. Neugierig war sie allerdings
+schon.
 
 ---
 

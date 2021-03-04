@@ -17,17 +17,18 @@ accusations. "I had to choose, and I didn't make it easy on myself."
 belongs to her, not me." She looked him up and down. "I used to think you were not like
 the others. I was wrong. You're all the same. The moment you find out what we are, what
 we can do, you either pull away, shun us, try to forget us, or you lock us up, put us in
-silver shackles, try to control us. You men are the worst, of course. Your fragile egos
+silver shackles, try to control us. Men are the worst, of course. Your fragile egos
 cannot handle the fact that you cannot have what we have, be what we are. It may be
 exciting to play with us for a while, but eventually you get scared, and then it's fight
 or flight."
 
 "That's not fair," Andrea protested. "I'm not responsible for what other men do. I've
-always been straight with you. You can't just wave around the fact that you're a banshee
-whenever it's convenient."
+always been straight with you. You can't just point to the fact that you're a banshee
+whenever something goes wrong. That's a little too convenient."
 
 Bébhinn gasped. "Convenient?" The spark of anger was quickly turning into a steady
-flame. "Don't you dare. I'm not the one looking for the easy way out here."
+flame. "Don't you dare. It's not convenient, it's the plain truth. I'm not the one
+looking for the easy way out here."
 
 "Neither am I," Andrea snapped. His posture had changed. He was looking a full inch
 taller now. Bébhinn was suddenly aware of the subtle pressure of her hand gun against
@@ -50,12 +51,12 @@ her frustration, and let all the emotions wash over her until they filled every 
 her body. Andrea said something, but she didn't hear him. She was being consumed by rage
 and pain, and just when she felt like she was about to burst she opened her mouth and
 let out a deafening wail. It was shrill, dissonant and terribly loud. Bébhinn laid all
-her feelings onto it and let them fly like so many arrows. Andrea raised his hands to
-his ears, but it was no use. His eyes grew wide, and she saw her own emotions mirrored
-there. At first it seemed like he was going to cry, but then his face contorted into a
-grimace of rage, and he started to rush towards her. He covered the distance between
-them in three quick steps, his fist raised as if to strike her. There was no room for
-thoughts inside her, and no time to think anyway. She pulled the trigger. Twice. Three
+her feelings into it and let them fly like so many flaming arrows. Andrea raised his
+hands to his ears, but it was no use. His eyes grew wide, and she saw her own emotions
+mirrored there. At first it seemed like he was going to cry, but then his face contorted
+into a grimace of rage, and he started to rush towards her. He covered the distance
+between them in three quick steps, his fist raised as if to strike her. There was no
+room for thoughts inside her, no time to think. She pulled the trigger. Twice. Three
 times. Andrea's expression turned to shock, then to a vacant stare. A red stain quickly
 spread on his shirt. He fell over backwards. Bébhinn stood there, frozen. Her ears were
 ringing in the sudden silence. Slowly, thought seeped back into her mind. "Fuck," she
