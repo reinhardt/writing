@@ -767,4 +767,31 @@ schon.
 
 ---
 
-
+Am nächsten Morgen fand Jessica einen Ordner mit Videos im Arbeitsraum des aktuellen
+Falls. Seppänen von der Technik hatte eine Notiz dazu geschrieben. *Überwachungskamera
+CX4580, Muninallee, Jottenhamn,* las Jessica. Das war ganz in der Nähe des Tatorts. Es
+folgte ein Datum - zwei Tage vor dem Fund der Leichen. *Mögliche Übereinstimmung:
+Siobhan O'Malley.* Jessica sah sich die Videos an. Es waren zwei kurze Sequenzen, die
+zwei Frauen zeigten, die eine Straße entlang gingen. Mit etwas Phantasie konnte eine
+davon O'Malley sein, doch bei der mäßigen Qualität konnte man das kaum mit Sicherheit
+sagen. Die Metadaten gaben für die Übereinstimmung eine Konfidenz von 43% an. Eigentlich
+war es also wahrscheinlicher, dass es nicht O'Malley war. Wenn sie es aber doch war,
+wurde der Tatverdacht plötzlich erheblich dringender. Sie war dann nicht nur in der Nähe
+des Arbeitsplatzes der Opfer gewesen, sondern auch kurz vor der Tat in der Nähe des
+Tatorts. Der Gedanke widerstrebte Jessica. War das ihr Instinkt, der sich meldete, oder
+sprach hier ihre Vermutung, dass O'Malley einen Norne war? Von letzterer durfte sie sich
+nicht leiten lassen. Andererseits konnte es ja durchaus sein, dass jemand anders wusste,
+dass sie eine Norne war, und umgekehrt versuchen wollte, ihr den Mord anzuhängen. Videos
+mit schlechter Qualität konnte man fälschen, oder man konnte mehr oder weniger passende
+Aufnahmen mit einer gefälschten Übereinstimmung versehen. War es nicht auch
+bemerkenswert, dass die Aufnahmen erst jetzt auftauchen, als sie schon Kontakt zu
+O'Malley gehabt hatten? Hatte die Auswertung wirklich so lange gedauert, oder hatte da
+jemand gewartet, bis ein passender Sündenbock auftauchte? Sie kannte Seppänen nicht gut
+genug, um über seine Einstellung zu Nornen Bescheid zu wissen. Aber er war ein Mann, und
+das war ja schon fast ein Indiz. Oder war er nur ein Mittelsmann, und jemand hatte ihn
+bestochen, erpresst oder getäuscht. Vielleicht war es besser, das erst einmal zu
+überprüfen, bevor sie O'Malley voreilig ins Zentrum der Ermittlungen rückten. Aber was
+würde Tom dazu sagen? Er war zwar nicht aktiv nornenfeindlich, aber auch er war ein
+Mann. Er würde Jessicas Argumentation nicht verstehen oder nicht akzeptieren. Mit dem
+Anflug eines schlechten Gewissens verschob Jessica den Ordner in ihren privaten
+Speicher. Sie würde Tom die Videos zeigen, aber noch nicht jetzt.

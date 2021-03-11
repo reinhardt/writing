@@ -104,9 +104,9 @@ Tag 2/3
 
 Jessica überlegt, ob Siobhan eine Norne ist.
 
-Die Auswertung der Überwachungskameras liefert Bilder von zwei Personen, die am Tag vor
-der Tat in der Nähe waren. Eine davon könnte Siobhan sein. Jessica zeigt die Bilder Tom
-nicht.
+Die Auswertung der Überwachungskameras liefert Aufnahmen von zwei Personen, die am Tag
+vor der Tat in der Nähe waren. Eine davon könnte Siobhan sein. Jessica zeigt die Bilder
+Tom nicht.
 
 ## 
 
