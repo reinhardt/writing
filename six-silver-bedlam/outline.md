@@ -6,7 +6,7 @@
 * Siobhan vertraut sich Ellen an, woraufhin diese versucht, sie zu schützen
 * Alexandria beginnt ihre Nachforschungen, was Druck sowohl auf Jessica als auch auf
   Siobhan und Anezka ausübt
-* *Pinch Point 1:* Siohans Motiv wird klar
+* *Pinch Point 1:* Siobhans Motiv wird klar
 
 ## Act 2
 
@@ -96,24 +96,20 @@ ihr Fragen zum Mordfall stellen. Sie gibt vor, die Opfer nicht zu erkennen. Sie 
 Alibi für die Tatzeit. Sie will ihre Fähigkeit einsetzen, aber bevor es so weit kommt,
 gehen die beiden wieder.
 
+Jessica überlegt, ob Siobhan eine Norne ist.
+
 ## Bilder
 
-1000 Wörter
+1500 Wörter
 
-Tag 2/3
-
-Jessica überlegt, ob Siobhan eine Norne ist.
+Tag 3
 
 Die Auswertung der Überwachungskameras liefert Aufnahmen von zwei Personen, die am Tag
 vor der Tat in der Nähe waren. Eine davon könnte Siobhan sein. Jessica zeigt die Bilder
 Tom nicht.
 
-## 
-
-1000 Wörter
-
-Tom spricht mit Otieno. Sie behauptet, Streit mit Sakamoto gehabt zu haben und deshalb
-am Donnerstag zu einer Freundin gezogen zu sein.
+Tom berichtet Jessica von einem Gespräch mit Otieno. Sie behauptet, Streit mit Sakamoto
+gehabt zu haben und deshalb am Donnerstag zu einer Freundin gezogen zu sein.
 
 ## Von Norne zu Norne
 

@@ -741,7 +741,7 @@ Moment lang war sie wir erstarrt. Dann fing sie an zu weinen. Heftige Schluchzer
 schüttelten sie, als sie sich erlaubte, längst überfällige Gefühle zu fühlen. *Warum,*
 dachte sie. *Warum nur? Was in Gaias Namen haben wir getan?*
 
-# Kapitel 6
+---
 
 Jessica atmete tief ein, schloss die Augen und tauchte unter. Sekundenlang genoss sie
 es, vom Wasser komplett umschlossen zu sein. Der salzige Geschmack prickelte auf ihren
@@ -765,14 +765,15 @@ war, doch ihre Ermittlungen musste sie davon trennen. Das schuldete sie der
 Gerechtigkeit und der Bevölkerung von Bedlam. Sie seufzte. Neugierig war sie allerdings
 schon.
 
----
+# Kapitel 6
 
-Am nächsten Morgen fand Jessica einen Ordner mit Videos im Arbeitsraum des aktuellen
-Falls. Seppänen von der Technik hatte eine Notiz dazu geschrieben. *Überwachungskamera
-CX4580, Muninallee, Jottenhamn,* las Jessica. Das war ganz in der Nähe des Tatorts. Es
-folgte ein Datum - zwei Tage vor dem Fund der Leichen. *Mögliche Übereinstimmung:
-Siobhan O'Malley.* Jessica sah sich die Videos an. Es waren zwei kurze Sequenzen, die
-zwei Frauen zeigten, die eine Straße entlang gingen. Mit etwas Phantasie konnte eine
+Am nächsten Morgen war Jessica allein im Büro. Tom war unterwegs, um mit Ndidi Otieno zu
+sprechen. Jessica öffnete den Arbeitsraum des aktuellen Falls und fand ein neues Objekt:
+ein Video. Seppänen von der Technik hatte eine Notiz dazu geschrieben.
+*Überwachungskamera CX4580, Muninweg, Jottenhamn,* las Jessica. Das war ganz in der Nähe
+des Tatorts. Es folgte ein Datum - zwei Tage vor dem Fund der Leichen. *Mögliche
+Übereinstimmung: Siobhan O'Malley.* Jessica sah sich das Video an. Es war eine kurze
+Sequenz, in der zwei Frauen eine Straße entlang gingen. Mit etwas Phantasie konnte eine
 davon O'Malley sein, doch bei der mäßigen Qualität konnte man das kaum mit Sicherheit
 sagen. Die Metadaten gaben für die Übereinstimmung eine Konfidenz von 43% an. Eigentlich
 war es also wahrscheinlicher, dass es nicht O'Malley war. Wenn sie es aber doch war,
@@ -784,14 +785,25 @@ nicht leiten lassen. Andererseits konnte es ja durchaus sein, dass jemand anders
 dass sie eine Norne war, und umgekehrt versuchen wollte, ihr den Mord anzuhängen. Videos
 mit schlechter Qualität konnte man fälschen, oder man konnte mehr oder weniger passende
 Aufnahmen mit einer gefälschten Übereinstimmung versehen. War es nicht auch
-bemerkenswert, dass die Aufnahmen erst jetzt auftauchen, als sie schon Kontakt zu
+bemerkenswert, dass die Aufnahmen erst jetzt auftaucthen, als sie schon Kontakt zu
 O'Malley gehabt hatten? Hatte die Auswertung wirklich so lange gedauert, oder hatte da
-jemand gewartet, bis ein passender Sündenbock auftauchte? Sie kannte Seppänen nicht gut
-genug, um über seine Einstellung zu Nornen Bescheid zu wissen. Aber er war ein Mann, und
-das war ja schon fast ein Indiz. Oder war er nur ein Mittelsmann, und jemand hatte ihn
-bestochen, erpresst oder getäuscht. Vielleicht war es besser, das erst einmal zu
-überprüfen, bevor sie O'Malley voreilig ins Zentrum der Ermittlungen rückten. Aber was
-würde Tom dazu sagen? Er war zwar nicht aktiv nornenfeindlich, aber auch er war ein
+jemand gewartet, bis sich ein passender Sündenbock präsentierte? Sie kannte Seppänen
+nicht gut genug, um über seine Einstellung zu Nornen Bescheid zu wissen. Aber er war ein
+Mann, und das war ja schon fast ein Indiz. Oder war er nur ein Mittelsmann, und jemand
+hatte ihn bestochen, erpresst oder getäuscht. Vielleicht war es besser, das erst einmal
+zu überprüfen, bevor sie O'Malley voreilig ins Zentrum der Ermittlungen rückten. Aber
+was würde Tom dazu sagen? Er war zwar nicht aktiv nornenfeindlich, aber auch er war ein
 Mann. Er würde Jessicas Argumentation nicht verstehen oder nicht akzeptieren. Mit dem
 Anflug eines schlechten Gewissens verschob Jessica den Ordner in ihren privaten
 Speicher. Sie würde Tom die Videos zeigen, aber noch nicht jetzt.
+
+Eine Stunde später kam Tom zurück. “Sie hat ein Alibi”, verkündete er ohne jede
+Einleitung. “Sie war bei einer Freundin.”
+
+“Die könnte sie decken”, gab Jessica zu bedenken.
+
+Tom nickte. “Ich werde tatsächlich das Gefühl nicht los, dass sie etwas verheimlicht.
+Sie war kurz angebunden; ich musste ihr die Informationen regelrecht aus der Nase
+ziehen. Aber vielleicht liegt es auch nur daran, dass ich von «draußen» bin.”
+
+“Wir sollten auf jeden Fall mal mit dieser Freundin reden”, schlug Jessica vor.
