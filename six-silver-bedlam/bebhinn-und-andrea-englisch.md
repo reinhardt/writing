@@ -1,3 +1,10 @@
+---
+title: Six Silver Bedlam&#x3A; The Break-Up
+workinprogress: !!bool false
+description: |
+    Bébhinn gets angry when Andrea shows up to break up with her.
+---
+
 "It's not you. It's this situation I can't handle any more." At least Andrea had the
 decency to look distraught. He stood near the door with his shoulders slumped, his hands
 clasped before him. 
