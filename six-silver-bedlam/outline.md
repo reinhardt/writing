@@ -105,11 +105,11 @@ Jessica überlegt, ob Siobhan eine Norne ist.
 Tag 3
 
 Die Auswertung der Überwachungskameras liefert Aufnahmen von zwei Personen, die am Tag
-vor der Tat in der Nähe waren. Eine davon könnte Siobhan sein. Jessica zeigt die Bilder
+vor der Tat in der Nähe waren. Eine davon könnte Siobhan sein. Jessica zeigt das Video
 Tom nicht.
 
-Tom berichtet Jessica von einem Gespräch mit Otieno. Sie behauptet, Streit mit Sakamoto
-gehabt zu haben und deshalb am Donnerstag zu einer Freundin gezogen zu sein.
+Tom berichtet Jessica von einem Gespräch mit Otieno. Sie gibt an, zur Tatzeit bei einer
+Freundin gewesen zu sein. Diese deutet an, dass Otieno und Sakamoto Streit hatten.
 
 ## Von Norne zu Norne
 
@@ -119,7 +119,7 @@ Tag 3
 
 Ellen kommt zu Jessica und erzählt, dass Siobhan sich ihr anvertraut habe. Sie sagt,
 dass Siobhan eine Nymphe sei, und bittet sie, aus Solidarität nicht gegen sie zu
-ermitteln. Jessica zeigt ihr die Bilder der Überwachungskamera, doch Ellen kommentiert
+ermitteln. Jessica zeigt ihr das Video der Überwachungskamera, doch Ellen kommentiert
 sie nicht.
 
 ## Eifersucht
@@ -136,11 +136,8 @@ empört. Sie erkennen Siobhan auf den Bildern nicht und haben Alibis für die Ta
 
 Tag 3
 
-Alexandria beginnt, Ermittlungen anzustellen. Sie durchsucht das Netz nach Informationen
-zum Fall, aktiviert Kontakte und schreckt auch nicht davor zurück, sich illegal Zugang
-zu Datenbanken zu verschaffen. Sie macht Siobhan ausfindig und befragt sie. Siobhan
-versucht, ihre Fähigkeit einzusetzen, doch Alexandrias Implantate schützen sie und
-entlarven Siobhan als Norne.
+Alexandria macht Siobhan ausfindig und befragt sie. Siobhan versucht, ihre Fähigkeit
+einzusetzen, doch Alexandrias Implantate schützen sie und entlarven Siobhan als Norne.
 
 Alexandria erzählt Gleichgesinnten von ihren Entdeckungen.
 

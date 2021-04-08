@@ -776,16 +776,17 @@ des Tatorts. Es folgte ein Datum - zwei Tage vor dem Fund der Leichen. *Möglich
 Sequenz, in der zwei Frauen eine Straße entlang gingen. Mit etwas Phantasie konnte eine
 davon O'Malley sein, doch bei der mäßigen Qualität konnte man das kaum mit Sicherheit
 sagen. Die Metadaten gaben für die Übereinstimmung eine Konfidenz von 43% an. Eigentlich
-war es also wahrscheinlicher, dass es nicht O'Malley war. Wenn sie es aber doch war,
-wurde der Tatverdacht plötzlich erheblich dringender. Sie war dann nicht nur in der Nähe
-des Arbeitsplatzes der Opfer gewesen, sondern auch kurz vor der Tat in der Nähe des
-Tatorts. Der Gedanke widerstrebte Jessica. War das ihr Instinkt, der sich meldete, oder
-sprach hier ihre Vermutung, dass O'Malley einen Norne war? Von letzterer durfte sie sich
-nicht leiten lassen. Andererseits konnte es ja durchaus sein, dass jemand anders wusste,
-dass sie eine Norne war, und umgekehrt versuchen wollte, ihr den Mord anzuhängen. Videos
-mit schlechter Qualität konnte man fälschen, oder man konnte mehr oder weniger passende
+war es also wahrscheinlicher, dass es nicht O'Malley war. Andererseits erreichten solche
+Aufnahmen selten Werte über 70%. Und wenn sie es doch war, wurde der Tatverdacht
+plötzlich erheblich dringender. Sie war dann nicht nur in der Nähe des Arbeitsplatzes
+der Opfer gewesen, sondern auch kurz vor der Tat in der Nähe des Tatorts. Der Gedanke
+widerstrebte Jessica. War das ihr Instinkt, der sich meldete, oder sprach hier ihre
+Vermutung, dass O'Malley einen Norne war? Von letzterer durfte sie sich nicht leiten
+lassen. Andererseits konnte es ja durchaus sein, dass jemand anders wusste, dass sie
+eine Norne war, und umgekehrt versuchen wollte, ihr den Mord anzuhängen. Videos mit
+schlechter Qualität konnte man fälschen, oder man konnte mehr oder weniger passende
 Aufnahmen mit einer gefälschten Übereinstimmung versehen. War es nicht auch
-bemerkenswert, dass die Aufnahmen erst jetzt auftaucthen, als sie schon Kontakt zu
+bemerkenswert, dass die Aufnahmen erst jetzt auftauchten, als sie schon Kontakt zu
 O'Malley gehabt hatten? Hatte die Auswertung wirklich so lange gedauert, oder hatte da
 jemand gewartet, bis sich ein passender Sündenbock präsentierte? Sie kannte Seppänen
 nicht gut genug, um über seine Einstellung zu Nornen Bescheid zu wissen. Aber er war ein
@@ -794,16 +795,40 @@ hatte ihn bestochen, erpresst oder getäuscht. Vielleicht war es besser, das ers
 zu überprüfen, bevor sie O'Malley voreilig ins Zentrum der Ermittlungen rückten. Aber
 was würde Tom dazu sagen? Er war zwar nicht aktiv nornenfeindlich, aber auch er war ein
 Mann. Er würde Jessicas Argumentation nicht verstehen oder nicht akzeptieren. Mit dem
-Anflug eines schlechten Gewissens verschob Jessica den Ordner in ihren privaten
-Speicher. Sie würde Tom die Videos zeigen, aber noch nicht jetzt.
+Anflug eines schlechten Gewissens verschob Jessica die Datei in ihren privaten Speicher.
+Vermutlich hatte Tom sie noch nicht gesehen. Sie würde ihm das Video zeigen, aber noch
+nicht jetzt.
 
-Eine Stunde später kam Tom zurück. “Sie hat ein Alibi”, verkündete er ohne jede
-Einleitung. “Sie war bei einer Freundin.”
+Eine halbe Stunde später rief Tom an. Sie bestätigte die Verbindung, und sein Avatar
+erschien zwei Armlängen entfernt in Jessicas Sichtfeld. “Sie hat ein Alibi”, verkündete
+Tom. “Sie war bei einer Freundin.”
 
 “Die könnte sie decken”, gab Jessica zu bedenken.
 
-Tom nickte. “Ich werde tatsächlich das Gefühl nicht los, dass sie etwas verheimlicht.
-Sie war kurz angebunden; ich musste ihr die Informationen regelrecht aus der Nase
-ziehen. Aber vielleicht liegt es auch nur daran, dass ich von «draußen» bin.”
+Tom nickte. “Ich bin schon einen Schritt weiter. Ich wurde das Gefühl nicht los, dass
+sie etwas verheimlicht. Sie war kurz angebunden; ich musste ihr die Informationen
+regelrecht aus der Nase ziehen. Vielleicht liegt es auch nur daran, dass ich von
+«draußen» bin, aber für alle Fälle bin ich gleich zu ihrer Freundin weiter gefahren. Sie
+wohnt auch in Arches.”
 
-“Wir sollten auf jeden Fall mal mit dieser Freundin reden”, schlug Jessica vor.
+“Und hat sie das Alibi bestätigt?”
+
+“Ja, aber jetzt wird es interessant. Nach ein paar Fragen zu Details hat sie angedeutet,
+dass Otieno und Sakamoto Streit hatten. Danach hat sie dicht gemacht und wollte nichts
+weiter sagen.”
+
+Jessica zog die Augenbrauen hoch. “Je nachdem, wie schlimm der Streit war, und weswegen,
+kann sich da durchaus ein Motiv verstecken. Konntest Du heraus finden, warum sie
+Sakamoto nicht vermisst gemeldet hat?”
+
+“Da wird es erst richtig mysteriös. Als ich Otieno danach gefragt habe, hatte ich den
+Eindruck, sie wüsste gar nicht, dass Sakamoto am Freitag nicht bei seiner Arbeit
+erschienen ist, sondern dächte, es ginge darum, dass er am Sonntag verschwunden sei.
+Jedenfalls behauptete sie, sie wollte lieber selbst Nachforschungen anstellen, als uns
+oder Turris zu verständigen. Allerdings konnte sie nicht recht ausführen, wie ihre
+Nachforschungen denn ausgesehen haben.”
+
+“Irgend etwas ist da definitiv faul.”
+
+“Auf jeden Fall”, bestätigte Tom. “Wir müssen versuchen, von Turris Informationen zu
+bekommen.”
