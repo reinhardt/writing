@@ -100,7 +100,7 @@ Jessica überlegt, ob Siobhan eine Norne ist.
 
 ## Bilder
 
-1500 Wörter
+770 Wörter
 
 Tag 3
 

@@ -832,3 +832,19 @@ Nachforschungen denn ausgesehen haben.”
 
 “Auf jeden Fall”, bestätigte Tom. “Wir müssen versuchen, von Turris Informationen zu
 bekommen.”
+
+# Kapitel 7
+
+Bernhard steckte den Kopf zur Tür herein. “Jessica, da fragt jemand nach dir.”
+
+Jessica runzelte die Stirn. Jemand kam aufs Revier und fragte spezifisch nach ihr? Wer
+konnte das sein?
+
+“Vorne am Empfang”, fügte Bernhard noch hinzu und verschwand wieder.
+
+Jessica stand von ihrem Stuhl auf. Tom sah zur ihr hinüber und hob die Augenbrauen. Sie
+zuckte mit den Schultern und verließ das Büro.
+
+Im Foyer wartete eine Frau. Sie war um die vierzig und hatte schwarze Haut und Haare.
+Sie saß in einem Rollstuhl. Sie lächelte, als sie Jessica sah. “Hallo! Mein Name ist
+Ellen. Ich bin eine Freundin von Siobhan.”
