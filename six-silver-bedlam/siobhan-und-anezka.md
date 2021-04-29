@@ -219,24 +219,24 @@ ihr hinein und plauderte ein wenig mit ihr, bevor sie das Büro verließ. Drauß
 schon wieder dunkel. Ohne einen Abstecher nach Hause ging sie direkt ins Labyrinth.
 Moira, die Betreiberin, stand heute selbst hinter dem Tresen. Siobhan winkte ihr zu,
 aber Moira war mit einem Kunden beschäftigt und sah sie nicht. Das Pub war wie immer gut
-besucht. Als Siobhan sich nach einem freien Platz umsah, bemerkte sie Ellen, die alleine
+besucht. Als Siobhan sich nach einem freien Platz umsah, bemerkte sie Yeshi, die alleine
 an einem kleinen Tisch saß. Ihre Augen waren ins Leere gerichtet und bewegten sich
 langsam hin und her. Vermutlich las sie etwas. Sie war in ihrem Rollstuhl zurück gelehnt
 und hatte die Hände im Schoß gefaltet. Zu einer einfachen Jeans trug sie eine schwarze
 Bluse mit einem roten Aufdruck. Ihre dutzenden dünnen, schwarzen Zöpfe waren locker
 zusammen gebunden. Siobhan ging zu ihr hinüber. "Darf ich stören?" fragte sie mit
-gespielter Höflichkeit. Ellen drehte den Kopf, lächelte und stecke die Arme zu ihr hoch,
+gespielter Höflichkeit. Yeshi drehte den Kopf, lächelte und stecke die Arme zu ihr hoch,
 um sie zu umarmen.
 
 "Hey, Süße! Wie geht es dir?"
 
 Siobhan winke ab. "Langer Tag", seufzte sie.
 
-Ellen sah sie mitleidig an. Dann griff sie nach dem Weinglas, das vor ihr auf dem Tisch
+Yeshi sah sie mitleidig an. Dann griff sie nach dem Weinglas, das vor ihr auf dem Tisch
 stand, und trank es in einem Zug aus. "Du brauchst erst einmal etwas zu trinken."
 verkündete sie. "Setz dich. Ich bin gleich wieder da."
 
-Siobhan tat, wie ihr geheißen, während Ellen in Richtung Bar verschwand. Sie sah sich
+Siobhan tat, wie ihr geheißen, während Yeshi in Richtung Bar verschwand. Sie sah sich
 um. Das Labyrinth machte seinem Namen alle Ehre. Außer dem Raum, in dem sie sich befand,
 gab es noch mehrere andere Räume, in denen Billardtische, Videospiele, Sofas, eine
 Konzertbühne und noch eine weitere Bar standen. Sie waren durch verwinkelte Gänge
@@ -249,15 +249,15 @@ wohler als an den meisten anderen Orten der Stadt, abgesehen von einem kleinen P
 Granna. Beim Gedanken an den Park drohte eine Flut von Bildern in ihr Bewusstsein zu
 drängen, doch sie schob sie energisch beiseite. Sie konnte jetzt nicht daran denken.
 Nicht hier. Sie würde sich später damit befassen. Glücklicherweise kam in diesem Moment
-Ellen mit zwei vollen Gläsern von der Bar zurück. Sie reichte Siobhan ein helles Bier
+Yeshi mit zwei vollen Gläsern von der Bar zurück. Sie reichte Siobhan ein helles Bier
 und behielt selbst das Glas Weißwein in der Hand. Sie stießen an. 
 
-"Auf uns", sagte Ellen lächelnd. "Kommst du direkt von der Arbeit?" fragte sie dann mit
+"Auf uns", sagte Yeshi lächelnd. "Kommst du direkt von der Arbeit?" fragte sie dann mit
 einem Blick auf ihr Outfit. Siobhan sah an sich herunter und nickte. Sie trug einen
 dunkelgrauen Hosenanzug, den sie normalerweise bei der ersten Gelegenheit gegen weite
 Kleidung aus Hanf oder Leinen in bunten Farben tauschte, dazu reichlich Schmuck aus
 Stein oder, wenn sie etwas davon in die Finger bekommen konnte, Holz und Leder. "Armes
-Ding", bedauerte Ellen sie. "Ich war vorhin im Krankenhaus. Hast du gehört, dass es
+Ding", bedauerte Yeshi sie. "Ich war vorhin im Krankenhaus. Hast du gehört, dass es
 schon wieder eine Explosion in der Mine gegeben hat? Jacinta hat es böse erwischt, aber
 sie kann noch von Glück reden - drei andere sind tot, und einige der Verletzen schweben
 noch in Lebensgefahr."
@@ -270,7 +270,7 @@ unsäglichen Bedingungen und großer Gefahr für Leib und Leben für einen Hunge
 abrackern. Siobhan hatte sich an mehreren Protesten und Blockaden beteiligt, aber es
 hatte sich offensichtlich nichts verändert.
 
-Ellen schien ihren Gedankengang zu erahnen. "Entschuldige", sagte sie sanft, "das muss
+Yeshi schien ihren Gedankengang zu erahnen. "Entschuldige", sagte sie sanft, "das muss
 frustrierend für dich sein. Lass uns über etwas angenehmeres reden. Maeva und Ngozi sind
 jetzt zusammen", wechselte sie übergangslos das Thema. "Nicht, dass es irgend jemanden
 überraschen würde", fügte sie grinsend hinzu. 
@@ -279,12 +279,12 @@ Siobhan musste auch lächeln. Die beiden tänzelten schon seit Wochen umeinander
 ohne dass einer den entscheidenden Schritt machte. "Und wer hat jetzt die Initiative
 ergriffen?" 
 
-"Was denkst du?" schmunzelte Ellen. 
+"Was denkst du?" schmunzelte Yeshi.
 
 Siobhan dachte kurz nach. "Maeva?" Sie waren zwar beide relativ jung und schüchtern,
 doch ihr traute Siobhan es am ehesten zu, über ihren Schatten zu springen. 
 
-Ellen nickte zufrieden. "Du kennst die beiden."
+Yeshi nickte zufrieden. "Du kennst die beiden."
 
 Die zweite Runde Getränke holte Siobhan, und sie unterhielten sich noch eine Weile über
 Neuigkeiten und Gerüchte. 
@@ -847,4 +847,4 @@ zuckte mit den Schultern und verließ das Büro.
 
 Im Foyer wartete eine Frau. Sie war um die vierzig und hatte schwarze Haut und Haare.
 Sie saß in einem Rollstuhl. Sie lächelte, als sie Jessica sah. “Hallo! Mein Name ist
-Ellen. Ich bin eine Freundin von Siobhan.”
+Yeshi. Ich bin eine Freundin von Siobhan.”

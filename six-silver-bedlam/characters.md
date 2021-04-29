@@ -54,7 +54,7 @@ organisieren. Sie versucht, sich von den großen Konzernen und deren moralisch
 zweifelhaften Praktiken fern zu halten. Doch auch bei ihrem aktuellen Arbeitgeber kommt
 sie gelegentlich in Konflikt mit ihrem Gewissen.
 
-## Ellen Masozi Owusu
+## Yeshi Masozi Owusu
 
 41 Jahre, afrikanische Abstammung, Banshee
 

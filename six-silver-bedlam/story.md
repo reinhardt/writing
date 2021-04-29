@@ -15,7 +15,7 @@ Fabrikgebäude finden sie den möglichen Tatort.
 Siobhan erwacht aus Alpträumen. Sie verdrängt die Erinnerungen an Traum und die
 vergangenen Tage und geht zur Arbeit.
 
-Nach der Arbeit geht Siobhan ins Labyrinth. Dort trifft sie Ellen und redet mit ihr,
+Nach der Arbeit geht Siobhan ins Labyrinth. Dort trifft sie Yeshi und redet mit ihr,
 aber zunächst nicht über die Erinnerungen, die sie belasten.
 
 Jessica und Tom bekommen von einem Obdachlosen Beschreibungen von zwei Frauen, die in
@@ -36,9 +36,9 @@ Ermittlungen rückt.
 Siobhan bekommt Besuch von Jessica und Tom, die sie zum Mordfall befragen. Siobhan gibt
 vor, nichts zu wissen.
 
-Siobhan ist unruhig, geht zu Ellen und vertraut sich ihr an.
+Siobhan ist unruhig, geht zu Yeshi und vertraut sich ihr an.
 
-Ellen sucht Jessica auf und versucht, zu vermitteln. 
+Yeshi sucht Jessica auf und versucht, zu vermitteln. 
 
 ## Tathergang und Hintergründe
 
@@ -80,11 +80,11 @@ taucht eine mögliche Übereinstimmung auf: Siobhan war vor einigen Jahren bei e
 Demonstration festgenommen und einige Stunden festgehalten worden. Fingerabdrücke waren
 bei dieser Gelegenheit nicht genommen worden, aber ihre Adresse ist noch aktuell. Bei
 einem ersten Gespräch bekommt Jessica den Verdacht, dass sie eine Nymphe ist. Dieser
-bestätigt sich, als sich heraus stellt, dass eine Banshee namens Ellen eine gemeinsame
-Bekannte von Jessica und Siobhan ist. Ellen erzählt, dass Siobhan sich ihr anvertraut
+bestätigt sich, als sich heraus stellt, dass eine Banshee namens Yeshi eine gemeinsame
+Bekannte von Jessica und Siobhan ist. Yeshi erzählt, dass Siobhan sich ihr anvertraut
 habe, und versucht, zwischen den beiden zu vermitteln. Siobhan streitet zunächst alle
 Vorwürfe ab, doch es ergeben sich Widersprüche. Sie gibt auch vor, Anezka auf den Fotos
-nicht zu erkennen, doch Ellen identifiziert sie. Fingerabdrücke nehmen zu lassen lehnen
+nicht zu erkennen, doch Yeshi identifiziert sie. Fingerabdrücke nehmen zu lassen lehnen
 die beiden ab. CP6 vertraut der Polizei nicht und beauftragt Alexandria, selbst
 Ermittlungen anzustellen. Als sie mit Siobhan spricht, setzt diese ihre Fähigkeit ein.
 Durch ihre Implantate weiß Alexandria jetzt, dass sie eine Nymphe ist. Sie verbreitet
@@ -102,15 +102,15 @@ Befragung der Partnerinnen. Beide geben an, dass sie dachten, ihre Partner würd
 fraglichen Tag länger arbeiten, doch andere Hexachem-Mitarbeiter beteuern, dass beide
 die Firma pünktlich verlassen hätten. Es stellt sich jedoch heraus, dass dies mit der
 illegalen Entsorgung zu tun hat, in die nur die wenigsten Mitarbeiter eingeweiht waren.
-Alexandria bekommt schnell Wind davon. Sie sieht sich Siobhans Park an. Jessica weiß von Ellen, dass Siobhan sich
+Alexandria bekommt schnell Wind davon. Sie sieht sich Siobhans Park an. Jessica weiß von Yeshi, dass Siobhan sich
 dort oft aufhält und damit, in Verbindung mit ihrem Umwelt-Aktivismus, ein Motiv hat.
 Dieses versucht Jessica zunächst weg zu erklären, jedoch wird dadurch der Tatverdacht
 dringend genug, dass sie angewiesen wird, Fingerabdrücke der Verdächtigen zu nehmen,
 wenn nötig unter Zwang. Siobhan und Anezka wehren sich und Jessica lässt sie davon
 kommen. Daraufhin tauchen die beiden unter. 
 
-Ellen organisiert ein Versteck, wohin sie sich mit einigen Verbündeten zurück ziehen.
-Bei einem Gespräch mit Ellen, in dem diese andeutet, dass Siobhan und Anezka schuldig
+Yeshi organisiert ein Versteck, wohin sie sich mit einigen Verbündeten zurück ziehen.
+Bei einem Gespräch mit Yeshi, in dem diese andeutet, dass Siobhan und Anezka schuldig
 sein könnten, aber sie die beiden trotzdem im Namen aller Nornen beschützt, trifft
 Jessica eine Entscheidung. Sie akzeptiert, dass gegen die Verdächtigen zu ermitteln
 nichts damit zu tun hat, ob sie Nornen sind oder nicht, sondern nur damit, ob sie

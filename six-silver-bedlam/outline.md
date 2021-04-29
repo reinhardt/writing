@@ -3,7 +3,7 @@
 ## Act 1
 
 * *Plot Point 1:* Doppelmord mit unterschiedlichen Tatwaffen
-* Siobhan vertraut sich Ellen an, woraufhin diese versucht, sie zu schützen
+* Siobhan vertraut sich Yeshi an, woraufhin diese versucht, sie zu schützen
 * Alexandria beginnt ihre Nachforschungen, was Druck sowohl auf Jessica als auch auf
   Siobhan und Anezka ausübt
 * *Pinch Point 1:* Siobhans Motiv wird klar
@@ -40,7 +40,7 @@ mutmaßlichen Tatort im ehemaligen Industriegebiet.
 Tag 1
 
 Siobhan kämpft mit Alpträumen und Erinnerungen. Sie schafft es, beides zu verdrängen und
-stürzt sich zurück in ihren Alltag. Abends trifft sie Ellen im Labyrinth und plaudert
+stürzt sich zurück in ihren Alltag. Abends trifft sie Yeshi im Labyrinth und plaudert
 mit ihr bei ein paar Drinks.
 
 ## Sirene
@@ -117,9 +117,9 @@ Freundin gewesen zu sein. Diese deutet an, dass Otieno und Sakamoto Streit hatte
 
 Tag 3
 
-Ellen kommt zu Jessica und erzählt, dass Siobhan sich ihr anvertraut habe. Sie sagt,
+Yeshi kommt zu Jessica und erzählt, dass Siobhan sich ihr anvertraut habe. Sie sagt,
 dass Siobhan eine Nymphe sei, und bittet sie, aus Solidarität nicht gegen sie zu
-ermitteln. Jessica zeigt ihr das Video der Überwachungskamera, doch Ellen kommentiert
+ermitteln. Jessica zeigt ihr das Video der Überwachungskamera, doch Yeshi kommentiert
 sie nicht.
 
 ## Eifersucht
@@ -147,12 +147,12 @@ Alexandria erzählt Gleichgesinnten von ihren Entdeckungen.
 
 Tag 4
 
-Ellen kontaktiert erneut Jessica und fragt, ob sie etwas über Alexandria weiß. Jessica
+Yeshi kontaktiert erneut Jessica und fragt, ob sie etwas über Alexandria weiß. Jessica
 verneint, aber beschließt, nachzuforschen.
 
-Sie holt Informationen über Alexandria ein und lässt sie beschatten. Sie trifft Ellen
+Sie holt Informationen über Alexandria ein und lässt sie beschatten. Sie trifft Yeshi
 und tauscht Informationen mit ihr - Jessica erzählt ihr, was sie über Alexandria
-herausgefunden hat, und Ellen identifiziert die zweite Person auf den
+herausgefunden hat, und Yeshi identifiziert die zweite Person auf den
 Überwachungsbildern als Anezka Nemcekova.
 
 ## Anezka
@@ -179,7 +179,7 @@ Donarpark an. Sie findet Anzeichen für Verschmutzung.
 Jessica erfährt, dass Alexandria dort war und erinnert sich, dass Siobhan den Park
 erwähnt hat, und dass sie in Zusammenhang mit Umweltaktivismus festgenommen wurde. Sie
 schließt auf ihr Motiv, möchte aber andererseits an der ursprünglichen Hypothese
-festhalten. Sie weiß, dass sie auf Ellens Bitte nicht eingehen kann, will aber dennoch
+festhalten. Sie weiß, dass sie auf Yeshis Bitte nicht eingehen kann, will aber dennoch
 unbewusst Siobhan schützen.
 
 ## Coming Out
@@ -190,7 +190,7 @@ Tag 5
 
 Tom erhält versehentlich Informationen über Alexandria. Er stellt Jessica wegen ihrer
 Geheimnisse zur Rede - Wer ist Alexandria? Woher wusste sie von Anezka? Was hat es mit
-dem Donarpark auf sich? Jessica erzählt ihm von Ellen und offenbart dabei, dass Ellen,
+dem Donarpark auf sich? Jessica erzählt ihm von Yeshi und offenbart dabei, dass Yeshi,
 Siobhan, Anezka und Jessica selbst Nornen sind. Tom dachte, dass es keine Nornen mehr in
 Bedlam gäbe.
 
@@ -211,11 +211,11 @@ aufhalten, tut es jedoch nicht.
 
 Tag 5
 
-Alexandria kommt mit zwei Söldnern zu Ellen, wo Siobhan und Anezka Zuflucht gesucht
-haben. Ellen hält sie mit ihrer Banshee-Fähigkeit in Schach, damit Siobhan und Anezka
+Alexandria kommt mit zwei Söldnern zu Yeshi, wo Siobhan und Anezka Zuflucht gesucht
+haben. Yeshi hält sie mit ihrer Banshee-Fähigkeit in Schach, damit Siobhan und Anezka
 fliehen können.
 
-Ellen kontaktiert die beiden und gibt ihnen eine Adresse. Siobhan lässt ihre
+Yeshi kontaktiert die beiden und gibt ihnen eine Adresse. Siobhan lässt ihre
 Kontaktlinsen und Ohrstöpsel zurück. Sie gehen zusammen zu Lujayn, die Anezka ein
 Stealth-Upgrade für ihre Implantate gibt. Dann gehen sie zu der Adresse und verschanzen
 sich in dem Haus, das sie dort finden.
@@ -224,8 +224,8 @@ sich in dem Haus, das sie dort finden.
 
 Tag 5
 
-Ellen berichtet Jessica, was geschehen ist, und fordert, dass sie etwas gegen Alexandria
-unternimmt. Jessica ist zuerst auf ihrer Seite, doch als Ellen andeutet, dass sie
+Yeshi berichtet Jessica, was geschehen ist, und fordert, dass sie etwas gegen Alexandria
+unternimmt. Jessica ist zuerst auf ihrer Seite, doch als Yeshi andeutet, dass sie
 Siobhan und Anezka unterstützt, obwohl sie schuldig sind, wendet Jessica sich gegen sie
 und beschließt, keine Nachsicht mehr zu üben.
 
@@ -233,15 +233,15 @@ und beschließt, keine Nachsicht mehr zu üben.
 
 Tag 5
 
-Tom, Jessica und weitere Polizisten gehen zu Ellen, nehmen Spuren auf und befragen
-Ellen. Diese berichtet bereitwillig über Alexandria, aber hält sich bedeckt über den
+Tom, Jessica und weitere Polizisten gehen zu Yeshi, nehmen Spuren auf und befragen
+Yeshi. Diese berichtet bereitwillig über Alexandria, aber hält sich bedeckt über den
 Verbleib von Siobhan und Anezka.
 
 ## Showdown
 
 Team Jessica: Jessica, Tom, Alexandria, Ndidi, Swapna
 
-Team Siobhan/Anezka: Siobhan, Anezka, Ellen, Lujayn, Moira
+Team Siobhan/Anezka: Siobhan, Anezka, Yeshi, Lujayn, Moira
 
 Tag ?
 

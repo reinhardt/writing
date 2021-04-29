@@ -1,6 +1,6 @@
 # Kapitel 999
 
-Ellen kam mit einer Tasse Tee zur Couch, wo Siobhan in sich zusammen gesunken war und
+Yeshi kam mit einer Tasse Tee zur Couch, wo Siobhan in sich zusammen gesunken war und
 leise schluchzte. "Jetzt noch mal ganz langsam", sagte sie mit ruhiger Stimme. "Die
 Polizei war also bei dir?"
 
@@ -10,18 +10,18 @@ Siobhan nickte. "Gerade vorhin", schniefte sie.
 
 "Sie wollten wissen, wo ich am Sonntag Nachmittag war."
 
-Ellen runzelte die Stirn. "Hast du etwas angestellt?"
+Yeshi runzelte die Stirn. "Hast du etwas angestellt?"
 
-Siobhans Gesicht verfinsterte sich noch mehr. "Wir haben Mist gebaut, Ellen", gestand
+Siobhans Gesicht verfinsterte sich noch mehr. "Wir haben Mist gebaut, Yeshi", gestand
 sie mit zitternder Stimme. "Ganz großen Mist." Sie schüttelte verzweifelt den Kopf.
 "Anezka hat es doch nur gut gemeint. Aber dann ist alles aus dem Ruder gelaufen. Wir
 hätten nie dem Lieferwagen folgen sollen ..."
 
-"Halt, halt, halt", unterbrach sie Ellen. "Eins nach dem anderen. Hol erst mal Luft, und
+"Halt, halt, halt", unterbrach sie Yeshi. "Eins nach dem anderen. Hol erst mal Luft, und
 denn versuche, von vorne anzufangen."
 
 Siobhan zwang sich, tief durch zu atmen. Wie hatte alles angefangen? "Du weißt doch,
-dass ich öfter im Donar-Park bin, wenn ich auftanken muss." Ellen nickte. "Anezka ist in
+dass ich öfter im Donar-Park bin, wenn ich auftanken muss." Yeshi nickte. "Anezka ist in
 letzter Zeit manchmal mit gekommen", fuhr Siobhan fort. "An einem Abend waren wir noch
 spät dort. Es war ungewöhnlich warm. Wir waren auf die Eiche geklettert und haben
 einfach nur da oben gesessen und in die Nacht geschaut. Plötzlich bog ein Lieferwagen
@@ -48,9 +48,9 @@ Lichter der Stadt rauschten an uns vorbei. Die Maschine dröhnte unter mir. Ich 
 mich, als könne ich alles erreichen. Wie eine Rachegöttin." Sie verzog das Gesicht.
 "Also, wie Anezka, schätze ich. Ob sie sich immer so fühlt?"
 
-Ellen lächelte. "Ob sie sich so fühlt oder nicht, ändert nichts daran, dass sie es ist."
+Yeshi lächelte. "Ob sie sich so fühlt oder nicht, ändert nichts daran, dass sie es ist."
 
-Siobhan starrte eine Weile ins Leere. "Wo ist der Lieferwagen hin gefahren?" hakte Ellen
+Siobhan starrte eine Weile ins Leere. "Wo ist der Lieferwagen hin gefahren?" hakte Yeshi
 behutsam nach.
 
 Siobhan seufzte. Dann fuhr sie fort. "Nach ein paar Schlenkern durch wenig befahrene
