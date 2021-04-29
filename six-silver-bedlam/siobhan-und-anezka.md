@@ -842,9 +842,67 @@ konnte das sein?
 
 “Vorne am Empfang”, fügte Bernhard noch hinzu und verschwand wieder.
 
-Jessica stand von ihrem Stuhl auf. Tom sah zur ihr hinüber und hob die Augenbrauen. Sie
-zuckte mit den Schultern und verließ das Büro.
+Jessica stand von ihrem Stuhl auf. Tom sah zur ihr hinüber und hob die Augenbrauen. Auch
+er schien sich zu wundern, dass sie persönlich verlangt wurde. Sie zuckte mit den
+Schultern und verließ das Büro.
 
 Im Foyer wartete eine Frau. Sie war um die vierzig und hatte schwarze Haut und Haare.
 Sie saß in einem Rollstuhl. Sie lächelte, als sie Jessica sah. “Hallo! Mein Name ist
 Yeshi. Ich bin eine Freundin von Siobhan.”
+
+Jessica erwiderte höflich ihr Lächeln. “Jessica Nguyen, angenehm. Was kann ich für Sie
+tun?”
+
+“Ich würde gerne etwas mit Ihnen besprechen, aber nicht hier. Wann machen Sie
+Mittagspause? In einer Stunde?”
+
+Jessica sah auf die Uhr. “Das könnte ich einrichten. Aber um was geht es denn
+überhaupt?”
+
+“Ich würde gerne über Siobhan O'Malley sprechen. So weit ich weiß, haben Sie sie in
+Zusammenhang mit einem aktuellen Fall befragt. Kommen Sie in einer Stunde an die
+Teypromenade, zur Charybdisbrücke.”
+
+Jessica zögerte. Verschwendete diese Frau nur ihre Zeit? Aber konnte sie es sich
+leisten, eine mögliche Quelle von Informationen zu ignorieren? Sie nickte. “Ich
+versuche, mir Zeit zu nehmen.”
+
+--
+
+Am Fluss hatte sich wie so oft eine Nebelbank gehalten. Mit jedem Schritt wurde Jessica
+mehr vom feuchten Weiß eingehüllt. Es war kühl, und niemand sonst war auf der Promenade
+unterwegs. Die Sicht war gerade noch ausreichend, dass sie Yeshi ohne längere Suche
+fand. Wieder lächelte sie freundlich. Ihre Gesichtszüge waren von Sorgenfalten
+gezeichnet, und doch strahlte ihr Lächeln eine außergewöhnliche Wärme aus.
+
+“Schön, dass Sie gekommen sind.” Yeshi setzte sich langsam in Richtung Osten in
+Bewegung, und Jessica lief neben ihr her.
+
+“Ich hoffe, es hat sich gelohnt. Ich bin gespannt, was so wichtig ist, aber nicht im
+Polizeirevier besprochen werden kann.”
+
+Yeshi nickte. “Siobhan hat sich mir anvertraut. Sie haben mit ihr gesprochen, richtig?
+Und sie haben sie nach einem Alibi gefragt. Wie es aussieht, haben sie sie als Zeugin
+befragt, nicht als Tatverdächtige. Vielleicht ergibt es sich ja, dass das auch so
+bleibt, vor allem, wenn Sie in Betracht ziehen, dass Siobhan... eine von uns sein
+könnte.”
+
+Jessica wollte empört klar stellen, dass sie schon selbst entscheiden würde, wer als
+Verdächtige behandelt wurde und wer nicht, doch dann stutzte sie. “Eine von uns...”
+Sollte das heißen, das sowohl diese Yeshi als auch O'Malley Nornen waren? Bei O'Malley
+hatte sie ja sowieso schon so eine Vermutung gehabt. Und wenn ihre Gesprächspartnerin
+auch eine Norne war, dann gab es wahrscheinlich eine gemeinsame Bekannte, über die sie
+heraus gefunden hatte, dass auch Jessica zu ihnen gehörte. Doch würde das etwas an ihren
+Ermittlungen ändern? Sie schüttelte unwillkürlich den Kopf.
+
+“Sie müssen jetzt nichts antworten. Ich bitte Sie nur, daran zu denken, wie schwer wir
+es haben, selbst wenn nicht gegen uns ermittelt wird. Sie kennen doch auch die latente
+Angst, die uns alle begleitet, die ständige Vorsicht, damit nicht ans Licht kommt, wer
+wir wirklich sind. Und Sie spüren doch auch die Verbindung zwischen uns allen. Wir sind
+Schwestern, und wir tun, was in unserer Macht steht, um einander vor Schaden zu
+bewahren.” Sie blieb stehen und drehte sich zu Jessica. “Ich bitte Sie also um nichts,
+was Sie nicht schon kennen, und was Sie nicht eh tun würden.” Einige Sekunden lang
+blickte sie Jessica an. Ihr Lächeln war diesmal verhaltener, aber nicht weniger warm.
+Ihre Augen spiegelten den Schmerz, den ihre Worte angedeutet hatten, aber auch die
+Verbundenheit, von der sie gesprochen hatte. “Vielen Dank, dass Sie mich angehört
+haben”, sagte sie schließlich. “Haben Sie noch einen schönen Tag!”
