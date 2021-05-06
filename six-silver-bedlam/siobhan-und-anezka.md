@@ -693,10 +693,10 @@ Arbeit eine Weile spazieren gegangen." behauptete sie. "Allein", fügte sie hinz
 "Wo?" fragte Schleier ruhig.
 
 "In der Innenstadt. Und dann über den Fluss, ich glaube über die Bifrost-Brücke, und
-wieder zurück." Das würde zumindest erklären, dass sie in Jottenhamn war. Sie fühlte
-sich in die Ecke gedrängt. Sie zitterte ein wenig, und ihr war schlecht. Sie musste
-schleunigst aus der Defensive heraus kommen. "Um was geht es denn eigentlich?" fragte
-sie möglichst unverbindlich.
+wieder zurück." Das würde zumindest erklären, dass sie in Jottenhamn gewesen war. Sie
+fühlte sich in die Ecke gedrängt. Sie zitterte ein wenig, und ihr war schlecht. Sie
+musste schleunigst aus der Defensive heraus kommen. "Um was geht es denn eigentlich?"
+fragte sie möglichst unverbindlich.
 
 Schleier warf seiner Kollegin einen Blick zu, und sie übernahm. "In Jottenhamn wurden in
 einem Schuttcontainer ein Mann und eine Frau tot aufgefunden. Wissen Sie irgend etwas
@@ -710,60 +710,72 @@ belügen. Sie hatte die vergangenen Tage aus ihrem Kopf verbannt, die Albträume
 ignoriert, die Schuldgefühle verdrängt, doch das hatte nichts ungeschehen gemacht. Es
 hatte eher alles schlimmer gemacht. Jetzt war die Polizei hier, und Siobhan war völlig
 unvorbereitet, und die Erinnerungen begannen, auf sie ein zu stürmen, und sie hatte
-ihnen nichts mehr entgegen zu setzen. Sie war am Ende. Ihre Instinkte begannen, über
-ihren Verstand die Oberhand zu gewinnen. Ihre Gedanken, Befürchtungen und Erinnerungen
-traten in den Hintergrund, und ihre unmittelbaren Wahrnehmungen wurden deutlicher. Sie
-sah die beiden Polizisten mit anderen Augen. Sie nahm jedes Detail ihrer Körperformen in
-sich auf, verfolgte jede noch so kleine Bewegung, und stimmte ihre eigene Körpersprache
-darauf ab. Ihr Verstand registrierte, was geschah, und war entsetzt. Was, wenn die
-beiden durch Implantate geschützt waren? Oder wenn Ngyuen auch eine Norne war? Ein
-anderer Teil von ihr sehnte sich danach, ihrem Impuls nachzugeben, ihre Macht zu spüren,
-die Kontrolle zurück zu gewinnen. Sie hatte ihre Fähigkeit lange nicht benutzt, teils
-aus moralischen Gründen, teils aus Angst, erkannt und geächtet zu werden. Doch sie hatte
-nichts verlernt. Jede Faser ihres Körpers wusste, was sie tun musste. Sie sah Leutnant
-Nguyen direkt in die Augen und verlagerte ihr Körpergewicht vom linken Bein auf das
-rechte. Jede ihrer Bewegungen, mochte sie noch so beiläufig wirken, konnte ungeahnte
-Wirkung haben. Es war schwieriger, wenn sie sich auf zwei Personen gleichzeitig
-einstellen musste, doch sie vertraute ihrem Können. Nguyen und Schleier tauschten einen
-Blick aus. Gerade, als beide wieder zu ihr her sahen, ließ Siobhan wie zufällig ihre
-rechte Hand ihre Hüfte berühren. Sie öffnete ihren Mund ein klein wenig. Ihre Atmung
-verlangsamte sich. Es würde funktionieren, sie spürte es.
+ihnen nichts mehr entgegen zu setzen. Sie war am Ende.
 
-"Wenn Ihnen noch etwas einfällt, melden Sie sich bitte", sagte Nguyen.
+Ihre Instinkte begannen, über ihren Verstand die Oberhand zu gewinnen. Ihre Gedanken,
+Befürchtungen und Erinnerungen traten in den Hintergrund, und ihre unmittelbaren
+Wahrnehmungen wurden deutlicher. Sie sah die beiden Polizisten mit anderen Augen. Sie
+nahm jedes Detail ihrer Körperformen in sich auf, verfolgte jede noch so kleine
+Bewegung, und stimmte ihre eigene Körpersprache darauf ab. Ihr Verstand registrierte,
+was geschah, und war entsetzt. Was, wenn die beiden durch Implantate geschützt waren?
+Oder wenn Ngyuen auch eine Norne war? Ein anderer Teil von ihr sehnte sich danach, ihrem
+Impuls nachzugeben, ihre Macht zu spüren, die Kontrolle zurück zu gewinnen. Sie hatte
+ihre Fähigkeit lange nicht benutzt, teils aus moralischen Gründen, teils aus Angst,
+erkannt und geächtet zu werden. Doch sie hatte nichts verlernt. Jede Faser ihres Körpers
+wusste, was sie tun musste. Sie sah Leutnant Nguyen direkt in die Augen und verlagerte
+ihr Körpergewicht vom linken Bein auf das rechte. Jede ihrer Bewegungen, mochte sie noch
+so beiläufig wirken, konnte ungeahnte Wirkung haben. Es war schwieriger, wenn sie sich
+auf zwei Personen gleichzeitig einstellen musste, doch sie vertraute ihrem Können.
+Nguyen und Schleier tauschten einen Blick aus. Gerade, als beide wieder zu ihr her
+sahen, ließ Siobhan wie zufällig ihre rechte Hand ihre Hüfte berühren. Sie öffnete ihren
+Mund ein klein wenig. Ihre Atmung verlangsamte sich. Es würde funktionieren, sie spürte
+es.
 
-Siobhan brauchte einen Moment, um zu registrieren, was das bedeutete. Es hatte nichts
-mit ihren Bemühungen zu tun; sie war noch nicht so weit. Die beiden wollten gerade ganz
-von sich aus gehen. "Natürlich", murmelte sie.
+“Waren Sie... waren Sie am Freitagabend allein?” Nguyens Stimme klang unsicher. Ihre
+Bewegungen wurden langsamer.
 
-Schleier lächelte, Nguyen nickte ihr zu, und dann wandten sie sich um und gingen.
-Benommen schloss Siobhan die Tür hinter ihnen ab und ließ sich aufs Bett fallen. Einen
-Moment lang war sie wir erstarrt. Dann fing sie an zu weinen. Heftige Schluchzer
-schüttelten sie, als sie sich erlaubte, längst überfällige Gefühle zu fühlen. *Warum,*
-dachte sie. *Warum nur? Was in Gaias Namen haben wir getan?*
+“Ja.” Siobhan fuhr sich durchs Haar und löste den lockeren Pferdeschwanz. Ihre
+rotbraunen Locken fielen über ihre Schultern.
+
+“Wurden Sie ...”, begann Nguyen. Ihr Blick wurde starr. Auch Schleier sah aus wie tief
+in Gedanken versunken.
+
+Siobhan verschränkte die Arme vor der Brust. Sie machte einen kleinen Schritt auf ihre
+beiden Gäste zu.
+
+“Danke, das ist alles”, murmelte Nguyen. Sie und Schleier drehten sich im selben Moment
+um, dann verließen sie langsam und wortlos die Wohnung.
+
+Als die Tür ins Schloss fiel erwachte Siobhan aus ihrer Trance. Benommen schloss sie
+hinter den beiden ab und ließ sich dann aufs Bett fallen. Einen Moment lang lag sie da
+wie erstarrt. Dann fing sie an zu weinen. Heftige Schluchzer schüttelten sie, als sie
+sich erlaubte, längst überfällige Gefühle zu fühlen. *Warum,* dachte sie. *Warum nur?
+Was in Gaias Namen haben wir getan?*
 
 ---
 
 Jessica atmete tief ein, schloss die Augen und tauchte unter. Sekundenlang genoss sie
 es, vom Wasser komplett umschlossen zu sein. Der salzige Geschmack prickelte auf ihren
 Lippen und kitzelte ihre Nase. Die meisten Leute hätten die Temperatur viel zu kalt für
-ein Bad gefunden, ganz zu schweigen vom Salz, das sie dem Wasser zugesetzt hatte, doch
-für sie war es genau richtig - wie der Ozean nach einem Sommertag. Oh, wie vermisste sie
-den Ozean. Ihre regelmäßigen Bäder hielten sie einigermaßen bei Verstand, doch früher
-oder später würde sie zum Meer zurück kehren. Natürlich würde sie dafür Bedlam verlassen
-und tagelang durchs Niemandsland reisen müssen, und wenn sie Pech hatte, würde sie
-anschließend nicht mehr in die Stadt hinein kommen, doch das war es ihr wert. Das Meer
-war ein Teil von ihr, es floss durch ihre Adern und begleitete ihre Gedanken, wie der
-Wald eine Dryade oder die Hügel eine Banshee. Sie tauchte wieder auf und atmete prustend
-aus. Dann lehnte sie sich zurück, die Augen immer noch geschlossen. Diese Frau, mit der
-sie gesprochen hatten, diese O'Malley... Irgendetwas hatte nicht gestimmt mit ihr. Sie
-hatte verwirrt oder abgelenkt gewirkt. Vielleicht hatte sie unter Drogen gestanden. Und
-dann, kurz bevor sie gegangen waren, hatte sich etwas verändert - die Art, wie sie sich
-bewegte, und wie sie Tom und Jessica ansah. Konnte es sein... Sie schüttelte den Kopf.
-Selbst wenn es stimmte, durfte sie sich nicht davon beeinflussen lassen. Natürlich würde
-sie auf einer persönlichen Ebene eine Verbindung spüren, wenn O'Malley auch eine Norne
-war, doch ihre Ermittlungen musste sie davon trennen. Das schuldete sie der
-Gerechtigkeit und der Bevölkerung von Bedlam. Sie seufzte. Neugierig war sie allerdings
-schon.
+ein Bad gefunden, ganz zu schweigen von der großzügigen Menge Salz, die sie dem Wasser
+zugesetzt hatte, doch für sie war es genau richtig - wie der Ozean nach einem Sommertag.
+Oh, wie vermisste sie den Ozean. Ihre regelmäßigen Bäder hielten sie einigermaßen bei
+Verstand, doch früher oder später würde sie zum Meer zurück kehren. Natürlich würde sie
+dafür Bedlam verlassen und tagelang durchs Niemandsland reisen müssen, und wenn sie Pech
+hatte, würde sie anschließend nicht mehr in die Stadt hinein kommen, doch das war es ihr
+wert. Das Meer war ein Teil von ihr, es floss durch ihre Adern und bestimmte ihre
+Gedanken, wie der Wald für eine Dryade oder die Hügel für eine Banshee. Sie tauchte
+wieder auf und atmete prustend aus. Dann lehnte sie sich zurück, die Augen immer noch
+geschlossen. Diese Frau, mit der sie gesprochen hatten, diese O'Malley... Irgendetwas
+hatte nicht gestimmt mit ihr. Sie hatte verwirrt oder abgelenkt gewirkt. Vielleicht
+hatte sie unter Drogen gestanden. Und dann, kurz bevor sie gegangen waren, hatte sich
+etwas verändert - die Art, wie sie sich bewegte, und wie sie Tom und Jessica ansah. Aus
+irgendeinem Grund hatte Jessica Schwierigkeiten, sich zu erinnern, wie genau das
+Gespräch zu Ende gegangen war. Konnte es sein... Sie schüttelte den Kopf. Selbst wenn es
+stimmte, durfte sie sich nicht davon beeinflussen lassen. Natürlich würde sie auf einer
+persönlichen Ebene eine Verbindung spüren, wenn O'Malley auch eine Norne war, doch ihre
+Ermittlungen musste sie davon trennen. Das schuldete sie der Gerechtigkeit und der
+Bevölkerung von Bedlam. Sie seufzte. Neugierig war sie allerdings schon.
 
 # Kapitel 6
 
@@ -872,7 +884,7 @@ versuche, mir Zeit zu nehmen.”
 Am Fluss hatte sich wie so oft eine Nebelbank gehalten. Mit jedem Schritt wurde Jessica
 mehr vom feuchten Weiß eingehüllt. Es war kühl, und niemand sonst war auf der Promenade
 unterwegs. Die Sicht war gerade noch ausreichend, dass sie Yeshi ohne längere Suche
-fand. Wieder lächelte sie freundlich. Ihre Gesichtszüge waren von Sorgenfalten
+fand. Diese lächelte wieder freundlich. Ihre Gesichtszüge waren von Sorgenfalten
 gezeichnet, und doch strahlte ihr Lächeln eine außergewöhnliche Wärme aus.
 
 “Schön, dass Sie gekommen sind.” Yeshi setzte sich langsam in Richtung Osten in
@@ -881,11 +893,11 @@ Bewegung, und Jessica lief neben ihr her.
 “Ich hoffe, es hat sich gelohnt. Ich bin gespannt, was so wichtig ist, aber nicht im
 Polizeirevier besprochen werden kann.”
 
-Yeshi nickte. “Siobhan hat sich mir anvertraut. Sie haben mit ihr gesprochen, richtig?
-Und sie haben sie nach einem Alibi gefragt. Wie es aussieht, haben sie sie als Zeugin
-befragt, nicht als Tatverdächtige. Vielleicht ergibt es sich ja, dass das auch so
-bleibt, vor allem, wenn Sie in Betracht ziehen, dass Siobhan... eine von uns sein
-könnte.”
+Yeshi nickte. Sie schien Jessicas vorwurfsvollen Ton nicht übel zu nehmen. “Siobhan hat
+sich mir anvertraut. Sie haben mit ihr gesprochen, richtig? Und sie haben sie nach einem
+Alibi gefragt. Wie es aussieht, haben sie sie als Zeugin befragt, nicht als
+Tatverdächtige. Vielleicht ergibt es sich ja, dass das auch so bleibt, vor allem, wenn
+Sie in Betracht ziehen, dass Siobhan... eine von uns sein könnte.”
 
 Jessica wollte empört klar stellen, dass sie schon selbst entscheiden würde, wer als
 Verdächtige behandelt wurde und wer nicht, doch dann stutzte sie. “Eine von uns...”
@@ -900,9 +912,16 @@ es haben, selbst wenn nicht gegen uns ermittelt wird. Sie kennen doch auch die l
 Angst, die uns alle begleitet, die ständige Vorsicht, damit nicht ans Licht kommt, wer
 wir wirklich sind. Und Sie spüren doch auch die Verbindung zwischen uns allen. Wir sind
 Schwestern, und wir tun, was in unserer Macht steht, um einander vor Schaden zu
-bewahren.” Sie blieb stehen und drehte sich zu Jessica. “Ich bitte Sie also um nichts,
-was Sie nicht schon kennen, und was Sie nicht eh tun würden.” Einige Sekunden lang
-blickte sie Jessica an. Ihr Lächeln war diesmal verhaltener, aber nicht weniger warm.
-Ihre Augen spiegelten den Schmerz, den ihre Worte angedeutet hatten, aber auch die
-Verbundenheit, von der sie gesprochen hatte. “Vielen Dank, dass Sie mich angehört
-haben”, sagte sie schließlich. “Haben Sie noch einen schönen Tag!”
+bewahren.” Sie blieb stehen und drehte sich zu Jessica. “Selbst wenn Siobhan etwas weiß
+&mdash; überlegen Sie, ob es nicht mehr schadet als nützt, sie in die Ermittlungen
+hinein zu ziehen. Im momentanen Klima fehlt nicht viel, um wieder offene
+Feindseligkeiten aufkommen zu lassen. Sollte bekannt werden, dass eine Norne in einen
+Doppelmord verwickelt sein könnte, könnte das eine Kettenreaktion auslösen.” Sie
+breitete beide Hände vor sich aus. “Ich bitte Sie um nichts außergewöhnliches, nichts,
+das Sie nicht eh tun würden.” Einige Sekunden lang blickte sie Jessica an. Ihr Lächeln
+war diesmal verhaltener, aber nicht weniger warm. Ihre Augen spiegelten den Schmerz, den
+ihre Worte angedeutet hatten, aber auch die Verbundenheit, von der sie gesprochen hatte.
+“Vielen Dank, dass Sie mich angehört haben”, sagte sie schließlich. “Haben Sie noch
+einen schönen Tag!”
+
+Jessica sah ihr nach, wie sie langsam im Nebel verschwand.
