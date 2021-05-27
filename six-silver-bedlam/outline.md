@@ -64,8 +64,13 @@ Tag 2
 Die Opfer wurden identifiziert; sie waren Mitarbeiter von Hexachem. Blutspuren am
 mutmaßlichen Tatort stimmen mit den Opfern überein. Dort gefundene Fingerabdrücke können
 zunächst nicht zugeordnet werden. Der Todeszeitpunkt kann eingegrenzt werden. Jessica
-und Tom befragen die Partner der Opfer. Marasigan denkt, dass Kavaliauskas am Abend der
-Tat länger arbeiten musste. Otieno ist zunächst nicht auffindbar oder erreichbar.
+und Tom sprechen mit den Kollegen der Opfer. Diese geben an, dass beide das Büro zur
+normalen Zeit verlassen hätten. Sie behaupten, dass es keine Konflikte mit anderen
+Konzernen gibt. Ein Kollege sagt aus, zwei Frauen in der Nähe der Firma gesehen zu
+haben. Auf Basis seiner Beschreibung und der des Obdachlosen erstellen sie
+Phantombilder. Für eines davon spuckt die Polizeidatenbank einen Namen aus: Siobhan
+O'Malley. Die Bilder werden außerdem für eine Suche in Daten von Überwachungskameras
+benutzt.
 
 ## Hexachem
 
@@ -73,17 +78,15 @@ Tat länger arbeiten musste. Otieno ist zunächst nicht auffindbar oder erreichb
 
 Tag 2
 
-Anschließend sprechen Sie mit den Kollegen der Opfer. Diese geben an, dass beide das
-Büro zur normalen Zeit verlassen hätten. Ein Kollege sagt aus, zwei Frauen in der Nähe
-der Firma gesehen zu haben. Auf Basis seiner Beschreibung und der des Obdachlosen
-erstellen sie Phantombilder. Für eines davon spuckt die Polizeidatenbank einen Namen
-aus: Siobhan O'Malley. Die Bilder werden außerdem für eine Suche in Daten von
-Überwachungskameras benutzt.
+Anschließend befragen sie die Partner der Opfer. Marasigan denkt, dass Kavaliauskas am
+Abend der Tat länger arbeiten musste. Otieno ist zunächst nicht auffindbar oder
+erreichbar.
 
 Befragung des Jugendlichen, der die Leichen gefunden hat?
 
-Jessicas und Toms Hypothese ist, dass die Opfer Affären mit den beiden Frauen hatten,
-und Otieno sie aus Rache getötet hat.
+Jessicas und Toms Hypothese ist, dass ein Konflikt mit einem konkurrierenden Konzern
+eskaliert ist. Alternativ ziehen sie in Betracht, dass die Opfer Affären hatten, und
+Otieno sie aus Rache getötet hat.
 
 ## Tee
 

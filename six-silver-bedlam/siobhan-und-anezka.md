@@ -402,11 +402,30 @@ dem mutmaßlichen Tatort der tatsächliche Tatort."
 "Mach es nicht so spannend", beschwerte sich Tom.
 
 "Katashi Sakamoto, 37 Jahre alt, wohnhaft in Arches, und Jadvyga Kavaliauskas, 33 Jahre
-alt, wohnhaft in Aschgarten. Beide haben für Hexachem gearbeitet, ein
+alt, wohnhaft in Aschgarten. Beide haben für Hexachem gearbeitet, ein Chemie- und
 Pharmaunternehmen."
 
-"Ausgezeichnet", nickte Tom zufrieden. "Wobei das natürlich einen anstrengenden Tag
-bedeutet", fügte er mit einem Seufzen hinzu. "Wo geht's zuerst hin?"
+“Wissen wir, ob sie in der Arbeit miteinander zu tun hatten?”
+
+“Hatten sie. Sie haben am gleichen Standort und sogar in der gleichen Abteilung
+gearbeitet.”
+
+“Dann ist vermutlich irgendein Projekt dieser Abteilung einem Konkurrenten in die Quere
+gekommen, es kam zum Streit, und der endete tödlich.”
+
+“Wäre nicht das erste mal”, nickte Jessica.
+
+“Dann sprechen wir zuerst mit ihren Kollegen, und dann überprüfen wir etwaige
+Angehörige.”
+
+“Klare Sache. Habe doch gesagt, der Fall ist so gut wie gelöst.”
+
+---
+
+Das Navigationssystem führte sie zu einem schmucklosen, grauen Bürogebäude in der Nähe
+der Universität. Es stach aus der Umgebung heraus - die meisten Gebäude in Talpin waren
+kleiner und älter. Die Wolkenkratzer, die das Zentrum beherrschten, fehlten hier fast
+völlig. Eine bewaffnete Wache stand vor der Eingangstür.
 
 ---
 
@@ -521,16 +540,17 @@ Manche Leute verlassen angeblich ihr Leben lang das Viertel nicht."
 
 Sie fuhren wieder über den Tey. Arches grenzte im Osten an Jottenhamn.
 
-"Wir sollten auf jeden Fall mit Turris Security Kontakt aufnehmen", meinte Jessica. "Als
-örtliche Sicherheitstruppe dürften sie eher das Vertrauen der Anwohner genießen. Turris
-wiederum war allerdings bisher uns gegenüber auch nicht immer sehr entgegenkommend."
+"Wir sollten auf jeden Fall mit Scorpion Security Kontakt aufnehmen", meinte Jessica.
+"Als örtliche Sicherheitstruppe dürften sie eher das Vertrauen der Anwohner genießen.
+Scorpion wiederum war allerdings bisher uns gegenüber auch nicht immer sehr
+entgegenkommend."
 
 Sie fuhren ein Stück an der Mauer entlang, die Arches umgab. Klingendraht und Wachtürme
 ließen das Viertel abweisend wirken. Am Checkpoint, zu dem sie kamen, warteten zwei
-weitere Autos vor ihnen. Die Leute von Turris nahmen die Kontrollen sehr genau. Es
-dauerte eine ganze Weile, bis sie an der Reihe waren. Die Polizei Bedlam hatte zwar
-garantierten Zutritt, aber dennoch mussten sie eine ausführliche Kontrolle über sich
-ergehen lassen. Sie mussten aussteigen, die Wachleute in den Kofferraum und auf die
+weitere Autos vor ihnen. Die Leute von Scorpion Security nahmen die Kontrollen sehr
+genau. Es dauerte eine ganze Weile, bis sie an der Reihe waren. Die Polizei Bedlam hatte
+zwar garantierten Zutritt, aber dennoch mussten sie eine ausführliche Kontrolle über
+sich ergehen lassen. Sie mussten aussteigen, die Wachleute in den Kofferraum und auf die
 Rückbank sehen lassen und ihre Jacken aus- und wieder anziehen. Nach einem letzten
 kritischen Blick auf ihre Dienstmarken durften sie schließlich passieren. Jessica
 überlegte kurz, ob sie gleich den Fall ansprechen sollte, doch sie entschied sich
@@ -581,7 +601,7 @@ Jessica zog die Augenbrauen hoch. "Seit Tagen?"
 
 Tom schüttelte den Kopf. "Es muss nichts heißen, aber... Wenn Otieno zur gleichen Zeit
 wie Sakamoto verschwunden ist, dann wirft das einige Fragen auf." Er sah nach oben zu
-einer der Kameras. "Wenn Turris sich nicht quer stellt, lässt sich das leicht
+einer der Kameras. "Wenn Scorpion sich nicht quer stellt, lässt sich das leicht
 überprüfen."
 
 
@@ -837,12 +857,12 @@ Sakamoto nicht vermisst gemeldet hat?”
 Eindruck, sie wüsste gar nicht, dass Sakamoto am Freitag nicht bei seiner Arbeit
 erschienen ist, sondern dächte, es ginge darum, dass er am Sonntag verschwunden sei.
 Jedenfalls behauptete sie, sie wollte lieber selbst Nachforschungen anstellen, als uns
-oder Turris zu verständigen. Allerdings konnte sie nicht recht ausführen, wie ihre
-Nachforschungen denn ausgesehen haben.”
+oder Scorpion Security zu verständigen. Allerdings konnte sie nicht recht ausführen, wie
+ihre Nachforschungen denn ausgesehen haben.”
 
 “Irgend etwas ist da definitiv faul.”
 
-“Auf jeden Fall”, bestätigte Tom. “Wir müssen versuchen, von Turris Informationen zu
+“Auf jeden Fall”, bestätigte Tom. “Wir müssen versuchen, von SS Informationen zu
 bekommen.”
 
 # Kapitel 7
