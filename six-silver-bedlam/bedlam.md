@@ -150,6 +150,9 @@ Antrieben von Verbrennungsmotoren über Elektromotoren bis zu Brennstoffzellen
 unterwegs. Beliebt sind wegen ständiger Staus auch kleinere
 Fortbewegungsmittel. 
 
+Ein Kernkraftwerk in der Nähe von Bedlam hat den Atomsturm überstanden und versorgt die
+Stadt mit Energie.
+
 ## Politik
 
 Die Politik von Bedlam ist geprägt von Korruption und faschistischen Tendenzen.
@@ -210,49 +213,68 @@ Lorbeerkranz, umfassende Überwachung
 Pharma, Chemie, Kunststoff, Lebensmittel, Tochter Hexachem stellt inoffiziell
 Drogen her 
 
-## Stadtteile von Bedlam
+## Geographie
 
-### Zentrum/Downtown 
+Der Stadtkern von Bedlam ist gegen die Außenwelt weitestgehend abgeriegelt. Mauern,
+Zäune, Gräben, Klingendraht und ständige Bewachung sollen sicher stellen, dass niemand
+die Stadt betritt, der nicht dazu berechtigt ist. Vom Zentrum nach außen herrscht ein
+Gefälle von reich nach arm. Direkt außerhalb der “Stadtmauer” liegen Felder, auf denen
+ein Teil der Nahrung für die Stadt angebaut wird. Landwirtschaftliche Arbeiter, die ihre
+Wohnquartiere nahe der Stadtmauer haben, fristen hier eine ärmliche Existenz. Ein
+anderer Teil der Nahrung wir im Stadtkern in vertikalen Farmen und hydroponischen
+Einrichtungen produziert.
+
+Jenseits der Felder wird die Strahlungsbelastung teilweise so hoch, dass sie für
+Menschen gefährlich ist. Dennoch wohnen zum Teil Leute in ansonsten verlassenen Vororten
+und in Wäldern und Hügeln.
+
+In einem ehemaligen U-Bahn-Depot hat sich eine Gruppe von Aussteigern niedergelassen.
+Jessicas Tochter hat sich ihnen angeschlossen, nachdem sie aus der Stadt verbannt worden
+war, und hat dort ihre Hacking-Fertigkeiten perfektioniert.
+
+### Stadtteile von Bedlam
+
+#### Zentrum/Downtown 
 
 Nachtleben, Business, Tourismus 
 
 Kathedrale, ehemalige Porzellanfabrik, Krankenhaus, Hafen
 
-### Jottenhamn (Jotunheim) 
+#### Jottenhamn (Jotunheim) 
 
 Oberschicht
 
 Ehemaliges Industriegebiet 
 
-### Teystrand
+#### Teystrand
 
 Sport 
 
 Stadion, Funkturm
 
-### Granna (Grannus) 
+#### Granna (Grannus) 
 
 Linksautonome Szene 
 
-### Talpin (Delphi) 
+#### Talpin (Delphi) 
 
 Universität 
 
-### Harth
+#### Harth
 
-### Kelhamn (Hel) 
+#### Kelhamn (Hel) 
 
 Unterschicht
 
-### Aschgarten (Asgard) 
+#### Aschgarten (Asgard) 
 
-### Valis (Falias) 
+#### Valis (Falias) 
 
-### Arches (Argo) 
+#### Arches (Argo) 
 
 Gated Community 
 
-### Santa Clara 
+#### Santa Clara 
 
-### Julston
+#### Julston
 

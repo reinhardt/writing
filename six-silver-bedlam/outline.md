@@ -15,7 +15,7 @@
 * *Midpoint:* Jessica beschließt, Siobhan und Anezka nicht zu schonen
 * *Pinch Point 2:* Jessica versucht, Siobhan und Anezka zum Aufgeben zu bewegen
 
-# Act 3
+## Act 3
 
 * *Plot Point 2:* Jessica stellt ein Team zusammen
 * Climax/Resolution: Jessica stürmt das Versteck, Siobhan wird getötet, Anezka
@@ -122,8 +122,8 @@ Tag 3
 
 Yeshi kommt zu Jessica und erzählt, dass Siobhan sich ihr anvertraut habe. Sie sagt,
 dass Siobhan eine Nymphe sei, und bittet sie, aus Solidarität nicht gegen sie zu
-ermitteln. Jessica zeigt ihr das Video der Überwachungskamera, doch Yeshi kommentiert
-sie nicht.
+ermitteln. Jessica zeigt ihr das Video der Überwachungskamera, doch Yeshi kommentiert es
+nicht.
 
 ## Eifersucht
 
