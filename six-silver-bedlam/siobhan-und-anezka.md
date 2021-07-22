@@ -945,3 +945,23 @@ ihre Worte angedeutet hatten, aber auch die Verbundenheit, von der sie gesproche
 einen schönen Tag!”
 
 Jessica sah ihr nach, wie sie langsam im Nebel verschwand.
+
+# Kapitel 8
+
+tbd
+
+# Kapitel 9
+
+“Siobhan? Hörst du überhaupt zu?”
+
+Siobhan zuckte zusammen. Sie sah nicht auf, aber sie spürte, wie alle sie anstarrten.
+“Tut mir leid. Ich war... in Gedanken. Ich weiß auch nicht, was heute los ist.”
+
+In Wirklichkeit wusste Siobhan durchaus, was los war, aber das machte es auch nicht
+besser. Sie konnte sich kaum auf die Arbeit konzentrieren. Ständig schweiften ihre
+Gedanken ab. Seit sie mit Yeshi geredet hatte, ging es ihr etwas besser, aber sie wurde
+immer noch gequält von Bildern aus ihrer Erinnerung, der Angst, dass die Polizei wieder
+kommen würde, und einer generellen Verzweiflung und Ratlosigkeit.
+
+Sie musste endlich mit Anezka reden. Sie wusste nicht, ob das etwas bringen würde, aber
+die Sache hatte mit Anezka angefangen, also musste sie auch mit Anezka zu Ende gehen.
