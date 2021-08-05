@@ -959,9 +959,51 @@ Siobhan zuckte zusammen. Sie sah nicht auf, aber sie spürte, wie alle sie ansta
 
 In Wirklichkeit wusste Siobhan durchaus, was los war, aber das machte es auch nicht
 besser. Sie konnte sich kaum auf die Arbeit konzentrieren. Ständig schweiften ihre
-Gedanken ab. Seit sie mit Yeshi geredet hatte, ging es ihr etwas besser, aber sie wurde
-immer noch gequält von Bildern aus ihrer Erinnerung, der Angst, dass die Polizei wieder
-kommen würde, und einer generellen Verzweiflung und Ratlosigkeit.
+Gedanken ab. Es ging ihr zwar etwas besser, seit sie mit Yeshi geredet hatte, aber sie
+wurde immer noch gequält von Bildern aus ihrer Erinnerung, der Angst, dass die Polizei
+wieder kommen würde, und einer generellen Verzweiflung und Ratlosigkeit.
 
-Sie musste endlich mit Anezka reden. Sie wusste nicht, ob das etwas bringen würde, aber
-die Sache hatte mit Anezka angefangen, also musste sie auch mit Anezka zu Ende gehen.
+Sie ertrug den Rest des Meetings, das zum Glück das letzte für heute war. Danach würde
+sie niemand vermissen, also packte sie ihre Sachen und ging. Fast automatisch führten
+ihre Schritte sie wieder ins Labyrinth. So früh am Abend war noch wenig los. Moira stand
+hinter dem Tresen und polierte Gläser. Als Siobhan sich auf einen Barhocker setzte, kam
+sie herüber und lächelte. “Hey Siobhan, alles klar?”
+
+“Nicht wirklich”, gab Siobhan zu. “Aber ein Bier würde helfen.” 
+
+“Ich habe gerade ein Faß _Suicide Sun_ angestochen. Das könnte was für dich sein. Und
+wenn du reden willst... jederzeit, ja?”
+
+Siobhan nickte und erwiderte Moiras Lächeln. Wenig später stand ein Glas mit einer blass
+goldenen Flüssigkeit, gekrönt von einem Hauch Schaum, auf dem Tresen vor ihr.
+
+“Es ist ein Pale Ale aus einer jungen Brauerei in Harth. Der Hopfen kann bei dem Preis
+nicht natürlich sein, ist aber richtig überzeugend, besonders, wenn man es zwei Grad
+wärmer serviert.”
+
+Siobhan nahm einen Schluck und nickte anerkennend.
+
+“Demnächst soll auch ein Schwarzes heraus kommen”, warf eine Stimme von der Seite ein.
+Siobhan sah nach rechts. Eine dunkelhäutige Frau in einem eleganten Hosenanzug setzte
+sich gerade auf den Barhocker neben ihr. Ein Glas mit dem selben Bier stand vor ihr.
+“Stimmt es eigentlich, dass die Eigentümer... Frauen sind?”
+
+Siobhan horchte auf. Das kurze Zögern konnte heißen, dass sie eigentlich “Nornen” hatte
+sagen wollen, aber nicht sicher war, ob man hier offen sprechen konnte.
+
+“Ja, das stimmt”, nickte Moira. “Und unabhängig von den Konzernen. Naja, so weit das
+eben geht”, fügte sie hinzu.
+
+Eine anderer Kundin kam an die Bar, und Moira ging hinüber, um ihre Bestellung
+aufzunehmen.
+
+“Ich finde es wichtig, solche kleinen Unternehmen zu unterstützen. Irgend etwas muss man
+ja machen.”
+
+“Absolut”, bestätigte Siobhan. “Solidarität ist wichtig.”
+
+“Ich bin übrigens Lexa.”
+
+“Siobhan.”
+
+“Freut mich.” Lexa hob ihr Glas, und Siobhan tat es ihr gleich.

@@ -72,7 +72,10 @@ sitzt im Rollstuhl
 
 41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade)
 
-Betreiberin des "Labyrinth" 
+Betreiberin des "Labyrinth". Moira hat viel Ungerechtigkeit gegenüber Nornen erlebt -
+ihre Schwester saß zu Unrecht wegen Körperverletzung im Gefängnis, eine gute Freundin
+starb bei einer Razzia - aber hat sich eine positive Lebenseinstellung bewahrt. Sie
+möchte mit dem Labyrinth Nornen und ihren Alliierten einen sicheren Raum bieten.
 
 ## Alexandria Kamau Ferreira
 

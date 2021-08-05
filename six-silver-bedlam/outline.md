@@ -139,8 +139,9 @@ empört. Sie erkennen Siobhan auf den Bildern nicht und haben Alibis für die Ta
 
 Tag 3
 
-Alexandria macht Siobhan ausfindig und befragt sie. Siobhan versucht, ihre Fähigkeit
-einzusetzen, doch Alexandrias Implantate schützen sie und entlarven Siobhan als Norne.
+Alexandria macht Siobhan ausfindig und nimmt Kontakt auf. Siobhan versucht, ihre
+Fähigkeit einzusetzen, doch Alexandrias Implantate schützen sie und entlarven Siobhan
+als Norne.
 
 Alexandria erzählt Gleichgesinnten von ihren Entdeckungen.
 
