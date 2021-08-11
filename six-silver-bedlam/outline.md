@@ -139,17 +139,23 @@ empört. Sie erkennen Siobhan auf den Bildern nicht und haben Alibis für die Ta
 
 Tag 3
 
-Alexandria macht Siobhan ausfindig und nimmt Kontakt auf. Siobhan versucht, ihre
-Fähigkeit einzusetzen, doch Alexandrias Implantate schützen sie und entlarven Siobhan
-als Norne.
+Alexandria macht Siobhan ausfindig und nimmt Kontakt auf.
 
-Alexandria erzählt Gleichgesinnten von ihren Entdeckungen.
+(Alexandria erzählt Gleichgesinnten von ihren Entdeckungen.)
+
+##
+
+Tag 4
+
+Siobhan trifft Alexandria erneut im Labyrinth. Alexandria stellt Fragen in Richtung des
+Mordfalls. Yeshi kommt dazu. Sie glaubt nicht, dass Alexandria eine Norne ist, und rät
+Siobhan zur Vorsicht.
 
 ## Die Neue
 
 1500 Wörter 
 
-Tag 4
+Tag 5
 
 Yeshi kontaktiert erneut Jessica und fragt, ob sie etwas über Alexandria weiß. Jessica
 verneint, aber beschließt, nachzuforschen.
@@ -163,7 +169,7 @@ herausgefunden hat, und Yeshi identifiziert die zweite Person auf den
 
 1000 Wörter
 
-Tag 4
+Tag 5
 
 Jessica erzählt Tom von Anezka, aber sagt ihm nicht, woher sie von ihr weiß. Tom ist
 irritiert.
@@ -175,10 +181,10 @@ auf den Bildern zu sein. Sie lehnt ab, Fingerabdrücke nehmen zu lassen.
 
 2000 Wörter
 
-Tag 4
+Tag 5
 
-Alexandria findet heraus, wo Hexachem illegal seine Abfälle entsorgt, und sieht sich den
-Donarpark an. Sie findet Anzeichen für Verschmutzung.
+(Alexandria findet heraus, wo Hexachem illegal seine Abfälle entsorgt, und sieht sich
+den Donarpark an. Sie findet Anzeichen für Verschmutzung.)
 
 Jessica erfährt, dass Alexandria dort war und erinnert sich, dass Siobhan den Park
 erwähnt hat, und dass sie in Zusammenhang mit Umweltaktivismus festgenommen wurde. Sie
@@ -186,11 +192,18 @@ schließt auf ihr Motiv, möchte aber andererseits an der ursprünglichen Hypoth
 festhalten. Sie weiß, dass sie auf Yeshis Bitte nicht eingehen kann, will aber dennoch
 unbewusst Siobhan schützen.
 
+##
+
+Tag 5
+
+Siobhan stellt Alexandria zur Rede. Sie versucht, ihre Fähigkeit einzusetzen, doch
+Alexandrias Implantate schützen sie und entlarven Siobhan als Norne.
+
 ## Coming Out
 
 2000 Wörter
 
-Tag 5
+Tag 6
 
 Tom erhält versehentlich Informationen über Alexandria. Er stellt Jessica wegen ihrer
 Geheimnisse zur Rede - Wer ist Alexandria? Woher wusste sie von Anezka? Was hat es mit
@@ -203,7 +216,7 @@ dafür zu verhaften. Jessica lenkt widerwillig ein.
 
 ## Flucht
 
-Tag 5
+Tag 6
 
 Siobhan geht zu Anezka und redet mit ihr darüber, was geschehen ist. Sie macht sich
 Vorwürfe, doch Anezka ist nicht bereit, ihre Schuld einzugestehen. Während sie
@@ -213,7 +226,7 @@ aufhalten, tut es jedoch nicht.
 
 ## Flucht 2
 
-Tag 5
+Tag 6
 
 Alexandria kommt mit zwei Söldnern zu Yeshi, wo Siobhan und Anezka Zuflucht gesucht
 haben. Yeshi hält sie mit ihrer Banshee-Fähigkeit in Schach, damit Siobhan und Anezka
@@ -226,7 +239,7 @@ sich in dem Haus, das sie dort finden.
 
 ## Wende
 
-Tag 5
+Tag 6
 
 Yeshi berichtet Jessica, was geschehen ist, und fordert, dass sie etwas gegen Alexandria
 unternimmt. Jessica ist zuerst auf ihrer Seite, doch als Yeshi andeutet, dass sie
@@ -235,7 +248,7 @@ und beschließt, keine Nachsicht mehr zu üben.
 
 ## Fahndung
 
-Tag 5
+Tag 6
 
 Tom, Jessica und weitere Polizisten gehen zu Yeshi, nehmen Spuren auf und befragen
 Yeshi. Diese berichtet bereitwillig über Alexandria, aber hält sich bedeckt über den
