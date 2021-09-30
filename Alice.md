@@ -113,3 +113,22 @@ dass Alice lebt, aber ihr mitteilt, dass Robert ums Leben gekommen ist.
 Alice spricht mit Roberts Mutter und erzählt ihr vom letzten Jahr. Roberts Mutter ist
 verwirrt und erklärt, dass Robert erst dieses Jahr in die Stadt gezogen sei und das
 letzte Jahr in seiner Heimatstadt verbracht habe.
+
+# Story
+
+“Triple Chocoloate Mocha für Alice!”
+
+Alice ließ den Stift fallen und ging zum Tresen. Sie lächelte der Barista zu und trug
+die hohe Tasse mit der Sahnehaube zu ihrem Tisch. Sie schob das Mathebuch etwas zur
+Seite, um Platz für den Kaffee zu schaffen. Bis jetzt waren die Hausaufgaben durchaus
+machbar, aber sie hatte gehört, dass sich das noch ändern würde. So oder so half es, in
+der richtigen Atmosphäre mit sicherer Koffein- und Zuckerzufuhr an die Sache heran zu
+gehen. Sie wollte sich gerade wieder setzen und noch ein paar Polynome zerlegen, da fiel
+ihr ein Junge auf, der zwei Tische weiter saß. Auch er hatte Bücher und Papier vor sich.
+Er war über einen Schreibblock gebeugt, was seine schwarzen Haare dazu veranlasste, ihm
+in die Augen zu rutschen. Ihr Herz machte einen kleinen Sprung, als sie sah, dass er ein
+*Drag Stettson* T-Shirt trug. Stettson waren seit ein paar Monaten Alice's absolute
+Lieblingsband. Sie glaubte, auf seinem Tisch ebenfalls ein Höhere-Mathematik-Buch liegen
+zu sehen. Kurzerhand nahm sie ihre Kaffetasse und ging in seine Richtung. Als sie näher
+kam, konnte sie zum einen erkennen, dass er tatsächlich das gleiche Mathematikbuch hatte
+wie sie, und zum anderen, dass er ziemlich süß aussah.
