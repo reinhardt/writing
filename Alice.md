@@ -127,8 +127,31 @@ gehen. Sie wollte sich gerade wieder setzen und noch ein paar Polynome zerlegen,
 ihr ein Junge auf, der zwei Tische weiter saß. Auch er hatte Bücher und Papier vor sich.
 Er war über einen Schreibblock gebeugt, was seine schwarzen Haare dazu veranlasste, ihm
 in die Augen zu rutschen. Ihr Herz machte einen kleinen Sprung, als sie sah, dass er ein
-*Drag Stettson* T-Shirt trug. Stettson waren seit ein paar Monaten Alice's absolute
+*Drag Stettson* T-Shirt trug. *Stettson* waren seit ein paar Monaten Alice' absolute
 Lieblingsband. Sie glaubte, auf seinem Tisch ebenfalls ein Höhere-Mathematik-Buch liegen
 zu sehen. Kurzerhand nahm sie ihre Kaffetasse und ging in seine Richtung. Als sie näher
 kam, konnte sie zum einen erkennen, dass er tatsächlich das gleiche Mathematikbuch hatte
 wie sie, und zum anderen, dass er ziemlich süß aussah.
+
+“Aufgabe vier ist eine Fangfrage. Da lässt sich gar nichts zerlegen, wenn du mich
+fragst.”
+
+Er sah auf. Seine smaragdgrünen Augen musterten sie kurz. In Alice' Magen kribbelte es.
+
+“Wenn du das so sagst, kriege ich Lust, zu wetten.” Er grinste. “Ein Eis? Wenn ich keine
+andere Lösung finde, zahle ich. Wenn ich das Polynom zerlegen kann, zahlst du.”
+
+Alice musste Lachen. “Abgemacht. Was ich eigentlich sagen wollte: Ich mag dein T-Shirt.”
+
+“Ah, Mathe-Genie und auch noch Geschmack! Dann sehe ich dich vermutlich beim Konzert in
+zwei Wochen?”
+
+“Könnte schon sein”, räumte Alice ein.
+
+“Ich heiße übrigens Robert. Und ich brauche noch deine Telefonnummer, damit ich Bescheid
+sagen kann, wenn ich die Lösung für Aufgabe vier habe.”
+
+“Alice.” Sie schnappte sich einen Stift von seinem Tisch und krakelte ihre Nummer auf
+seinen Schreibblock. “Viel Glück”, fügte sie schmunzelnd hinzu, drehte sich um und ging
+zu ihrem Tisch zurück. Sie nahm einen großen Schluck Chocolate Mocha und genoss das
+immer noch anhaltende Kribbeln in ihrem Bauch.
