@@ -155,3 +155,58 @@ sagen kann, wenn ich die Lösung für Aufgabe vier habe.”
 seinen Schreibblock. “Viel Glück”, fügte sie schmunzelnd hinzu, drehte sich um und ging
 zu ihrem Tisch zurück. Sie nahm einen großen Schluck Chocolate Mocha und genoss das
 immer noch anhaltende Kribbeln in ihrem Bauch.
+
+---
+
+Die Wolken wurden dunkler. Alice hoffte, dass das Wetter noch halten würde, bis die
+Türen geöffnet wurden. Sie hatte keine Jacke mitgenommen, damit sie nichts an der
+Garderobe abgeben musste. Das Wetter konnte natürlich die freudig-erwartungsvolle
+Stimmung nicht trüben, die unter den Konzertbesuchern herrschte. Es waren noch zwanzig
+Minuten bis zum Einlass und zehn Minuten nach dem vereinbarten Treffpunkt. Gerade wollte
+Alice zum wiederholten Mal auf ihr Handy schauen, da sah sie Robert endlich die Straße
+herunter kommen. Ein freudiges Grinsen schlich sich auf ihr Gesicht. Das Date in der
+Eisdiele, das sie bei seiner Pseudo-Wette gewonnen hatte, war super gewesen. Sie hatten
+sich sehr gut verstanden und Alice hatte sich noch mehr als sowieso schon auf das
+*Drag-Stettson*-Konzert gefreut. Plötzlich stutzte sie. Hatte Robert da ein
+*Manowar*-T-Shirt an? Sie sah noch einmal genauer hin. Ja, kein Zweifel. Der Schriftzug
+und die Figur mit dem Schattenhaften Gesicht waren unverkennbar. Sie schüttelte den
+Kopf. *Manowar*! Nicht, dass sie nichts für Metal im Allgemeinen oder *Manowar* im
+Besonderen übrig hatte, aber man konnte doch kein *Manowar*-Shirt zu einem
+*Stettson*-Konzert anziehen. Alice war auch kein Fan davon, T-Shirts der Band
+anzuziehen, zu deren Konzert man ging. Das war ihr zu anbiedernd. Aber man konnte doch
+in der ungefähren Stilrichtung bleiben. *Manowars* pompöser Feier-Metal hatte so gar
+nichts mit dem mal melancholischen, mal aggressiven, und oft experimentellen Sound ihrer
+Lieblingsband gemeinsam. Ihr fielen auf Anhieb drei Gruppen ein, die Teil der gleichen
+Szene wie *Stettson* waren, und deren Shirts sie bestimmte heute noch an mehreren
+Konzertbesuchern sehen würden. Andererseits konnte man einen gewissen Metal-Einfluss bei
+*Drag Stettson* nicht ganz leugnen. Der Gitarrist Erik Finnberg hatte vor Jahren sogar
+mal in einer Power-Metal-Band gespielt. War es eine Hommage an diese Wurzeln? Oder hatte
+Robert doch keine Ahnung von Musik? Oder wollte er sie einfach nur ärgern? Er wusste,
+dass sie Wert auf solche Dinge legte. Sie beschloss, das Shirt vorerst zu ignorieren.
+
+“Tut mir Leid, dass ich zu spät bin!”
+
+“Nicht so schlimm. Ich hab mir inzwischen schon mal meine Wunsch-Setlist überlegt.
+Willst Du sie hören?"
+
+“Ich ...” begann Robert.
+
+"Als erstes”, unterbrach ihn Alice, “spielen sie bestimmt ‘Torment’. Und dann ...”
+
+“Oder ‘Burst’”, warf Robert ein.
+
+“Dann ‘Bleed Out’, das passt thematisch und vom Tempo her. ‘Burst’ ist zu komplex als
+Opener.”
+
+“Lang nicht so komplex wie ‘Frantic’.”
+
+Alice runzelte die Stirn. “Was bitte ist ‘Frantic’? Auf welcher Platte soll das denn
+sein?”
+
+“Auf der ... auf der aktuellen.”
+
+“Auf der ‘Veil of the Banshee’ ist unter Garantie kein Song namens ‘Frantic’. Und auf
+den anderen beiden ...” Sie ging sie kurz im Kopf durch. “... auch nicht.” schloss sie.
+
+Robert fuhr sich durchs Haar und sah auf den Boden. “Da hab ich wohl was verwechselt."
+murmelte er.
