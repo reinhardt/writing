@@ -49,16 +49,17 @@ Alice, mit der er jede Menge Zeit verbringt.
 
 Als das Jahr sich seinem Ende nähert, denkt er immer mehr über das (für ihn) erste
 Treffen mit Alice nach - das, bei dem er sie noch nicht kannte, aber sie ihn schon seit
-einem Jahr. Ihm wird klar, dass er dieses Treffen nicht verhindern kann, weil es
-überhaupt erst auslöst, dass er Alice kennen lernt. Nebenbei bemerkt er, dass sich für
-eine Weile zwei Versionen von ihm in der Stadt aufhalten werden: zum Zeitpunkt, an dem
-er dort hin zieht, ist sein durch die Zeit gereistes Selbst ebenfalls dort. Er
-beschließt, besagtes Treffen sich abspielen zu lassen, und dann Alice alles zu erklären.
-Leider weiß er den genauen Zeitpunkt dieses Treffens nicht mehr. Er muss schätzen, aber
-falls er einen zu frühen Zeitpunkt erwischt, hat es noch nicht stattgefunden und er
-riskiert, etwas am Ablauf zu verändern. Andererseits will er Alice nicht zu lange auf
-die Folter spannen. Er passt den Zeitpunkt recht gut ab, doch als er Alice alles
-erklären will, haben die beiden einen Autounfall, den er nicht überlebt.
+einem Jahr. Er erkennt, wie verwirrend es für Alice sein muss, aber ihm wird klar, dass
+er dieses Treffen nicht verhindern kann, weil es überhaupt erst auslöst, dass er Alice
+kennen lernt. Nebenbei bemerkt er, dass sich für eine Weile zwei Versionen von ihm in
+der Stadt aufhalten werden: zum Zeitpunkt, an dem er dort hin zieht, ist sein durch die
+Zeit gereistes Selbst ebenfalls dort. Er beschließt, besagtes Treffen sich abspielen zu
+lassen, und dann Alice alles zu erklären. Leider weiß er den genauen Zeitpunkt dieses
+Treffens nicht mehr. Er muss schätzen, aber falls er einen zu frühen Zeitpunkt erwischt,
+hat es noch nicht stattgefunden und er riskiert, etwas am Ablauf zu verändern.
+Andererseits will er Alice nicht zu lange auf die Folter spannen. Er passt den Zeitpunkt
+recht gut ab, doch als er Alice alles erklären will, haben die beiden einen Autounfall,
+den er nicht überlebt.
 
 # Outline
 
@@ -86,7 +87,7 @@ hatte.
 Alice und Robert schreiben sich oder telefonieren in den Ferien und verabreden sich für
 den Abend nach Alice' Rückkehr in die Stadt
 
-Alice kommt wieder in die Stadt. Auf dem weg vom Bahnhof zur WG trifft sie zufällig
+Alice kommt wieder in die Stadt. Auf dem Weg vom Bahnhof zur WG trifft sie zufällig
 Robert. Dieser erkennt sie nicht. Sie redet vom letzten Jahr, ihren gemeinsamen
 Interessen, usw. doch er kann sich anscheinend an nichts erinnern, wird nur immer
 irritierter und geht schließlich. Alice fällt auf, dass die Narbe an seiner Hand
@@ -136,12 +137,12 @@ wie sie, und zum anderen, dass er ziemlich süß aussah.
 “Aufgabe vier ist eine Fangfrage. Da lässt sich gar nichts zerlegen, wenn du mich
 fragst.”
 
-Er sah auf. Seine smaragdgrünen Augen musterten sie kurz. In Alice' Magen kribbelte es.
+Er sah auf. Seine hellgrünen Augen musterten sie kurz. In Alice' Magen kribbelte es.
 
 “Wenn du das so sagst, kriege ich Lust, zu wetten.” Er grinste. “Ein Eis? Wenn ich keine
 andere Lösung finde, zahle ich. Wenn ich das Polynom zerlegen kann, zahlst du.”
 
-Alice musste Lachen. “Abgemacht. Was ich eigentlich sagen wollte: Ich mag dein T-Shirt.”
+Alice musste Lachen. “Abgemacht. Übrigens, ich mag dein T-Shirt.”
 
 “Ah, Mathe-Genie und auch noch Geschmack! Dann sehe ich dich vermutlich beim Konzert in
 zwei Wochen?”
@@ -210,3 +211,54 @@ den anderen beiden ...” Sie ging sie kurz im Kopf durch. “... auch nicht.”
 
 Robert fuhr sich durchs Haar und sah auf den Boden. “Da hab ich wohl was verwechselt."
 murmelte er.
+
+“Wie? Gar keine Wette?” stichelte Alice.
+
+Robert bemühte sich, das Thema zu wechseln. “Ich weiß gar nicht, wieso sie immer hier
+spielen. Es gibt doch mindestens zwei, drei Locations in ähnlicher Größe, aber mit
+besserer Akustik.”
+
+Alice tat ihm den Gefallen. “Die sind vermutlich auch doppelt so teuer.”
+
+“Mag sein. Aber ich würde auch ein paar Euro mehr zahlen, wenn der Sound dafür besser
+ist.”
+
+“Gleich kannst Du die mittelmäßige Akustik in vollen Zügen genießen. Wenn mich nicht
+alles täuscht, machen sie gerade die Türen auf.”
+
+---
+
+Alice sah abwechselnd auf die Uhr und zum Eingang. Der Kurvendiskussion, die der
+Professor vorne zelebrierte, lauschte sie nur mit einem Ohr. Vielleicht tauchte Robert
+ja doch noch auf? Doch die Türen blieben hartnäckig zu. Schließlich griff sie zu ihrem
+Handy.
+
+> Bin in der Vorlesung. Könnte Gesellschaft gebrauchen.
+
+Seine Antwort kam nach wenigen Sekunden.
+
+> Sorry, habs wieder nicht geschafft. Muss Zeug erledigen.
+
+Alice zog einen Schmollmund und ärgerte sich dann, dass Robert es nicht sehen konnte.
+
+> Warst Du überhaupt schon mal in der Vorlesung? Langsam glaube ich, Du studierst gar
+nicht wirklich.
+
+Sie wartete nicht auf eine Antwort, sondern legte nach:
+
+> Kommst Du wenigstens zur Party heute Abend?
+
+Eine endlose Minute verging, bevor er zurück schrieb.
+
+> Heute ist schlecht. Lass uns morgen was zu zweit machen.
+
+Alice seufzte. Sie hatte schon so etwas erwartet.
+
+> Das hast Du bei der Tiermediziner-Party auch gesagt. Und Clarissas Geburtstagsfeier
+hast Du auch verpasst. Komm schon, ab und zu mal unter Leute zu gehen wird Dich schon
+nicht umbringen.
+
+> Vermutlich nicht. Aber heute klappts nicht. Ich machs morgen wieder gut, versprochen.
+
+Enttäuscht legte Alice das Handy zur Seite und versuchte, bei der Kurvendiskussion den
+Faden wieder aufzunehmen.
