@@ -68,8 +68,8 @@ Alice ist neu in der Stadt, lernt Kommilitonen kennen o.ä.
 Alice bemerkt Robert (im Café mit einem Physikbuch und/oder ihrem Lieblingsroman?) und
 spricht ihn an
 
-Alice und Robert sind auf einer Verabredung, reden im Restaurant über einen Kinofilm.
-Robert sagt etwas über die Fortsetzung des Films, aber es gibt noch keine.
+Alice und Robert sind auf einem Konzert und reden über die Musik der Band. Robert sagt
+etwas über ein Lied, das zu dem Zeitpunkt noch nicht erschienen ist
 
 Alice will Robert überreden, auf eine Party mit zu kommen, aber er will nicht
 
@@ -168,22 +168,7 @@ Alice zum wiederholten Mal auf ihr Handy schauen, da sah sie Robert endlich die 
 herunter kommen. Ein freudiges Grinsen schlich sich auf ihr Gesicht. Das Date in der
 Eisdiele, das sie bei seiner Pseudo-Wette gewonnen hatte, war super gewesen. Sie hatten
 sich sehr gut verstanden und Alice hatte sich noch mehr als sowieso schon auf das
-*Drag-Stettson*-Konzert gefreut. Plötzlich stutzte sie. Hatte Robert da ein
-*Manowar*-T-Shirt an? Sie sah noch einmal genauer hin. Ja, kein Zweifel. Der Schriftzug
-und die Figur mit dem Schattenhaften Gesicht waren unverkennbar. Sie schüttelte den
-Kopf. *Manowar*! Nicht, dass sie nichts für Metal im Allgemeinen oder *Manowar* im
-Besonderen übrig hatte, aber man konnte doch kein *Manowar*-Shirt zu einem
-*Stettson*-Konzert anziehen. Alice war auch kein Fan davon, T-Shirts der Band
-anzuziehen, zu deren Konzert man ging. Das war ihr zu anbiedernd. Aber man konnte doch
-in der ungefähren Stilrichtung bleiben. *Manowars* pompöser Feier-Metal hatte so gar
-nichts mit dem mal melancholischen, mal aggressiven, und oft experimentellen Sound ihrer
-Lieblingsband gemeinsam. Ihr fielen auf Anhieb drei Gruppen ein, die Teil der gleichen
-Szene wie *Stettson* waren, und deren Shirts sie bestimmte heute noch an mehreren
-Konzertbesuchern sehen würden. Andererseits konnte man einen gewissen Metal-Einfluss bei
-*Drag Stettson* nicht ganz leugnen. Der Gitarrist Erik Finnberg hatte vor Jahren sogar
-mal in einer Power-Metal-Band gespielt. War es eine Hommage an diese Wurzeln? Oder hatte
-Robert doch keine Ahnung von Musik? Oder wollte er sie einfach nur ärgern? Er wusste,
-dass sie Wert auf solche Dinge legte. Sie beschloss, das Shirt vorerst zu ignorieren.
+*Drag-Stettson*-Konzert gefreut.
 
 “Tut mir Leid, dass ich zu spät bin!”
 
@@ -206,8 +191,8 @@ sein?”
 
 “Auf der ... auf der aktuellen.”
 
-“Auf der ‘Veil of the Banshee’ ist unter Garantie kein Song namens ‘Frantic’. Und auf
-den anderen beiden ...” Sie ging sie kurz im Kopf durch. “... auch nicht.” schloss sie.
+“Auf ‘Veil of the Banshee’ ist unter Garantie kein Song namens ‘Frantic’. Und auf den
+anderen beiden ...” Sie ging sie kurz im Kopf durch. “... auch nicht.” schloss sie.
 
 Robert fuhr sich durchs Haar und sah auf den Boden. “Da hab ich wohl was verwechselt."
 murmelte er.
@@ -262,3 +247,85 @@ nicht umbringen.
 
 Enttäuscht legte Alice das Handy zur Seite und versuchte, bei der Kurvendiskussion den
 Faden wieder aufzunehmen.
+
+---
+
+Robert stieß die Tür auf und ließ Alice zuerst eintreten. “Willkommen in meinem Reich.”
+
+Sie gingen durch eine winzige Diele in ein großes Zimmer. Vielleicht wirkte es auch nur
+groß, weil fast nichts darin war. An der linken Wand lag eine nicht mehr ganz neue
+Matratze, die vermutlich sowohl als Sofa als auch als Bett diente. Gegenüber standen
+zwei größere Pappkartons. Mehr Einrichtung gab es nicht, wenn man von einer alten
+Stehlampe absah. Eine Tür führte in eine kleine Küche, eine weitere wahrscheinlich in
+ein Bad. Ein Fenster in der rechten Wand ging zum Innenhof.
+
+“Hübsch”, behauptete Alice.
+
+Robert zuckte mit den Schultern. “Ist noch im Aufbau.”
+
+Neben der Matratze lagen drei Bücher. Eines war ein dickes Physik-Lehrbuch über die
+Relativitätstheorie. Sie schob es beiseite und sah sich die anderen beiden an. “‘Die
+Frau des Zeitreisenden’”, las sie vor. “Da gibt es doch auch einen Film, oder? Ich
+glaube, den habe ich mal gesehen.”
+
+“Das Buch ist besser.”
+
+“Und was ist ‘Wir sehen uns gestern Abend’?”
+
+Robert winkte ab. “Auch so ein Science-Fiction-Ding. Hab's noch nicht gelesen.”
+
+Alice überflog den Klappentext. “Auch was mit Zeitreisen anscheinend.”
+
+“Ja, da bin ich gerade ein bisschen drauf hängen geblieben. Was liest Du so?”
+
+“Im Moment ‘Drei Jahre Herbst’ von Patrick Zink.”
+
+Robert nickte. “Ah, das ist klasse.”
+
+“Schon gelesen? Das ist gerade erst raus gekommen.”
+
+“Ja", sagte Robert schlicht. “Ach, wie unhöflich von mir”, fügte er hinzu. “Setz Dich
+doch.” Er zeigte auf die Matratze. “Möchtest Du was trinken? Ich habe Wasser... und Gin.
+Aber ich muss schauen, ob noch Tonic da ist.”
+
+“Nein, danke.” Alice ließ sich auf die Matratze fallen und klopfte mit der Hand auf eine
+Stelle neben sich. “Komm lieber her und zeig mir, was dein Sitzmöbel so drauf hat.”
+
+---
+
+“Zwei Monate!” jammerte Alice. “Wie soll ich das überstehen?”
+
+Robert starrte weiter schweigend auf die Lichter der Stadt. Es war noch warm, obwohl es
+schon seit einer Weile dunkel war. Der Sommer bewegte sich auf seinen Höhepunkt zu.
+
+“Warum habe ich das nur so geplant? So viel ist zu Hause nun auch nicht los.”
+
+“Hier aber auch nicht.”
+
+“Ja, stimmt schon", gab Alice zu. “Die meisten fahren in den Semesterferien heim. Und du
+müsstest natürlich auch hier bleiben, sonst bringt es ja auch nichts.”
+
+"Hm", brummte Robert.
+
+Alice drehte sich zu ihm. “Was ist denn los? Du sagst kaum was.”
+
+“Nichts.” Er zuckte mit den Schultern. “Ich finde es nur auch blöd, dass wir uns acht
+Wochen lang nicht sehen werden.”
+
+Alice seufzte. “Und wenn wir uns beim *Meatgrinder* treffen? Ich habe eh überlegt, ob
+ich dieses Jahr wieder hin gehe.”
+
+Robert runzelte die Stirn. “Nein, lass das lieber. So ein Festival kann recht gefährlich
+sein. Wenn sie die Fläche vor der Bühne falsch dimensionieren, und dann ein Unwetter
+oder so was kommt...”
+
+“Hä? So ein Quatsch.”
+
+“Doch, das ist schon passiert.”
+
+“Kann sein, ich meine nur, das ist ja, als ginge man nicht mehr auf die Straße, weil mal
+jemand von einem Auto überfahren worden ist.”
+
+“Ich will dich einfach nur im Oktober in einem Stück wieder sehen.”
+
+“Ja, sorry, ich dich ja auch.”
