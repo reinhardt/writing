@@ -2,10 +2,10 @@
 title: Bis letztes Jahr
 description: |
     Alice lernt während des Studiums Robert kennen. Sie verstehen sich sehr
-    gut, doch als sie sich nach den Semesterferien wiedersehen, stimmt irgend etwas nicht.
+    gut, und alle scheint perfekt - bis die Semesterferien kommen.
 ---
 
-“Triple Chocoloate Mocha für Alice!”
+“Triple Chocolate Mocha für Alice!”
 
 Alice ließ den Stift fallen und ging zum Tresen. Sie lächelte der Barista zu und trug
 die hohe Tasse mit der Sahnehaube zu ihrem Tisch. Sie schob das Mathebuch etwas zur
@@ -245,3 +245,102 @@ Robert sie vor genau so etwas gewarnt hatte. Sie hatte ihn nicht ernst genommen.
 nur nicht hin gegangen, weil sie sonst Sandras legendäre Sommerparty verpasst hätte.
 Nicht auszudenken, wenn sie doch hin gegangen wäre... Anscheinend hatte Robert recht
 gehabt, und so etwas passierte öfter, als sie dachte.
+
+---
+
+Alice drückte wie besessen immer wieder auf den grünen Knopf neben der Zugtür. Diese war
+davon wenig beeindruckt und ließ sich endlos Zeit damit, sich zu öffnen. Dabei war sie
+das letzte, das Alice noch davon trennte, Robert endlich wieder zu sehen. Wusste sie das
+denn nicht? Die Semesterferien hatten sich endlos hin gezogen. Natürlich hatte sie mit
+Robert telefoniert und geschrieben und so weiter, aber das war einfach nicht das selbe.
+Doch jetzt war es endlich so weit. Mit einem Zischen gab die Tür endlich den Weg auf den
+Bahnsteig frei, und Alice sprang hinaus. Sie sah nach links und rechts und hielt nach
+Robert Ausschau. Er hatte geschrieben, dass er sie am Bahnhof treffen würde. Noch konnte
+sie ihn nicht entdecken. Sie wartete kurz, und als er nicht auftauchte, beschloss sie,
+in die Haupthalle zu gehen. Vielleicht wartete er dort. Das Kribbeln in ihrem Bauch
+erinnerte sie an ihre erste Begegnung im Café vor fast einem Jahr, und sie musste
+lächeln. Auch in der Haupthalle sah sie Robert nicht sofort. Wo steckte er nur? Unruhig
+tapste sie vor dem Zugang zum Gleis hin und her. Sie sah auf ihr Handy - keine
+Nachrichten. Sollte sie ihn anrufen? Nein, bestimmt kam er nur ein paar Minuten zu spät.
+Sie versuchte, sich zu gedulden, und sah trotzdem alle halbe Minute auf ihr Telefon. Da
+entdeckte sie ihn. Er kam aus der Richtung des Nordeingangs. Ihr Herz schlug noch
+schneller, wenn das überhaupt möglich war. Sie rannte auf ihn zu. Doch nach ein paar
+Schritten wurde sie wieder langsamer. Irgendetwas war komisch. Er schien gar nicht nach
+ihr zu schauen. Er ging auch nicht auf das Gleis zu, sondern eher in Richtung der
+Imbiss-Stände. Sie beschleunigte ihre Schritte wieder und hatte ihn nach ein paar
+Atemzügen erreicht. Immer noch beachtete er sie gar nicht. Als sie neben ihm zum Stehen
+kam, sah er kurz zu ihr auf - und ging dann weiter.
+
+Einen Moment lang stand Alice da und starrte ihn entgeistert an. “Robert?” sagte sie
+dann. “Was ist denn los mit dir?”
+
+Robert drehte sich zu ihr und sah sie überrascht an. Er schien nachzudenken. “Äh...
+Hallo?” bot er dann an.
+
+“Das ist alles? *Hallo?*”
+
+Robert runzelte die Stirn. “Tut mir Leid, ich habe anscheinend gerade einen Blackout.
+Kannst du mir kurz auf die Sprünge helfen?”
+
+Alice schüttelte den Kopf. “Das ist nicht witzig, Robert. Ich freue mich seit Monaten
+darauf, dich wieder zu sehen. Ich habe jetzt keine Lust auf dumme Scherze.”
+
+“Seit Monaten...?” Robert wirkte verwirrt. “Entschuldige, ich komme gerade nicht auf
+deinen Namen...”
+
+“Robert!” Alice schrie fast. “Hör jetzt auf mit dem Quatsch. Was soll das? Als du
+geschrieben hast, dass du mich vom Bahnhof abholst, hab ich mir das deutlich anders
+vorgestellt.”
+
+“Ich habe nichts dergleichen geschrieben. Ich will mir nur einen Döner holen.” Er nickte
+mit dem Kopf in Richtung der Imbissbuden. “Vielleicht hat sich da jemand einen Scherz
+erlaubt. Woher, sagst du, kennen wir uns?” fügte er hinzu.
+
+Alice schwankte zwischen Wut und Fassungslosigkeit. “Ich habe dich letzten Herbst im
+Café angequatscht, weil du ein *Drag-Stettson*-T-Shirt anhattest und die gleichen
+Hausaufgaben gemacht hast.”
+
+“Hausaufgaben? Ich gehe nicht mehr in die Schule.”
+
+“Uni”, verbesserte Alice.
+
+“Ich studiere auch nicht. Ich arbeite in der Firma meines Vaters.”
+
+“Aber du bist *Stettson*-Fan?”
+
+“Ich hab was über sie gelesen. Lohnt es sich, rein zu hören?”
+
+Langsam wurde es Alice unheimlich. Robert schien das alles wirklich zu glauben. Für
+einen schlechten Scherz zog er es viel zu konsequent durch. Aber wie konnte das sein?
+Dass sie ihn verwechselte war unmöglich. Er sah aus wie Robert, er redete wie Robert, er
+hatte auf den Namen “Robert” reagiert, als sie ihn angesprochen hatte.
+
+“Dein Name ist aber Robert, ja?”
+
+“Ja.”
+
+“Du heißt Robert Anton Friedmann. Du findest es witzig, dass deine Initialen RAF sind.
+Du liest gerne Science Fiction und hörst Elektropunk und Darkwave. Du zeichnest gerne,
+vor allem Tiere und Fabelwesen...”
+
+“Woah, warte mal. Ist das hier irgend eine Stalker-Nummer? Woher weißt du das alles?”
+
+Alice war fast erleichtert. Diese Dinge schien er noch zu wissen. Dann packte sie wieder
+das Entsetzen. Es war, als hätte das letzte Jahr für Robert überhaupt nicht
+stattgefunden.
+
+“Robert, spinnst du? Das hast du mir alles selbst erzählt. Ich habe deine Zeichnungen in
+deiner Wohnung gesehen. Wir waren zusammen auf Konzerten. Willst du mir sagen, du
+erinnerst dich an nichts davon?”
+
+“Es tut mir echt Leid, aber genau so ist es. Ich dachte, wir hätten uns vielleicht mal
+auf einer Party oder so getroffen und ich hätte es wieder vergessen, aber du tust so,
+als hätten wir ein ganzes Jahr zusammen verbracht. Ich bin erst seit ein paar Tagen in
+der Stadt, und ich kann mich nicht erinnern, dich vor heute schon einmal gesehen zu
+haben. Mir ist das echt eine Nummer zu creepy, und ich hoffe du verstehst, wenn ich
+jetzt weiter zum Dönerstand gehe.”
+
+Damit ließ er sie einfach stehen. Alice wollte weinen, oder schreien, oder Robert eine
+Ohrfeige verpassen. Aber nichts davon würde einen Unterschied machen. Irgend etwas
+Seltsames war geschehen. Es musste eine Erklärung geben. Aber Alice konnte sich beim
+besten Willen nicht vorstellen, was für eine.
