@@ -344,3 +344,49 @@ Damit ließ er sie einfach stehen. Alice wollte weinen, oder schreien, oder Robe
 Ohrfeige verpassen. Aber nichts davon würde einen Unterschied machen. Irgend etwas
 Seltsames war geschehen. Es musste eine Erklärung geben. Aber Alice konnte sich beim
 besten Willen nicht vorstellen, was für eine.
+
+---
+
+Als Alice die Tür ihrer WG aufschloss, begann ihr Handy zu vibrieren. Sie ließ den
+Wohnungsschlüssel im Schloss stecken und fischte in ihrer Handtasche. Ein klein wenig
+hoffte sie, dass es Robert wäre, der die ganze Sache aufklärte, aber das wäre wohl doch
+zu einfach. Sie riss die Augen auf, als sie auf das Display sah, und tatsächlich Roberts
+Namen sah. Mit klopfendem Herzen nahm sie den Anruf an.
+
+“Ja?”
+
+“Alice. Ist alles... Ich meine... Bist du in der Stadt?”
+
+“Ja.” In Alice' Kopf rotierten die Gedanken. Robert hatte ihre Telefonnummer. Er kannte
+ihren Namen. War alles wieder in Ordnung? Aber warum fragte er, ob sie in der Stadt sei?
+
+“Und haben wir uns am Bahnhof getroffen?”
+
+“Ja.” Ganz offensichtlich hatte er irgend ein Gedächtnisproblem.
+
+“Es tut mir echt leid, Alice, aber ich musste alles so passieren lassen, sonst wäre ich
+ja nicht zurück gegangen, um dich zu treffen. Ich erkläre dir alles, OK? Aber
+wahrscheinlich hast du dir eh schon alles zusammen gereimt. Ich hab mich so oft
+verplappert, dass es schon peinlich ist. Aber ich hatte nicht wirklich damit gerechnet,
+dass es funktioniert.”
+
+“Robert. Stop. Ich hab keine Ahnung, wovon du redest.”
+
+“Ah. Klar. Kein Problem. Aber nicht am Telefon. Mann, ich freue mich so darauf, dich
+wieder zu sehen. Wir treffen uns, und ich erzähle dir alles der Reihe nach. Also, in
+meiner Reihenfolge. Wie auch immer. Aber lass uns noch bis morgen Abend warten. Ich weiß
+nicht, wie sicher es ist, so lange ich noch zwei mal in der Stadt bin.”
+
+“Zwei mal? Ich verstehe immer noch nur Bahnhof. Du machst mir echt ein bisschen Angst.
+Kann ich nicht gleich noch vorbei kommen?”
+
+“Ich weiß nicht, ob das eine gute Idee ist. Naja, wahrscheinlich kann nichts passieren,
+denn sonst wäre es ja schon passiert. Aber ich wäre lieber vorsichtig. Nicht, dass ich
+jetzt ein Jahr lang aufgepasst habe, wie ein Schießhund, und in den letzten zwei Tagen
+versaue ich es. Keine Ahnung. Ich mache das alles ja zum ersten Mal. Ich bin echt ganz
+froh, dass ich wieder hier bin. Eigentlich «jetzt», und nicht «hier». Jedenfalls wird
+jetzt alles gut. Ich komm morgen Abend zu dir.”
+
+Alice wollte weiter protestieren, doch Robert blieb dabei. Schließlich gab Alice
+erschöpft auf, verabschiedete sich und legte auf. Sie drehte endlich den Schlüssel im
+Schloss um und betrat die WG.
