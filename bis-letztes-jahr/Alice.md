@@ -362,7 +362,8 @@ ihren Namen. War alles wieder in Ordnung? Aber warum fragte er, ob sie in der St
 
 “Und haben wir uns am Bahnhof getroffen?”
 
-“Ja.” Ganz offensichtlich hatte er irgend ein Gedächtnisproblem.
+“Ja.” Spätestens jetzt war es offensichtlich, dass er irgend ein Gedächtnisproblem
+hatte.
 
 “Es tut mir echt leid, Alice, aber ich musste alles so passieren lassen, sonst wäre ich
 ja nicht zurück gegangen, um dich zu treffen. Ich erkläre dir alles, OK? Aber
@@ -377,16 +378,137 @@ wieder zu sehen. Wir treffen uns, und ich erzähle dir alles der Reihe nach. Als
 meiner Reihenfolge. Wie auch immer. Aber lass uns noch bis morgen Abend warten. Ich weiß
 nicht, wie sicher es ist, so lange ich noch zwei mal in der Stadt bin.”
 
-“Zwei mal? Ich verstehe immer noch nur Bahnhof. Du machst mir echt ein bisschen Angst.
+“Zwei mal? Ich verstehe immer noch nur Bahnhof. du machst mir echt ein bisschen Angst.
 Kann ich nicht gleich noch vorbei kommen?”
 
 “Ich weiß nicht, ob das eine gute Idee ist. Naja, wahrscheinlich kann nichts passieren,
 denn sonst wäre es ja schon passiert. Aber ich wäre lieber vorsichtig. Nicht, dass ich
 jetzt ein Jahr lang aufgepasst habe, wie ein Schießhund, und in den letzten zwei Tagen
 versaue ich es. Keine Ahnung. Ich mache das alles ja zum ersten Mal. Ich bin echt ganz
-froh, dass ich wieder hier bin. Eigentlich «jetzt», und nicht «hier». Jedenfalls wird
-jetzt alles gut. Ich komm morgen Abend zu dir.”
+froh, dass ich es bis hier geschafft habe. Eigentlich «jetzt», und nicht «hier».
+Jedenfalls wird jetzt alles gut. Ich komm morgen Abend zu dir.”
 
 Alice wollte weiter protestieren, doch Robert blieb dabei. Schließlich gab Alice
 erschöpft auf, verabschiedete sich und legte auf. Sie drehte endlich den Schlüssel im
-Schloss um und betrat die WG.
+Schloss um und betrat die WG. An der Garderobe streifte sie Mantel und Schuhe ab und
+ging ins gemeinsame Wohnzimmer. Clarissa saß auf dem Sofa und tippte auf ihrem Handy
+herum. Als Alice herein kam, sah sie auf. “Hi Alice! Wie war die Fahrt?” Sie runzelte
+die Stirn. “Was ist denn mit Dir los? du siehst aus, als hättest du ein Gespenst
+gesehen!”
+
+Alice ließ sich mit einem Seufzen in einen der Sessel fallen. “Ja, das trifft es
+vielleicht ganz gut.” Sie berichtete von ihrer seltsamen Begegnung mit Robert und dem
+darauf folgenden Telefonat, das alles noch seltsamer machte. Clarissa hörte zu, ohne sie
+zu unterbrechen.
+
+Sie sah Alice einen Moment lang nachdenklich an. “Eigentlich”, sagte sie dann, “würde
+ich sagen, dass er irgendwie das Gedächtnis verloren hat. Zumindest, wenn der Anruf
+nicht wäre.”
+
+“Der Anruf ist nicht das einzige”, warf Alice ein. “Man verliert nicht einfach so das
+Gedächtnis. Dazu braucht es eine schwere Kopfverletzung oder ähnliches. Aber sein Kopf
+war komplett heil.”
+
+“Ja, das ist echt seltsam”, bestätigte Clarissa. “Und wenn er sich einen Scherz erlauben
+wollte oder so?”
+
+Alice lachte humorlos. “Dann ist der nicht besonders witzig geraten. Ich habe auch schon
+daran gedacht, aber, nein, wie ein Scherz wirkt nichts davon.”
+
+“Und es war definitiv Robert, den du am Bahnhof getroffen hast?”
+
+“Auf jeden Fall. Außer, dass eben etwas gefehlt hat. Es war, als hätte ich eine Version
+von Robert von vor einem Jahr getroffen.”
+
+“Ah. Dann ist der Fall klar. Robert ist aus der Vergangenheit in unsere Gegenwart
+gereist, und du hast den Vergangenheits-Robert getroffen.”
+
+Alice hätte fast gelacht, doch es blieb ihr im Hals stecken. “Das würde tatsächlich
+einiges erklären.”
+
+Clarissa starrte sie an. “Alice, das war nur ein Scherz.”
+
+Alice schüttelte den Kopf. “Ich kann es mir nicht leisten, die verrückten Theorien zu
+verwerfen, denn dann bleiben keine mehr übrig.”
+
+“Aber, mal angenommen, das wäre überhaupt möglich, was es nicht ist - warum würde er ein
+Jahr in seine Zukunft reisen wollen? Meinst du, er ist hinter Fußballergebnissen und
+Aktienkursen her, um in der Vergangenheit leichtes Geld zu machen?”
+
+“Nein, dafür ist er nicht der Typ. Wenn Robert eine Zeitmaschine in die Finger kriegen
+würde, wäre er eher hinter Musik und Büchern aus der Zukunft her, als hinter schnellem
+Geld.” Irgend etwas regte sich in Alice' Erinnerung. Musik aus der Zukunft...
+
+“Okay, Robert ist also in die Zukunft gereist, um in der Bahnhofsbuchhandlung die
+Bestseller zu checken. Der Anruf später - das muss ja dann der Gegenwarts-Robert gewesen
+sein, denn der kannte dich ja. Aber warum wusste er von der Begegnung am Bahnhof?”
+
+Plötzlich machte etwas “klick” in Alice' Kopf. Sie sprang auf. “Stopp! Wir haben es
+falsch herum aufgezogen! Er ist nicht in die Zukunft gereist, sondern in die
+Vergangenheit.”
+
+Clarissa hob beide Hände. “Vielleicht sollten wir doch nochmal nach weniger verrückten
+Theorien suchen.”
+
+“Beim *Stettson*-Konzert letztes Jahr”, fuhr Alice unbeirrt fort, “haben wir darüber
+geredet, welche Songs sie spielen würden. Er hat «Frantic» genannt, und ich dachte
+damals, er hätte etwas durcheinander gebracht, und das wäre ein Stück von einer anderen
+Band oder so. Aber «Frantic» ist vor ein paar Wochen heraus gekommen. Ich hatte das
+komplett vergessen, aber gerade ist es mir wieder eingefallen. Er kannte den Song, und
+hat nicht daran gedacht, dass ich ihn nicht kennen konnte.”
+
+“Quatsch. Das ist fast ein Jahr her. Wer weiß, was er damals genau gesagt hat. Du
+verrennst dich da gerade in etwas, Alice.”
+
+“Da ist noch mehr." Auf einmal fing alles an, sich zusammen zu fügen. “Er hat mich vor
+dem *Meatgrinder*-Festival gewarnt. Es ist alles so passiert, wie er gesagt hat, mit dem
+Unwetter und der Massenpanik und allem. Ich dachte, er hätte allgemein Angst vor solchen
+Veranstaltungen, und zufällig ist eben auf dieser etwas schief gegangen. Aber wenn ich
+jetzt daran zurück denke, ist es geradezu unheimlich, wie genau er alles vorhergesagt
+hat. Er muss davon gelesen haben, dann in die Vergangenheit zurück gereist sein und mich
+gewarnt haben.”
+
+“Hör auf, Alice. Du machst mir langsam ein bisschen Angst.”
+
+“Meinst du, das war sogar der Grund, warum er zurück gereist ist? Nein, warte, da war
+noch etwas, das er am Telefon gesagt hat. «Wir mussten uns am Bahnhof sehen, sonst wäre
+ich nicht zurück gegangen, um dich zu treffen», oder so ähnlich.”
+
+“«Um dich zu treffen»? Im Sinne von «um dich kennenzulernen»?”
+
+Alice hielt sich erschrocken die Hand vor den Mund. ”Du meine Güte. So hatte ich es gar
+nicht verstanden. Aber es ergibt Sinn! Das Treffen am Bahnhof ist aus seiner Sicht
+unsere erste Begegnung. Danach reist er zurück ins letzte Jahr. Vielleicht ist er
+neugierig, keine Ahnung, jedenfalls ist das der Anlass für die Zeitreise. Wir lernen uns
+kennen, erleben all die Sachen, und die ganze Zeit hat für mich die Geschichte am
+Bahnhof noch gar nicht statt gefunden. Sie musste aber stattfinden, und zwar genau so,
+wie er sie erlebt hat, weil er sonst nicht in die Vergangenheit zurück gegangen wäre.
+Deshalb konnte er mich auch nicht warnen. Alles, was er machen konnte, war, mich danach
+anzurufen.”
+
+“Aber warum hat er es dir dann nicht gleich am Telefon erklärt?”
+
+“Ich hätte ihn vermutlich für verrückt erklärt.”
+
+Clarissa zog eine Augenbraue hoch. “Und völlig zu recht. Alice, überlege mal, was du da
+sagst. Robert reist durch die Zeit, um dich kennenzulernen, weil er dich am Bahnhof
+getroffen hat? Das ist völlig verrückt!”
+
+"Ich weiß”, seufzte Alice. “Aber warum ergibt es dann so furchtbar viel Sinn? Die
+Ereignisse, die er im Vorhinein wusste... Die Bücher über Zeitreisen... Vielleicht
+erklärt es sogar, dass er so menschenscheu ist. Der Bahnhofs-Robert hat gesagt, dass er
+erst seit kurzem in der Stadt sei. Wenn jetzt alle möglichen Leute den Zeitreise-Robert
+im letzten Jahr hier gesehen hätten, hätte das jede Menge Fragen aufgeworfen.”
+
+Clarissa schüttelte den Kopf, doch es fiel ihr anscheinend keine Antwort darauf ein.
+“Morgen seht ihr euch, ja?” fragte sie dann. Alice nickte. “Dann wird sich das ganze
+sowieso aufklären. Es hat keinen Sinn, jetzt weiter haarsträubende Theorien zu wälzen.
+Erzähl mir lieber, was du in den Semesterferien so getrieben hast.”
+
+Ganz befriedigend war das zwar nicht, aber Alice musste zugeben, dass Clarissa in
+gewisser Hinsicht Recht hatte. Sie würde versuchen, sich ein wenig abzulenken, denn es
+war wirklich nur eine Frage der Zeit, dass sich alles aufklären würde.
+
+---
+
+
