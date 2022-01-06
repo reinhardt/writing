@@ -375,8 +375,8 @@ dass es funktioniert.”
 
 “Ah. Klar. Kein Problem. Aber nicht am Telefon. Mann, ich freue mich so darauf, dich
 wieder zu sehen. Wir treffen uns, und ich erzähle dir alles der Reihe nach. Also, in
-meiner Reihenfolge. Wie auch immer. Aber lass uns noch bis morgen Abend warten. Ich weiß
-nicht, wie sicher es ist, so lange ich noch zwei mal in der Stadt bin.”
+meiner Reihenfolge. Wie auch immer. Aber lass uns noch bis morgen Nachmittag warten. Ich
+weiß nicht, wie sicher es ist, so lange ich noch zwei mal in der Stadt bin.”
 
 “Zwei mal? Ich verstehe immer noch nur Bahnhof. du machst mir echt ein bisschen Angst.
 Kann ich nicht gleich noch vorbei kommen?”
@@ -386,7 +386,7 @@ denn sonst wäre es ja schon passiert. Aber ich wäre lieber vorsichtig. Nicht, 
 jetzt ein Jahr lang aufgepasst habe, wie ein Schießhund, und in den letzten zwei Tagen
 versaue ich es. Keine Ahnung. Ich mache das alles ja zum ersten Mal. Ich bin echt ganz
 froh, dass ich es bis hier geschafft habe. Eigentlich «jetzt», und nicht «hier».
-Jedenfalls wird jetzt alles gut. Ich komm morgen Abend zu dir.”
+Jedenfalls wird jetzt alles gut. Ich komm morgen Nachmittag zu dir.”
 
 Alice wollte weiter protestieren, doch Robert blieb dabei. Schließlich gab Alice
 erschöpft auf, verabschiedete sich und legte auf. Sie drehte endlich den Schlüssel im
@@ -511,4 +511,77 @@ war wirklich nur eine Frage der Zeit, dass sich alles aufklären würde.
 
 ---
 
+Alice' Handy vibrierte einmal. Das war das Zeichen. Sie ging zur Garderobe, zog Schuhe
+und Mantel an und lief die Treppe hinunter. Die Vorfreude, Robert wieder zu sehen,
+mischte sich mit Ungeduld, endlich zu erfahren, was es mit dem seltsamen Treffen am
+Bahnhof auf sich hatte. Sie hatte furchtbar schlecht geschlafen und den ganzen Tag ihre
+Theorie von gestern hin und her gewälzt und auf Unstimmigkeiten überprüft, und sie
+zwischendurch mehrfach als kompletten Unfug verworfen, um dann doch wieder darauf zurück
+zu kommen, weil sie keine andere Idee hatte, die die Sache so gut erklärte. Sie öffnete
+die Haustür, und plötzlich waren all diese Gedanken weg, und da war nur noch Robert,
+seine hellgrünen Augen, seine Arme um ihre Hüften, seine Lippen auf den ihren. Nach viel
+zu kurzer Zeit lösten sie sich voneinander.
 
+“Schön, dich zu sehen", flüsterte er.
+
+Alice lächelte. “Ganz meinerseits.”
+
+“Steig ein.” Robert öffnete die Tür eines roten Sport-Coupés.
+
+Alice stutzte. “Seit wann hast du ein Auto?”
+
+“Seit ein paar Jahren. In letzter Zeit war es leider anderweitig in Benutzung,
+sozusagen.”
+
+Sie folgte seiner Aufforderung und setzte sich auf den Beifahrersitz. Er nahm hinter dem
+Steuer Platz, lächelte sie noch einmal kurz an und fuhr los. “Ich habe lange hin und her
+überlegt, wie ich dir das Ganze am besten erkläre. Es ist ganz schön absurd. Manchmal
+glaube ich es selbst nicht, ob wohl ich es erlebt habe. Deswegen würde ich dir gerne
+etwas zeigen. Das macht es vielleicht greifbarer.”
+
+“Und das wäre?”
+
+“Du wirst schon sehen. Es ist nicht weit.”
+
+Auf den Straßen war nicht viel los. Sie waren bereits an der Grenze zum nächsten
+Stadtviertel.
+
+“Komm schon, ich halte es nicht mehr lange aus. Die einzige Theorie, die ich habe, ist
+vollkommen wahnsinnig.”
+
+“Dann ist sie vermutlich richtig.” Robert blieb völlig ernst. Er schien das nicht als
+Scherz zu meinen.
+
+Alice überlegte kurz, ob sie Robert ihre Gedanken unterbreiten sollte, oder er sie nur
+auslachen würde, da hielt er auch schon an und rangierte den Wagen in eine der wenigen
+freien Parklücken am Straßenrand.
+
+“Da vorne ist es.”
+
+Sie stiegen aus und Alice folgte Robert auf ein Gebäude zu, an dessen Einfahrt ein
+Schild mit einem Autoreifen und einem Schraubenschlüssel hing - vermutlich eine
+Autowerkstatt. Robert sah auf die Uhr und wurde langsamer. “Verdammt, wir sind ganz
+schön früh dran. Ich hätte noch warten sollen, aber ich konnte es kaum erwarten, dich zu
+sehen. Nicht, dass ich noch drin bin.”
+
+Alice war einen Moment verwirrt, doch dann glaubte sie, zu verstehen. Hier musste sie
+sein, die Zeitmaschine, oder was auch immer es Robert ermöglicht hatte, sich in die
+Vergangenheit zu versetzen. Wenn sie zu früh dran waren, dann waren gerade zwei
+Versionen von Robert hier - der Robert, der gleich die Zeitreise unternehmen würde, und
+der Robert, der ein subjektives Jahr später mit ihr hier her gefahren war, um ihr die
+Zeitmaschine zu zeigen. Was würde geschehen, wenn die beiden Versionen sich treffen
+würden? Sie hatte nie viel Science Fiction gelesen, aber sie hatte das dumpfe Gefühl,
+das so etwas nie gut ausging. Aber müsste Robert - “ihr” Robert - sich nicht daran
+erinnern, wenn er sich selbst getroffen hätte? Und was, wenn er sich erinnerte, aber
+sich diesmal anders verhielt, als in seiner Erinnerung?
+
+Sie kam nicht dazu, den Gedankengang zu Ende zu denken. Irgend etwas stimmte plötzlich
+nicht mehr. Sie sah nur noch verschwommen. Ihre Ohren dröhnten und ihr wurde schlecht.
+Dann kam mit einem furchtbarer Knall die Hauswand auf sie zu. Sie wurde zur Seite
+geschleudert. Irgend etwas prallte gegen ihren Kopf, und ihr wurde schwarz vor Augen.
+
+Als sie wieder zu sich kam, schmerzte ihr ganzer Körper. Sie schlug mit Mühe die Augen
+auf und blickte auf ein Trümmerfeld. Sie lag auf dem Boden, um sie herum Staub und Teile
+von Mauerwerk. Irgendwo flackerten Flammen. Ein paar Meter weiter lag noch jemand auf
+dem Boden. “Robert!” krächzte sie, und musste husten, was die Schmerzen in ihrer Brust
+ins unerträgliche steigerte. Sie verlor wieder das Bewusstsein.
