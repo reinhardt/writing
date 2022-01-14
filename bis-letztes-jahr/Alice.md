@@ -552,9 +552,9 @@ vollkommen wahnsinnig.”
 “Dann ist sie vermutlich richtig.” Robert blieb völlig ernst. Er schien das nicht als
 Scherz zu meinen.
 
-Alice überlegte kurz, ob sie Robert ihre Gedanken unterbreiten sollte, oder er sie nur
-auslachen würde, da hielt er auch schon an und rangierte den Wagen in eine der wenigen
-freien Parklücken am Straßenrand.
+Alice überlegte kurz, ob sie Robert ihre Gedanken unterbreiten sollte, oder ob er sie
+doch nur auslachen würde, da hielt er auch schon an und rangierte den Wagen in eine der
+wenigen freien Parklücken am Straßenrand.
 
 “Da vorne ist es.”
 
@@ -571,9 +571,9 @@ Versionen von Robert hier - der Robert, der gleich die Zeitreise unternehmen wü
 der Robert, der ein subjektives Jahr später mit ihr hier her gefahren war, um ihr die
 Zeitmaschine zu zeigen. Was würde geschehen, wenn die beiden Versionen sich treffen
 würden? Sie hatte nie viel Science Fiction gelesen, aber sie hatte das dumpfe Gefühl,
-das so etwas nie gut ausging. Aber müsste Robert - “ihr” Robert - sich nicht daran
-erinnern, wenn er sich selbst getroffen hätte? Und was, wenn er sich erinnerte, aber
-sich diesmal anders verhielt, als in seiner Erinnerung?
+das so etwas nicht gut ausgehen würde. Aber müsste Robert - “ihr” Robert - sich nicht
+daran erinnern, wenn er sich selbst getroffen hätte? Und was, wenn er sich erinnerte,
+aber sich diesmal anders verhielt, als in seiner Erinnerung?
 
 Sie kam nicht dazu, den Gedankengang zu Ende zu denken. Irgend etwas stimmte plötzlich
 nicht mehr. Sie sah nur noch verschwommen. Ihre Ohren dröhnten und ihr wurde schlecht.
@@ -585,3 +585,63 @@ auf und blickte auf ein Trümmerfeld. Sie lag auf dem Boden, um sie herum Staub 
 von Mauerwerk. Irgendwo flackerten Flammen. Ein paar Meter weiter lag noch jemand auf
 dem Boden. “Robert!” krächzte sie, und musste husten, was die Schmerzen in ihrer Brust
 ins unerträgliche steigerte. Sie verlor wieder das Bewusstsein.
+
+---
+
+Als sie aufwachte, fühlte sie sich schwach und benommen. Sie war in einem fremden
+Zimmer. Es sah nach Krankenhaus aus. Sie sah sich um. Auf einem Stuhl neben dem Bett saß
+ihre Mutter. Als sie bemerkte, dass Alice wach war, sprang sie auf. “Alice! Wie fühlst
+du dich?”
+
+“Ich bin ziemlich kaputt. Was ist passiert?” Plötzlich strömte die Erinnerung zurück in
+Alice' Bewusstsein. Sie war plötzlich hellwach. “Robert!” rief sie. Sie sah sich noch
+einmal im Zimmer um. Es standen noch drei andere Betten darin, in zweien davon lagen
+Frauen, eines war leer. “Wo ist Robert?”
+
+“Es gab anscheinend eine Explosion. Es gab mehrere Verletzte, aber Euch hat es am
+schlimmsten erwischt.” Sie rang nach Worten. “Es tut mir so leid, Alice...”
+
+Panik stieg in Alice auf. “Was? Wo ist er? Was ist los?”
+
+“Du musst jetzt sehr stark sein, Schatz. Robert ist noch schwerer verletzt worden als
+du. Sie haben ihn operiert, aber sie konnten nichts mehr machen. Er hat es nicht
+geschafft.”
+
+Alice starrte ihre Mutter an. Es fühlte sich an, als hätte sie einen Eisklumpen im
+Magen. “Das kann nicht sein. Er ist extra in die Vergangenheit gereist, um mich zu
+treffen. Das ...”
+
+Ihre Mutter sah sie verwirrt an, doch dann trat sie ans Bett heran und nahm Alice
+vorsichtig in den Arm. “Mein armer Schatz. Wenn du reden willst - ich bin hier. Aber
+versuche vielleicht, dich ein bisschen auszuruhen. Hast du Schmerzen? Soll ich die
+Schwester holen?”
+
+Alice nickte. Eigentlich fühlte sie sich körperlich in Ordnung, aber vielleicht würde
+eine Dosis Schmerzmittel auch ihre Gefühle ein wenig betäuben.
+
+---
+
+Nachdem sie eine Weile lustlos in ihrem Mittagessen herum gestochert und irgend eine
+Talkshow im Fernsehen gesehen hatte, kam Clarissa sie besuchen. Sie war merklich
+aufgewühlt, was in schieres Entsetzen umschlug, als Alice ihr sagte, dass Robert den
+Vorfall nicht überlebt hatte. “Das ist ja furchtbar! Wie konnte das passieren? Was habt
+ihr denn überhaupt gemacht?”
+
+“Robert wollte mir etwas zeigen. Ich glaube, es war die Zeitmaschine.”
+
+“Alice!” Clarissa klang jetzt fast ärgerlich. “Hör jetzt auf! Wie kannst du unter
+solchen Umständen noch so einen Quatsch erzählen?”
+
+“Was hätte er mir denn sonst zeigen sollen? Vermutlich war es auch die Zeitmaschine, die
+die Explosion verursacht hat. Ich habe zwar keine Ahnung, wie Zeitreisen funktionieren,
+aber ich bin ziemlich sicher, dass da enorme Energien im Spiel sein müssen.”
+
+Clarissa seufzte. “Selbst wenn das so wäre, warum sollte dich Robert dann dort hin
+bringen und dich damit in Lebensgefahr bringen?”
+
+“Er wusste das bestimmt nicht. Und es war die einzige Möglichkeit, mir zu beweisen, dass
+er wirklich durch die Zeit gereist ist.”
+
+Clarissa hob abwehrend die Hände. “Wie auch immer. Ich bin ja nur eine einfache
+Geisteswissenschaftlerin, die sich mit so etwas nicht auskennt. Aber wenn ich irgend
+etwas für dich tun kann oder so...”
