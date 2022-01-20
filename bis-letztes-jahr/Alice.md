@@ -526,25 +526,14 @@ zu kurzer Zeit lösten sie sich voneinander.
 
 Alice lächelte. “Ganz meinerseits.”
 
-“Steig ein.” Robert öffnete die Tür eines roten Sport-Coupés.
-
-Alice stutzte. “Seit wann hast du ein Auto?”
-
-“Seit ein paar Jahren. In letzter Zeit war es leider anderweitig in Benutzung,
-sozusagen.”
-
-Sie folgte seiner Aufforderung und setzte sich auf den Beifahrersitz. Er nahm hinter dem
-Steuer Platz, lächelte sie noch einmal kurz an und fuhr los. “Ich habe lange hin und her
+“Komm mit.” Robert nahm ihre Hand und sie gingen los. “Ich habe lange hin und her
 überlegt, wie ich dir das Ganze am besten erkläre. Es ist ganz schön absurd. Manchmal
-glaube ich es selbst nicht, ob wohl ich es erlebt habe. Deswegen würde ich dir gerne
+glaube ich es selbst nicht, obwohl ich es erlebt habe. Deswegen würde ich dir gerne
 etwas zeigen. Das macht es vielleicht greifbarer.”
 
 “Und das wäre?”
 
 “Du wirst schon sehen. Es ist nicht weit.”
-
-Auf den Straßen war nicht viel los. Sie waren bereits an der Grenze zum nächsten
-Stadtviertel.
 
 “Komm schon, ich halte es nicht mehr lange aus. Die einzige Theorie, die ich habe, ist
 vollkommen wahnsinnig.”
@@ -553,16 +542,15 @@ vollkommen wahnsinnig.”
 Scherz zu meinen.
 
 Alice überlegte kurz, ob sie Robert ihre Gedanken unterbreiten sollte, oder ob er sie
-doch nur auslachen würde, da hielt er auch schon an und rangierte den Wagen in eine der
-wenigen freien Parklücken am Straßenrand.
+doch nur auslachen würde. Sie beschloss, es ihn auf seine Weise machen zu lassen, und
+genoss erst einmal nur, endlich wieder in seiner Nähe zu sein.
 
 “Da vorne ist es.”
 
-Sie stiegen aus und Alice folgte Robert auf ein Gebäude zu, an dessen Einfahrt ein
-Schild mit einem Autoreifen und einem Schraubenschlüssel hing - vermutlich eine
-Autowerkstatt. Robert sah auf die Uhr und wurde langsamer. “Verdammt, wir sind ganz
-schön früh dran. Ich hätte noch warten sollen, aber ich konnte es kaum erwarten, dich zu
-sehen. Nicht, dass ich noch drin bin.”
+Alice folgte Robert auf ein Gebäude zu, an dessen Einfahrt ein Schild mit einem
+Autoreifen und einem Schraubenschlüssel hing. Robert sah auf die Uhr und wurde
+langsamer. “Verdammt, wir sind ganz schön früh dran. Ich hätte noch warten sollen, aber
+ich konnte es kaum erwarten, dich zu sehen. Nicht, dass ich noch drin bin.”
 
 Alice war einen Moment verwirrt, doch dann glaubte sie, zu verstehen. Hier musste sie
 sein, die Zeitmaschine, oder was auch immer es Robert ermöglicht hatte, sich in die
@@ -590,58 +578,72 @@ ins unerträgliche steigerte. Sie verlor wieder das Bewusstsein.
 
 Als sie aufwachte, fühlte sie sich schwach und benommen. Sie war in einem fremden
 Zimmer. Es sah nach Krankenhaus aus. Sie sah sich um. Auf einem Stuhl neben dem Bett saß
-ihre Mutter. Als sie bemerkte, dass Alice wach war, sprang sie auf. “Alice! Wie fühlst
-du dich?”
+Clarissa. Als sie bemerkte, dass Alice wach war, sprang sie auf. “Alice! Wie fühlst du
+dich?”
 
-“Ich bin ziemlich kaputt. Was ist passiert?” Plötzlich strömte die Erinnerung zurück in
-Alice' Bewusstsein. Sie war plötzlich hellwach. “Robert!” rief sie. Sie sah sich noch
+“Ich bin ziemlich kaputt. Was ist passiert?” Mit einem Mal strömte die Erinnerung zurück
+in Alice' Bewusstsein. Sie war plötzlich hellwach. “Robert!” rief sie. Sie sah sich noch
 einmal im Zimmer um. Es standen noch drei andere Betten darin, in zweien davon lagen
 Frauen, eines war leer. “Wo ist Robert?”
 
-“Es gab anscheinend eine Explosion. Es gab mehrere Verletzte, aber Euch hat es am
-schlimmsten erwischt.” Sie rang nach Worten. “Es tut mir so leid, Alice...”
+“Ich weiß nicht. Warst du mit ihm unterwegs, als es passiert ist?”
 
-Panik stieg in Alice auf. “Was? Wo ist er? Was ist los?”
+“Ja. Er wollte mir etwas zeigen, und dann ist uns plötzlich dieses Gebäude um die Ohren
+geflogen. Ist er nicht hier?”
 
-“Du musst jetzt sehr stark sein, Schatz. Robert ist noch schwerer verletzt worden als
-du. Sie haben ihn operiert, aber sie konnten nichts mehr machen. Er hat es nicht
-geschafft.”
+“Es wurden noch ein paar andere Verletzte eingeliefert, aber Robert war nicht dabei.”
 
-Alice starrte ihre Mutter an. Es fühlte sich an, als hätte sie einen Eisklumpen im
-Magen. “Das kann nicht sein. Er ist extra in die Vergangenheit gereist, um mich zu
-treffen. Das ...”
+“Aber, auch wenn er nicht verletzt ist, dann wäre er doch trotzdem mit mir ins
+Krankenhaus gekommen?”
 
-Ihre Mutter sah sie verwirrt an, doch dann trat sie ans Bett heran und nahm Alice
-vorsichtig in den Arm. “Mein armer Schatz. Wenn du reden willst - ich bin hier. Aber
-versuche vielleicht, dich ein bisschen auszuruhen. Hast du Schmerzen? Soll ich die
-Schwester holen?”
+“Hat er vielleicht angerufen oder geschrieben?”
 
-Alice nickte. Eigentlich fühlte sie sich körperlich in Ordnung, aber vielleicht würde
-eine Dosis Schmerzmittel auch ihre Gefühle ein wenig betäuben.
+Alice sah sich nach ihrem Handy um und sah es auf dem Nachtkästchen neben ihrem Bett.
+Sie griff danach und bereute es gleich darauf wieder, als mindestens ein Dutzend Stellen
+in ihrem Körper schmerzten. Jetzt erst bemerkte sie, dass sie ihren linken Arm schlecht
+bewegen konnte. Er steckte in einem Gipsverband. Auch ihr linkes Bein fühlte sich steif
+und schwer an. Clarissa hatte ihre Bewegung richtig gedeutet und reichte ihr das Handy,
+doch das reagierte nicht, als Alice den Einschaltknopf drückte.
+
+“Warte, ich habe dir ein Ladegerät mitgebracht.” Clarissa kramte ein Kabel aus einer
+Tasche, die neben ihr lag, und verband damit das Mobiltelefon mit einer Steckdose. Der
+Bildschirm und die LEDs blieben dunkel.
+
+“Mist”, murmelte Alice.
+
+“Soll ich ihn anrufen?” bot Clarissa an. “Hast du seine Nummer im Kopf?”
+
+“Nein. Nur auf dem Handy.”
+
+“Wer hat noch seine Nummer?” 
+
+Alice überlegte einen Moment. “Keine Ahnung. Vermutlich niemand. Aber ich frage mal.
+Ach, geht ja nicht, ich habe ja kein Handy.”
+
+“Ich mach schon.” Clarissa holte ihr Mobiltelefon heraus und tippte flink eine
+Nachricht. “Mach dir keine Sorgen und ruh' dich erst mal aus. Robert taucht schon wieder
+auf. Was ist denn überhaupt passiert? Es hieß, es gab eine Explosion?”
+
+“Das klingt ungefähr richtig. Mehr habe ich auch nicht mit bekommen. Wir waren bei einer
+Autowerkstatt oder so. Robert wollte mir etwas zeigen. Ich glaube, es war die
+Zeitmaschine.”
+
+“Hat er das gesagt?”
+
+“Nein. Aber was hätte er mir denn sonst zeigen sollen? Oh Gott, meinst du es war die
+Zeitmaschine, die die Explosion verursacht hat? Ich habe zwar keine Ahnung, wie
+Zeitreisen funktionieren, aber ich bin ziemlich sicher, dass da enorme Energien im Spiel
+sein müssen.”
+
+Clarissa seufzte. “Echt ärgerlich, dass Robert verschwunden ist, sonst könnte er diesen
+Unsinn ein für alle mal aus der Welt schaffen.”
 
 ---
 
-Nachdem sie eine Weile lustlos in ihrem Mittagessen herum gestochert und irgend eine
-Talkshow im Fernsehen gesehen hatte, kam Clarissa sie besuchen. Sie war merklich
-aufgewühlt, was in schieres Entsetzen umschlug, als Alice ihr sagte, dass Robert den
-Vorfall nicht überlebt hatte. “Das ist ja furchtbar! Wie konnte das passieren? Was habt
-ihr denn überhaupt gemacht?”
-
-“Robert wollte mir etwas zeigen. Ich glaube, es war die Zeitmaschine.”
-
-“Alice!” Clarissa klang jetzt fast ärgerlich. “Hör jetzt auf! Wie kannst du unter
-solchen Umständen noch so einen Quatsch erzählen?”
-
-“Was hätte er mir denn sonst zeigen sollen? Vermutlich war es auch die Zeitmaschine, die
-die Explosion verursacht hat. Ich habe zwar keine Ahnung, wie Zeitreisen funktionieren,
-aber ich bin ziemlich sicher, dass da enorme Energien im Spiel sein müssen.”
-
-Clarissa seufzte. “Selbst wenn das so wäre, warum sollte dich Robert dann dort hin
-bringen und dich damit in Lebensgefahr bringen?”
-
-“Er wusste das bestimmt nicht. Und es war die einzige Möglichkeit, mir zu beweisen, dass
-er wirklich durch die Zeit gereist ist.”
-
-Clarissa hob abwehrend die Hände. “Wie auch immer. Ich bin ja nur eine einfache
-Geisteswissenschaftlerin, die sich mit so etwas nicht auskennt. Aber wenn ich irgend
-etwas für dich tun kann oder so...”
+Robert tauchte nicht wieder auf. Auch zwei Tage später, als Alice aus dem Krankenhaus
+entlassen wurde, war er nicht dort hin gekommen, weder als Patient, noch als Besucher.
+Niemand hatte seine Telefonnummer, und auch sonst gab es kein Lebenszeichen von ihm.
+Clarissa half Alice, nach Hause zu kommen. Sie musste wegen ihres Beins Krücken
+benutzen, und sie brauchten eine Ewigkeit, obwohl sie den größten Teil des Weges mit dem
+Bus zurück legten. Auch in der WG war keine Nachricht zu finden - kein Brief im
+Briefkasten, kein Zettel unter der Tür, nichts.
