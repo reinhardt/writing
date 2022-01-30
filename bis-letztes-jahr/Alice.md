@@ -647,3 +647,18 @@ Clarissa half Alice, nach Hause zu kommen. Sie musste wegen ihres Beins Krücken
 benutzen, und sie brauchten eine Ewigkeit, obwohl sie den größten Teil des Weges mit dem
 Bus zurück legten. Auch in der WG war keine Nachricht zu finden - kein Brief im
 Briefkasten, kein Zettel unter der Tür, nichts.
+
+Alice beschloss, zu Roberts Wohnung zu gehen. Clarissa sah schnell ein, dass sie Alice trotz ihres Zustands nicht davon abbringen konnte, und bestand stattdessen darauf, mit zu kommen.
+
+Alice drückte einen der vielen Klingelknöpfe an der Glastür des Mietshauses.
+
+"Da steht gar kein Name dran", stellte Clarissa fest.
+
+"Ja, Robert hat sich nie die Mühe gemacht."
+
+Sie warteten ein paar Sekunden, dann klingelt sie noch einmal. Wieder blieben Sprechanlage und Türsummer stumm. Alice drückte noch ein paar mal hinter einander den Knopf, doch sie merkte, dass es keinen Sinn hatte. "Lass uns mal durchs Fenster schauen."
+
+Sie gingen ein paar Meter am Haus entlang und erreichten einen Durchgang, hinter dem der Innenhof lag.
+
+---
+
