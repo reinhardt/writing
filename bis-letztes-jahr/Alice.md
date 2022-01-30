@@ -646,19 +646,133 @@ Niemand hatte seine Telefonnummer, und auch sonst gab es kein Lebenszeichen von 
 Clarissa half Alice, nach Hause zu kommen. Sie musste wegen ihres Beins Krücken
 benutzen, und sie brauchten eine Ewigkeit, obwohl sie den größten Teil des Weges mit dem
 Bus zurück legten. Auch in der WG war keine Nachricht zu finden - kein Brief im
-Briefkasten, kein Zettel unter der Tür, nichts.
-
-Alice beschloss, zu Roberts Wohnung zu gehen. Clarissa sah schnell ein, dass sie Alice trotz ihres Zustands nicht davon abbringen konnte, und bestand stattdessen darauf, mit zu kommen.
+Briefkasten, kein Zettel unter der Tür, nichts. Alice beschloss, zu Roberts Wohnung zu
+gehen. Clarissa sah schnell ein, dass sie Alice trotz ihres Zustands nicht davon
+abbringen konnte, und bestand stattdessen darauf, mit zu kommen.
 
 Alice drückte einen der vielen Klingelknöpfe an der Glastür des Mietshauses.
 
 "Da steht gar kein Name dran", stellte Clarissa fest.
 
-"Ja, Robert hat sich nie die Mühe gemacht."
+"Ja, Robert hat sich nie die Mühe gemacht, ein Klingelschild anzubringen."
 
-Sie warteten ein paar Sekunden, dann klingelt sie noch einmal. Wieder blieben Sprechanlage und Türsummer stumm. Alice drückte noch ein paar mal hinter einander den Knopf, doch sie merkte, dass es keinen Sinn hatte. "Lass uns mal durchs Fenster schauen."
+Sie wartete ein paar Sekunden, dann klingelt sie noch einmal. Wieder blieben
+Sprechanlage und Türsummer stumm. Alice drückte noch ein paar mal hinter einander den
+Knopf, doch sie merkte, dass es keinen Sinn hatte. "Lass uns mal durchs Fenster
+schauen."
 
-Sie gingen ein paar Meter am Haus entlang und erreichten einen Durchgang, hinter dem der Innenhof lag.
+Sie gingen ein paar Meter am Haus entlang. Clarissa passte ihre Schritte dem langsamen
+Humpeln von Alice an. Sie erreichten einen Durchgang, hinter dem der Innenhof lag. Er
+war klein und schäbig. Ein paar traurige Pflanzen fristeten ihr Dasein in wuchtigen
+Betonkübeln.
+
+“Das muss es sein.” Alice ging zum zweiten Fenster und versuchte, einen Blick in die
+Wohnung zu erhaschen. Das Fenster war sehr hoch; der Boden der Wohnung lag ein gutes
+Stück über dem des Innenhofs. Sie konnte nur die Decke und den oberen Rand der Küchentür
+sehen.
+
+Clarissa ging ein Stück vom Fenster weg und reckte den Hals. Dann stellte sie sich auf
+einen der Blumenkübel. Sie kniff die Augen zusammen. “Das Zimmer ist leer.”
+
+“Das täuscht. Robert hat nicht viel Einrichtung.” Sie ging nach hinten zu Clarissa. “An
+der rechten Wand müssten ein paar Zeichnungen hängen, und neben der Küchentür ist eine
+Stehlampe.”
+
+Clarissa schüttelte den Kopf. “Nein, da ist gar nichts.”
+
+Alice machte Anstalten, auch auf die Blumentöpfe zu klettern, aber Clarissa versperrte
+ihr den Weg. “Bist du verrückt? Wenn du mit deinen Gipsverbänden hier herum kletterst,
+brichst du dir auch noch den Hals.”
+
+Alice seufzte, aber auch von unten konnte sie erahnen, dass Roberts spärliche
+Einrichtung tatsächlich nicht da war, wo sie sein sollte.
+
+“Warum?” murmelte sie. “Ist er ausgezogen? Warte, ja, vielleicht ist er das. Wenn er
+wirklich vor zwei Tagen in die Vergangenheit gereist ist, dann ist vermutlich eine
+Wohnung frei geworden, und er braucht die hier nicht mehr. Das hier war ja
+offensichtlich nur eine Übergangsbleibe.”
+
+Clarissa sah sie fast verzweifelt an. “Alice, hör auf, dir das einzureden. Wenn du von
+vorneherein beschlossen hast, dass du daran glauben willst, dann wirst du dir immer
+irgendeine Erklärung konstruieren können, egal wie die Fakten aussehen.”
+
+“Und was ist deine Erklärung? Warum führt er mich erst irgendwo hin, um mir etwas zu
+zeigen, und packt dann doch seine Sachen und haut ab? Und wohin überhaupt?”
+
+Clarissa zuckte mit den Schultern. “Ich weiß doch auch nicht. Komm, wir gehen wieder
+heim. Hier kommen wir eh erst mal nicht weiter.”
+
+Sie machten sich auf den langsamen Heimweg. Alice zerbrach sich den Kopf, warum Robert
+kein Lebenszeichen von sich gegeben hatte, und wie sie den Kontakt zu ihm wieder
+herstellen konnte. Nach einer Weile sah sie zu Clarissa hinüber. Sie sah ebenfalls sehr
+nachdenklich aus. Sie bemerkte Alice' Blick. “Sag mal...” begann sie zögernd. “Ist dir
+eigentlich bewusst, dass ich Robert nie getroffen habe?”
+
+“Was?” Alice schüttelte den Kopf. “Nein, das kann nicht sein. Zum Beispiel nach Ostern,
+als er bei mir war, da habt ihr euch doch kurz gesehen.”
+
+“Als ich von meinen Eltern zurück gekommen bin, warst du allein. Du meintest, er sei vor
+ein oder zwei Stunden gegangen.”
+
+“Aber...” Alice überlegte, aber ihr fiel tatsächlich keine Gelegenheit ein, bei der sie
+sicher wäre, dass Robert und Clarissa sich begegnet waren. “Wow, ich glaube du hast
+recht. Tja, er ist nicht so der Typ, der viel unter Leute geht. Wir waren wirklich fast
+immer zu zweit unterwegs.”
+
+“Und jetzt zeigst du mir eine leere Wohnung ohne Klingelschild.”
+
+Alice blieb stehen. “Warte mal, was willst du damit sagen?”
+
+Clarissa drehte sich zu ihr. “Alice, versteh das bitte nicht falsch. Versuch mal, dir
+vorzustellen, wie das auf mich wirkt. Du hast einen Freund, den ich nie gesehen habe.
+Seine Wohnung ist leer und unmarkiert. Du tischst mir eine wilde Geschichte auf, dass er
+durch die Zeit gereist sei, vermutlich um dich kennenzulernen.”
+
+Alice stockte der Atem. “Willst du behaupten, ich hätte mir Robert nur ausgedacht?”
+
+“Nein, nein. Ich habe keinen Zweifel, dass du das alles glaubst, was du sagst.”
+
+“Oh, dann meinst du, ich habe ihn halluziniert? Clarissa, ich habe eine leichte Neigung
+zu Neurosen und habe ein paar kleine depressive Episoden hinter mir, aber wenn ich eine
+Psychose oder ein Drogenproblem hätte, dann hätte das meine Psychiaterin durchaus
+bemerkt.”
+
+“Hast du vielleicht ein Foto von ihm?”
+
+Alice zog eine Grimasse. “Auf dem Handy.”
+
+“Nimm das bitte nicht persönlich, OK? Es fällt mir einfach gerade ein bisschen leichter,
+zu glauben, dass Robert nicht real ist, als dass er die Gesetze von Raum und Zeit beugen
+und dermaßen spurlos verschwinden kann.”
+
+“Mir aber nicht”, schnappte Alice. Sie versuchte, die Arme zu verschränken, aber der
+Gips war im Weg. Stattdessen setzte sie sich wieder in Bewegung, so schnell ihr kaputtes
+Bein es zuließ.
 
 ---
 
+Gespannt sah Alice abwechselnd auf den Laptopbildschirm und den Versuchsaufbau auf dem
+Tisch vor ihr. Spiegel glänzten und rote Laserpunkte leuchteten im Halbdunkel, riesige
+Spulen summten und Relais klackten. Dann begannen Zahlen über den Bildschirm zu laufen.
+Es ging zu schnell, um alles im Detail zu verfolgen, doch so weit Alice es beurteilen
+konnte, sahen die Daten vielversprechend aus. Wenn gleich eine Reihe grüner Kreuze
+erschien, dann würde das bedeuten, dass die empfangenen Signale weitgehend identisch mit
+den gesendeten waren. Das allein wäre natürlich nur mäßig interessant. Der Durchbruch
+würde die Tatsache sein, dass der Computer die Daten empfangen haben würde, noch bevor
+sie ausgesendet worden waren. Natürlich wäre dann die Arbeit noch lange nicht vorbei.
+Das Ergebnis musste reproduziert werden vorzugsweise mehrfach. Und selbst wenn
+nachgewiesen war, dass sie Information in die Vergangenheit übertragen konnte, war es
+noch ein großer Schritt, auch Materie zu übertragen, geschweige denn lebende Organismen.
+Dennoch würde es der Durchbruch sein. Und sie würde dran bleiben. Sie war sich sicher,
+dass es möglich war. Schließlich hatte sie selbst einen Zeitreisenden kennengelernt, vor
+mehr als zwanzig Jahren. Natürlich hatte sie zwischendurch an ihrem Verstand gezweifelt.
+Doch sie hatte alles noch einmal mit ihrer Psychiaterin besprochen, und sie hatte genug
+Zeit gehabt, über alles nachzudenken, und am Ende blieb die befriedigendste Erklärung,
+dass Robert durch die Zeit gereist war. Allerdings hatte sie nie heraus gefunden, wie er
+es gemacht hatte. Hatte er eine Zeitmaschine gehabt? Wenn ja, dann war sie wohl bei der
+Explosion völlig zerstört worden. Aber wo hätte er sie überhaupt her haben sollen? Hatte
+er sie selbst entwickelt? Wohl kaum. Er hatte im ersten Semester Physik studiert, und
+das eventuell nur als Vorwand, um Alice kennen zu lernen. Sie selbst hatte über zwanzig
+Jahre Forschung gebraucht, um auch nur einen belastbaren Ansatz zu entwickeln. Es würde
+vielleicht noch einmal zwanzig Jahre dauern, bis es so weit war. Aber dann, ja dann...
+Ein verrückter Gedanke kam ihr.
