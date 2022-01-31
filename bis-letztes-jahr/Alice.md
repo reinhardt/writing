@@ -775,6 +775,14 @@ er sie selbst entwickelt? Wohl kaum. Er hatte im ersten Semester Physik studiert
 das eventuell nur als Vorwand, um Alice kennen zu lernen. Sie selbst hatte über zwanzig
 Jahre Forschung gebraucht, um auch nur einen belastbaren Ansatz zu entwickeln. Es würde
 vielleicht noch einmal zwanzig Jahre dauern, bis es so weit war. Aber dann, ja dann...
-Ein verrückter Gedanke kam ihr. Dann hatte sie eine Zeitmaschine. Und wenn sie es schaffen würde, eine Zeitmaschine zu konstruieren, dann konnte sie doch sicher diese Zeitmaschine an einen bestimmten Punkt in der Vergangenheit versetzen, zum Beispiel ein paar Stunden nachdem ein bestimmter Junge eine seltsame Begegnung mit einem Mädchen hatte, das ihn zu kennen schien, das er aber noch nie gesehen hatte. *Noch* nicht. So verrückt war der Gedanke eigentlich nicht. Zumindest nicht verrückter, als das, was sie in jenem ersten Semester erlebt hatte. Und wenn sie recht hatte, dann würde es eh so kommen, denn alles, was folgte, war ja bereits passiert.
+Ein verrückter Gedanke kam ihr. Dann hatte sie eine Zeitmaschine. Und wenn sie es
+schaffen würde, eine Zeitmaschine zu konstruieren, dann konnte sie doch sicher diese
+Zeitmaschine an einen bestimmten Punkt in der Vergangenheit versetzen, zum Beispiel ein
+paar Stunden nachdem ein bestimmter Junge eine seltsame Begegnung mit einem Mädchen
+hatte, das ihn zu kennen schien, das er aber noch nie gesehen hatte. *Noch* nicht. So
+verrückt war der Gedanke eigentlich nicht. Zumindest nicht verrückter, als das, was sie
+in jenem ersten Semester erlebt hatte. Und wenn sie recht hatte, dann würde es eh so
+kommen, denn alles, was folgte, war ja bereits passiert.
 
-Der Laptop hörte auf, Zahlen auszuspucken. Ein knappes Dutzend grüne Kreuze prangten auf dem Bildschirm.
+Der Laptop hörte auf, Zahlen auszuspucken. Ein knappes Dutzend grüne Kreuze prangten auf
+dem Bildschirm.
