@@ -151,6 +151,14 @@ ein Bad. Ein Fenster in der rechten Wand ging zum Innenhof.
 
 Robert zuckte mit den Schultern. “Ist noch im Aufbau.”
 
+An der Wand gegenüber hingen mehrere Zeichnungen. Sie trat näher.  Die Bilder zeigten Tiere - ein Pferd in vollem Galopp, ein fliegender Falke, eine erstaunlich detaillierte Ameise. "Hast Du die gezeichnet? Die sind echt gut." Sie zeigte auf einen Löwen mit Flügeln und einem Skorpionschwanz. "Da hast du aber etwas geschlampt. So was habe ich noch nie gesehen."
+
+"Ein Mantikor. Bei mir zu Hause eine echte Plage."
+
+"Sehr witzig. Warum steht da überall RAF drunter?"
+
+"Keine Angst, ich bin kein Terrorist, das sind nur meine Initialen. Robert Anton Friedmann."
+
 Neben der Matratze lagen drei Bücher. Eines war ein dickes Physik-Lehrbuch über die
 Relativitätstheorie. Sie schob es beiseite und sah sich die anderen beiden an. “‘Die
 Frau des Zeitreisenden’”, las sie vor. “Da gibt es doch auch einen Film, oder? Ich
@@ -211,7 +219,7 @@ oder so was kommt...”
 
 “Doch, ist schon passiert.”
 
-“Kann sein, ich meine nur, das ist ja, als ginge man nicht mehr auf die Straße, weil mal
+“Kann sein. Aber das ist ja, als ginge man nicht mehr auf die Straße, weil mal
 jemand von einem Auto überfahren worden ist.”
 
 “Ich will dich einfach nur im Oktober in einem Stück wieder sehen.”
@@ -222,7 +230,7 @@ jemand von einem Auto überfahren worden ist.”
 
 > Laaaangweilig. Vermisse Dich!
 
-Robert antwortete nicht gleich. Alice starte zwei Minuten auf den Chat, dann drehte sie
+Robert antwortete nicht gleich. Alice starrte zwei Minuten auf den Chat, dann drehte sie
 sich auf den Bauch, schob das Kopfkissen weg und wechselte zum Newsreader. Eine Meldung
 über *Drag Stettson* fiel ihr ins Auge, und sie tippte sie an. Was sie las, verbesserte
 ihre Laune ein wenig. Das neue Album würde im September erscheinen, und nächste Woche
@@ -308,7 +316,7 @@ Hausaufgaben gemacht hast.”
 
 “Aber du bist *Stettson*-Fan?”
 
-“Ich hab was über sie gelesen. Lohnt es sich, rein zu hören?”
+“Ich hab was über sie gelesen. Ich wollte schon länger mal rein hören.”
 
 Langsam wurde es Alice unheimlich. Robert schien das alles wirklich zu glauben. Für
 einen schlechten Scherz zog er es viel zu konsequent durch. Aber wie konnte das sein?
@@ -564,7 +572,7 @@ daran erinnern, wenn er sich selbst getroffen hätte? Und was, wenn er sich erin
 aber sich diesmal anders verhielt, als in seiner Erinnerung?
 
 Sie kam nicht dazu, den Gedankengang zu Ende zu denken. Irgend etwas stimmte plötzlich
-nicht mehr. Sie sah nur noch verschwommen. Ihre Ohren dröhnten und ihr wurde schlecht.
+nicht mehr. Sie sah nur noch verschwommen. Ihre Ohren dröhnten und ihr wurde schlecht. Ihr Gleichgewichtssinn spielte verrückt. Mit den Linien und Winkeln der Straße und der Fassaden stimmte etwas nicht mehr. Es war, als würde die Realität selbst umgestülpt.
 Dann kam mit einem furchtbarer Knall die Hauswand auf sie zu. Sie wurde zur Seite
 geschleudert. Irgend etwas prallte gegen ihren Kopf, und ihr wurde schwarz vor Augen.
 
@@ -716,8 +724,8 @@ ein oder zwei Stunden gegangen.”
 
 “Aber...” Alice überlegte, aber ihr fiel tatsächlich keine Gelegenheit ein, bei der sie
 sicher wäre, dass Robert und Clarissa sich begegnet waren. “Wow, ich glaube du hast
-recht. Tja, er ist nicht so der Typ, der viel unter Leute geht. Wir waren wirklich fast
-immer zu zweit unterwegs.”
+recht. Wir waren wirklich fast
+immer zu zweit unterwegs. Vermutlich ist er nicht so viel unter Leute gegangen, damit das mit der Zeitreise keine unangenehmen Fragen aufwirft. Eigentlich hätte er ja gar nicht hier sein dürfen.”
 
 “Und jetzt zeigst du mir eine leere Wohnung ohne Klingelschild.”
 
@@ -760,7 +768,7 @@ erschien, dann würde das bedeuten, dass die empfangenen Signale weitgehend iden
 den gesendeten waren. Das allein wäre natürlich nur mäßig interessant. Der Durchbruch
 würde die Tatsache sein, dass der Computer die Daten empfangen haben würde, noch bevor
 sie ausgesendet worden waren. Natürlich wäre dann die Arbeit noch lange nicht vorbei.
-Das Ergebnis musste reproduziert werden vorzugsweise mehrfach. Und selbst wenn
+Das Ergebnis musste reproduziert werden, vorzugsweise mehrfach. Und selbst wenn
 nachgewiesen war, dass sie Information in die Vergangenheit übertragen konnte, war es
 noch ein großer Schritt, auch Materie zu übertragen, geschweige denn lebende Organismen.
 Dennoch würde es der Durchbruch sein. Und sie würde dran bleiben. Sie war sich sicher,
