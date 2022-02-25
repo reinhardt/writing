@@ -102,12 +102,12 @@ Befragung der Partnerinnen. Beide geben an, dass sie dachten, ihre Partner würd
 fraglichen Tag länger arbeiten, doch andere Hexachem-Mitarbeiter beteuern, dass beide
 die Firma pünktlich verlassen hätten. Es stellt sich jedoch heraus, dass dies mit der
 illegalen Entsorgung zu tun hat, in die nur die wenigsten Mitarbeiter eingeweiht waren.
-Alexandria bekommt schnell Wind davon. Sie sieht sich Siobhans Park an. Jessica weiß von Yeshi, dass Siobhan sich
-dort oft aufhält und damit, in Verbindung mit ihrem Umwelt-Aktivismus, ein Motiv hat.
-Dieses versucht Jessica zunächst weg zu erklären, jedoch wird dadurch der Tatverdacht
-dringend genug, dass sie angewiesen wird, Fingerabdrücke der Verdächtigen zu nehmen,
-wenn nötig unter Zwang. Siobhan und Anezka wehren sich und Jessica lässt sie davon
-kommen. Daraufhin tauchen die beiden unter. 
+Alexandria bekommt schnell Wind davon. Sie sieht sich Siobhans Park an. Jessica weiß von
+Yeshi, dass Siobhan sich dort oft aufhält und damit, in Verbindung mit ihrem
+Umwelt-Aktivismus, ein Motiv hat. Dieses versucht Jessica zunächst weg zu erklären,
+jedoch wird dadurch der Tatverdacht dringend genug, dass sie angewiesen wird,
+Fingerabdrücke der Verdächtigen zu nehmen, wenn nötig unter Zwang. Siobhan und Anezka
+wehren sich und Jessica lässt sie davon kommen. Daraufhin tauchen die beiden unter. 
 
 Yeshi organisiert ein Versteck, wohin sie sich mit einigen Verbündeten zurück ziehen.
 Bei einem Gespräch mit Yeshi, in dem diese andeutet, dass Siobhan und Anezka schuldig
@@ -115,22 +115,27 @@ sein könnten, aber sie die beiden trotzdem im Namen aller Nornen beschützt, tr
 Jessica eine Entscheidung. Sie akzeptiert, dass gegen die Verdächtigen zu ermitteln
 nichts damit zu tun hat, ob sie Nornen sind oder nicht, sondern nur damit, ob sie
 schuldig sind oder nicht. Sie kann die Nornen-Community unterstützen und trotzdem
-Individuen, die das Gesetz brechen, hinter Gitter bringen. Sie spricht mit Leuten, die
-sich auf die Seite von Siobhan und Anezka geschlagen haben, und versucht, sie von ihrer
+Individuen, die Unrecht begehen, hinter Gitter bringen. Sie spricht mit Leuten, die sich
+auf die Seite von Siobhan und Anezka geschlagen haben, und versucht, sie von ihrer
 Ansicht zu überzeugen - mit gemischten Ergebnissen. Schließlich findet sie heraus, wo
 sich das Versteck befindet, und redet mit den dort versteckten Nornen und Milesiern. Sie
-weigern sich jedoch, die Verdächtigen heraus zu geben. Jessica befürchtet ein Blutbad,
-falls die Polizei das Gebäude stürmen sollte. Deshalb stellt sie auf eigene Faust ein
-Team zusammen. Sie hofft immer noch, die Situation ohne Gewalt auflösen zu können, aber
-sie will auch, falls es zu einem Kampf kommt, vorbereitet sein. Sie kommt mit ihren
-Mitstreitern wieder zum Versteck und versucht ein letztes Mal, zu verhandeln. Die dort
-Verschanzten fordern, dass zuerst jemand von Hexachem für die Umweltverschmutzung
-verhaftet wird, bevor im Mordfall weiter ermittelt wird. Jessica erklärt, dass sie das
-nicht erfüllen kann, und als die Gegenseite die Forderung nicht aufgibt, eskaliert die
-Situation. Siobhan wird im Lauf der Auseinandersetzung tödlich verletzt, woraufhin
-Anezka in Rage gerät und mehrere Mitglieder von Jessicas Team schwer verletzt, einen
-davon tödlich, bevor sie überwältigt wird und Jessica dafür sorgt, dass sie festgenommen
-wird. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf Hexachem im
-Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen, und plädiert dafür,
-nicht alle Nornen über einen Kamm zu scheren, nur weil zwei von ihnen einen Fehler
-begangen haben.
+weigern sich jedoch, die Verdächtigen heraus zu geben.
+
+Jessica erfährt von Plänen von CP6, das Versteck zu stürmen. Sie geht dort hin aber
+kommt zu spät. Siobhan und Anezka geraten in die Gewalt von Alexandria und CP6. Die
+Polizei von Bedlam kooperiert mit CP6 und ordnet an, die Ermittlungen einzustellen.
+
+Entschlossen, die beiden nicht der Willkür des Konzerns zu überlassen, stellt sie auf
+eigene Faust ein Team zusammen. Sie hofft, die Situation ohne Gewalt auflösen zu können,
+aber sie will auch, falls es zu einem Kampf kommt, vorbereitet sein. Sie findet heraus,
+wo die beiden festgehalten werden, geht mit ihren Mitstreitern dort hin und dringt in
+das Gebäude ein. Sie werden bemerkt und es kommt zum Kampf. Siobhan wird im Lauf der
+Auseinandersetzung tödlich verletzt, woraufhin Anezka in Rage gerät und nicht nur
+mehrere Söldner von CP6 sondern auch Mitglieder von Jessicas Team schwer verletzt, einen
+davon tödlich. Jessica schafft es, Anezka heraus zu holen und sorgt dafür, dass sie
+festgenommen wird. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf
+Hexachem im Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen, und
+plädiert dafür, nicht alle Nornen über einen Kamm zu scheren, nur weil zwei von ihnen
+einen Fehler begangen haben.
+
+Jessica kündigt ihre Stelle bei der Polizei und verlässt Bedlam.

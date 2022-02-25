@@ -1,4 +1,4 @@
-- Banshees
+- abandoned outskirts
 - Subkulturen
 - Hintergründe der Charaktere
 - Historie
