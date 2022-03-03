@@ -1,5 +1,9 @@
 # To Do
 
-* Zeitreise andeuten, ohne sie ausdrücklich zu erwähnen?
-  * Er weiß Ereignisse des Zeitgeschehens, bevor sie passieren
-  * Er versucht, keine Spuren zu hinterlassen
+* Weniger Hints
+* Roberts Sicht - Was weiß er über die Zeitmaschine? Warum reist er?
+* Clarissa früher einführen, weitere Funktion für Clarissa
+* Alice interessanter, mehr Agency
+* Alice' Psyche
+* Anfang weniger bunt?
+* Explosion ja oder nein?

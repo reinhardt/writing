@@ -49,19 +49,19 @@ immer noch anhaltende Kribbeln in ihrem Bauch.
 
 Die Wolken wurden dunkler. Alice hoffte, dass das Wetter noch halten würde, bis die
 Türen geöffnet wurden. Sie hatte keine Jacke mitgenommen, damit sie nichts an der
-Garderobe abgeben musste. Das Wetter konnte natürlich die freudig-erwartungsvolle
-Stimmung nicht trüben, die unter den Konzertbesuchern herrschte. Es waren noch zwanzig
-Minuten bis zum Einlass und zehn Minuten nach dem vereinbarten Treffpunkt. Gerade wollte
-Alice zum wiederholten Mal auf ihr Handy schauen, da sah sie Robert endlich die Straße
-herunter kommen. Ein freudiges Grinsen schlich sich auf ihr Gesicht. Das Date in der
-Eisdiele, das sie bei seiner Pseudo-Wette gewonnen hatte, war super gewesen. Sie hatten
-sich sehr gut verstanden und Alice hatte sich noch mehr als sowieso schon auf das
+Garderobe abgeben musste. Das Wetter konnte natürlich die erwartungsvolle Stimmung nicht
+trüben, die unter den Konzertbesuchern herrschte. Es waren noch zwanzig Minuten bis zum
+Einlass und zehn Minuten nach dem vereinbarten Treffpunkt. Gerade wollte Alice zum
+wiederholten Mal auf ihr Handy schauen, da sah sie Robert endlich die Straße herunter
+kommen. Ein freudiges Grinsen schlich sich auf ihr Gesicht. Das Date in der Eisdiele,
+das sie bei seiner Pseudo-Wette gewonnen hatte, war super gewesen. Sie hatten sich sehr
+gut verstanden und Alice hatte sich noch mehr als sowieso schon auf das
 *Drag-Stettson*-Konzert gefreut.
 
 “Tut mir Leid, dass ich zu spät bin!”
 
 “Nicht so schlimm. Ich hab mir inzwischen schon mal meine Wunsch-Setlist überlegt.
-Willst Du sie hören?"
+Willst du sie hören?"
 
 “Ich ...” begann Robert.
 
@@ -96,7 +96,7 @@ Alice tat ihm den Gefallen. “Die sind vermutlich auch doppelt so teuer.”
 “Mag sein. Aber ich würde auch ein paar Euro mehr zahlen, wenn der Sound dafür besser
 ist.”
 
-“Gleich kannst Du die mittelmäßige Akustik in vollen Zügen genießen. Wenn mich nicht
+“Gleich kannst du die mittelmäßige Akustik in vollen Zügen genießen. Wenn mich nicht
 alles täuscht, machen sie gerade die Türen auf.”
 
 ---
@@ -114,12 +114,12 @@ Seine Antwort kam nach wenigen Sekunden.
 
 Alice zog einen Schmollmund und ärgerte sich dann, dass Robert es nicht sehen konnte.
 
-> Warst Du überhaupt schon mal in der Vorlesung? Langsam glaube ich, Du studierst gar
+> Warst du überhaupt schon mal in der Vorlesung? Langsam glaube ich, du studierst gar
 nicht wirklich.
 
 Sie wartete nicht auf eine Antwort, sondern legte nach:
 
-> Kommst Du wenigstens zur Party heute Abend?
+> Kommst du wenigstens zur Party heute Abend?
 
 Eine endlose Minute verging, bevor er zurück schrieb.
 
@@ -127,8 +127,8 @@ Eine endlose Minute verging, bevor er zurück schrieb.
 
 Alice seufzte. Sie hatte schon so etwas erwartet.
 
-> Das hast Du bei der Tiermediziner-Party auch gesagt. Und Clarissas Geburtstagsfeier
-hast Du auch verpasst. Komm schon, ab und zu mal unter Leute zu gehen wird Dich schon
+> Das hast du bei der Tiermediziner-Party auch gesagt. Und Clarissas Geburtstagsfeier
+hast du auch verpasst. Komm schon, ab und zu mal unter Leute zu gehen wird dich schon
 nicht umbringen.
 
 > Vermutlich nicht. Aber heute klappts nicht. Ich machs morgen wieder gut, versprochen.
@@ -151,7 +151,7 @@ ein Bad. Ein Fenster in der rechten Wand ging zum Innenhof.
 
 Robert zuckte mit den Schultern. “Ist noch im Aufbau.”
 
-An der Wand gegenüber hingen mehrere Zeichnungen. Sie trat näher.  Die Bilder zeigten Tiere - ein Pferd in vollem Galopp, ein fliegender Falke, eine erstaunlich detaillierte Ameise. "Hast Du die gezeichnet? Die sind echt gut." Sie zeigte auf einen Löwen mit Flügeln und einem Skorpionschwanz. "Da hast du aber etwas geschlampt. So was habe ich noch nie gesehen."
+An der Wand gegenüber hingen mehrere Zeichnungen. Sie trat näher.  Die Bilder zeigten Tiere - ein Pferd in vollem Galopp, ein fliegender Falke, eine erstaunlich detaillierte Ameise. "Hast du die gezeichnet? Die sind echt gut." Sie zeigte auf einen Löwen mit Flügeln und einem Skorpionschwanz. "Da hast du aber etwas geschlampt. So was habe ich noch nie gesehen."
 
 "Ein Mantikor. Bei mir zu Hause eine echte Plage."
 
@@ -172,7 +172,7 @@ Robert winkte ab. “Auch so ein Science-Fiction-Ding. Hab's noch nicht gelesen.
 
 Alice überflog den Klappentext. “Auch was mit Zeitreisen anscheinend.”
 
-“Ja, da bin ich gerade ein bisschen drauf hängen geblieben. Was liest Du so?”
+“Ja, da bin ich gerade ein bisschen drauf hängen geblieben. Was liest du so?”
 
 “Im Moment ‘Drei Jahre Herbst’ von Patrick Zink.”
 
@@ -180,8 +180,8 @@ Robert nickte. “Ah, das ist klasse.”
 
 “Schon gelesen? Das ist gerade erst raus gekommen.”
 
-“Ja", sagte Robert schlicht. “Ach, wie unhöflich von mir”, fügte er hinzu. “Setz Dich
-doch.” Er zeigte auf die Matratze. “Möchtest Du was trinken? Ich habe Wasser... und Gin.
+“Ja", sagte Robert schlicht. “Ach, wie unhöflich von mir”, fügte er hinzu. “Setz dich
+doch.” Er zeigte auf die Matratze. “Möchtest du was trinken? Ich habe Wasser... und Gin.
 Aber ich muss schauen, ob noch Tonic da ist.”
 
 “Nein, danke.” Alice ließ sich auf die Matratze fallen und klopfte mit der Hand auf eine
@@ -228,7 +228,7 @@ jemand von einem Auto überfahren worden ist.”
 
 ---
 
-> Laaaangweilig. Vermisse Dich!
+> Laaaangweilig. Vermisse dich!
 
 Robert antwortete nicht gleich. Alice starrte zwei Minuten auf den Chat, dann drehte sie
 sich auf den Bauch, schob das Kopfkissen weg und wechselte zum Newsreader. Eine Meldung
@@ -258,23 +258,23 @@ gehabt, und so etwas passierte öfter, als sie dachte.
 
 Alice drückte wie besessen immer wieder auf den grünen Knopf neben der Zugtür. Diese war
 davon wenig beeindruckt und ließ sich endlos Zeit damit, sich zu öffnen. Dabei war sie
-das letzte, das Alice noch davon trennte, Robert endlich wieder zu sehen. Wusste sie das
-denn nicht? Die Semesterferien hatten sich endlos hin gezogen. Natürlich hatte sie mit
-Robert telefoniert und geschrieben und so weiter, aber das war einfach nicht das selbe.
-Doch jetzt war es endlich so weit. Mit einem Zischen gab die Tür endlich den Weg auf den
-Bahnsteig frei, und Alice sprang hinaus. Sie sah nach links und rechts und hielt nach
-Robert Ausschau. Er hatte geschrieben, dass er sie am Bahnhof treffen würde. Noch konnte
-sie ihn nicht entdecken. Sie wartete kurz, und als er nicht auftauchte, beschloss sie,
-in die Haupthalle zu gehen. Vielleicht wartete er dort. Das Kribbeln in ihrem Bauch
-erinnerte sie an ihre erste Begegnung im Café vor fast einem Jahr, und sie musste
-lächeln. Auch in der Haupthalle sah sie Robert nicht sofort. Wo steckte er nur? Unruhig
-tapste sie vor dem Zugang zum Gleis hin und her. Sie sah auf ihr Handy - keine
-Nachrichten. Sollte sie ihn anrufen? Nein, bestimmt kam er nur ein paar Minuten zu spät.
-Sie versuchte, sich zu gedulden, und sah trotzdem alle halbe Minute auf ihr Telefon. Da
-entdeckte sie ihn. Er kam aus der Richtung des Nordeingangs. Ihr Herz schlug noch
-schneller, wenn das überhaupt möglich war. Sie rannte auf ihn zu. Doch nach ein paar
-Schritten wurde sie wieder langsamer. Irgendetwas war komisch. Er schien gar nicht nach
-ihr zu schauen. Er ging auch nicht auf das Gleis zu, sondern eher in Richtung der
+das letzte, das Alice noch davon trennte, Robert endlich wieder zu sehen. Wusste die
+blöde Tür das denn nicht? Die Semesterferien hatten sich endlos hin gezogen. Natürlich
+hatte sie mit Robert telefoniert und geschrieben und so weiter, aber das war einfach
+nicht das selbe. Doch jetzt war es endlich so weit. Mit einem Zischen gab die Tür
+endlich den Weg auf den Bahnsteig frei, und Alice sprang hinaus. Sie sah nach links und
+rechts und hielt nach Robert Ausschau. Er hatte geschrieben, dass er sie am Bahnhof
+treffen würde. Noch konnte sie ihn nicht entdecken. Sie wartete kurz, und als er nicht
+auftauchte, beschloss sie, in die Haupthalle zu gehen. Vielleicht wartete er dort. Das
+Kribbeln in ihrem Bauch erinnerte sie an ihre erste Begegnung im Café vor fast einem
+Jahr, und sie musste lächeln. Auch in der Haupthalle sah sie Robert nicht sofort. Wo
+steckte er nur? Unruhig tapste sie vor dem Zugang zum Gleis hin und her. Sie sah auf ihr
+Handy - keine Nachrichten. Sollte sie ihn anrufen? Nein, bestimmt kam er nur ein paar
+Minuten zu spät. Sie versuchte, sich zu gedulden, und sah trotzdem alle halbe Minute auf
+ihr Telefon. Da entdeckte sie ihn. Er kam aus der Richtung des Nordeingangs. Ihr Herz
+schlug noch schneller, wenn das überhaupt möglich war. Sie rannte auf ihn zu. Doch nach
+ein paar Schritten wurde sie wieder langsamer. Irgendetwas war komisch. Er schien gar
+nicht nach ihr zu schauen. Er ging auch nicht auf das Gleis zu, sondern in Richtung der
 Imbiss-Stände. Sie beschleunigte ihre Schritte wieder und hatte ihn nach ein paar
 Atemzügen erreicht. Immer noch beachtete er sie gar nicht. Als sie neben ihm zum Stehen
 kam, sah er kurz zu ihr auf - und ging dann weiter.
@@ -363,7 +363,7 @@ Namen sah. Mit klopfendem Herzen nahm sie den Anruf an.
 
 “Ja?”
 
-“Alice. Ist alles... Ich meine... Bist du in der Stadt?”
+“Alice. Ist alles passiert... Ich meine... Bist du in der Stadt?”
 
 “Ja.” In Alice' Kopf rotierten die Gedanken. Robert hatte ihre Telefonnummer. Er kannte
 ihren Namen. War alles wieder in Ordnung? Aber warum fragte er, ob sie in der Stadt sei?
@@ -373,35 +373,36 @@ ihren Namen. War alles wieder in Ordnung? Aber warum fragte er, ob sie in der St
 “Ja.” Spätestens jetzt war es offensichtlich, dass er irgend ein Gedächtnisproblem
 hatte.
 
-“Es tut mir echt leid, Alice, aber ich musste alles so passieren lassen, sonst wäre ich
-ja nicht zurück gegangen, um dich zu treffen. Ich erkläre dir alles, OK? Aber
-wahrscheinlich hast du dir eh schon alles zusammen gereimt. Ich hab mich so oft
-verplappert, dass es schon peinlich ist. Aber ich hatte nicht wirklich damit gerechnet,
-dass es funktioniert.”
+“Es tut mir echt leid, Alice, aber ich musste alles so passieren lassen, sonst hätte
+deine Nachricht ja gar keinen Sinn ergeben. Dann wäre ich nicht zurückgegangen, um dich
+zu treffen, und dann hättest du sie wiederum nicht geschrieben.”
+
+“Was? Welche Nachricht?”
+
+“Ach so, entschuldige. Das weißt du ja noch gar nicht. Ich bin nicht sicher, wie viel
+ich dir überhaupt sagen darf, ohne etwas zu verändern. Aber wahrscheinlich hast du dir
+eh schon alles zusammen gereimt. Ich hab mich so oft verplappert, dass es schon peinlich
+ist. Aber ich hatte nicht wirklich damit gerechnet, dass es funktioniert.”
 
 “Robert. Stop. Ich hab keine Ahnung, wovon du redest.”
 
-“Ah. Klar. Kein Problem. Aber nicht am Telefon. Mann, ich freue mich so darauf, dich
-wieder zu sehen. Wir treffen uns, und ich erzähle dir alles der Reihe nach. Also, in
-meiner Reihenfolge. Wie auch immer. Aber lass uns noch bis morgen Nachmittag warten. Ich
-weiß nicht, wie sicher es ist, so lange ich noch zwei mal in der Stadt bin.”
+“Ah. Klar. Ich fange von vorne an. Aber nicht am Telefon. Wir treffen uns, und ich
+erzähle dir alles der Reihe nach. Wenn das überhaupt geht... Mann, ich freue mich so
+darauf, dich wieder zu sehen. Aber lass uns noch bis morgen Nachmittag warten. Das ist
+vielleicht sicherer.”
 
-“Zwei mal? Ich verstehe immer noch nur Bahnhof. du machst mir echt ein bisschen Angst.
-Kann ich nicht gleich noch vorbei kommen?”
+“Sicherer? Du machst mir echt ein bisschen Angst. Kann ich nicht gleich noch vorbei
+kommen?”
 
-“Ich weiß nicht, ob das eine gute Idee ist. Naja, wahrscheinlich kann nichts passieren,
-denn sonst wäre es ja schon passiert. Aber ich wäre lieber vorsichtig. Nicht, dass ich
-jetzt ein Jahr lang aufgepasst habe, wie ein Schießhund, und in den letzten zwei Tagen
-versaue ich es. Keine Ahnung. Ich mache das alles ja zum ersten Mal. Ich bin echt ganz
-froh, dass ich es bis hier geschafft habe. Eigentlich «jetzt», und nicht «hier».
-Jedenfalls wird jetzt alles gut. Ich komm morgen Nachmittag zu dir.”
+“Nein, lieber nicht. Keine Panik, es wird jetzt alles gut. Ich komm morgen Nachmittag zu
+dir.”
 
 Alice wollte weiter protestieren, doch Robert blieb dabei. Schließlich gab Alice
 erschöpft auf, verabschiedete sich und legte auf. Sie drehte endlich den Schlüssel im
 Schloss um und betrat die WG. An der Garderobe streifte sie Mantel und Schuhe ab und
 ging ins gemeinsame Wohnzimmer. Clarissa saß auf dem Sofa und tippte auf ihrem Handy
 herum. Als Alice herein kam, sah sie auf. “Hi Alice! Wie war die Fahrt?” Sie runzelte
-die Stirn. “Was ist denn mit Dir los? du siehst aus, als hättest du ein Gespenst
+die Stirn. “Was ist denn mit dir los? Du siehst aus, als hättest du ein Gespenst
 gesehen!”
 
 Alice ließ sich mit einem Seufzen in einen der Sessel fallen. “Ja, das trifft es
@@ -476,38 +477,6 @@ jetzt daran zurück denke, ist es geradezu unheimlich, wie genau er alles vorher
 hat. Er muss davon gelesen haben, dann in die Vergangenheit zurück gereist sein und mich
 gewarnt haben.”
 
-“Hör auf, Alice. Du machst mir langsam ein bisschen Angst.”
-
-“Meinst du, das war sogar der Grund, warum er zurück gereist ist? Nein, warte, da war
-noch etwas, das er am Telefon gesagt hat. «Wir mussten uns am Bahnhof sehen, sonst wäre
-ich nicht zurück gegangen, um dich zu treffen», oder so ähnlich.”
-
-“«Um dich zu treffen»? Im Sinne von «um dich kennenzulernen»?”
-
-Alice hielt sich erschrocken die Hand vor den Mund. ”Du meine Güte. So hatte ich es gar
-nicht verstanden. Aber es ergibt Sinn! Das Treffen am Bahnhof ist aus seiner Sicht
-unsere erste Begegnung. Danach reist er zurück ins letzte Jahr. Vielleicht ist er
-neugierig, keine Ahnung, jedenfalls ist das der Anlass für die Zeitreise. Wir lernen uns
-kennen, erleben all die Sachen, und die ganze Zeit hat für mich die Geschichte am
-Bahnhof noch gar nicht statt gefunden. Sie musste aber stattfinden, und zwar genau so,
-wie er sie erlebt hat, weil er sonst nicht in die Vergangenheit zurück gegangen wäre.
-Deshalb konnte er mich auch nicht warnen. Alles, was er machen konnte, war, mich danach
-anzurufen.”
-
-“Aber warum hat er es dir dann nicht gleich am Telefon erklärt?”
-
-“Ich hätte ihn vermutlich für verrückt erklärt.”
-
-Clarissa zog eine Augenbraue hoch. “Und völlig zu recht. Alice, überlege mal, was du da
-sagst. Robert reist durch die Zeit, um dich kennenzulernen, weil er dich am Bahnhof
-getroffen hat? Das ist völlig verrückt!”
-
-"Ich weiß”, seufzte Alice. “Aber warum ergibt es dann so furchtbar viel Sinn? Die
-Ereignisse, die er im Vorhinein wusste... Die Bücher über Zeitreisen... Vielleicht
-erklärt es sogar, dass er so menschenscheu ist. Der Bahnhofs-Robert hat gesagt, dass er
-erst seit kurzem in der Stadt sei. Wenn jetzt alle möglichen Leute den Zeitreise-Robert
-im letzten Jahr hier gesehen hätten, hätte das jede Menge Fragen aufgeworfen.”
-
 Clarissa schüttelte den Kopf, doch es fiel ihr anscheinend keine Antwort darauf ein.
 “Morgen seht ihr euch, ja?” fragte sie dann. Alice nickte. “Dann wird sich das ganze
 sowieso aufklären. Es hat keinen Sinn, jetzt weiter haarsträubende Theorien zu wälzen.
@@ -562,17 +531,14 @@ ich konnte es kaum erwarten, dich zu sehen. Nicht, dass ich noch drin bin.”
 
 Alice war einen Moment verwirrt, doch dann glaubte sie, zu verstehen. Hier musste sie
 sein, die Zeitmaschine, oder was auch immer es Robert ermöglicht hatte, sich in die
-Vergangenheit zu versetzen. Wenn sie zu früh dran waren, dann waren gerade zwei
-Versionen von Robert hier - der Robert, der gleich die Zeitreise unternehmen würde, und
-der Robert, der ein subjektives Jahr später mit ihr hier her gefahren war, um ihr die
-Zeitmaschine zu zeigen. Was würde geschehen, wenn die beiden Versionen sich treffen
-würden? Sie hatte nie viel Science Fiction gelesen, aber sie hatte das dumpfe Gefühl,
-das so etwas nicht gut ausgehen würde. Aber müsste Robert - “ihr” Robert - sich nicht
-daran erinnern, wenn er sich selbst getroffen hätte? Und was, wenn er sich erinnerte,
-aber sich diesmal anders verhielt, als in seiner Erinnerung?
+Vergangenheit zu versetzen. Wenn sie zu früh dran waren, dann bestand die Gefahr, dass
+Robert sich selbst traf, kurz bevor er in die Vergangenheit reiste. Aber war das in
+gewissem Sinn nicht bereits passiert?
 
 Sie kam nicht dazu, den Gedankengang zu Ende zu denken. Irgend etwas stimmte plötzlich
-nicht mehr. Sie sah nur noch verschwommen. Ihre Ohren dröhnten und ihr wurde schlecht. Ihr Gleichgewichtssinn spielte verrückt. Mit den Linien und Winkeln der Straße und der Fassaden stimmte etwas nicht mehr. Es war, als würde die Realität selbst umgestülpt.
+nicht mehr. Sie sah nur noch verschwommen. Ihre Ohren dröhnten und ihr wurde schlecht.
+Ihr Gleichgewichtssinn spielte verrückt. Mit den Linien und Winkeln der Straße und der
+Fassaden stimmte etwas nicht mehr. Es war, als würde die Realität selbst umgestülpt.
 Dann kam mit einem furchtbarer Knall die Hauswand auf sie zu. Sie wurde zur Seite
 geschleudert. Irgend etwas prallte gegen ihren Kopf, und ihr wurde schwarz vor Augen.
 
@@ -580,7 +546,7 @@ Als sie wieder zu sich kam, schmerzte ihr ganzer Körper. Sie schlug mit Mühe d
 auf und blickte auf ein Trümmerfeld. Sie lag auf dem Boden, um sie herum Staub und Teile
 von Mauerwerk. Irgendwo flackerten Flammen. Ein paar Meter weiter lag noch jemand auf
 dem Boden. “Robert!” krächzte sie, und musste husten, was die Schmerzen in ihrer Brust
-ins unerträgliche steigerte. Sie verlor wieder das Bewusstsein.
+ins Unerträgliche steigerte. Sie verlor wieder das Bewusstsein.
 
 ---
 
@@ -611,7 +577,7 @@ Sie griff danach und bereute es gleich darauf wieder, als mindestens ein Dutzend
 in ihrem Körper schmerzten. Jetzt erst bemerkte sie, dass sie ihren linken Arm schlecht
 bewegen konnte. Er steckte in einem Gipsverband. Auch ihr linkes Bein fühlte sich steif
 und schwer an. Clarissa hatte ihre Bewegung richtig gedeutet und reichte ihr das Handy,
-doch das reagierte nicht, als Alice den Einschaltknopf drückte.
+doch als Alice den Einschaltknopf drückte, reagierte es nicht.
 
 “Warte, ich habe dir ein Ladegerät mitgebracht.” Clarissa kramte ein Kabel aus einer
 Tasche, die neben ihr lag, und verband damit das Mobiltelefon mit einer Steckdose. Der
@@ -657,6 +623,8 @@ Bus zurück legten. Auch in der WG war keine Nachricht zu finden - kein Brief im
 Briefkasten, kein Zettel unter der Tür, nichts. Alice beschloss, zu Roberts Wohnung zu
 gehen. Clarissa sah schnell ein, dass sie Alice trotz ihres Zustands nicht davon
 abbringen konnte, und bestand stattdessen darauf, mit zu kommen.
+
+---
 
 Alice drückte einen der vielen Klingelknöpfe an der Glastür des Mietshauses.
 
@@ -774,23 +742,25 @@ noch ein großer Schritt, auch Materie zu übertragen, geschweige denn lebende O
 Dennoch würde es der Durchbruch sein. Und sie würde dran bleiben. Sie war sich sicher,
 dass es möglich war. Schließlich hatte sie selbst einen Zeitreisenden kennengelernt, vor
 mehr als zwanzig Jahren. Natürlich hatte sie zwischendurch an ihrem Verstand gezweifelt.
-Doch sie hatte alles noch einmal mit ihrer Psychiaterin besprochen, und sie hatte genug
-Zeit gehabt, über alles nachzudenken, und am Ende blieb die befriedigendste Erklärung,
-dass Robert durch die Zeit gereist war. Allerdings hatte sie nie heraus gefunden, wie er
-es gemacht hatte. Hatte er eine Zeitmaschine gehabt? Wenn ja, dann war sie wohl bei der
-Explosion völlig zerstört worden. Aber wo hätte er sie überhaupt her haben sollen? Hatte
-er sie selbst entwickelt? Wohl kaum. Er hatte im ersten Semester Physik studiert, und
-das eventuell nur als Vorwand, um Alice kennen zu lernen. Sie selbst hatte über zwanzig
-Jahre Forschung gebraucht, um auch nur einen belastbaren Ansatz zu entwickeln. Es würde
-vielleicht noch einmal zwanzig Jahre dauern, bis es so weit war. Aber dann, ja dann...
-Ein verrückter Gedanke kam ihr. Dann hatte sie eine Zeitmaschine. Und wenn sie es
-schaffen würde, eine Zeitmaschine zu konstruieren, dann konnte sie doch sicher diese
-Zeitmaschine an einen bestimmten Punkt in der Vergangenheit versetzen, zum Beispiel ein
-paar Stunden nachdem ein bestimmter Junge eine seltsame Begegnung mit einem Mädchen
-hatte, das ihn zu kennen schien, das er aber noch nie gesehen hatte. *Noch* nicht. So
-verrückt war der Gedanke eigentlich nicht. Zumindest nicht verrückter, als das, was sie
-in jenem ersten Semester erlebt hatte. Und wenn sie recht hatte, dann würde es eh so
-kommen, denn alles, was folgte, war ja bereits passiert.
+Doch sie hatte alles mehrfach mit ihrer Psychiaterin besprochen, und sie hatte genug
+Zeit gehabt, über alles nachzudenken. Am Ende blieb die befriedigendste Erklärung, dass
+Robert durch die Zeit gereist war. Allerdings hatte sie nie heraus gefunden, wie er es
+gemacht hatte, und warum. Hatte er eine Zeitmaschine gehabt? Wenn ja, dann war sie wohl
+bei der Explosion völlig zerstört worden. Aber wo hätte er sie überhaupt her haben
+sollen? Hatte er sie selbst entwickelt? Wohl kaum. Er hatte im ersten Semester Physik
+studiert, und das eventuell nur als Vorwand, um Alice kennen zu lernen. Sie selbst hatte
+über zwanzig Jahre Forschung gebraucht, um auch nur einen belastbaren Ansatz zu
+entwickeln. Es würde vielleicht noch einmal zwanzig Jahre dauern, bis es so weit war.
+Aber dann, ja dann... Ein verrückter Gedanke kam ihr. Dann hatte sie eine Zeitmaschine.
+Und wenn sie es schaffen würde, eine Zeitmaschine zu konstruieren, dann konnte sie doch
+sicher diese Zeitmaschine an einen bestimmten Punkt in der Vergangenheit versetzen, zum
+Beispiel ein paar Stunden nachdem ein bestimmter Junge eine seltsame Begegnung mit einem
+Mädchen hatte, das ihn zu kennen schien, das er aber noch nie gesehen hatte. *Noch*
+nicht. Und sie konnte ihm eine Nachricht zukommen lassen, die ihn neugierig machen
+würde, so dass er die Maschine ausprobieren würde. So verrückt war der Gedanke
+eigentlich nicht. Zumindest nicht verrückter, als das, was sie in jenem ersten Semester
+erlebt hatte. Und wenn sie recht hatte, dann würde es eh so kommen, denn alles, was
+folgte, war ja bereits passiert.
 
 Der Laptop hörte auf, Zahlen auszuspucken. Ein knappes Dutzend grüne Kreuze prangten auf
 dem Bildschirm.
