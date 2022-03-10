@@ -2,7 +2,7 @@
 title: Bis letztes Jahr
 description: |
     Alice lernt während des Studiums Robert kennen. Sie verstehen sich sehr
-    gut, und alle scheint perfekt - bis die Semesterferien kommen.
+    gut, und alles scheint perfekt - bis die Semesterferien kommen.
 ---
 
 “Triple Chocolate Mocha für Alice!”
@@ -30,7 +30,7 @@ Er sah auf. Seine hellgrünen Augen musterten sie kurz. In Alice' Magen kribbelt
 “Wenn du das so sagst, kriege ich Lust, zu wetten.” Er grinste. “Ein Eis? Wenn ich keine
 andere Lösung finde, zahle ich. Wenn ich das Polynom zerlegen kann, zahlst du.”
 
-Alice musste Lachen. “Abgemacht. Übrigens, ich mag dein T-Shirt.”
+Alice musste lachen. “Abgemacht. Übrigens, ich mag dein T-Shirt.”
 
 “Ah, Mathe-Genie und auch noch Geschmack! Dann sehe ich dich vermutlich beim Konzert in
 zwei Wochen?”
@@ -151,13 +151,18 @@ ein Bad. Ein Fenster in der rechten Wand ging zum Innenhof.
 
 Robert zuckte mit den Schultern. “Ist noch im Aufbau.”
 
-An der Wand gegenüber hingen mehrere Zeichnungen. Sie trat näher.  Die Bilder zeigten Tiere - ein Pferd in vollem Galopp, ein fliegender Falke, eine erstaunlich detaillierte Ameise. "Hast du die gezeichnet? Die sind echt gut." Sie zeigte auf einen Löwen mit Flügeln und einem Skorpionschwanz. "Da hast du aber etwas geschlampt. So was habe ich noch nie gesehen."
+An der Wand gegenüber hingen mehrere Zeichnungen. Sie trat näher.  Die Bilder zeigten
+Tiere - ein Pferd in vollem Galopp, ein fliegender Falke, eine erstaunlich detaillierte
+Ameise. "Hast du die gezeichnet? Die sind echt gut." Sie zeigte auf einen Löwen mit
+Flügeln und einem Skorpionschwanz. "Da hast du aber etwas geschlampt. So was habe ich
+noch nie gesehen."
 
 "Ein Mantikor. Bei mir zu Hause eine echte Plage."
 
 "Sehr witzig. Warum steht da überall RAF drunter?"
 
-"Keine Angst, ich bin kein Terrorist, das sind nur meine Initialen. Robert Anton Friedmann."
+"Keine Angst, ich bin kein Terrorist, das sind nur meine Initialen. Robert Anton
+Friedmann."
 
 Neben der Matratze lagen drei Bücher. Eines war ein dickes Physik-Lehrbuch über die
 Relativitätstheorie. Sie schob es beiseite und sah sich die anderen beiden an. “‘Die
@@ -219,8 +224,8 @@ oder so was kommt...”
 
 “Doch, ist schon passiert.”
 
-“Kann sein. Aber das ist ja, als ginge man nicht mehr auf die Straße, weil mal
-jemand von einem Auto überfahren worden ist.”
+“Kann sein. Aber das ist ja, als ginge man nicht mehr auf die Straße, weil mal jemand
+von einem Auto überfahren worden ist.”
 
 “Ich will dich einfach nur im Oktober in einem Stück wieder sehen.”
 
@@ -692,8 +697,9 @@ ein oder zwei Stunden gegangen.”
 
 “Aber...” Alice überlegte, aber ihr fiel tatsächlich keine Gelegenheit ein, bei der sie
 sicher wäre, dass Robert und Clarissa sich begegnet waren. “Wow, ich glaube du hast
-recht. Wir waren wirklich fast
-immer zu zweit unterwegs. Vermutlich ist er nicht so viel unter Leute gegangen, damit das mit der Zeitreise keine unangenehmen Fragen aufwirft. Eigentlich hätte er ja gar nicht hier sein dürfen.”
+recht. Wir waren wirklich fast immer zu zweit unterwegs. Vermutlich ist er nicht so viel
+unter Leute gegangen, damit das mit der Zeitreise keine unangenehmen Fragen aufwirft.
+Eigentlich hätte er ja gar nicht hier sein dürfen.”
 
 “Und jetzt zeigst du mir eine leere Wohnung ohne Klingelschild.”
 
