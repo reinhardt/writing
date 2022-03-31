@@ -25,7 +25,7 @@ Jessica wird auf dem Weg nach Hause von einem Mann angegriffen. Sie rettet sich 
 ihrem Gesang.
 
 Am nächsten Tag befragen Jessica und Tom die Angehörigen der Opfer. Amihan sagt aus,
-dass Jadvyga länger arbeiten musste und dass Katashi ein Kollege von ihr war. In Ndidis
+dass Jadvyga länger arbeiten musste und dass Kata shi ein Kollege von ihr war. In Ndidis
 und Katashis Wohnung treffen sie niemanden an. Ndidi reagiert auch nicht auf Anrufe. Sie
 befragen die Nachbarn und finden heraus, dass seit Donnerstag niemand mehr in der
 Wohnung war.
@@ -85,14 +85,8 @@ Bekannte von Jessica und Siobhan ist. Yeshi erzählt, dass Siobhan sich ihr anve
 habe, und versucht, zwischen den beiden zu vermitteln. Siobhan streitet zunächst alle
 Vorwürfe ab, doch es ergeben sich Widersprüche. Sie gibt auch vor, Anezka auf den Fotos
 nicht zu erkennen, doch Yeshi identifiziert sie. Fingerabdrücke nehmen zu lassen lehnen
-die beiden ab. CP6 vertraut der Polizei nicht und beauftragt Alexandria, selbst
-Ermittlungen anzustellen. Als sie mit Siobhan spricht, setzt diese ihre Fähigkeit ein.
-Durch ihre Implantate weiß Alexandria jetzt, dass sie eine Nymphe ist. Sie verbreitet
-diese Information unter Gleichgesinnten, die den Fall benutzen wollen, um eine strenge
-Regulierung von Nornen durchzusetzen. Zum anderen bildet sich als Gegenpol in der
-Nornen-Community eine Bewegung heraus, die Siobhan und Anezka schützen will. Ihre
-Anhänger behaupten, dass die beiden unschuldig und Opfer eines Komplotts sind, welches
-die Nornen als Gefahr für die Milesier darstellen und aus der Stadt verbannen will.
+die beiden ab. CP6 vertraut der Polizei nicht und betraut Alexandria damit, selbst
+Ermittlungen anzustellen. 
 
 Jessica möchte unbewusst an die Unschuld der beiden glauben und überlegt sich
 alternative Theorien, z. B. dass die Opfer Affären mit Nornen gehabt hätten und von
@@ -115,27 +109,26 @@ sein könnten, aber sie die beiden trotzdem im Namen aller Nornen beschützt, tr
 Jessica eine Entscheidung. Sie akzeptiert, dass gegen die Verdächtigen zu ermitteln
 nichts damit zu tun hat, ob sie Nornen sind oder nicht, sondern nur damit, ob sie
 schuldig sind oder nicht. Sie kann die Nornen-Community unterstützen und trotzdem
-Individuen, die Unrecht begehen, hinter Gitter bringen. Sie spricht mit Leuten, die sich
-auf die Seite von Siobhan und Anezka geschlagen haben, und versucht, sie von ihrer
-Ansicht zu überzeugen - mit gemischten Ergebnissen. Schließlich findet sie heraus, wo
-sich das Versteck befindet, und redet mit den dort versteckten Nornen und Milesiern. Sie
-weigern sich jedoch, die Verdächtigen heraus zu geben.
+Individuen, die Unrecht begehen, hinter Gitter bringen.
 
 Jessica erfährt von Plänen von CP6, das Versteck zu stürmen. Sie geht dort hin aber
 kommt zu spät. Siobhan und Anezka geraten in die Gewalt von Alexandria und CP6. Die
 Polizei von Bedlam kooperiert mit CP6 und ordnet an, die Ermittlungen einzustellen.
 
-Entschlossen, die beiden nicht der Willkür des Konzerns zu überlassen, stellt sie auf
-eigene Faust ein Team zusammen. Sie hofft, die Situation ohne Gewalt auflösen zu können,
-aber sie will auch, falls es zu einem Kampf kommt, vorbereitet sein. Sie findet heraus,
-wo die beiden festgehalten werden, geht mit ihren Mitstreitern dort hin und dringt in
-das Gebäude ein. Sie werden bemerkt und es kommt zum Kampf. Siobhan wird im Lauf der
-Auseinandersetzung tödlich verletzt, woraufhin Anezka in Rage gerät und nicht nur
-mehrere Söldner von CP6 sondern auch Mitglieder von Jessicas Team schwer verletzt, einen
-davon tödlich. Jessica schafft es, Anezka heraus zu holen und sorgt dafür, dass sie
-festgenommen wird. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf
+Jessica gesteht sich ein, dass weder die Polizei noch CP6 ein echtes Interesse an
+Gerechtigkeit haben. Sie beschließt, die Sache selbst in die Hand zu nehmen. Sie spricht
+mit Leuten, die sich auf die Seite von Siobhan und Anezka geschlagen haben, und
+versucht, sie davon zu überzeugen, dass sie zwar gerettet, aber auch bestraft werden
+müssen. Sie einigen sich darauf, dass ein Rat aus Nornen und Sympathisanten über die
+beiden richten soll.
+
+Jessica und ihr Team finden heraus, wo die beiden festgehalten werden, gehen dort hin
+und dringt in das Gebäude ein. Sie werden bemerkt und es kommt zum Kampf. Siobhan wird
+im Lauf der Auseinandersetzung tödlich verletzt, woraufhin Anezka in Rage gerät und
+nicht nur mehrere Söldner von CP6 sondern auch Mitglieder von Jessicas Team schwer
+verletzt, einen davon tödlich. Jessica schafft es, Anezka heraus zu holen und in
+Gewahrsam zu nehmen. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf
 Hexachem im Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen, und
 plädiert dafür, nicht alle Nornen über einen Kamm zu scheren, nur weil zwei von ihnen
-einen Fehler begangen haben.
-
-Jessica kündigt ihre Stelle bei der Polizei und verlässt Bedlam.
+einen Fehler begangen haben. Der Rat der Nornen verurteilt sie zur Verbannung aus
+Bedlam. Jessica kündigt ihre Stelle bei der Polizei und verlässt ebenfalls Bedlam.

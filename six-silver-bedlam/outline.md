@@ -1,3 +1,41 @@
+# One Page Story Structure
+
+## Stasis
+
+Jessica ist frustriert mit ihrer Arbeit bei der Polizei
+
+## Trigger
+
+Zwei Leichen werden gefunden
+
+## Quest
+
+Jessica beginnt ihre Detektivarbeit
+
+## Bolt
+
+* Jessica erkennt, dass die Täterinnen Nornen sind
+* Alexandria behindert die Ermittlungen
+* Die Täterinnen tauchen unter
+
+## Shift
+
+Jessica stellt Gerechtigkeit über Loyalität
+
+## Defeat
+
+* CP6 bringt die Täterinnen in ihre Gewalt
+* Polizei kooperiert und bricht Ermittlungen ab
+
+## Power
+
+Jessica stellt ein Team zusammen und befreit die Täterinnen
+
+## Resolution
+
+Jessica verlässt die Polizei
+
+
 # Acts/Plot Points
 
 ## Act 1
@@ -256,7 +294,7 @@ Verbleib von Siobhan und Anezka.
 
 ## Showdown
 
-Team Jessica: Jessica, Tom, Alexandria, Ndidi, Swapna
+Team Jessica: Jessica, Tom, Ndidi, Swapna
 
 Team Siobhan/Anezka: Siobhan, Anezka, Yeshi, Lujayn, Moira
 
