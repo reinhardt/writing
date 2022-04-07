@@ -23,7 +23,10 @@ Sie wurde den Behörden ein Dorn im Auge und wurde schließlich aus der Stadt ve
 
 ## Siobhan O'Malley
 
-28 Jahre, Irisch-britische Abstammung, Nymphe (Dryade)
+* 28 Jahre
+* Irisch-britische Abstammung
+* Nymphe (Dryade)
+* dunkelblond, lange lockige Haare
 
 Siobhans Vater ist IT-Techniker. Seit er bei Scorpion Systems arbeitet und immer mehr in
 deren skrupellose Machenschaften hinein gezogen wird, verschlechtert sich ihr Verhältnis
@@ -32,7 +35,10 @@ animistischen Zweig der Umweltbewegung an.
 
 ## Anezka Nemcekova
 
-30 Jahre, osteuropäische Abstammung, Furie
+* 30 Jahre
+* osteuropäische Abstammung
+* Furie
+* blond, kinnlange Haare
 
 Anezka wuchs mit zwei älteren Geschwistern, einer Schwester und einem Bruder, auf.
 Zwischen den Kindern, besonders zwischen Anezka und ihrer Schwester, entwickelte sich
@@ -56,7 +62,10 @@ sie gelegentlich in Konflikt mit ihrem Gewissen.
 
 ## Yeshi Masozi Owusu
 
-41 Jahre, afrikanische Abstammung, Banshee
+* 41 Jahre
+* afrikanische Abstammung
+* Banshee
+* schwarzhaarig, box braids
 
 sitzt im Rollstuhl
 
@@ -66,20 +75,30 @@ sitzt im Rollstuhl
 
 ## Solveig Hagström
 
-48 Jahre, nordeuropäische Abstammung, Milesierin
+* 48 Jahre
+* nordeuropäische Abstammung
+* Milesierin
+* blond
 
 ## Moira Flannigan
 
-41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade)
+* 41 Jahre
+* Irisch-britische Abstammung
+* Nymphe (Naiade)
+* rothaarig, schulterlange Haare
 
-Betreiberin des "Labyrinth". Moira hat viel Ungerechtigkeit gegenüber Nornen erlebt -
+Betreiberin des "Labyrinth". Tochter eines Konzernanwalts und einer Architektin. Moira hat viel Ungerechtigkeit gegenüber Nornen erlebt -
 ihre Schwester saß zu Unrecht wegen Körperverletzung im Gefängnis, eine gute Freundin
-starb bei einer Razzia - aber hat sich eine positive Lebenseinstellung bewahrt. Sie
-möchte mit dem Labyrinth Nornen und ihren Alliierten einen sicheren Raum bieten.
+starb bei einer Razzia. Sie
+möchte mit dem Labyrinth Nornen und ihren Alliierten einen sicheren Raum bieten. Sie will eine bessere Welt, vor allem für Nornen, und glaubt, dass dazu eine Revolution notwendig ist, wenn nötig eine gewaltsame.
 
 ## Alexandria Kamau Ferreira
 
-26 Jahre, südamerikanische/westafrikanische Abstammung, Milesierin
+* 26 Jahre
+* südamerikanische/westafrikanische Abstammung
+* Milesierin
+* schwarzhaarig, mittelbraun gefärbt, schulterlang, meist hoch gesteckt
+
 
 Alexandrias langjähriger Partner hatte eine Affäre mit einer Banshee. Als er sich mit
 ihr traf, um die Sache zu beenden, wurde sie zornig und es kam zu einem heftigen Streit.
@@ -92,7 +111,10 @@ Geräte, die vor den Fähigkeiten von Nornen schützen oder warnen.
 
 ## Lujayn Sayegh
 
-29 Jahre, arabische Abstammung, Walküre
+* 29 Jahre
+* arabische Abstammung
+* Walküre
+* schwarzhaarig
 
 ## Katashi Sakamoto
 
