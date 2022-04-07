@@ -132,3 +132,30 @@ Hexachem im Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen
 plädiert dafür, nicht alle Nornen über einen Kamm zu scheren, nur weil zwei von ihnen
 einen Fehler begangen haben. Der Rat der Nornen verurteilt sie zur Verbannung aus
 Bedlam. Jessica kündigt ihre Stelle bei der Polizei und verlässt ebenfalls Bedlam.
+
+## Stichpunkte
+
+* Zwei Leichen werden gefunden
+* Tatort wird gefunden
+* Opfer werden identifiziert - Scorpion Systems
+* Befragung Angehörige - Alibis
+* Siobhan war möglicherweise zur Tatzeit in der Nähe des Tatorts
+* Befragung Siobhan - kein Motiv
+* Alexandria kontaktiert Siobhan
+* Yeshi spricht mit Jessica
+* Mehr Indizien gegen Siobhan. Jessica hält sie zurück.
+* Verdacht auf Drogenherstellung bei Scorpion. Möglicher Konflikt mit CP6.
+* Verbindung Scorpion - Donarpark - Siobhan
+* Alexandria findet heraus, dass Siobhan eine Norne ist
+* Konfrontation Jessica & Alexandria
+* Tom findet heraus, dass Jessica Informationen zurückhält
+* Jessica & Tom konfrontieren Siobhan & Anezka - Flucht
+* Jessica hört auf, die beiden zu decken
+* Alexandria findet Siobhan & Anezka. Scorpion bringt sie in ihre Gewalt.
+* Jessica & Tom sollen Ermittlungen abbrechen
+* Jessica stellt Team zusammen
+* Team versucht unbemerkt Siobhan & Anezka zu befreien
+* Entdeckung & Kampf
+* Siobhan stirbt
+* Anezka wird verbannt
+* Jessica verlässt die Stadt
