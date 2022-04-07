@@ -2,7 +2,10 @@
 
 ## Jessica Nguyen
 
-31 Jahre, asiatische Abstammung, Sirene
+* 31 Jahre
+* asiatische Abstammung
+* Sirene
+* Zhongyi
 
 Jessica wuchs mit ihrer Mutter Nguyen Yang (洋) in einer kleinen Siedlung auf. Während
 einer besonders langen Dürreperiode wurde beschlossen, ein halbes Dutzend junge Leute
@@ -23,7 +26,10 @@ Sie wurde den Behörden ein Dorn im Auge und wurde schließlich aus der Stadt ve
 
 ## Siobhan O'Malley
 
-28 Jahre, Irisch-britische Abstammung, Nymphe (Dryade)
+* 28 Jahre
+* Irisch-britische Abstammung
+* Nymphe (Dryade)
+* Zhongyi
 
 Siobhans Vater ist IT-Techniker. Seit er bei Scorpion Systems arbeitet und immer mehr in
 deren skrupellose Machenschaften hinein gezogen wird, verschlechtert sich ihr Verhältnis
@@ -32,7 +38,10 @@ animistischen Zweig der Umweltbewegung an.
 
 ## Anezka Nemcekova
 
-30 Jahre, osteuropäische Abstammung, Furie
+* 30 Jahre
+* osteuropäische Abstammung
+* Furie
+* Scorpion Systems
 
 Anezka wuchs mit zwei älteren Geschwistern, einer Schwester und einem Bruder, auf.
 Zwischen den Kindern, besonders zwischen Anezka und ihrer Schwester, entwickelte sich
@@ -56,21 +65,33 @@ sie gelegentlich in Konflikt mit ihrem Gewissen.
 
 ## Yeshi Masozi Owusu
 
-41 Jahre, afrikanische Abstammung, Banshee
+* 41 Jahre
+* afrikanische Abstammung
+* Banshee
+* CP6 oder Zhongyi
 
 sitzt im Rollstuhl
 
 ## Thomas "Tom" Schleier
 
-36 Jahre, mitteleuropäische Abstammung, Milesier
+* 36 Jahre
+* mitteleuropäische Abstammung
+* Milesier
+* Zhongyi
 
 ## Solveig Hagström
 
-48 Jahre, nordeuropäische Abstammung, Milesierin
+* 48 Jahre
+* nordeuropäische Abstammung
+* Milesierin
+* Zhongyi
 
 ## Moira Flannigan
 
-41 Jahre, Irisch-britische Abstammung, Nymphe (Naiade)
+* 41 Jahre
+* Irisch-britische Abstammung
+* Nymphe (Naiade)
+* CP6
 
 Betreiberin des "Labyrinth". Moira hat viel Ungerechtigkeit gegenüber Nornen erlebt -
 ihre Schwester saß zu Unrecht wegen Körperverletzung im Gefängnis, eine gute Freundin
@@ -79,7 +100,10 @@ möchte mit dem Labyrinth Nornen und ihren Alliierten einen sicheren Raum bieten
 
 ## Alexandria Kamau Ferreira
 
-26 Jahre, südamerikanische/westafrikanische Abstammung, Milesierin
+* 26 Jahre
+* südamerikanische/westafrikanische Abstammung
+* Milesierin
+* Scorpion Systems
 
 Alexandrias langjähriger Partner hatte eine Affäre mit einer Banshee. Als er sich mit
 ihr traf, um die Sache zu beenden, wurde sie zornig und es kam zu einem heftigen Streit.
@@ -92,34 +116,45 @@ Geräte, die vor den Fähigkeiten von Nornen schützen oder warnen.
 
 ## Lujayn Sayegh
 
-29 Jahre, arabische Abstammung, Walküre
+* 29 Jahre
+* arabische Abstammung
+* Walküre
+* Scorpion Systems
 
 ## Katashi Sakamoto
 
-Japanische Abstammung, Milesier 
+* Japanische Abstammung
+* Milesier 
+* Scorpion Systems
 
 Eines der Opfer 
 
 ## Ndidi Otieno
 
-Afrikanische Abstammung, Milesierin
+* Afrikanische Abstammung
+* Milesierin
 
 Partnerin von Katashi
 
 ## Jadvyga Kavaliauskas
 
-Baltische Abstammung, Milesierin
+* Baltische Abstammung
+* Milesierin
+* Scorpion Systems
 
 Eines der Opfer
 
 ## Amihan Marasigan
 
-Philippinische Abstammung, Milesierin
+* Philippinische Abstammung
+* Milesierin
 
 Ehefrau von Jadvyga (seit vier Jahren), Feinmechanikerin
 
 ## Swapna Purohit
 
-Indische Abstammung, Milesierin
+* Indische Abstammung
+* Milesierin
+* Zhongyi
 
 Gerichtsmedizinerin
