@@ -5,7 +5,7 @@
 * 31 Jahre
 * asiatische Abstammung
 * Sirene
-* Zhongyi
+* Zhong Yi
 
 Jessica wuchs mit ihrer Mutter Nguyen Yang (洋) in einer kleinen Siedlung auf. Während
 einer besonders langen Dürreperiode wurde beschlossen, ein halbes Dutzend junge Leute
@@ -29,7 +29,7 @@ Sie wurde den Behörden ein Dorn im Auge und wurde schließlich aus der Stadt ve
 * 28 Jahre
 * Irisch-britische Abstammung
 * Nymphe (Dryade)
-* Zhongyi
+* Zhong Yi oder CP6
 * dunkelblond, lange lockige Haare
 
 Siobhans Vater ist IT-Techniker. Seit er bei Scorpion Systems arbeitet und immer mehr in
@@ -70,7 +70,7 @@ sie gelegentlich in Konflikt mit ihrem Gewissen.
 * 41 Jahre
 * afrikanische Abstammung
 * Banshee
-* CP6 oder Zhongyi
+* CP6 oder Zhong Yi
 * schwarzhaarig, box braids
 
 sitzt im Rollstuhl
@@ -80,14 +80,14 @@ sitzt im Rollstuhl
 * 36 Jahre
 * mitteleuropäische Abstammung
 * Milesier
-* Zhongyi
+* Zhong Yi
 
 ## Solveig Hagström
 
 * 48 Jahre
 * nordeuropäische Abstammung
 * Milesierin
-* Zhongyi
+* Zhong Yi
 * blond
 
 ## Moira Flannigan
@@ -162,6 +162,6 @@ Ehefrau von Jadvyga (seit vier Jahren), Feinmechanikerin
 
 * Indische Abstammung
 * Milesierin
-* Zhongyi
+* Zhong Yi
 
-Gerichtsmedizinerin
+Rechtsmedizinerin

@@ -142,12 +142,15 @@ in der Stadt seien.
 
 ## Technologie
 
-Augmented Reality, neuronale Implantate und fortgeschrittene (schwache)
-künstliche Intelligenz sind gang und gebe - wenn man sie sich leisten kann. Der
-Luftraum wird von Drohnen beherrscht. Auf dem Boden sind Kraftfahrzeuge mit
-Antrieben von Verbrennungsmotoren über Elektromotoren bis zu Brennstoffzellen
-unterwegs. Beliebt sind wegen ständiger Staus auch kleinere
-Fortbewegungsmittel. 
+Augmented Reality, neuronale Implantate und fortgeschrittene (schwache) künstliche
+Intelligenz sind gang und gebe - wenn man sie sich leisten kann.
+
+Das stadtweite Netzwerk HUGIN (High-speed Ubiquitous Generic Information Network)
+verbindet tausende Geräte drahtlos miteinander.
+
+Der Luftraum wird von Drohnen beherrscht. Auf dem Boden sind Kraftfahrzeuge mit
+Antrieben von Verbrennungsmotoren über Elektromotoren bis zu Brennstoffzellen unterwegs.
+Beliebt sind wegen ständiger Staus auch kleinere Fortbewegungsmittel. 
 
 Ein Kernkraftwerk in der Nähe von Bedlam hat den Atomsturm überstanden und versorgt die
 Stadt mit Energie.
@@ -195,21 +198,23 @@ als die "Dunkelgrünen" bekannt.
 
 ### Scorpion Systems 🦂
 
-Hervorgegangen aus ScorpionSoft, heute Anbieter verschiedener Soft- und
-Hardware sowie Dienstleistungen, Logistik, Immobilien, Tochter Scorpion
-Security ist eine gefürchtete paramilitärische Truppe, Kürzel "SS" weckt zu
-Recht faschistische Assoziationen, Logo: Buchstabe S, nach unten verlängert,
+Hervorgegangen aus ScorpionSoft, heute Anbieter verschiedener Soft- und Hardware sowie
+Dienstleistungen, Logistik, Immobilien
+
+Tochter Scorpion Security ist eine gefürchtete paramilitärische Truppe, Kürzel "SS"
+weckt zu Recht faschistische Assoziationen, Logo: Buchstabe S, nach unten verlängert,
 einmal normal und einmal gespiegelt über stilisiertem Skorpion 
 
-### Zhongyi 忠義 (loyal and righteous) 
+Tochter Charybdo stellt heimlich Drogen her
+
+### Zhong Yi 忠義 (loyal and righteous) 
 
 Dienstleistung, Waffen, Elektronik, Telekommunikation, Logo: Schwert, Waage und
-Lorbeerkranz, umfassende Überwachung 
+Lorbeerkranz, umfassende Überwachung. Sicherheitsdienst: Tie Wan (鐵腕)
 
 ### CP6
 
-Pharma, Chemie, Kunststoff, Lebensmittel, Tochter Hexachem stellt inoffiziell
-Drogen her 
+Pharma, Chemie, Kunststoff, Lebensmittel
 
 ## Klima
 

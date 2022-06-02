@@ -11,18 +11,18 @@ description: |
 Jessica fühlte sich wie taub. Sie spürte kaum den stetigen Nieselregen, der sie nach und
 nach durchnässte und die herbstliche Kälte in ihre Knochen sickern ließ. Die nasse
 Straße reflektierte das kalte Licht der Straßenlaternen und Leuchtreklamen. Obwohl es
-spät war, begegneten ihr noch viele Leute, die, genau wie sie, in dunkle Mäntel gehüllt
-waren, die Kragen hoch gestellt, manche mit Regenschirmen in der Hand. Die meisten
-ignorierten sie, doch hin und wieder spürte Jessica einen Blick, der einen Moment länger
-auf ihr haften blieb. Sie meinte, Feindseligkeit oder Verachtung darin zu lesen, obwohl
-sie wusste, dass das Unsinn war. Man sah ihr nicht an, dass sie anders war. Für einen
-zufälligen Beobachter war sie nur eine von Millionen. Sie war mittelgroß, hatte
-asiatische Gesichtszüge und dunkle Haare - nichts, was sie von der Masse abhob. Was sie
-anders machte, verbarg sich unter der unscheinbaren Oberfläche. Nicht jeder bekam ihre
-außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen - zu Gesicht. Manche
-Bewohner der Stadt wussten nicht einmal, dass es Frauen wie sie gab, und das war
-vielleicht auch besser so. Jessica hatte schon mehr als einmal erleben müssen, was die
-Angst vor dem Anderen anrichten konnte.
+spät war, waren die Straßen noch belebt. Die Leute waren, genau wie Jessica, in dunkle
+Mäntel gehüllt, die Kragen hoch gestellt, manche mit Regenschirmen in der Hand. Die
+meisten ignorierten sie, doch hin und wieder spürte Jessica einen Blick, der einen
+Moment länger auf ihr haften blieb. Sie meinte, Feindseligkeit oder Verachtung darin zu
+lesen, obwohl sie wusste, dass das Unsinn war. Man sah ihr nicht an, dass sie anders
+war. Für einen zufälligen Beobachter war sie nur eine von Millionen. Sie war mittelgroß,
+hatte asiatische Gesichtszüge und dunkle Haare - nichts, was sie von der Masse abhob.
+Was sie anders machte, verbarg sich unter der unscheinbaren Oberfläche. Nicht jeder
+bekam ihre außergewöhnlichen Fähigkeiten - und erst recht nicht ihre Schwächen - zu
+Gesicht. Manche Bewohner der Stadt wussten nicht einmal, dass es Frauen wie sie gab, und
+das war vielleicht auch besser so. Jessica hatte schon mehr als einmal erleben müssen,
+was die Angst vor dem Anderen anrichten konnte.
 
 Sie bog an der nächsten Ecke ab und gelangte auf eine weniger bevölkerte Straße.
 Wahrscheinlich sollte sie einfach nach Hause gehen und sich ins Bett legen. Sie hatte
@@ -54,22 +54,24 @@ fallen ließ.
 
 "Guten Morgen!" sagte er. "Hast du das Memo schon gelesen?"
 
-Jessica sah ihn fragend an.
+Jessica sah ihn strafend an. “Keine Memos vor zehn Uhr. Hast Du die Regeln schon wieder
+vergessen?”
 
-"Sie kürzen uns die Bandbreite. Und sie prüfen, ob sie das Hardware-Budget auch
+“Oh.”
+
+Jessica winkte ab. “Egal. Schieß los.”
+
+"Sie kürzen uns die HUGIN-Token. Und sie prüfen, ob sie das Hardware-Budget auch
 reduzieren können."
 
 Jessica vergrub das Gesicht in einer Handfläche. Beinahe hätte sie angefangen, zu
 weinen. "Nicht dein Ernst", stöhnte sie. Sie blendete mit ein paar Handbewegungen ihren
 Posteingang in ihr Sichtfeld ein und öffnete die Nachricht, um sich selbst zu
 überzeugen. "Was denken die sich dabei? Die haben ihre Schreibtische wahrscheinlich seit
-zwanzig Jahren nicht mehr verlassen." lamentierte sie mit nur leicht übertriebener
-Verzweiflung. "Die haben keine Ahnung, was wir brauchen, um unsere Arbeit da draußen zu
-machen, oder?"
-
-Tom breitete zustimmend die Arme aus. "Wahnsinn, nicht wahr? Und dann wundern sie sich, wenn
-die Aufklärungsraten einbrechen, und behaupten, wir hätten zu viel Urlaub oder zu lange
-Mittagspausen."
+zwanzig Jahren nicht mehr verlassen. Die haben keine Ahnung, was wir brauchen, um unsere
+Arbeit da draußen zu machen!" Sie wandte sich wieder an Tom. “Es tut mir Leid, dass das
+gleich eine der ersten Lektionen ist, die Du hier lernen musst. Die Verwaltung ist nicht
+dein Freund.”
 
 Jessica schüttelte fassungslos den Kopf. Es schien, als wolle die ganze Welt sie fertig
 machen. Sie wischte die Nachricht zur Seite und warf noch einen Blick in ihren
@@ -113,33 +115,34 @@ stehende Fabrik- und Lagerhallen an.
 "Naheliegende Wahl, um jemanden umzubringen", kommentierte Jessica. "Jede Menge Platz,
 keine störenden Nachbarn."
 
-Tom nickte. "Sie kommen nicht mehr mit dem Umbau hinterher. Ganz im Osten ziehen zwar
-schon die ersten Leute ein, aber mindestens drei viertel des Gebietes sind noch entweder
-im Umbau, stehen leer oder sind noch gar nicht still gelegt. Es war sowieso eine
-furchtbare Idee, das Industriegebiet zu konvertieren. Das hat nur Probleme gemacht,
-nicht zuletzt die horrenden Kosten. Und alles nur, weil es den wohlhabenden Herrschaften
-in der Nachbarschaft ein Dorn im Auge war."
+Tom nickte. “Hier stehen schon länger eine Menge Gebäude leer, oder?”
 
-Jessica seufzte. "Das geht natürlich nicht, dass die Geldsäcke auf Schornsteine schauen
-müssen."
+"Sie kommen nicht mehr mit dem Umbau hinterher. Ganz im Osten ziehen zwar schon die
+ersten Leute ein, aber mindestens drei Viertel des Gebietes sind noch entweder im Umbau,
+stehen leer oder sind noch gar nicht still gelegt. Es war sowieso eine furchtbare Idee,
+das Industriegebiet zu konvertieren. Das hat nur Probleme gemacht, nicht zuletzt die
+horrenden Kosten. Und alles nur, weil es den wohlhabenden Herrschaften in der
+Nachbarschaft ein Dorn im Auge war." Jessica seufzte. "Das geht natürlich nicht, dass
+die Geldsäcke auf Schornsteine schauen müssen. Da verlegt der Herr Bürgermeister doch
+lieber die ganze Industrie in den Süden, zu den armen Schluckern, die keine Lobby haben.
+So läuft es doch immer."
 
-Eines der Privilegien der Arbeit bei der Polizei war, dass man offener sprechen konnte
-und sich weniger Sorgen um Überwachung machen musste. Schließlich war es die Polizei,
-die einen Großteil der Überwachung durchführte. Dann waren da natürlich noch die anderen
-Sicherheitsdienste, die Geheimdienste und der Grenzschutz, aber zu viel durfte man
-darüber nicht nachdenken, sonst wurde man wahnsinnig. 
+Tom sah sie schockiert an.
 
-"Da verlegt der Herr Bürgermeister doch lieber die ganze Industrie in den Süden, zu den
-armen Schluckern, die keine Lobby haben. So läuft es doch immer."
+“Entspann dich. Eines der Privilegien der Arbeit bei Tie Wan ist, dass man nicht ganz so
+sehr aufpassen muss, was man sagt. Schließlich sind wir es, die einen Großteil der
+Überwachung durchführen. Dann sind da natürlich noch die anderen Sicherheitsdienste, die
+Geheimdienste und der Grenzschutz, aber zu viel darf man darüber nicht nachdenken, sonst
+wird man wahnsinnig.”
 
 Bald kamen die ersten Baustellen in Sicht. Eine davon war mit schwarz-gelbem Absperrband
-umgeben. Statt von Bauarbeitern wimmelte es von Polizisten, teils in Uniform, teils in
-Zivil. Zwei von ihnen wühlten in einem großen Container herum, in dem Bauschutt und
-verschiedene Abfälle lagen. Ein paar Meter davor waren zwei längliche Formen mit
+umgeben. Statt von Bauarbeitern wimmelte es von Sicherheitskräften, teils in Uniform,
+teils in Zivil. Zwei von ihnen wühlten in einem großen Container herum, in dem Bauschutt
+und verschiedene Abfälle lagen. Ein paar Meter davor waren zwei längliche Formen mit
 schwarzen Planen abgedeckt.
 
 Jessica parkte den Wagen. Neben den beiden länglichen Objekten, bei denen es sich
-offensichtlich um die Leichen handelte, stand Swapna Purohit, die Gerichtsmedizinerin.
+offensichtlich um die Leichen handelte, stand Swapna Purohit, die Rechtsmedizinerin.
 
 ---
 
@@ -174,7 +177,7 @@ dass hier etwas anders war. Sie blieb stehen, runzelte die Stirn und blickte sic
 
 "Irgendetwas stimmt nicht," sagte Jessica nachdenklich. "Es sieht hier so... aufgeräumt
 aus." Außer zwei, drei Stücken Papier lag absolute nichts auf dem Boden. Tom ging in die
-Knie und fuhr mit dem Finger über den Boden. "Kein Staub", sagte er . "In den anderen
+Knie und fuhr mit dem Finger über den Boden. "Kein Staub", sagte er. "In den anderen
 Räumen ist überall eine Schicht Staub."
 
 Jessica nickte. "Hier hat jemand vor kurzem geputzt."
@@ -402,8 +405,8 @@ dem mutmaßlichen Tatort der tatsächliche Tatort."
 "Mach es nicht so spannend", beschwerte sich Tom.
 
 "Katashi Sakamoto, 37 Jahre alt, wohnhaft in Arches, und Jadvyga Kavaliauskas, 33 Jahre
-alt, wohnhaft in Aschgarten. Beide haben für Hexachem gearbeitet, ein Chemie- und
-Pharmaunternehmen."
+alt, wohnhaft in Aschgarten. Beide haben für Charybdo gearbeitet, ein Chemie- und
+Pharmaunternehmen der Scorpion Systems Gruppe."
 
 “Wissen wir, ob sie in der Arbeit miteinander zu tun hatten?”
 
@@ -413,19 +416,9 @@ gearbeitet.”
 “Dann ist vermutlich irgendein Projekt dieser Abteilung einem Konkurrenten in die Quere
 gekommen, es kam zum Streit, und der endete tödlich.”
 
-“Wäre nicht das erste mal”, nickte Jessica.
-
-“Dann sprechen wir zuerst mit ihren Kollegen, und dann überprüfen wir etwaige
-Angehörige.”
-
-“Klare Sache. Habe doch gesagt, der Fall ist so gut wie gelöst.”
-
----
-
-Das Navigationssystem führte sie zu einem schmucklosen, grauen Bürogebäude in der Nähe
-der Universität. Es stach aus der Umgebung heraus - die meisten Gebäude in Talpin waren
-kleiner und älter. Die Wolkenkratzer, die das Zentrum beherrschten, fehlten hier fast
-völlig. Eine bewaffnete Wache stand vor der Eingangstür.
+“Wäre nicht das erste mal”, nickte Jessica. “Das ist natürlich der Punkt, an dem die
+Sache haarig wird. Scorpion werden garantiert ihre eigenen Leute auf den Fall ansetzen.
+Nach allem, was wir wissen, könnte besagter Konkurrent eine Zhong-Yi-Tochter sein.”
 
 ---
 
@@ -442,8 +435,8 @@ zierliche Frau stand im Eingang und sah sie unsicher an. Sie hatte weiche Gesich
 und mandelförmige Augen, ähnlich wie Jessica, nur ihre Haut war etwas dunkler und sie
 war ein Stück kleiner.
 
-"Guten Morgen, Polizei Bedlam. Ich bin Leutnant Nguyen und das ist Feldwebel Schleier.
-Sind Sie Amihan Marasigan?"
+"Guten Morgen, wir sind von Tie Wan. Ich bin Leutnant Nguyen und das ist Feldwebel
+Schleier. Sind Sie Amihan Marasigan?"
 
 "Ja", antwortete die Frau leise. "Wissen Sie etwas von Jadvyga?"
 
@@ -459,11 +452,10 @@ Fragen stellen. Ist das in Ordnung?"
 
 Ihr Gegenüber schluchzte und nickte. Sie ging voraus und führte Jessica und Tom durch
 den Flur in die geräumige Küche. Marasigan setzte sich auf einen Barhocker, der an einem
-Tresen aus dunklem Holz stand, und vergrub das Gesicht in den Händen. Die beiden
-Polizisten blieben stehen. Jessica gab ihr einen Moment Zeit, dann erklärte sie
-behutsam: "Ich darf momentan noch nicht über Einzelheiten sprechen, aber wir müssen von
-einem Verbrechen ausgehen. Wissen Sie von irgend jemandem, der ihrer Frau etwas antun
-wollen würde?"
+Tresen aus dunklem Holz stand, und vergrub das Gesicht in den Händen. Jessica gab ihr
+einen Moment Zeit, dann erklärte sie behutsam: "Ich darf momentan noch nicht über
+Einzelheiten sprechen, aber wir müssen von einem Verbrechen ausgehen. Wissen Sie von
+irgend jemandem, der ihrer Frau etwas antun wollen würde?"
 
 Marasigan sah auf. Sie konnte die Tränen nicht ganz zurück halten. "Nein", schluchzte
 sie und schüttelte den Kopf. "Das kann ich mir absolut nicht vorstellen."
@@ -529,10 +521,10 @@ Nachbarschaftshilfe-Verein."
 
 "Haben wir eine Vermisstenanzeige?"
 
-"Negativ. Es könnte natürlich sein, dass sie Sakamoto nicht vermisst hat, aber ich
-denke, es liegt eher daran, dass die Leute in Arches ihre Angelegenheiten gerne ohne
-Polizei regeln. Man wohnt nicht in einem Stadtviertel, das von einer vier Meter hohen
-Mauer umgeben ist, wenn man nicht unter sich bleiben will."
+"Gut mitgedacht - nein. Es könnte natürlich sein, dass sie Sakamoto nicht vermisst hat,
+aber ich denke, es liegt eher daran, dass die Leute in Arches ihre Angelegenheiten gerne
+ohne Polizei regeln. Man wohnt nicht in einem Stadtviertel, das von einer vier Meter
+hohen Mauer umgeben ist, wenn man nicht unter sich bleiben will."
 
 "Stimmt", nickte Tom. "Es ist auch ungewöhnlich, dass Sakamoto einen Arbeitsplatz
 außerhalb hatte. Wer in Arches wohnt, arbeitet auch dort, hat seine Freunde dort...
