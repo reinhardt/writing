@@ -45,6 +45,12 @@ ist. Walküren sind begnadete Kämpferinnen und können in anderen ähnliche Fä
 inspirieren. Furien können in eine Art Kampfrausch verfallen, der sie zu fürchterlichen
 Gegnern macht.
 
+* Nymphe: Interesse, Erregung, Vertrautheit
+* Sirene: Neugier, Lust, Ekstase
+* Banshee: Trauer, Verzweiflung
+* Walküre: Zusammenhalt, Zustimmung, Selbstvertrauen
+* Furie: Angst, Panik, Überwältigung
+
 
 Alle Nornen von Bedlam sind weiblich. Wenn sie sich mit einem menschlichen
 Partner fortpflanzen, sind männliche Nachkommen Milesier, weibliche Nachkommen
@@ -139,6 +145,9 @@ in der Stadt seien.
 * 2132-2137 Abwanderung
 * 2137-2155 Exil
 * 2155-2175 Rückkehr
+
+The Roots of Fury: 2110? (Eltern haben mit 10 den Atomsturm erlebt, ca. 2080 Kinder
+bekommen)
 
 ## Technologie
 
