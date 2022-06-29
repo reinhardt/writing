@@ -73,7 +73,7 @@ Reinigungsmitteln, aber auch Blutspuren und vereinzelte Fingerabdrücke, die jed
 zunächst nicht zugeordnet werden können. Ein Obdachloser erinnert sich an zwei Frauen,
 und eine Kontrolle von Überwachungskameras um das Industriegebiet herum liefert Bilder
 von zwei Personen, auf die seine Beschreibung passt. Inzwischen konnten die Opfer als
-Mitarbeiter von Hexachem identifiziert werden. Ein Kollege erkennt die Frauen und sagt
+Mitarbeiter von Charybdo identifiziert werden. Ein Kollege erkennt die Frauen und sagt
 aus, dass sie in der Nähe des Firmengebäudes waren. Eine vergleichende Bildsuche
 gestaltet sich wegen der geringen Qualität der Aufnahmen schwierig, aber schließlich
 taucht eine mögliche Übereinstimmung auf: Siobhan war vor einigen Jahren bei einer
@@ -93,7 +93,7 @@ alternative Theorien, z. B. dass die Opfer Affären mit Nornen gehabt hätten un
 ihren eifersüchtigen Partnerinnen getötet worden seien. Trotz Toms berechtigten Zweifeln
 kommt sie immer wieder darauf zurück. Tatsächlich ergeben sich Ungereimtheiten bei der
 Befragung der Partnerinnen. Beide geben an, dass sie dachten, ihre Partner würden am
-fraglichen Tag länger arbeiten, doch andere Hexachem-Mitarbeiter beteuern, dass beide
+fraglichen Tag länger arbeiten, doch andere Charybdo-Mitarbeiter beteuern, dass beide
 die Firma pünktlich verlassen hätten. Es stellt sich jedoch heraus, dass dies mit der
 illegalen Entsorgung zu tun hat, in die nur die wenigsten Mitarbeiter eingeweiht waren.
 Alexandria bekommt schnell Wind davon. Sie sieht sich Siobhans Park an. Jessica weiß von
@@ -127,8 +127,8 @@ und dringt in das Gebäude ein. Sie werden bemerkt und es kommt zum Kampf. Siobh
 im Lauf der Auseinandersetzung tödlich verletzt, woraufhin Anezka in Rage gerät und
 nicht nur mehrere Söldner von CP6 sondern auch Mitglieder von Jessicas Team schwer
 verletzt, einen davon tödlich. Jessica schafft es, Anezka heraus zu holen und in
-Gewahrsam zu nehmen. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf
-Hexachem im Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen, und
+Gewahrsam zu nehmen. Bald darauf gesteht sie, erklärt ihre Motive und ihre Wut auf die
+Konzerne im Speziellen und die gedankenlose Zerstörung der Natur im Allgemeinen, und
 plädiert dafür, nicht alle Nornen über einen Kamm zu scheren, nur weil zwei von ihnen
 einen Fehler begangen haben. Der Rat der Nornen verurteilt sie zur Verbannung aus
 Bedlam. Jessica kündigt ihre Stelle bei der Polizei und verlässt ebenfalls Bedlam.

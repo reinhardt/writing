@@ -6,6 +6,86 @@ description: |
     kennen. Als sie einen Doppelmord untersucht, werden ihre Loyalitäten auf eine harte
     Probe gestellt.
 ---
+# Kapitel 0
+
+Siobhan schloss die Augen. Der Ast, auf dem sie saß, war hart und nicht besonders
+bequem, doch gerade seine Härte wirkte beruhigend auf sie. Sie ließ ihre Finger über die
+rauhe Rinde der alten Eiche streichen, und atmete tief den Duft von Harz und Eicheln
+ein.
+
+“Ich sehe einen Stern!”
+
+Siobhan blinzelte zum nächsten Ast über ihr, wo Anežka lag, und sah dann durch eine
+Lücke im Laub in den wie immer wolkenverhangenen Himmel.
+
+“Wo?”
+
+“Da links.” Anežka zeigte mit dem Finger durch die Zweige. Tatsächlich hatte sich ein
+kleines Loch in der Wolkendecke gebildet, aus dem ein einzelner Stern zu ihnen herunter
+funkelte.
+
+“Aldebaran", sagte Siobhan.
+
+“Wirklich?”
+
+“Ich weiß nicht. Unmöglich zu sagen, ohne die anderen Sterne. Aber ich habe so ein
+Gefühl, dass es Aldebaran sein könnte.”
+
+Sie sahen eine halbe Minute versonnen nach oben, bis sich wieder Wolken vor den Stern
+schoben.
+
+Kurz bevor er nicht mehr zu sehen war, fragte Anežka: “Kommt da ein Auto?”
+
+Siobhan spitzte die Ohren, hörte aber nichts. Das war natürlich kein Wunder - mit ihren
+Implantaten sah und hörte Anežka alles früher und deutlicher. Siobhan würde nie
+verstehen, wie Anežka es aushielt, diese Schaltkreise permanent in ihrem Körper zu
+haben. Sie wartete geduldig ein paar Sekunden. Dann hörte sie es auch. “Fährt da jemand
+durch den Park?”
+
+Anežka starrte in die Richtung, aus der das Motorengeräusch kam. “Ja. Ein dunkler
+Lieferwagen.”
+
+“Wer macht denn eine Spazierfahrt in einem Lieferwagen?”
+
+Jetzt sah Siobhan das Fahrzeug auch. Im spärlichen Licht der wenigen Straßenlaternen sah
+sie keine Details, aber Anežka schien ihre Gedanken zu lesen und teilte ihr mit, was sie
+erkennen konnte. “Keine Markierungen, aber es scheint die seitliche Panzerung zu haben,
+die Scorpion gerne verwendet.”
+
+Die Geborgenheit, die Siobhan noch vor ein paar Momenten gefühlt hatte, löste sich auf.
+“Denkst du, sie können uns sehen?”
+
+Anežka legte den Kopf schief. “Nur mit Restlichtverstärker, und wenn sie wissen, wo sie
+hin sehen müssen.”
+
+Eigentlich konnte es Siobhan egal sein, wer nachts warum durch den Park fuhr, aber das
+hier war ihr Platz, ihr Rückzugsort, an dem sie für eine Weile die Welt da draußen
+vergessen konnte, die Gier und Skrupellosigkeit der Konzerne, die Gleichgültigkeit der
+einfachen Leute, die Zerstörung der Natur und die Entfremdung der Menschen voneinander
+und von ihrer Heimat. Es war, als würde der Lieferwagen diese Welt zurück in den Park
+bringen, und Siobhan ihr schutzlos ausliefern.
+
+Schweigend sahen sie zu, wie der Lieferwagen näher kam und dann etwa fünfzig Meter
+entfernt bei einem Gehölz zum Stehen kam. Zwei Gestalten stiegen aus. Die auf der
+Beifahrerseite öffnete die Seitentür des Fahrzeugs. Die andere Person kam zu ihr, und
+gemeinsam hievten sie etwas, das wie ein Ölfass aussah, aus dem Innenraum heraus. Sie
+zerrten das Fass ein paar Schritte weiter zu dem Gehölz und kippten es um.
+
+“Was machen die da?” zischte Siobhan.
+
+“Ich sehe keine Beschriftung auf dem Fass, aber ich glaube kaum, dass da irgendetwas
+gesundes oder auch nur harmloses drin ist.”
+
+Siobhan spürte eine hilflose Wut in sich aufsteigen. “Diese Schweine! Reicht es nicht,
+dass die ganze Stadt verpestet ist? Müssen die auch noch das letzte Stück Natur
+vergiften? Ich würde am liebsten hin gehen und denen eine rein hauen!”
+
+“Vielleicht hast du Recht.” Anežka sah zu Siobhan herunter. “Vielleicht sollten wir
+denen einen kleinen Denkzettel verpassen.”
+
+(tbc)
+
+
 # Kapitel 1
 
 Jessica fühlte sich wie taub. Sie spürte kaum den stetigen Nieselregen, der sie nach und
@@ -852,7 +932,7 @@ dass Otieno und Sakamoto Streit hatten. Danach hat sie dicht gemacht und wollte 
 weiter sagen.”
 
 Jessica zog die Augenbrauen hoch. “Je nachdem, wie schlimm der Streit war, und weswegen,
-kann sich da durchaus ein Motiv verstecken. Konntest Du heraus finden, warum sie
+kann sich da durchaus ein Motiv verstecken. Konntest du heraus finden, warum sie
 Sakamoto nicht vermisst gemeldet hat?”
 
 “Da wird es erst richtig mysteriös. Als ich Otieno danach gefragt habe, hatte ich den
