@@ -406,19 +406,29 @@ dem mutmaßlichen Tatort der tatsächliche Tatort."
 
 "Katashi Sakamoto, 37 Jahre alt, wohnhaft in Arches, und Jadvyga Kavaliauskas, 33 Jahre
 alt, wohnhaft in Aschgarten. Beide haben für Charybdo gearbeitet, ein Chemie- und
-Pharmaunternehmen der Scorpion Systems Gruppe."
+Pharmaunternehmen. Das macht die Sache natürlich etwas schwieriger."
 
-“Wissen wir, ob sie in der Arbeit miteinander zu tun hatten?”
+Tom runzelte die Stirn. "Wieso? Ach, vermutlich gehört Charybdo zu einen anderen Konzern?"
 
-“Hatten sie. Sie haben am gleichen Standort und sogar in der gleichen Abteilung
-gearbeitet.”
+"Richtig. Das ist eine Tochter von Scorpion Systems. Und die werden garantiert ihre eigenen Leute auf den Fall ansetzen. Richtig haarig wird es dann, wenn ein zweiter Konzern in den Fall verwickelt ist."
 
-“Dann ist vermutlich irgendein Projekt dieser Abteilung einem Konkurrenten in die Quere
-gekommen, es kam zum Streit, und der endete tödlich.”
+“Zum Beispiel, wenn irgendein Projekt dieser Abteilung einem Konkurrenten in die Quere
+gekommen ist. Es kam zum Streit, und der endete tödlich.”
 
-“Wäre nicht das erste mal”, nickte Jessica. “Das ist natürlich der Punkt, an dem die
-Sache haarig wird. Scorpion werden garantiert ihre eigenen Leute auf den Fall ansetzen.
-Nach allem, was wir wissen, könnte besagter Konkurrent eine Zhong-Yi-Tochter sein.”
+“Wäre nicht das erste mal”, nickte Jessica. “Und wenn wir Pech haben, stehen wir schnell unter dem Verdacht, etwas vertuschen zu wollen.
+Nach allem, was wir wissen, könnte besagter Konkurrent ja eine Zhong-Yi-Tochter sein.”
+
+"Aber wir ermitteln doch trotzdem weiter?"
+
+"Vorerst schon. Wenn sich heraus stellt, dass es Verdächtige in unserem Konzern gibt, wird man von uns erwarten, dass wir den Verdacht von ihnen ablenken." Sie senkte die Stimme etwas. "Da wird es dann pervers, wenn Du mich fragst. Dann hängt es plötzlich von deren Rang im Konzern ab, wie sehr wir uns an die Fakten zu halten haben." Sie zuckte mit den Schultern. "Wenn es nicht auf Konzernpolitik hinaus läuft, also wenn die Verdächtigen nicht zu uns gehören, dann kommt es darauf an, ob jemand uns einen Auftrag gibt, weiter zu ermitteln, zum Beispiel ein Angehöriger. Meistens ist dann aber der Fall für uns erledigt."
+
+"Was? Einfach so?"
+
+Jessica nickte. "Wir sind ein Unternehmen, und wir unterstehen Zhong Yi, und wir tun nur, was in Interesse des Konzerns ist."
+
+Tom zog die Augenbrauen hoch. "Okay. Aber im Moment ermitteln wir noch? Was machen wir als nächstes?"
+
+"Bei Charybdo sollten wir vielleicht erst mal nicht auftauchen. Aber mit den Angehörigen konnten wir sprechen."
 
 ---
 
