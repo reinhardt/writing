@@ -8,14 +8,13 @@ description: |
 ---
 # Kapitel 0
 
-Siobhan schloss die Augen. Der Ast, auf dem sie saß, war hart und nicht besonders
-bequem, doch gerade seine Härte wirkte beruhigend auf sie. Sie ließ ihre Finger über die
-rauhe Rinde der alten Eiche streichen, und atmete tief den Duft von Harz und Eicheln
-ein.
+Siobhan schloss die Augen. Der Ast, auf dem sie saß, war hart und unbequem, doch seine
+Härte wirkte beruhigend auf sie. Sie ließ ihre Finger über die rauhe Rinde der alten
+Eiche streichen, und atmete tief den Duft von Harz und Eicheln ein.
 
 “Ich sehe einen Stern!”
 
-Siobhan blinzelte zum nächsten Ast über ihr, wo Anežka lag, und sah dann durch eine
+Siobhan blinzelte zum nächsten Ast über ihr, wo Anežka saß, und sah dann durch eine
 Lücke im Laub in den wie immer wolkenverhangenen Himmel.
 
 “Wo?”
@@ -36,16 +35,16 @@ schoben.
 
 Kurz bevor er nicht mehr zu sehen war, fragte Anežka: “Kommt da ein Auto?”
 
-Siobhan spitzte die Ohren, hörte aber nichts. Das war natürlich kein Wunder - mit ihren
+Siobhan spitzte die Ohren, hörte aber nichts. Das musste aber nichts heißen - mit ihren
 Implantaten sah und hörte Anežka alles früher und deutlicher. Siobhan würde nie
-verstehen, wie Anežka es aushielt, diese Schaltkreise permanent in ihrem Körper zu
-haben. Sie wartete geduldig ein paar Sekunden. Dann hörte sie es auch. “Fährt da jemand
-durch den Park?”
+verstehen, wie Anežka es aushielt, diese Fremdkörper permanent in ihrem Körper zu haben.
+Siobhan wurde schon schwindelig, wenn sie eine Spritze bekommen sollte. Sie wartete
+geduldig ein paar Sekunden. Dann hörte sie es auch. “Fährt da jemand durch den Park?”
 
 Anežka starrte in die Richtung, aus der das Motorengeräusch kam. “Ja. Ein dunkler
 Lieferwagen.”
 
-“Wer macht denn eine Spazierfahrt in einem Lieferwagen?”
+“Wer macht denn eine abendliche Spazierfahrt in einem Lieferwagen?”
 
 Jetzt sah Siobhan das Fahrzeug auch. Im spärlichen Licht der wenigen Straßenlaternen sah
 sie keine Details, aber Anežka schien ihre Gedanken zu lesen und teilte ihr mit, was sie
@@ -60,13 +59,13 @@ hin sehen müssen.”
 
 Eigentlich konnte es Siobhan egal sein, wer nachts warum durch den Park fuhr, aber das
 hier war ihr Platz, ihr Rückzugsort, an dem sie für eine Weile die Welt da draußen
-vergessen konnte, die Gier und Skrupellosigkeit der Konzerne, die Gleichgültigkeit der
+vergessen konnte - die Gier und Skrupellosigkeit der Konzerne, die Gleichgültigkeit der
 einfachen Leute, die Zerstörung der Natur und die Entfremdung der Menschen voneinander
 und von ihrer Heimat. Es war, als würde der Lieferwagen diese Welt zurück in den Park
 bringen, und Siobhan ihr schutzlos ausliefern.
 
 Schweigend sahen sie zu, wie der Lieferwagen näher kam und dann etwa fünfzig Meter
-entfernt bei einem Gehölz zum Stehen kam. Zwei Gestalten stiegen aus. Die auf der
+entfernt bei einem Gehölz zum Stehen kam. Zwei Gestalten stiegen aus. Die Person auf der
 Beifahrerseite öffnete die Seitentür des Fahrzeugs. Die andere Person kam zu ihr, und
 gemeinsam hievten sie etwas, das wie ein Ölfass aussah, aus dem Innenraum heraus. Sie
 zerrten das Fass ein paar Schritte weiter zu dem Gehölz und kippten es um.
@@ -74,7 +73,7 @@ zerrten das Fass ein paar Schritte weiter zu dem Gehölz und kippten es um.
 “Was machen die da?” zischte Siobhan.
 
 “Ich sehe keine Beschriftung auf dem Fass, aber ich glaube kaum, dass da irgendetwas
-gesundes oder auch nur harmloses drin ist.”
+Gesundes oder auch nur Harmloses drin ist.”
 
 Siobhan spürte eine hilflose Wut in sich aufsteigen. “Diese Schweine! Reicht es nicht,
 dass die ganze Stadt verpestet ist? Müssen die auch noch das letzte Stück Natur
@@ -82,6 +81,37 @@ vergiften? Ich würde am liebsten hin gehen und denen eine rein hauen!”
 
 “Vielleicht hast du Recht.” Anežka sah zu Siobhan herunter. “Vielleicht sollten wir
 denen einen kleinen Denkzettel verpassen.”
+
+Beinahe lautlos begann Anežka, den Baum hinunter zu klettern.
+
+“Was hast Du vor?”
+
+Anežka antwortete nicht, und Siobhan beeilte sich, ihr hinterher zu klettern. “Anežka!”
+
+Anežka legte einen Finger auf die Lippen und winkte Siobhan, ihr zu folgen. Geduckt
+huschten sie im Schutz einiger Büsche näher an den Lieferwagen heran. Die beiden
+Gestalten trugen gerade ein leeres Fass zurück zum Fahrzeug. “Lauf zur Fahrerseite und
+hol den Schlüssel”, flüsterte Anežka. Bevor Siobhan widersprechen konnte, sprintete sie
+los. Siobhan verschluckte einen Fluch und rannte ebenfalls in Richtung des Lieferwagens.
+Während sie um die Vorderseite herum lief, sah sie aus dem Augenwinkel, wie Anežka zur
+Seitentür lief. Siobhan lehnte sich durch die offene Tür ins Fahrzeug und zog den
+Schlüssel ab. Mit einem Rumpeln schloss Anežka die Seitentür. Gedämpfte Rufe drangen aus
+dem Innenraum des Wagens.
+
+“Hey!”
+
+“Was zum...?”
+
+Anežka streckte die Hand durch die Beifahrertür, und Siobhan drückte ihr den Schlüssel
+in die Hand. Blitzschnell steckte Anežka ihn ins Schloss der Seitentür und schloss ab.
+Dann lief sie zur Hinterseite und vergewisserte sich, dass die Türen dort auch
+abgeschlossen waren. Mit einem Grinsen kam sie um den Lieferwagen herum gerannt und zog
+Siobhan mit sich. Sie liefen zurück zur Eiche. Schwer atmend hielt Anežka Siobhan den
+Autoschlüssel hin. Zögernd nahm ihn Siobhan. “Was soll ich damit?”
+
+Anežka zuckte mit den Schultern. “Wirf ihn in den Teich?”
+
+“Und die beiden? Lassen wir sie einfach da drin?”
 
 (tbc)
 
