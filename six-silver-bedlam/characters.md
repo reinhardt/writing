@@ -34,7 +34,11 @@ Sie wurde den Behörden ein Dorn im Auge und wurde schließlich aus der Stadt ve
 
 Siobhans Vater ist IT-Techniker. Seit er bei Scorpion Systems arbeitet und immer mehr in
 deren skrupellose Machenschaften hinein gezogen wird, verschlechtert sich ihr Verhältnis
-zu ihm. Ihre Mutter starb vor fast zehn Jahren an Krebs. Siobhan gehört dem
+zu ihm. Siobhan hatte eine innige Beziehung zu ihrer Mutter und deren Mutter. Beide vermittelten ihr eine tiefe Naturverbundenheit. Ihre Mutter starb vor fast zehn Jahren an Krebs.
+
+Siobhan hat wie ihre Mutter ein starkes Bedürfnis nach Harmonie und einen ausgeprägten Sinn für Gerechtigkeit. Von ihrem Vater hat sie Entschlossenheit und eine Abneigung gegen Untätigkeit. Die häufigen Konflikte ihrer Eltern belasteten sie sehr.
+
+Siobhan gehört dem
 animistischen Zweig der Umweltbewegung an.
 
 ## Anezka Nemcekova
