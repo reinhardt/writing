@@ -79,9 +79,14 @@ Siobhan spürte eine hilflose Wut in sich aufsteigen. “Diese Schweine! Reicht 
 dass die ganze Stadt verpestet ist? Müssen die auch noch das letzte Stück Natur
 vergiften? Ich würde am liebsten hin gehen und denen eine rein hauen!”
 
-“Kann ich nachvollziehen. Aber was erreichst du damit schon? Selbst wenn du die beiden in die Flucht schlägst, schickt ihr Konzern in ein paar Tagen wieder jemanden mit der nächsten Ladung. ”
+“Kann ich nachvollziehen. Aber was erreichst du damit schon? Selbst wenn du die beiden
+in die Flucht schlägst, schickt ihr Konzern in ein paar Tagen wieder jemanden mit der
+nächsten Ladung. ”
 
-Siobhan schüttelte den Kopf. “Im Großen und Ganzen ändert sich vermutlich nicht viel. Vielleicht auch gar nichts. Aber wenn ich tatenlos daneben stehe, dann mache ich mich mit schuldig. Wenn ich etwas unternehme, dann geht es zumindest nicht auf meine Kappe, wenn die Welt zugrunde geht. ”
+Siobhan schüttelte den Kopf. “Im Großen und Ganzen ändert sich vermutlich nicht viel.
+Vielleicht auch gar nichts. Aber wenn ich tatenlos daneben stehe, dann mache ich mich
+mit schuldig. Wenn ich etwas unternehme, dann geht es zumindest nicht auf meine Kappe,
+wenn die Welt zugrunde geht. ”
 
 “Vielleicht hast du Recht.” Anežka sah zu Siobhan herunter. “Vielleicht sollten wir
 etwas tun. Zumindest symbolisch.”
@@ -117,7 +122,8 @@ Anežka zuckte mit den Schultern. “Wirf ihn in den Teich?”
 
 “Und die beiden? Lassen wir sie einfach da drin?”
 
-“Sie werden es überstehen. Entweder schaffen sie es im Lauf der Nacht, sich zu befreien, oder jemand findet sie morgen tagsüber. Es sein denn... ”
+“Sie werden es überstehen. Entweder schaffen sie es im Lauf der Nacht, sich zu befreien,
+oder jemand findet sie morgen tagsüber. Es sein denn... ”
 
 (tbc)
 
