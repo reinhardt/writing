@@ -118,12 +118,41 @@ abgeschlossen waren. Mit einem Grinsen kam sie um den Lieferwagen herum gerannt 
 Siobhan mit sich. Sie liefen zurück zur Eiche. Schwer atmend hielt Anežka Siobhan den
 Autoschlüssel hin. Zögernd nahm ihn Siobhan. “Was soll ich damit?”
 
-Anežka zuckte mit den Schultern. “Wirf ihn in den Teich?”
+“Das kommt darauf an. Reicht es dir? Dass du tatenlos zugesehen hättest, kann jetzt
+niemand mehr behaupten. Du kannst den Schlüssel in den Teich werfen, und wir gehen nach
+Hause. Entweder befreien sie sich im Lauf der Nacht, oder jemand lässt sie morgen raus.
+Wir haben unseren symbolischen Widerstand geleistet und sind raus. Oder willst du doch
+versuchen, tatsächlich etwas zu ändern? Dann können wir versuchen, aus den beiden noch
+ein paar Informationen heraus zu bekommen - für wen sie arbeiten, wie lange sie das
+schon machen, was das überhaupt für ein Zeug ist, das sie da weg kippen... solche
+Dinge.“ Aneżka zuckte mit den Schultern. “Und dann können wir immer noch entscheiden, ob
+wir es dabei belassen, oder ob wir noch mehr unternehmen.”
 
-“Und die beiden? Lassen wir sie einfach da drin?”
+Siobhan starrte sie ungläubig an. “Ich wusste ja, dass Du durchgeknallt bist, aber
+das... Selbst wenn wir das machen wollten - und ich sage nicht, dass ich das für eine
+gute Idee halte - können wir doch nicht einfach den Lieferwagen wieder auf machen und
+anfangen, Fragen zu stellen.”
 
-“Sie werden es überstehen. Entweder schaffen sie es im Lauf der Nacht, sich zu befreien,
-oder jemand findet sie morgen tagsüber. Es sein denn... ”
+“Stimmt. Wir müssten sie vermutlich erst an einen geeigneteren Ort bringen, und ihnen
+klar machen, dass es in ihrem Interesse ist, uns Antworten zu geben.”
+
+Siobhan fehlten die Worte. Anežka schien beinahe Spaß zu haben. Siobhan kannte sie schon
+seit vielen Jahren, aber Anežka schaffte es immer wieder, sie aus der Fassung zu
+bringen. Gleichzeitig hatte sie Recht - ihre Aktion war waghalsig und unüberlegt
+gewesen, aber die Chance, die sich ihnen jetzt bot, war nicht von der Hand zu weisen.
+Ein Teil von ihr sträubte sich dagegen. Wenn sie von Widerstand sprach, dann meinte sie
+Demonstrationen, Informationskampagnen, oder maximal zivilen Ungehorsam. Was Anežka
+vorschlug, das lief auf größere Straftaten hinaus. Ein anderer Teil von Siobhan war
+begeistert. Ihre Freundin hatte ihr einfach so, ohne viel Planung und Mobilisierung,
+zwei Umweltsünder auf dem Silbertablett serviert. Das konnte sie nicht einfach so
+wegwerfen. Aber sie konnte doch auch nicht zwei Menschen entführen! Sie wusste nichts
+über die beiden. Natürlich war es falsch, dass sie die Fässer hier ausgeleert hatten,
+aber das machte es nicht weniger falsch, sie einzusperren und auszufragen. Andererseits
+war es genau das, was mit ihnen passieren sollte, aber die Sicherheitsdienste, deren
+Aufgabe das eigentlich war, taten nichts, kassierten wahrscheinlich saftige
+Schmiergelder, und kümmerten sich lieber darum, unliebsamen Demonstranten das Leben
+schwer zu machen.
+
 
 (tbc)
 
