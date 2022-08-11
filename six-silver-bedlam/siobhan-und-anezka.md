@@ -125,7 +125,7 @@ Wir haben unseren symbolischen Widerstand geleistet und sind raus. Oder willst d
 versuchen, tatsächlich etwas zu ändern? Dann können wir versuchen, aus den beiden noch
 ein paar Informationen heraus zu bekommen - für wen sie arbeiten, wie lange sie das
 schon machen, was das überhaupt für ein Zeug ist, das sie da weg kippen... solche
-Dinge.“ Aneżka zuckte mit den Schultern. “Und dann können wir immer noch entscheiden, ob
+Dinge.“ Anežka zuckte mit den Schultern. “Und dann können wir immer noch entscheiden, ob
 wir es dabei belassen, oder ob wir noch mehr unternehmen.”
 
 Siobhan starrte sie ungläubig an. “Ich wusste ja, dass Du durchgeknallt bist, aber
@@ -133,7 +133,7 @@ das... Selbst wenn wir das machen wollten - und ich sage nicht, dass ich das fü
 gute Idee halte - können wir doch nicht einfach den Lieferwagen wieder auf machen und
 anfangen, Fragen zu stellen.”
 
-“Stimmt. Wir müssten sie vermutlich erst an einen geeigneteren Ort bringen, und ihnen
+“Stimmt. Wir müssen sie vermutlich erst an einen geeigneteren Ort bringen, und ihnen
 klar machen, dass es in ihrem Interesse ist, uns Antworten zu geben.”
 
 Siobhan fehlten die Worte. Anežka schien beinahe Spaß zu haben. Siobhan kannte sie schon
@@ -151,7 +151,56 @@ aber das machte es nicht weniger falsch, sie einzusperren und auszufragen. Ander
 war es genau das, was mit ihnen passieren sollte, aber die Sicherheitsdienste, deren
 Aufgabe das eigentlich war, taten nichts, kassierten wahrscheinlich saftige
 Schmiergelder, und kümmerten sich lieber darum, unliebsamen Demonstranten das Leben
-schwer zu machen.
+schwer zu machen. Nein, sie konnte sich nicht darauf verlassen, dass jemand anders etwas
+tat, um diesen Leuten das Handwerk zu legen, das hatte Siobhan inzwischen gelernt.
+
+“Und was hältst du für einen geeigneten Ort?”
+
+Anežka grinste. “Es gibt da dieses Industriegebiet, in dem einige Fabriken leer stehen.”
+
+Sie gingen zurück zum Lieferwagen. Anežka setzte sich ans Steuer. Siobhan kletterte auf
+den Beifahrersitz und reichte ihr den Schlüssel. Als Anežka den Motor anließ, drangen
+wieder Stimmen aus dem Laderaum, diesmal begleitet von klopfenden Geräuschen. Siobhan
+versuchte, beides zu ignorieren, genau wie die Stimme in ihrem Kopf, die sie anschrie,
+diesen Wahnsinn sofort abzubrechen. Sie hatte ihre Entscheidung getroffen. Sie musste
+jetzt ruhig bleiben und das Beste daraus machen.
+
+“Wenn wir ein Gebäude gefunden haben, wie bekommen wir die beiden dort hinein?”
+
+Anežka hielt ihren Blick auf die Straße gerichtet. Sie wirkte vollkommen ruhig.
+Vielleicht war sie ähnliche Situationen von ihrer Arbeit gewohnt. “Mach das
+Handschuhfach auf.”
+
+Siobhan öffnete die Klappe und riss die Augen auf. “Hier sind zwei Pistolen drin.”
+
+“Gut. Dann sind sie vermutlich unbewaffnet, oder haben allenfalls Messer. Und ich traue
+mich wetten, dass sie damit nicht so gut umgehen können wie ich. Du schnappst dir eine
+der Pistolen...”
+
+“Was?!”
+
+“... und wir brauchen Masken. Dann eskortieren wir sie einfach aus dem Wagen ins
+Gebäude.”
+
+Siobhan erschien das alles lange nicht so einfach, wie Anežka es darstellen wollte. Was,
+wenn die beiden sich wehrten? Oder versuchten, weg zu laufen? Sollte sie etwa auf sie
+schießen?
+
+Sie fuhren die Aresallee nach Westen und bogen dann rechts ab auf die Skyllabrücke. Auf
+der anderen Seite des Tey begann das Industriegebiet. Einige Gebäude waren bereits in
+Wohnungen konvertiert worden, ein großer Teil des Gebietes war noch eine Baustelle.
+Anežka hielt eine Weile Ausschau und lenkte dann den Lieferwagen in die Einfahrt eines
+Grundstücks, das von Stacheldrahtzaun umgeben war. Sie drehte eine Runde zwischen den
+offensichtlich leer stehenden Gebäuden, fuhr dann durch ein offenes Tor in eine Halle
+und brachte das Fahrzeug zum Stehen.
+
+“Denk an die Pistole.” Anežka machte eine Kopfbewegung zum Handschuhfach. “Und dann geh
+zum Tor, und schau, ob du es schließen kannst.”
+
+Siobhan versuchte, nicht zu viel darüber nachzudenken. Sie nahm eine der Waffen und lief
+zum Eingang der Halle. Sie fand einen grünen Knopf mit einem Pfeil, der nach unten
+zeigte. Als sie ihn drückte, fing tatsächlich das Rolltor an, sich nach unten zu
+bewegen.
 
 
 (tbc)
