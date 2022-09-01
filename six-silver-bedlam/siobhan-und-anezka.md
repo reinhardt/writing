@@ -254,6 +254,51 @@ kümmern müssen. Aber für den Moment sind sie erst mal verstaut. Ich habe sie 
 gefesselt. Mittelfristig sollten wir Handschellen besorgen, aber für den Moment reicht
 es so.”
 
+Siobhan zwang sich, einmal tief durchzuatmen. Ihr Herz klopfte immer noch wie verrückt.
+“Und wie geht es jetzt weiter?”
+
+Anežka setzte sich mit einem Seufzer auf den Boden. “Jetzt lassen wir sie erst einmal
+eine Weile schmoren.”
+
+---
+
+Sie gönnten sich eine kurze Verschnaufpause, dann sprang Anežka wieder auf. “Ich hole
+lieber gleich die Handschellen. Ich vertraue den Seilen nicht recht. Bleib du so lange
+hier und passe auf.”
+
+“Was? Alleine?” Siobhan fühlte sich schon jetzt nicht besonders wohl, aber alleine mit
+zwei Geiseln im Nebenraum hier zu bleiben war noch einmal eine Stufe schlimmer.
+
+“Ich fürchte, ja. Ganz sich selbst überlassen würde ich die beiden erst, wenn sie
+ordentlich fest gemacht sind. Ich würde ja selbst hier bleiben und aufpassen, aber du
+kannst schlecht zu mir in die Arbeit spazieren und Handschellen mitnehmen. Ich schon.”
+
+Siobhan schluckte. “Also gut. Aber beeile dich.”
+
+Anežka nickte und lief los. Sie ließ das Hallentor offen, so dass Siobhan zumindest
+nicht im Dunklen sitzen musste. Sie versuchte, sich irgendwie abzulenken, aber immer
+wieder begannen ihre Gedanken um ihre Situation und wie das Ganze wohl ausgehen würde zu
+kreisen. Endlich kam Anežka zurück. Sie zückte ihre Messer und verschwand noch einmal
+kurz in der anderen Halle. Dann verließen sie das Gebäude. Den Lieferwagen ließen sie
+zurück und gingen zu Fuß in Richtung Siobhans Wohnung. Der Himmel war immer noch
+bewölkt, und ein leichter Regen hatte eingesetzt. Es war weit nach Mitternacht. Im
+Industriegebiet waren die Straßen menschenleer. Erst als sie über die Brücke gingen,
+sahen sie vereinzelt Passanten und Fahrzeuge. Sie legten den Weg schweigend zurück. In
+der Wohnung angekommen ließ Anežka sich auf Siobhans Bett fallen. Siobhan setzte sich
+unruhig daneben. “So weit, so gut. Aber bist du sicher, dass die beiden niemand findet?”
+
+“Das Gelände ist offensichtlich verlassen und wartet darauf, umgebaut zu werden. Jetzt
+am Wochenende wird damit aber bestimmt nicht angefangen. Wir haben also mindestens zwei
+Tage Zeit. Inzwischen sollten wir recherchieren, für wann der Umbau geplant ist.” Sie
+klopfte auf das Bett neben sich. “Aber jetzt ruhe dich erst mal ein bisschen aus. Das
+hast du dir verdient.”
+
+Zögernd legte sich Siobhan neben ihre Freundin. “Du bleibst aber hier, ja?”
+
+“Klar. Und morgen sehen wir dann weiter.”
+
+---
+
 
 
 (tbc)
@@ -874,7 +919,7 @@ Spezialkräuter heraus, und ließ sie in eine Tasse fallen, die noch vom Frühst
 Arbeitsfläche stand. Vorsichtig goß sie heißes Wasser darauf. Sie ließ den Tee ziehen
 und nahm inzwischen im Bad ihre Kontaktlinsen heraus. Ohne sie wurde es zwar schwierig,
 Musik an oder aus zu machen, einen Anruf entgegen zu nehmen, oder auch nur etwas zu
-lesen, aber die Dinger den ganzen Tag zu tragen, wurde ihr meistens zu anstrengend. Denn
+lesen, aber die Dinger den ganzen Tag zu tragen, wurde ihr meistens zu anstrengend. Den
 Ohrhörer entfernte sie auch und legte ihn daneben. Blinzelnd holte sie ihren Tee und
 trug ihn zum Bett, das auch als Sofa diente. Mit einem Seufzen ließ sie sich in die
 Kissen sinken. Sie spitzte die Lippen und nippte an der Tasse. Sofort fühlte sie sich
