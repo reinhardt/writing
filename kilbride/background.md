@@ -5,6 +5,6 @@ Bran, a Kilbride resident who died several years ago in what is believed to be a
 accident. It turns out that he is following up on hints that Bran was not alone at the
 time of his death. He discovers several motives for wanting to get rid of Bran among the
 community members. Bran knew that property agent Richard did money laundering for an
-illegal gambling operation in Portree. Catriona and Bran had an affair at the time of
+illegal gambling operation in Portree. He owned a patch of land that another resident wanted but Bran refused to sell. Someone else owed Bran a substantial sum of money. Catriona and Bran had an affair at the time of
 his death. They had had a fight that led to the deadly events.
 
