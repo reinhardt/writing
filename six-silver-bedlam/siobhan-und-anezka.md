@@ -15,7 +15,7 @@ Eiche streichen, und atmete tief den Duft von Harz und Eicheln ein.
 “Ich sehe einen Stern!”
 
 Siobhan blinzelte zum nächsten Ast über ihr, wo Anežka saß, und sah dann durch eine
-Lücke im Laub in den wie immer wolkenverhangenen Himmel.
+Lücke im Laub in den wolkenverhangenen Himmel.
 
 “Wo?”
 
@@ -233,16 +233,17 @@ zitternd die Waffe auf den Lieferwagen und wartete. Kein Laut drang aus dem Fahr
 Die Stille war kaum zu ertragen. Warum versuchte der andere nicht, heraus zu kommen?
 Warum sagte er nicht irgendetwas, und wenn es nur Beschimpfungen wären? Nach endlosen
 Minuten kam Anežka zurück. “OK”, flüsterte sie, und Siobhan schloss erneut die Tür auf
-und öffnete sie. Wieder sprang Anežka in den Laderaum und zog auch den zweiten Mann
+und öffnete sie. Wieder sprang Anežka in den Laderaum und zog auch die zweite Person
 heraus. An der Schwelle schien er zu stolpern, richtete sich dann aber plötzlich wieder
 auf. Siobhan konnte in der Dunkelheit kaum etwas erkennen, doch sie hörte Anežka
-grunzen. Dann stieß der Gefangene einen halb unterdrückten Schrei aus. “Keine
-Dummheiten”, knurrte Anežka. Dann bewegten sich die beiden in die gleiche Richtung, in
-die Anežka vorhin verschwunden war. “Komm mit”, raunte sie Siobhan zu. Vorsichtig folgte
-Siobhan den beiden an den Rand der Halle, durch eine offene Tür und einen Korridor
-entlang. Sie betraten eine weitere Halle, in der es ebenfalls stockdunkel war. Anežka
-hantierte einen Moment, dann zog sie Siobhan zurück durch die Tür und schloss diese. Sie
-gingen durch den Korridor zurück in die erste Halle.
+grunzen. Dann stieß der Gefangene einen halb unterdrückten Schrei aus. Die Stimme klang
+heller, als Siobhan erwartet hatte. War es eine Frau? “Keine Dummheiten”, knurrte
+Anežka. Dann bewegten sich die beiden in die gleiche Richtung, in die Anežka vorhin
+verschwunden war. “Komm mit”, raunte sie Siobhan zu. Vorsichtig folgte Siobhan den
+beiden an den Rand der Halle, durch eine offene Tür und einen Korridor entlang. Sie
+betraten eine weitere Halle, in der es ebenfalls stockdunkel war. Anežka hantierte einen
+Moment, dann zog sie Siobhan zurück durch die Tür und schloss diese. Sie gingen durch
+den Korridor zurück in die erste Halle.
 
 “Der Bastard hat versucht, abzuhauen.”
 
@@ -299,6 +300,34 @@ Zögernd legte sich Siobhan neben ihre Freundin. “Du bleibst aber hier, ja?”
 
 ---
 
+In der Nacht tat Siobhan kaum ein Auge zu. Sie malte sich die verschiedensten Szenarien
+aus; von Horrorvisionen, in denen Konzern-Schwadronen das Fabrikgebäude stürmten und
+Anežka und Siobhan gefangennahmen und folterten, bis hin zu Heldenepen, in denen sie den
+Anstoß zu einer Revolution gaben, die ganze Stadt renaturiert wurde und sie in die
+Geschichte eingingen. Am nächsten Morgen machten sie sich nach einer schnellen Tasse
+Kaffee wieder auf den Weg in das Industriegebiet. Es nieselte noch immer, und entlang
+des Tey waberten dichte Nebelbänke. Das Fabrikgelände sah bei Tag fast noch trostloser
+aus. Im Inneren war es fast genauso dunkel wie letzte Nacht.
+
+Anežka setzte sich auf den Boden neben den Lieferwagen. “Dann sehen wir mal, was wir aus
+den beiden heraus bekommen. Was wollen wir fragen?”
+
+“Wir müssen wissen, für wen sie arbeiten. Nur dann haben wir eine Chance, etwas dagegen
+zu unternehmen. Allerdings habe ich überlegt, ob es besser wäre, das nicht direkt zu
+fragen, sondern sie glauben lassen, wir wüssten schon Bescheid.”
+
+Anežka brummte anerkennend. “Gar nicht so dumm. Du solltest überlegen, ob du auch in den
+Sicherheitssektor wechselst. Wir könnten so tun, als wüssten wir, dass sie für Scorpion
+Systems arbeiten. An ihrer Reaktion erkennen wir vielleicht, ob das stimmt.”
+
+“Aber irgend etwas müssen wir ja fragen. Sollen wir so tun, als seien wir von der
+Konkurrenz und hätten ein Problem damit, was sie machen? Also, nicht damit, dass sie den
+Müll weg kippen, sondern... was auch immer sie sonst so machen.”
+
+“Das wäre ein ziemlicher Bluff. Aber es könnte funktionieren. Sie haben jetzt schon eine
+Weile im Dunkeln gesessen. Wenn wir sie jetzt noch ein wenig einschüchtern, kriegen wir
+sie vielleicht so weit, dass sie sich verplappern.” Anežka sprang auf. “Na los,
+probieren wir es.”
 
 
 (tbc)
