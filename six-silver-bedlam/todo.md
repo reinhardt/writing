@@ -1,3 +1,4 @@
+- Landmarks: Konzern-HQs
 - abandoned outskirts
 - Subkulturen
 - Hintergründe der Charaktere
