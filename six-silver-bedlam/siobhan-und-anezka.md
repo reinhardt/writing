@@ -90,74 +90,78 @@ mit schuldig. Wenn ich etwas unternehme, dann geht es zumindest nicht auf meine 
 wenn die Welt zugrunde geht. ”
 
 “Vielleicht hast du Recht.” Anežka sah zu Siobhan herunter. “Vielleicht sollten wir
-etwas tun. Zumindest symbolisch.”
+etwas tun. Aber vielleicht nicht sofort.”
 
-Beinahe lautlos begann Anežka, den Baum hinunter zu klettern.
+“Was meinst du?”
 
-“Was hast Du vor?”
+Anežka tippte sich nachdenklich mit dem Zeigefinger an die Nase. “Wenn wir jetzt hin
+gehen und sie zur Rede stellen, dann hauen sie ab, oder verprügeln uns, oder ignorieren
+uns einfach. So oder so kommen sie davon. Aber ich gehe davon aus, dass das hier keine
+einmalige Aktion ist. Die kommen wieder. Also kommen wir auch wieder - aber
+vorbereitet.”
 
-Anežka antwortete nicht, und Siobhan beeilte sich, ihr hinterher zu klettern. “Anežka!”
+“Vorbereitet? Worauf?”
 
-Anežka legte einen Finger auf die Lippen und winkte Siobhan, ihr zu folgen. Geduckt
-huschten sie im Schutz einiger Büsche näher an den Lieferwagen heran. Die beiden
-Gestalten trugen gerade ein leeres Fass zurück zum Fahrzeug. “Lauf zur Fahrerseite und
-hol den Schlüssel”, flüsterte Anežka. Bevor Siobhan widersprechen konnte, sprintete sie
-los. Siobhan verschluckte einen Fluch und rannte ebenfalls in Richtung des Lieferwagens.
-Während sie um die Vorderseite herum lief, sah sie aus dem Augenwinkel, wie Anežka zur
-Seitentür lief. Siobhan lehnte sich durch die offene Tür ins Fahrzeug und zog den
-Schlüssel ab. Mit einem Rumpeln schloss Anežka die Seitentür. Gedämpfte Rufe drangen aus
-dem Innenraum des Wagens.
+“Wenn wir etwas erreichen wollen, dann müssen wir versuchen, aus den beiden ein paar
+Informationen heraus zu bekommen - für wen sie arbeiten, wie lange sie das schon machen,
+was das überhaupt für ein Zeug ist, das sie da weg kippen... solche Dinge. Dann wissen
+wir, womit wir es zu tun haben, und können uns weitere Schritte überlegen.”
 
-“Hey!”
+“Und wie sollen wir das anstellen? Freiwillig werden die uns gar nichts verraten.”
 
-“Was zum...?”
+“Völlig richtig. Wir müssten schon etwas nachhelfen. Ich könnte mir zum Beispiel
+vorstellen, dass sie gefesselt an einem unbekannten Ort eher bereit sind, zu reden.
+Besonders, wenn sie erwarten, dass man ihnen Gewalt antut.”
 
-Anežka streckte die Hand durch die Beifahrertür, und Siobhan drückte ihr den Schlüssel
-in die Hand. Blitzschnell steckte Anežka ihn ins Schloss der Seitentür und schloss ab.
-Dann lief sie zur Hinterseite und vergewisserte sich, dass die Türen dort auch
-abgeschlossen waren. Mit einem Grinsen kam sie um den Lieferwagen herum gerannt und zog
-Siobhan mit sich. Sie liefen zurück zur Eiche. Schwer atmend hielt Anežka Siobhan den
-Autoschlüssel hin. Zögernd nahm ihn Siobhan. “Was soll ich damit?”
+“Was? Was redest du denn da? Bist du übergeschnappt?”
 
-“Das kommt darauf an. Reicht es dir? Dass du tatenlos zugesehen hättest, kann jetzt
-niemand mehr behaupten. Du kannst den Schlüssel in den Teich werfen, und wir gehen nach
-Hause. Entweder befreien sie sich im Lauf der Nacht, oder jemand lässt sie morgen raus.
-Wir haben unseren symbolischen Widerstand geleistet und sind raus. Oder willst du doch
-versuchen, tatsächlich etwas zu ändern? Dann können wir versuchen, aus den beiden noch
-ein paar Informationen heraus zu bekommen - für wen sie arbeiten, wie lange sie das
-schon machen, was das überhaupt für ein Zeug ist, das sie da weg kippen... solche
-Dinge.“ Anežka zuckte mit den Schultern. “Und dann können wir immer noch entscheiden, ob
-wir es dabei belassen, oder ob wir noch mehr unternehmen.”
+“Keineswegs. Ich überlege nur, wie wir vielleicht doch eine Chance haben, das Große und
+Ganze zu verändern. Aber so viel ist klar - das werden wir nicht schaffen, indem wir nur
+hier im Baum sitzen. Echte Veränderung braucht drastische Maßnahmen.”
 
-Siobhan starrte sie ungläubig an. “Ich wusste ja, dass Du durchgeknallt bist, aber
-das... Selbst wenn wir das machen wollten - und ich sage nicht, dass ich das für eine
-gute Idee halte - können wir doch nicht einfach den Lieferwagen wieder auf machen und
-anfangen, Fragen zu stellen.”
+“Nur, damit ich dich richtig verstehe - du schlägst vor, dass wir die beiden entführen,
+einsperren und foltern?”
 
-“Stimmt. Wir müssen sie vermutlich erst an einen geeigneteren Ort bringen, und ihnen
-klar machen, dass es in ihrem Interesse ist, uns Antworten zu geben.”
+Anežka winkte ab. “Dazu muss es gar nicht kommen. Die Androhung wird vermutlich schon
+reichen.”
 
-Siobhan fehlten die Worte. Anežka schien beinahe Spaß zu haben. Siobhan kannte sie schon
-seit vielen Jahren, aber Anežka schaffte es immer wieder, sie aus der Fassung zu
-bringen. Gleichzeitig hatte sie Recht - ihre Aktion war waghalsig und unüberlegt
-gewesen, aber die Chance, die sich ihnen jetzt bot, war nicht von der Hand zu weisen.
-Ein Teil von ihr sträubte sich dagegen. Wenn sie von Widerstand sprach, dann meinte sie
-Demonstrationen, Informationskampagnen, oder maximal zivilen Ungehorsam. Was Anežka
-vorschlug, das lief auf größere Straftaten hinaus. Ein anderer Teil von Siobhan war
-begeistert. Ihre Freundin hatte ihr einfach so, ohne viel Planung und Mobilisierung,
-zwei Umweltsünder auf dem Silbertablett serviert. Das konnte sie nicht einfach so
-wegwerfen. Aber sie konnte doch auch nicht zwei Menschen entführen! Sie wusste nichts
-über die beiden. Natürlich war es falsch, dass sie die Fässer hier ausgeleert hatten,
-aber das machte es nicht weniger falsch, sie einzusperren und auszufragen. Andererseits
-war es genau das, was mit ihnen passieren sollte, aber die Sicherheitsdienste, deren
-Aufgabe das eigentlich war, taten nichts, kassierten wahrscheinlich saftige
-Schmiergelder, und kümmerten sich lieber darum, unliebsamen Demonstranten das Leben
-schwer zu machen. Nein, sie konnte sich nicht darauf verlassen, dass jemand anders etwas
-tat, um diesen Leuten das Handwerk zu legen, das hatte Siobhan inzwischen gelernt.
+Siobhan schnappte nach Luft. Es war ungeheuerlich - aber eine leise Stimme in ihr
+stimmte ihrer Freundin zu. Sie würden nichts erreichen, wenn sie diese Leute zur Rede
+stellten oder sie für kurze Zeit aufhielten. Wenn sie etwas erreichen wollten, mussten
+sie schwerere Geschütze auffahren.
 
-“Und was hältst du für einen geeigneten Ort?”
+“Klar würden wir eine Menge riskieren”, räumte Anežka ein. “Aber wir könnten auch eine
+Menge erreichen. Es liegt an dir. Reicht es dir, symbolisch Widerstand zu leisten? Dann
+bewerfen wir sie mit Schlamm und hauen ab. Dass du tatenlos zugesehen hättest, kann dann
+niemand mehr behaupten. Oder willst du tatsächlich etwas ändern? Dann versuchen wir, aus
+den beiden Informationen heraus zu bekommen, und gehen der Sache auf den Grund.“ Anežka
+zuckte mit den Schultern. “Und dann können wir immer noch entscheiden, ob wir es dabei
+belassen, oder ob wir noch mehr unternehmen.”
+
+Siobhan starrte sie ungläubig an. Anežka schien beinahe Spaß zu haben. Siobhan kannte
+sie schon seit vielen Jahren, aber Anežka schaffte es immer wieder, sie aus der Fassung
+zu bringen. Gleichzeitig hatte sie Recht - so eine Aktion wäre waghalsig, aber die
+Chance, einen Unterschied zu machen, war wirklich verlockend. Ein Teil von ihr sträubte
+sich dagegen. Wenn sie von Widerstand sprach, dann meinte sie Demonstrationen,
+Informationskampagnen, oder maximal zivilen Ungehorsam. Was Anežka vorschlug, das lief
+auf größere Straftaten hinaus. Gleichzeitig juckte sie es in den Fingern. Endlich
+wirklich etwas tun statt endlos zu reden... Aber sie konnte doch nicht einfach zwei
+Menschen entführen! Sie wusste nichts über die beiden. Natürlich war es falsch, dass sie
+die Fässer hier ausgeleert hatten, aber das machte es nicht weniger falsch, sie
+einzusperren und auszufragen. Andererseits war es genau das, was mit ihnen passieren
+sollte, aber die Sicherheitsdienste, deren Aufgabe das eigentlich war, taten nichts,
+kassierten wahrscheinlich saftige Schmiergelder, und kümmerten sich lieber darum,
+unliebsamen Demonstranten das Leben schwer zu machen. Nein, sie konnte sich nicht darauf
+verlassen, dass jemand anders etwas tat, um diesen Leuten das Handwerk zu legen, das
+hatte Siobhan inzwischen gelernt.
+
+“Und was hältst du für einen geeigneten Ort, an den wir die beiden bringen könnten?”
 
 Anežka grinste. “Es gibt da dieses Industriegebiet, in dem einige Fabriken leer stehen.”
+
+---
+
+[...]
 
 Sie gingen zurück zum Lieferwagen. Anežka setzte sich ans Steuer. Siobhan kletterte auf
 den Beifahrersitz und reichte ihr den Schlüssel. Als Anežka den Motor anließ, drangen
@@ -234,7 +238,7 @@ Die Stille war kaum zu ertragen. Warum versuchte der andere nicht, heraus zu kom
 Warum sagte er nicht irgendetwas, und wenn es nur Beschimpfungen wären? Nach endlosen
 Minuten kam Anežka zurück. “OK”, flüsterte sie, und Siobhan schloss erneut die Tür auf
 und öffnete sie. Wieder sprang Anežka in den Laderaum und zog auch die zweite Person
-heraus. An der Schwelle schien er zu stolpern, richtete sich dann aber plötzlich wieder
+heraus. An der Schwelle schien sie zu stolpern, richtete sich dann aber plötzlich wieder
 auf. Siobhan konnte in der Dunkelheit kaum etwas erkennen, doch sie hörte Anežka
 grunzen. Dann stieß der Gefangene einen halb unterdrückten Schrei aus. Die Stimme klang
 heller, als Siobhan erwartet hatte. War es eine Frau? “Keine Dummheiten”, knurrte
@@ -314,7 +318,7 @@ den beiden heraus bekommen. Was wollen wir fragen?”
 
 “Wir müssen wissen, für wen sie arbeiten. Nur dann haben wir eine Chance, etwas dagegen
 zu unternehmen. Allerdings habe ich überlegt, ob es besser wäre, das nicht direkt zu
-fragen, sondern sie glauben lassen, wir wüssten schon Bescheid.”
+fragen, sondern sie glauben zu lassen, wir wüssten schon Bescheid.”
 
 Anežka brummte anerkennend. “Gar nicht so dumm. Du solltest überlegen, ob du auch in den
 Sicherheitssektor wechselst. Wir könnten so tun, als wüssten wir, dass sie für Scorpion
@@ -325,9 +329,15 @@ Konkurrenz und hätten ein Problem damit, was sie machen? Also, nicht damit, das
 Müll weg kippen, sondern... was auch immer sie sonst so machen.”
 
 “Das wäre ein ziemlicher Bluff. Aber es könnte funktionieren. Sie haben jetzt schon eine
-Weile im Dunkeln gesessen. Wenn wir sie jetzt noch ein wenig einschüchtern, kriegen wir
-sie vielleicht so weit, dass sie sich verplappern.” Anežka sprang auf. “Na los,
-probieren wir es.”
+Weile im Dunkeln gesessen. Wenn wir sie noch ein wenig einschüchtern, kriegen wir sie
+vielleicht so weit, dass sie sich verplappern.” Anežka sprang auf. “Na los, probieren
+wir es.”
+
+Schnellen Schrittes ging Anežka durch den Korridor. Siobhan folgte ihr. Ihre Hände
+zitterten. Anežka stieß die Tür auf und stürmte in die Halle, in der einer der
+Gefangenen war. “Guten Morgen! Du hattest ja jetzt eine Weile Zeit, über deine Situation
+nachzudenken. Ich gehe davon aus, dass du zu dem Schluss gekommen bist, dass es besser
+ist, uns alles zu sagen. Also, schieß los.”
 
 
 (tbc)
