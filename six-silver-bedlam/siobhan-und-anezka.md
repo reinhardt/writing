@@ -161,34 +161,56 @@ Anežka grinste. “Es gibt da dieses Industriegebiet, in dem einige Fabriken le
 
 ---
 
-[...]
+Am nächsten Abend waren sie wieder im Park. Am Abend darauf auch. Bis auf vereinzelte
+Spaziergänger sahen sie keine Menschenseele, und erst recht keinen Lieferwagen. Siobhan
+begann zu zweifeln, ob die Sache nicht doch ein einmaliges Ereignis gewesen war, doch
+Anežka schien sicher, dass sie die beiden Umweltverschmutzer - oder Kollegen von ihnen -
+wiedersehen würden. Also schmiedeten sie Pläne und trafen Vorbereitungen. Und
+tatsächlich, am dritten Abend nach dem unerwarteten Besuch hob Anežka mitten im Gespräch
+die Hand und bedeutete Siobhan, leise zu sein. 
 
-Sie gingen zurück zum Lieferwagen. Anežka setzte sich ans Steuer. Siobhan kletterte auf
-den Beifahrersitz und reichte ihr den Schlüssel. Als Anežka den Motor anließ, drangen
-wieder Stimmen aus dem Laderaum, diesmal begleitet von klopfenden Geräuschen. Siobhan
-versuchte, beides zu ignorieren, genau wie die Stimme in ihrem Kopf, die sie anschrie,
-diesen Wahnsinn sofort abzubrechen. Sie hatte ihre Entscheidung getroffen. Sie musste
-jetzt ruhig bleiben und das Beste daraus machen.
+“Ich glaube, es ist so weit.” Sie legte den Kopf schief. “Ja, das ist der Lieferwagen.”
 
-“Wenn wir ein Gebäude gefunden haben, wie bekommen wir die beiden dort hinein?”
+Siobhans Herz schlug schneller. Es war so weit. Jetzt würden sie es diesen Konzernern
+zeigen. Fast gleichzeitig kamen ihr Bedenken. Was, wenn die Aktion furchtbar schief
+gehen würde? Noch war es nicht zu spät, alles wieder abzublasen. Doch wenn sie jetzt
+einen Rückzieher machte, würde sie es sich ein Leben lang vorwerfen. Hier war ihre
+Chance, etwas zu tun, und sie würde sie nutzen. Sie sah Anežka an, und die
+Entschlossenheit in ihrem Gesicht bestärkte Siobhan in ihrer Entscheidung.
 
-Anežka hielt ihren Blick auf die Straße gerichtet. Sie wirkte vollkommen ruhig.
-Vielleicht war sie ähnliche Situationen von ihrer Arbeit gewohnt. “Mach das
-Handschuhfach auf.”
+“Dann los”, flüsterte sie.
 
-Siobhan öffnete die Klappe und riss die Augen auf. “Hier sind zwei Pistolen drin.”
+Anežka nickte und schulterte den Rucksack mit der Ausrüstung, die sie besorgt hatte. Sie
+ließ sich vom Ast gleiten, auf dem sie saß. Siobhan folgte ihr. Der Lieferwagen war
+jetzt zu sehen. Zusammen kletterten sie den Baum hinunter und huschten geduckt zu einem
+Gebüsch in der Nähe. Sie warteten, bis das Fahrzeug zum Stehen gekommen war, nur wenige
+Meter von der Stelle, an der es beim letzten Mal geparkt hatte. Die Türen öffneten sich,
+und wieder kamen zwei Gestalten heraus. In der Dunkelheit war es unmöglich, sicher zu
+sein, aber Siobhan meinte, dass es die selben wie beim letzten Mal waren. Sie gingen zur
+Seitentür. Als die beiden ihnen den Rücken zu gedreht hatten, gab Anežka das Zeichen und
+sprintete los. Siobhan folgte ihr. Im Laufen fasste sie an ihre Hüfte, wo sie den Taser
+trug, den Anežka besorgt hatte. Fünf Meter von den zwei Personen entfernt blieb sie
+stehen, zog den Taser, zielte und drückte ab. Eine Sekunde später ging eine der
+Gestalten zu Boden, von Stromstößen geschüttelt. Die andere Gestalt fuhr herum.
+“Katashi?” Siobhan registrierte, dass es eine Frauenstimme war, doch sie hatte keine
+Zeit, darüber nachzudenken. Im selben Moment hatte Anežka die zweite Person erreicht und
+zu Boden gerissen. Siobhan ließ den Taser fallen und rannte weiter. Der Mann, den sie
+getroffen hatte - anscheinend hieß er Katashi - begann sich wieder zu regen. Eilig
+fummelte Siobhan die Handschellen hervor, die sie auch von Anežka hatte, und suchte die
+Handgelenke des Mannes. Anežka hatte ihre Gegnerin bereits überwältigt. Sie kam zu
+Siobhan und half ihr, Katashi fertig zu fesseln und zu knebeln. Anežka tastete ihn kurz
+ab und nahm ihm eine Pistole ab, die in einem Schulterhalfter steckte. Gemeinsam packten
+sie ihn und hievten ihn in den Lieferwagen. Dann wandten sie sich der Frau zu. Diese
+wand sich zwar deutlich mehr, war jedoch kleiner und leichter. Sie wuchteten auch sie in
+den Lieferwagen, und Anežka schlug die Seitentür zu.
 
-“Gut. Dann sind sie vermutlich unbewaffnet, oder haben allenfalls Messer. Und ich traue
-mich wetten, dass sie damit nicht so gut umgehen können wie ich. Du schnappst dir eine
-der Pistolen...”
+“So weit, so gut.”
 
-“Was?!”
-
-“... und dann eskortieren wir sie einfach aus dem Wagen ins Gebäude.”
-
-Siobhan erschien das alles lange nicht so einfach, wie Anežka es darstellen wollte. Was,
-wenn die beiden sich wehrten? Oder versuchten, weg zu laufen? Sollte sie etwa auf sie
-schießen?
+Anežka setzte sich ans Steuer. Siobhan kletterte auf den Beifahrersitz. Als Anežka den
+Motor anließ, drangen gedämpfte Stimmen aus dem Laderaum, begleitet von klopfenden
+Geräuschen. Siobhan versuchte, beides zu ignorieren, genau wie die leise Stimme in ihrem
+Kopf, die ihr riet, die ganze Aktion sofort abzubrechen. Nein, sie hatte ihre
+Entscheidung getroffen. Sie musste jetzt ruhig bleiben und das Beste daraus machen.
 
 Sie fuhren die Aresallee nach Westen und bogen dann rechts ab auf die Skyllabrücke. Auf
 der anderen Seite des Tey begann das Industriegebiet. Einige Gebäude waren bereits in
@@ -198,56 +220,46 @@ Grundstücks, das von Stacheldrahtzaun umgeben war. Sie drehte eine Runde zwisch
 offensichtlich leer stehenden Gebäuden, fuhr dann durch ein offenes Tor in eine Halle
 und brachte das Fahrzeug zum Stehen.
 
-“Denk an die Pistole.” Anežka machte eine Kopfbewegung zum Handschuhfach. “Und dann geh
-zum Tor, und schau, ob du es schließen kannst.”
+Anežka machte eine Kopfbewegung zum Tor. “Schau, ob du es schließen kannst.”
 
-Siobhan versuchte, nicht zu viel darüber nachzudenken. Sie nahm eine der Waffen und lief
-zum Eingang der Halle. Sie fand einen grünen Knopf mit einem Pfeil, der nach unten
-zeigte. Als sie ihn drückte, fing tatsächlich das Rolltor an, sich nach unten zu
-bewegen. Während sie zurück zum Fahrzeug ging, wurde es immer dunkler in der Halle. Als
-das Tor mit einem Rumpeln auf den Boden traf, konnte sie kaum noch die Hand vor Augen
-sehen.
+Siobhan lief zum Eingang der Halle. Sie fand einen grünen Knopf mit einem Pfeil, der
+nach unten zeigte. Als sie ihn drückte, fing tatsächlich das Rolltor an, sich nach unten
+zu bewegen. Während sie zurück zum Fahrzeug ging, wurde es immer dunkler in der Halle.
+Als das Tor mit einem Rumpeln auf den Boden traf, konnte sie kaum noch die Hand vor
+Augen sehen. Sie nahm das Nachtsichtgerät und die Pistole aus dem Rucksack, den Anežka
+auf die Sitzbank gelegt hatte.
 
-Anežka winke sie zur Seitentür. Sie hatte in jeder Hand eines ihrer Messer. “Du schließt
-auf, ich hole einen von ihnen heraus, und du machst wieder zu. Dann komme ich wieder und
-wir machen das gleiche nochmal.”
+Anežka wartete an der Seitentür auf sie. Sie hatte in jeder Hand eines ihrer Messer. “Du
+schließt auf, ich hole einen von ihnen heraus, und du machst wieder zu. Dann komme ich
+wieder und wir machen das gleiche nochmal. Du musst nur ein bisschen aufpassen, dass der
+zweite Typ keinen Unsinn macht, während ich den ersten sichere.”
 
-“Ich kann kaum etwas sehen!” protestierte Siobhan.
-
-Anežka tippte sich an die Schläfe. “Überlass das mir und meinem Nachtsicht-Implantat. Du
-musst nur ein bisschen aufpassen, dass der zweite Typ keinen Unsinn macht, während ich
-den ersten sichere.”
-
-“Und wenn er doch Unsinn macht?”
-
-“Schieß in die Luft. Dann wird er sich es nochmal überlegen.”
-
-Siobhan wollte weiter protestieren, doch sie ahnte, dass es keinen Sinn hatte. Es war zu
-spät, um jetzt abzubrechen. Sie schluckte und nickte. Mit der Pistole in der rechten
-Hand schloss sie mit der linken Hand die Seitentür auf und zog sie nach hinten. Sofort
-stürmte Anežka in den Innenraum, legte einem der Männer ein Messer an die Kehle und
-zerrte ihn nach draußen.
+Siobhan nickte. Mit der Pistole in der rechten Hand schloss sie mit der linken Hand die
+Seitentür auf und zog sie nach hinten. Sofort stürmte Anežka in den Innenraum, legte dem
+Mann ein Messer an die Kehle und zerrte ihn nach draußen.
 
 “Los, raus! Beweg dich!”
 
-Schemenhaft sah Siobhan den zweiten Gefangenen einen Schritt weiter hinten im
-Lieferwagen stehen. Sie knallte die Seitentür zu, bevor er in die Gänge kommen konnte,
-und drehte den Schlüssel um. Anežka verschwand in der Dunkelheit. Siobhan richtete
-zitternd die Waffe auf den Lieferwagen und wartete. Kein Laut drang aus dem Fahrzeug.
-Die Stille war kaum zu ertragen. Warum versuchte der andere nicht, heraus zu kommen?
-Warum sagte er nicht irgendetwas, und wenn es nur Beschimpfungen wären? Nach endlosen
-Minuten kam Anežka zurück. “OK”, flüsterte sie, und Siobhan schloss erneut die Tür auf
-und öffnete sie. Wieder sprang Anežka in den Laderaum und zog auch die zweite Person
-heraus. An der Schwelle schien sie zu stolpern, richtete sich dann aber plötzlich wieder
-auf. Siobhan konnte in der Dunkelheit kaum etwas erkennen, doch sie hörte Anežka
-grunzen. Dann stieß der Gefangene einen halb unterdrückten Schrei aus. Die Stimme klang
-heller, als Siobhan erwartet hatte. War es eine Frau? “Keine Dummheiten”, knurrte
-Anežka. Dann bewegten sich die beiden in die gleiche Richtung, in die Anežka vorhin
-verschwunden war. “Komm mit”, raunte sie Siobhan zu. Vorsichtig folgte Siobhan den
-beiden an den Rand der Halle, durch eine offene Tür und einen Korridor entlang. Sie
-betraten eine weitere Halle, in der es ebenfalls stockdunkel war. Anežka hantierte einen
-Moment, dann zog sie Siobhan zurück durch die Tür und schloss diese. Sie gingen durch
-den Korridor zurück in die erste Halle.
+[...]
+
+Schemenhaft sah Siobhan die zweite Gefangene einen Schritt weiter hinten im Lieferwagen
+stehen. Sie knallte die Seitentür zu, bevor sie in die Gänge kommen konnte, und drehte
+den Schlüssel um. Anežka verschwand in der Dunkelheit. Siobhan richtete zitternd die
+Waffe auf den Lieferwagen und wartete. Kein Laut drang aus dem Fahrzeug. Die Stille war
+kaum zu ertragen. Warum versuchte der andere nicht, heraus zu kommen? Warum sagte er
+nicht irgendetwas, und wenn es nur Beschimpfungen wären? Nach endlosen Minuten kam
+Anežka zurück. “OK”, flüsterte sie, und Siobhan schloss erneut die Tür auf und öffnete
+sie. Wieder sprang Anežka in den Laderaum und zog auch die zweite Person heraus. An der
+Schwelle schien sie zu stolpern, richtete sich dann aber plötzlich wieder auf. Siobhan
+konnte in der Dunkelheit kaum etwas erkennen, doch sie hörte Anežka grunzen. Dann stieß
+der Gefangene einen halb unterdrückten Schrei aus. Die Stimme klang heller, als Siobhan
+erwartet hatte. War es eine Frau? “Keine Dummheiten”, knurrte Anežka. Dann bewegten sich
+die beiden in die gleiche Richtung, in die Anežka vorhin verschwunden war. “Komm mit”,
+raunte sie Siobhan zu. Vorsichtig folgte Siobhan den beiden an den Rand der Halle, durch
+eine offene Tür und einen Korridor entlang. Sie betraten eine weitere Halle, in der es
+ebenfalls stockdunkel war. Anežka hantierte einen Moment, dann zog sie Siobhan zurück
+durch die Tür und schloss diese. Sie gingen durch den Korridor zurück in die erste
+Halle.
 
 “Der Bastard hat versucht, abzuhauen.”
 
