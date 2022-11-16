@@ -231,8 +231,8 @@ auf die Sitzbank gelegt hatte.
 
 Anežka wartete an der Seitentür auf sie. Sie hatte in jeder Hand eines ihrer Messer. “Du
 schließt auf, ich hole einen von ihnen heraus, und du machst wieder zu. Dann komme ich
-wieder und wir machen das gleiche nochmal. Du musst nur ein bisschen aufpassen, dass der
-zweite Typ keinen Unsinn macht, während ich den ersten sichere.”
+wieder und wir machen das gleiche nochmal. Du musst nur ein bisschen aufpassen, dass die
+zweite keinen Unsinn macht, während ich den ersten sichere.”
 
 Siobhan nickte. Mit der Pistole in der rechten Hand schloss sie mit der linken Hand die
 Seitentür auf und zog sie nach hinten. Sofort stürmte Anežka in den Innenraum, legte dem
@@ -240,20 +240,17 @@ Mann ein Messer an die Kehle und zerrte ihn nach draußen.
 
 “Los, raus! Beweg dich!”
 
-[...]
-
 Schemenhaft sah Siobhan die zweite Gefangene einen Schritt weiter hinten im Lieferwagen
 stehen. Sie knallte die Seitentür zu, bevor sie in die Gänge kommen konnte, und drehte
 den Schlüssel um. Anežka verschwand in der Dunkelheit. Siobhan richtete zitternd die
 Waffe auf den Lieferwagen und wartete. Kein Laut drang aus dem Fahrzeug. Die Stille war
-kaum zu ertragen. Warum versuchte der andere nicht, heraus zu kommen? Warum sagte er
+kaum zu ertragen. Warum versuchte die andere nicht, heraus zu kommen? Warum sagte sie
 nicht irgendetwas, und wenn es nur Beschimpfungen wären? Nach endlosen Minuten kam
 Anežka zurück. “OK”, flüsterte sie, und Siobhan schloss erneut die Tür auf und öffnete
 sie. Wieder sprang Anežka in den Laderaum und zog auch die zweite Person heraus. An der
 Schwelle schien sie zu stolpern, richtete sich dann aber plötzlich wieder auf. Siobhan
-konnte in der Dunkelheit kaum etwas erkennen, doch sie hörte Anežka grunzen. Dann stieß
-der Gefangene einen halb unterdrückten Schrei aus. Die Stimme klang heller, als Siobhan
-erwartet hatte. War es eine Frau? “Keine Dummheiten”, knurrte Anežka. Dann bewegten sich
+konnte kaum etwas erkennen, doch sie hörte Anežka grunzen. Dann stieß
+die Gefangene einen unterdrückten Schrei aus. “Keine Dummheiten”, knurrte Anežka. Dann bewegten sich
 die beiden in die gleiche Richtung, in die Anežka vorhin verschwunden war. “Komm mit”,
 raunte sie Siobhan zu. Vorsichtig folgte Siobhan den beiden an den Rand der Halle, durch
 eine offene Tür und einen Korridor entlang. Sie betraten eine weitere Halle, in der es
@@ -261,48 +258,30 @@ ebenfalls stockdunkel war. Anežka hantierte einen Moment, dann zog sie Siobhan 
 durch die Tür und schloss diese. Sie gingen durch den Korridor zurück in die erste
 Halle.
 
-“Der Bastard hat versucht, abzuhauen.”
+“Die dumme Kuh hat versucht, abzuhauen.”
 
 Schemenhaft sah Siobhan, wie Anežka ihre Hand untersuchte. “Bist du in Ordnung?”
 
-“Nur ein Kratzer”, winkte Anežka ab. “Was mir mehr Sorgen macht, ist, dass er eine
+“Nur ein Kratzer”, winkte Anežka ab. “Was mir mehr Sorgen macht, ist, dass sie eine
 Stichwunde an der Schulter abbekommen hat. Darum werden wir uns früher oder später
 kümmern müssen. Aber für den Moment sind sie erst mal verstaut. Ich habe sie an Rohre
-gefesselt. Mittelfristig sollten wir Handschellen besorgen, aber für den Moment reicht
-es so.”
+gefesselt.”
 
 Siobhan zwang sich, einmal tief durchzuatmen. Ihr Herz klopfte immer noch wie verrückt.
-“Und wie geht es jetzt weiter?”
+“Wie geht es jetzt weiter?”
 
 Anežka setzte sich mit einem Seufzer auf den Boden. “Jetzt lassen wir sie erst einmal
 eine Weile schmoren.”
 
 ---
 
-Sie gönnten sich eine kurze Verschnaufpause, dann sprang Anežka wieder auf. “Ich hole
-lieber gleich die Handschellen. Ich vertraue den Seilen nicht recht. Bleib du so lange
-hier und passe auf.”
-
-“Was? Alleine?” Siobhan fühlte sich schon jetzt nicht besonders wohl, aber alleine mit
-zwei Geiseln im Nebenraum hier zu bleiben war noch einmal eine Stufe schlimmer.
-
-“Ich fürchte, ja. Ganz sich selbst überlassen würde ich die beiden erst, wenn sie
-ordentlich fest gemacht sind. Ich würde ja selbst hier bleiben und aufpassen, aber du
-kannst schlecht zu mir in die Arbeit spazieren und Handschellen mitnehmen. Ich schon.”
-
-Siobhan schluckte. “Also gut. Aber beeile dich.”
-
-Anežka nickte und lief los. Sie ließ das Hallentor offen, so dass Siobhan zumindest
-nicht im Dunklen sitzen musste. Sie versuchte, sich irgendwie abzulenken, aber immer
-wieder begannen ihre Gedanken um ihre Situation und wie das Ganze wohl ausgehen würde zu
-kreisen. Endlich kam Anežka zurück. Sie zückte ihre Messer und verschwand noch einmal
-kurz in der anderen Halle. Dann verließen sie das Gebäude. Den Lieferwagen ließen sie
+Sie verschnauften kurz, dann verließen sie das Gebäude. Den Lieferwagen ließen sie
 zurück und gingen zu Fuß in Richtung Siobhans Wohnung. Der Himmel war immer noch
 bewölkt, und ein leichter Regen hatte eingesetzt. Es war weit nach Mitternacht. Im
 Industriegebiet waren die Straßen menschenleer. Erst als sie über die Brücke gingen,
 sahen sie vereinzelt Passanten und Fahrzeuge. Sie legten den Weg schweigend zurück. In
 der Wohnung angekommen ließ Anežka sich auf Siobhans Bett fallen. Siobhan setzte sich
-unruhig daneben. “So weit, so gut. Aber bist du sicher, dass die beiden niemand findet?”
+unruhig daneben. “Bist du sicher, dass die beiden niemand findet?”
 
 “Das Gelände ist offensichtlich verlassen und wartet darauf, umgebaut zu werden. Jetzt
 am Wochenende wird damit aber bestimmt nicht angefangen. Wir haben also mindestens zwei
@@ -312,7 +291,7 @@ hast du dir verdient.”
 
 Zögernd legte sich Siobhan neben ihre Freundin. “Du bleibst aber hier, ja?”
 
-“Klar. Und morgen sehen wir dann weiter.”
+“Klar. Und morgen nehmen wir die beiden in die Zange.”
 
 ---
 
