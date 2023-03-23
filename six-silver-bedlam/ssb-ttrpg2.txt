@@ -1,30 +1,56 @@
 # Six Silver Bedlam Storygen TTRPG
 
-Skill check: x d6, highest roll
+You start with a stealth of 6. In the course of the game you can lose or gain stealth. Running out of stealth means you are discovered (see below).
 
-6: gain 1 stealth
+## Assemble A Team
+
+1 Hacker
+2 Spy
+3 Sniper
+4 Demolitions
+5 Mechanic
+6 Medic
+
+You start out with one character. Pick or randomly determine their specialty. Then pick or randomly determine a number of characters you want to recruit. You need at least one character to attempt the run. You can recruit as many characters as you want, but you risk losing stealth or wounding other characters while recruiting them. For every character, roll 1d6 to determine what difficulty you face when recruiting them:
+
+1 track down (hacker)
+2 sneak out (spy)
+3 guard (sniper)
+4 break out (demolitions)
+5 repair (mechanic)
+6 patch up (medic)
+
+You can roll for all characters first and then determine the order in which you recruit them.
+
+Each character has skill 5 in their specialty and the base skill of 3 for all other checks. A character's effective skill can drop by being wounded or if you're discovered (see below).
+
+To recruit a character, make a skill check. If you have already recruited another character with a specialty that matches the difficulty, you can use their skill. Otherwise you use the base skill.
+
+Skill check: number of d6 equal to skill, highest roll counts
+
+Result:
+
+6: success, gain 1 stealth
 5: success
 4: success
 3: lose 1 stealth
 2: lose 1 stealth
 1: wounded
 
-Starting stealth 6
+# Wounds And First Aid
 
-## Assemble A Team
+A wounded character has -1 on their skill (4 for their specialty, 2 for other challenges). If a wounded character is wounded again, they are dead or incapacitated. You can not use them any more in this game.
 
-Hacker
-Spy
-Sniper
-Demolitions
-Mechanic
-Medic
-
-track down (hacker)
-sneak out (spy)
-guard (sniper)
-break out (demolitions)
-repair (mechanic)
-patch up (medic)
+Once between two recruitments, or later between two challenges in the run, you can attempt to give first aid to a character. Pick a character that tries it and perform a skill check on the medic specialty. If the character is a medic you can use their skill (5, or 4 when wounded), otherwise you use the base skill (3, or 2 when wounded). Success means the character is no longer wounded. If you roll a 6 you do not gain 1 stealth, it just means you have successfully patched up the character. You cannot gain stealth by giving first aid. However, you can lose stealth (on a 2 or 3), and on a 1 the first aid is botched so badly that the character gets worse and is out of the game.
 
 ## The Run
+
+The run consists of 6 challenges. For each challenge, roll on the character table to determine what specialty is needed to resolve it. If you roll a 6, pick any of the other 5 specialties. (Medics are special, they don't get regular challenges.) Then pick a character that will attempt to resolve the challenge. If the character has the specialty that is required for the challenge you can use their skill to resolve the check, otherwise you use the base skill (3). Don't forget to subtract 1 if the character is wounded.
+
+## Discovery
+
+If your stealth reaches 0 at any time then you are discovered. You have to fight off enemies while trying to complete the mission. Every skill check is performed with a malus on -1 on the skill, i.e. you use 1d6 less than you otherwise would. If a skill check would result in losing stealth then the character is wounded instead (you don't have any stealth left to lose).
+
+### Outcome
+
+If you make it through all challenges with at least one character left, you win. If all character go down you lose.
