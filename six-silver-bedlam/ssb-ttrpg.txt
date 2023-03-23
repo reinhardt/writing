@@ -1,0 +1,54 @@
+# Six Silver Bedlam - Solo TTRPG
+
+2-5: characters
+Aces: suspects
+J, Q, K: clues
+6-10: locations
+
+hearts: Norns
+diamonds: Zhong Yi
+clubs: Scorpion Systems
+spades: CP6
+
+## Locations
+
+6: bar, pub
+7: security force
+8: church, temple
+9: shop
+10: public institution
+
+Labyrinth
+Vitali's
+Brauhaus
+Crocodile
+
+Cathedral
+Mosque
+Buddhist Temple
+Synagogue
+
+arms dealer
+pharmacy
+laundromat
+pawn shop
+
+library
+bank
+town hall
+harbour
+
+## Characters
+
+>=X: witness: draw 2 clues
+<X: confrontation: 
+
+A: suspect: discard/confirm 1 clue with matching suit (or lose 1standing and take suspect in hand)
+
+
+♠️3
+♦️-3
+♣️4
+♥️6
+
+👻5

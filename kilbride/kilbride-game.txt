@@ -1,0 +1,25 @@
+1 Brandon MacKellan
+2 Catriona O'Toole
+3 Rev. Blackwell
+4 Elizabeth Ferguson
+5 Glenn MacDonald
+6 Sarah Blaire
+
+Gordon Douglas
+
+7 Pistol
+8 Stone sculpture
+9 Hunting knife
+10 Fire poker
+11 Length of rope
+12 Rat poison
+13 Hatchet
+
+14 Harbour
+15 Church yard
+16 Beach
+17 Riverbank
+18 Abandoned house
+19 Hilltop
+
+20 (Victim)

@@ -1,0 +1,30 @@
+# Six Silver Bedlam Storygen TTRPG
+
+Skill check: x d6, highest roll
+
+6: gain 1 stealth
+5: success
+4: success
+3: lose 1 stealth
+2: lose 1 stealth
+1: wounded
+
+Starting stealth 6
+
+## Assemble A Team
+
+Hacker
+Spy
+Sniper
+Demolitions
+Mechanic
+Medic
+
+track down (hacker)
+sneak out (spy)
+guard (sniper)
+break out (demolitions)
+repair (mechanic)
+patch up (medic)
+
+## The Run
