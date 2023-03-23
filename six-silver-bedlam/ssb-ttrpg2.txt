@@ -1,8 +1,10 @@
 # Six Silver Bedlam Storygen TTRPG
 
-You start with a stealth of 6. In the course of the game you can lose or gain stealth. Running out of stealth means you are discovered (see below).
+You start with a stealth of 6. In the course of the game you can lose stealth. Running out of stealth means you are discovered (see below).
 
 ## Assemble A Team
+
+There are six characters, each with a different speciality:
 
 1 Hacker
 2 Spy
@@ -11,7 +13,9 @@ You start with a stealth of 6. In the course of the game you can lose or gain st
 5 Mechanic
 6 Medic
 
-You start out with one character. Pick or randomly determine their specialty. Then pick or randomly determine a number of characters you want to recruit. You need at least one character to attempt the run. You can recruit as many characters as you want, but you risk losing stealth or wounding other characters while recruiting them. For every character, roll 1d6 to determine what difficulty you face when recruiting them:
+You start out with one character. This is your main character. Keeping them alive and healthy may pay off later in the finale. Pick or randomly determine their speciality. You can recruit up to three more characters, making a total team of four, but you risk losing stealth or wounding other characters while recruiting them.
+
+For every character except the main character, roll 1d6 to determine what difficulty you face when recruiting them (in parentheses is the speciality required to overcome the difficulty):
 
 1 track down (hacker)
 2 sneak out (spy)
@@ -22,35 +26,55 @@ You start out with one character. Pick or randomly determine their specialty. Th
 
 You can roll for all characters first and then determine the order in which you recruit them.
 
-Each character has skill 5 in their specialty and the base skill of 3 for all other checks. A character's effective skill can drop by being wounded or if you're discovered (see below).
+To recruit a character, make a skill check (see below). If you have already recruited another character with a speciality that matches the difficulty, you can use their skill. Otherwise you use the base skill. A success means the character has been successfully recruited. If you get a failure you can retry as many times as you like.
 
-To recruit a character, make a skill check. If you have already recruited another character with a specialty that matches the difficulty, you can use their skill. Otherwise you use the base skill.
-
-Skill check: number of d6 equal to skill, highest roll counts
-
-Result:
-
-6: success, gain 1 stealth
-5: success
-4: success
-3: lose 1 stealth
-2: lose 1 stealth
-1: wounded
-
-# Wounds And First Aid
-
-A wounded character has -1 on their skill (4 for their specialty, 2 for other challenges). If a wounded character is wounded again, they are dead or incapacitated. You can not use them any more in this game.
-
-Once between two recruitments, or later between two challenges in the run, you can attempt to give first aid to a character. Pick a character that tries it and perform a skill check on the medic specialty. If the character is a medic you can use their skill (5, or 4 when wounded), otherwise you use the base skill (3, or 2 when wounded). Success means the character is no longer wounded. If you roll a 6 you do not gain 1 stealth, it just means you have successfully patched up the character. You cannot gain stealth by giving first aid. However, you can lose stealth (on a 2 or 3), and on a 1 the first aid is botched so badly that the character gets worse and is out of the game.
+You can stop recruiting at any time if you don't want to risk more side effects. You have to stop recruiting when you have a total of four characters, including your main character. Should a character die (see below) during the recruiting phase they still count towards the limit of four.
 
 ## The Run
 
-The run consists of 6 challenges. For each challenge, roll on the character table to determine what specialty is needed to resolve it. If you roll a 6, pick any of the other 5 specialties. (Medics are special, they don't get regular challenges.) Then pick a character that will attempt to resolve the challenge. If the character has the specialty that is required for the challenge you can use their skill to resolve the check, otherwise you use the base skill (3). Don't forget to subtract 1 if the character is wounded.
+The run consists of 6 challenges. For each challenge, roll on the character table to determine what speciality is needed to resolve it. If you roll a 6, pick any of the other 5 specialties. (Medics are special, they don't get regular challenges.) Then pick a character that will attempt to resolve the challenge. If the character has the speciality that is required for the challenge you can use their skill to resolve the check, otherwise you use the base skill (3). Don't forget to subtract any penalties.
+
+If the check fails, you have to retry, either with the same character or a different one. If the check succeeds you move on to the next challenge.
+
+## Skills And Checks
+
+Each character has skill 3 in their speciality and the base skill of 2 for all other checks. A character's effective skill can drop by being wounded or if you're discovered (see below). An effective skill of 0 means the character can not attempt a skill check.
+
+Roll a number of d6 equal to the skill. The highest roll counts. A 5 or higher means success. Both successes and failures can have side effects as follows:
+
+6: success
+5: success, but lose 1 stealth
+4: lose 1 stealth
+3: lose 1 stealth
+2: wounded
+1: wounded
+
+## Wounds And First Aid
+
+A wounded character does not suffer any penalties, but if they are wounded again, they are incapacitated. You can not use them to perform skill checks until they receive first aid.
+
+Once after a successful skill check (i.e. a recruitment or a challenge), you can attempt to give first aid to a character. Pick a character that tries it and make a skill check on the medic speciality. If the character is a medic you can use their skill, otherwise you use the base skill. Success returns a wounded character back to a healthy state (i.e. the character is no longer wounded), or an incapacitated character back to the wounded state. Like in a challenge you can lose stealth on a 3 or 4. On a 1 or 2 it is not the character who makes the skill check that is wounded. Instead the first aid is botched. If the character was wounded they are now incapacitated. If the character was incapacitated they are now dead and out of the game.
+
+Note: The character performing the first aid can also be the wounded character themselves.
 
 ## Discovery
 
-If your stealth reaches 0 at any time then you are discovered. You have to fight off enemies while trying to complete the mission. Every skill check is performed with a malus on -1 on the skill, i.e. you use 1d6 less than you otherwise would. If a skill check would result in losing stealth then the character is wounded instead (you don't have any stealth left to lose).
+If your stealth reaches 0 at any time then you are discovered. You have to fight off enemies while trying to complete the mission. From now on, any skill check that would result in losing stealth causes the character to be wounded instead (you don't have any stealth left to lose).
 
-### Outcome
+In addition, the tough challenges in the finale get an additional -1 penalty if you've been discovered (see below).
 
-If you make it through all challenges with at least one character left, you win. If all character go down you lose.
+## The Finale
+
+If at least one character makes it through the run, then it's time for the finale. It consists of three tough challenges, each of which requires at least one skill check. The type of the tough challenges is your main character's speciality. Pick one character who takes all of the tough challenges. We call them the finale character. If your main character is still alive and well, this is their chance to shine! You can only switch the finale character if the current one dies while taking the touch challenges.
+
+A skill check for a tough challenge is made at a -1 penalty, i.e. you roll one die fewer than you usually would. If you have been discovered (your stealth is at 0) the penalty is -2. However, the team can find ways to make things easier for the finale character.
+
+Before each tough challenge there are two side challenges. Roll 2d6 to determine their types. This time a 6 doesn't mean you get to pick, but an actual medical challenge. You may pass at either or both of the side challenges. Passing means failure but doesn't incur any side effects. To attempt a side challenge, pick any of the characters on your team and make a skill check (at no penalty). You may (but do not have to) retry on failure. You can retry multiple times, until you either succeed or decide to give up. Each side challenge with a success removes one penalty from the following tough challenge. If you haven't been discovered yet you need only one successful side challenge to avoid the penalty. If your stealth is at 0 you need two successes to eliminate all penalties.
+
+After the side challenges are resolved, make the skill check for the tough challenge. On success, you have the usual chance to do one first aid attempt. Then proceed to the next tough challenge.
+
+If you fail a tough challenge check, you have to retry the tough challenge, but not the side challenges. Their successes still count.
+
+If the finale character manages three successes in the tough challenges, you win the game. Congratulations!
+
+If all characters are dead or incapacitated, you lose.
