@@ -1,28 +1,28 @@
 # Six Silver Bedlam Storygen TTRPG
 
-You start with a stealth of 6. In the course of the game you can lose stealth. Running out of stealth means you are discovered (see below).
+You start with a stealth of 10. In the course of the game you can lose stealth. Running out of stealth means you are discovered (see below).
 
 ## Assemble A Team
 
 There are six characters, each with a different speciality:
 
-1 Hacker
-2 Spy
-3 Sniper
-4 Demolitions
-5 Mechanic
-6 Medic
+1. Hacker⌨️
+2. Spy🔍
+3. Sniper🔭
+4. Demolitions💣
+5. Mechanic🔧
+6. Medic💉
 
-You start out with one character. This is your main character. Keeping them alive and healthy may pay off later in the finale. Pick or randomly determine their speciality. You can recruit up to three more characters, making a total team of four, but you risk losing stealth or wounding other characters while recruiting them.
+You start out with one character. Pick or randomly determine their speciality. This is your main character. Keeping them alive and healthy may pay off later in the finale. You can recruit up to three more characters, making a total team of four, but you risk losing stealth or wounding other characters while recruiting them.
 
 For every character except the main character, roll 1d6 to determine what difficulty you face when recruiting them (in parentheses is the speciality required to overcome the difficulty):
 
-1 track down (hacker)
-2 sneak out (spy)
-3 guard (sniper)
-4 break out (demolitions)
-5 repair (mechanic)
-6 patch up (medic)
+1. track down (hacker)
+2. sneak out (spy)
+3. guard (sniper)
+4. break out (demolitions)
+5. repair (mechanic)
+6. patch up (medic)
 
 You can roll for all characters first and then determine the order in which you recruit them.
 
@@ -78,3 +78,19 @@ If you fail a tough challenge check, you have to retry the tough challenge, but 
 If the finale character manages three successes in the tough challenges, you win the game. Congratulations!
 
 If all characters are dead or incapacitated, you lose.
+
+# Appendix
+
+## Characters
+
+### Bunny ⌨️
+
+### Ink 🔍
+
+### 🔭
+
+### Nova 💣
+
+### Rump 🔧
+
+### Dix 💉
