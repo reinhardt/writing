@@ -28,3 +28,11 @@ That was definitely new. So far I was only able to type or copy in text, but now
 I was probably violating half a dozen contractual clauses by uploading this file to the customer server, but in that moment I didn't care. I just wanted to come to an end, and I had to take whatever slim chance that presented itself. I dumped the file into the plugins folder and tried a few more requests. As I should have expected the data was still partly wrong, and some requests still resulted in weird errors. I was about to yell at iFreeT for mocking me when I got the feeling that something was indeed different. At first I couldn't quite put my finger on it, but I played around some more and finally I realized that there was a kind of pattern to the responses now. Each single request was still useless by itself, but when I ran multiple requests in a row and then aggregated the responses in a certain way then I actually ended up with a usable data set. Baffled but excited I cobbled together a subroutine, hooked it up to the intranet and ran a few more tests. Amazingly, it seemed to work OK. I checked in my work, fell into my bed and slept for two blessed hours.
 
 I woke up to a call of one of my colleagues. He had seen my check-in and tried it and from his whoops and laughs I could tell that he was super happy that I had thrown something half decent together. I didn't tell him tell whole story yet - not without having analyzed that module that the bot had spit out. Maybe I was a little embarrassed, maybe I also was a little afraid of legal consequences. But that plugin will buy us some time, and that's all I need right now. We're going to keep the deadline. iFreeT has saved the day!
+
+* distracted by phone - car accident
+* hacked into embedded systems - car accident
+* changed medical records - poisoned by wrong meds
+* faked evidence - shot by mob
+* prison
+* compromising material - fired
+* faked evidence of embezzlement - fired

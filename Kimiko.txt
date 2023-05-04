@@ -31,3 +31,29 @@ Kimiko winke ab. "Ich hoffe jedenfalls, dass ich nicht mit meinem Leben für etw
 "'Nicht heute'", zitierte Anita noch einmal und griff nach ihrer Handtasche, um die Six Silver Bedlam Hefte heraus zu holen. Sie reichte sie Kimiko, die sofort anfing, im ersten herum zu blättern - aber, wie Anita auffiel, nicht weiter als bis zur Mitte.
 "Danke!" strahlte sie und zog die Nase kraus. "Ich bin schon so gespannt."
 Gott, ist das süß, wenn sie das mit der Nase macht, dachte Anita.
+
+
+Two geeky girls save the world from dark magic with the help of comic books.
+
+Anita meets Kimiko in a comic book shop where they are attacked by a magical creature and barely escape.
+Anita discovers that the necklace she got from her mother protects her against magic.
+They learn that magic had been banished from the world to protect it from an evil mage but it is now returning.
+They learn that another (or the same) evil mage is threatening to enslave humanity and that they have to stop her.
+They defeat the evil mage and save mankind.
+
+Stasis: Anita is a young slightly geeky woman. She is very shy and has low self esteem.
+Trigger: She meets Kimiko in a comic book shop where they are attacked by a magical creature and barely escape.
+Quest: Kimiko has a comic book that features a very similar creature. She wants to find out what is going on. Anita resists at first but then agrees to investigate.
+Bolt: They discover more issues of the comic but then they are stolen.
+Shift: At first they view all the magical things they discover as evil, but then they find a powerful sword and they realise that magic can be used for good as well as evil.
+Defeat: They attack the adversary but have to retreat, losing the sword in the process.
+Power: Anita is becoming a powerful mage and gains self esteem.
+Resolution: Together they recover the sword and defeat the evil mage. 
+
+Was sie (heraus-)finden:
+
+* Comic (6 Ausgaben von 8 geplanten)
+* Anitas Halskette schützt vor Magie
+* Alter Besitzer des Comicladens
+* Enkelin des Comicautors
+* magisches Schwert
