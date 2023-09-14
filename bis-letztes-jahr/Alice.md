@@ -10,17 +10,19 @@ description: |
 Alice ließ den Stift fallen und ging zum Tresen. Sie lächelte der Barista zu und trug
 die hohe Tasse mit der Sahnehaube zu ihrem Tisch. Sie schob das Mathebuch etwas zur
 Seite, um Platz für den Kaffee zu schaffen. Bis jetzt waren die Hausaufgaben durchaus
-machbar, aber sie hatte gehört, dass sich das noch ändern würde. So oder so half es, in
-der richtigen Atmosphäre mit sicherer Koffein- und Zuckerzufuhr an die Sache heran zu
-gehen. Sie wollte sich gerade wieder setzen und noch ein paar Polynome zerlegen, da fiel
-ihr ein Junge auf, der zwei Tische weiter saß. Auch er hatte Bücher und Papier vor sich.
-Er war über einen Schreibblock gebeugt, was seine schwarzen Haare dazu veranlasste, ihm
-in die Augen zu rutschen. Ihr Herz machte einen kleinen Sprung, als sie sah, dass er ein
-*Drag Stettson* T-Shirt trug. *Stettson* waren seit ein paar Monaten Alice' absolute
-Lieblingsband. Sie glaubte, auf seinem Tisch ebenfalls ein Höhere-Mathematik-Buch liegen
-zu sehen. Kurzerhand nahm sie ihre Kaffetasse und ging in seine Richtung. Als sie näher
-kam, konnte sie zum einen erkennen, dass er tatsächlich das gleiche Mathematikbuch hatte
-wie sie, und zum anderen, dass er ziemlich süß aussah.
+machbar, aber sie hatte gehört, dass sich das noch ändern würde. So oder so
+half es, in der richtigen Atmosphäre mit sicherer Koffein- und Zuckerzufuhr an
+die Sache heranzugehen. Sie wollte sich gerade wieder setzen und noch ein paar
+Polynome zerlegen, da fiel ihr ein Junge auf, der zwei Tische weiter saß. Auch
+er hatte Bücher und Papier vor sich. Er war über einen Schreibblock gebeugt,
+was seine schwarzen Haare dazu veranlasste, ihm in die Augen zu rutschen. Ihr
+Herz machte einen kleinen Sprung, als sie sah, dass er ein *Drag Stettson*
+T-Shirt trug. *Stettson* waren seit ein paar Monaten Alice' absolute
+Lieblingsband. Sie glaubte, auf seinem Tisch ebenfalls ein
+Höhere-Mathematik-Buch liegen zu sehen. Kurzerhand nahm sie ihre Kaffetasse und
+ging in seine Richtung. Als sie näher kam, konnte sie zum einen erkennen, dass
+er tatsächlich das gleiche Mathematikbuch hatte wie sie, und zum anderen, dass
+er ziemlich süß aussah.
 
 “Aufgabe vier ist eine Fangfrage. Da lässt sich gar nichts zerlegen, wenn du mich
 fragst.”
@@ -51,12 +53,12 @@ Die Wolken wurden dunkler. Alice hoffte, dass das Wetter noch halten würde, bis
 Türen geöffnet wurden. Sie hatte keine Jacke mitgenommen, damit sie nichts an der
 Garderobe abgeben musste. Das Wetter konnte natürlich die erwartungsvolle Stimmung nicht
 trüben, die unter den Konzertbesuchern herrschte. Es waren noch zwanzig Minuten bis zum
-Einlass und zehn Minuten nach dem vereinbarten Treffpunkt. Gerade wollte Alice zum
-wiederholten Mal auf ihr Handy schauen, da sah sie Robert endlich die Straße herunter
-kommen. Ein freudiges Grinsen schlich sich auf ihr Gesicht. Das Date in der Eisdiele,
-das sie bei seiner Pseudo-Wette gewonnen hatte, war super gewesen. Sie hatten sich sehr
-gut verstanden und Alice hatte sich noch mehr als sowieso schon auf das
-*Drag-Stettson*-Konzert gefreut.
+Einlass und zehn Minuten nach dem vereinbarten Treffpunkt. Gerade wollte Alice
+zum wiederholten Mal auf ihr Handy schauen, da sah sie Robert endlich die
+Straße herunterkommen. Ein freudiges Grinsen schlich sich auf ihr Gesicht. Das
+Date in der Eisdiele, das sie bei seiner Pseudo-Wette gewonnen hatte, war super
+gewesen. Sie hatten sich sehr gut verstanden und Alice hatte sich noch mehr als
+sowieso schon auf das *Drag-Stettson*-Konzert gefreut.
 
 “Tut mir Leid, dass ich zu spät bin!”
 
