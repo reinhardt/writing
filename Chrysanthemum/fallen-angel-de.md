@@ -7,3 +7,22 @@ Plötzlich fiel ihr ein Lichtpunkt am Himmel auf. Ein Flugzeug? Dafür war er et
 
 Mit klopfendem Herzen stieg Silk die Leiter hinunter. Tausend Gedanken schossen ihr durch den Kopf. Hatte sie wirklich gerade ein Raumschiff abstürzen gesehen? Hatte es einen Defekt gehabt? Oder hatte im Orbit ein Kampf stattgefunden? War Besatzung an Bord? Gab es Überlebende? Würden sie Hilfe benötigen? War es ein Schiff der Besatzer oder des Widerstandes? Eigentlich war sie hier hinaus gezogen, um dem Konflikt zu entgehen. Sollte sie jetzt zur Absturzstelle gehen, auf die Gefahr hin, doch wieder hinein gezogen zu werden? Noch während sie sich die Frage stellte, war ihr klar, dass sie genau das tun würde. Allein ihre Neugier würde ihr keine Ruhe lassen. Aber noch schwerer wog der Gedanke, dass jemand verletzt und hilflos sein könnte. Sie sah noch einmal in die Richtung, in der sie dass Objekt fallen gesehen hatte. Es konnte nur ein paar Kilometer entfernt sein. In einer oder zwei Stunden müsste sie es erreicht haben. Sie packte einen kleinen Rucksack mit einer Wasserflasche und einem Erste-Hilfe-Set, schnappte sich eine leichte Jacke und machte sich ohne Umschweife auf den Weg.
 
+[tbd]
+
+"Unser Patient ist für den Moment stabil, aber noch bewusstlos." Silk schloss die Tür hinter sich und ging zum Spülbecken hinüber. "Ich habe nicht die Ausrüstung für eine vollständige Diagnose. Es würde auch helfen, zu wissen, was für eine Spezies sie - oder er - überhaupt ist." Sie drehte den Wasserhahn auf und sah sich nach etwas wie Seife um.
+
+Die anderen saßen am kleinen Küchentisch. Fischer blickte noch finsterer als sonst. "Was machen wir dann mit ihm?"
+
+Silk machte ohne Erfolg einige Schubladen auf und wieder zu. "Sie braucht einige medizinische Dinge, und wenn möglich einen Arzt. Im Idealfall sollten wir sie in ein Krankenhaus bringen." Natürlich würde das nahezu unmöglich sein, aber sie mochte den Gedanken nicht, das arme Ding aufzugeben.
+
+Amy lümmelte betont gleichgültig in ihrem Stuhl, die Füße auf dem Tisch. "Du hast bemerkt, dass diese Kolonie vom Feind besetzt ist? Viel Glück dabei, eine graue Zwergin unbemerkt irgendwohin zu bringen. Wir haben sie schon aus diesem Scheißwrack rausgezogen und hier her gebracht. Das ist mehr, als irgendwer erwarten kann."
+
+"Pass auf, was du sagst!" fuhr Fischer sie an. "Dieses Schiff ist ein heiliges Artefakt. Wir haben wahrscheinlich einen Engel im Nebenraum liegen. Ich werde tun, was auch immer ich kann, um ihm zu helfen."
+
+Amy hob die Hände. "Wie du meinst. Aber wenn ihr die Kreatur retten geht, solltet ihr euch wenigstens auf ein Pronomen einigen, sonst wird es noch komplizierter."
+
+Oat verschränkte seine riesigen Armee und lehnte sich zurück. Der Stuhl sah aus, als könnte er unter seiner Last zusammenbrechen. "Ich bin nicht so der religiöse Typ, aber ich stimme dem ernsten Gesellen hier irgendwie zu. Engel oder nicht, es besteht kein Zweifel, dass diese Schiffe auf unserer Seite sind. Sie haben sich über Brixton so ziemlich den Arsch mit der gegnerischen Flotte abgewischt. Ihr habt alle die Videos gesehen. Dieser Pilot muss überleben und wieder da raus. Und, wenn es hilft", fügte er mit einem durchdringenden Blick auf Amy hinzu, "ich bin sicher, dass die alliierten Streitkräfte eine hübsche Belohnung an die Leute, die so ein wertvolles Gut retten, bezahlen werden."
+
+"Endlich mal ein vernünftiges Argument", murmelte Amy.
+
+Silk hatte aufgegeben und wusch ihre Hände ohne Seife. Sie beäugte gerade ein schmutziges Geschirrtuch auf der Arbeitsfläche, als sie eine Bewegung vor dem Fenster sah. Sie duckte sich hinter die zerfledderten Vorhänge und spähte an ihnen vorbei nach draußen. Zwei Gestalten kamen auf das Haus zu. "Scheiße." Die ungewohnten Proportionen und der blasse Chitinpanzer waren unverkennbar. "Hebt euch die Diskussion für später auf. Wir haben Gesellschaft."
