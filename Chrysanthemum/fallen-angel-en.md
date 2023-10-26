@@ -10,14 +10,33 @@ Her heart pounding, Silk descended the ladder. A thousand thought rushed through
 She was cresting a small rise between two hills when she saw movement in the valley behind. She stopped. This could be bad. If she ran into Cruachar, she would be done for. But she didn't particularly want to be seen by resistance forces, either. At a minimum there would be some uncomfortable questions. She squinted and held her hand up against the sun. A lone figure on a horse was moving in roughly the same direction as she was. She was pretty sure the stranger was human, but the couldn't tell whether he or she was armed. It was probably just a random person who had also witnessed the crash. Silk decided to keep walking, even if that meant to risk being spotted. At least she was well away from her dwelling, so she would not easily be connected to it.
 
 The rider caught up with her on the way down to the next valley. It was a light-skinned man about her age in simple black and grey clothing. He slowed, and Silk stopped and turned to face him.
-"[local greeting]," he greeted her.
-"[customary reply]," she replied, and held out her hand to the chestnut mare so she could catch her scent.
+
+"Warm hours," he greeted. His narrow, clean-shaven face was set in a frown. It did not quite seem unfriendly, merely as if he were thinking too hard about something.
+
+"Quiet nights," she replied, and held out her hand to the chestnut mare so she could catch her scent.
+
 "You heading over there, too?" He motioned to the wisp of smoke that marked the crash site.
+
 "Yes. Do you know what went down there?"
-He shrugged. "Not really. But I've been praying for a sign, and this is clearly it."
-Religious, she noted. Could be good or bad. "I see," she offered, unsure what else to say.
+
+He shrugged. "No. But I've been praying for a sign, and this is clearly it."
+
+Religious, she noted. That was OK. She used to think that religious people were irrational. Now she knew that everyone was irrational, but everyone had a different way of justifying it. For some it was religion, for others intuition, or love, or whatever. Still, religion was a little scary, because it was so unfamiliar to her. "I see," she offered, unsure what else to say.
+
 He looked toward the smoke, then back down at her. "Do you want a ride?"
-"Yes!" she almost shouted. "Thank you!" Going the rest of the way on horseback would save precious time. She hesitated only a second to consider whether she could trust him, then she climbed up behind him. There was no way to tell his intentions, but of he meant her harm she was out of luck anyway - he had a horse and she was alone in the wilderness. Better to sit right next to him then five feet below. And for what it was worth, there was a knife in the first aid kit.
+
+"Yes!" she almost shouted. "Thank you!"
+
+Going the rest of the way on horseback would save precious time. She hesitated only a second to consider whether she could trust him, then she climbed up behind him. There was no way to tell his intentions, but if he meant her harm she was out of luck anyway - he had a horse and she was alone in the wilderness. Better to sit right next to him than five feet below. And for what it was worth, there was a knife in the first aid kit.
+There was a patch of open space with hardly any vegetation ahead, and the horse sped up to a gallop. She almost held on to the stranger's hips, then thought better of it. It occurred to her that she didn't know his name yet. “I'm Silk, by the way.”
+
+“Call me Fischer.” The wind was rushing past them, but he was close enough that she could understand him clearly. “So, are you following some guidance as well, or what are you doing out here?”
+
+“I want to see if I can help. I have some medical training.”
+
+He nodded, or maybe his head was just bobbing along with the mare's motion. They rode on in silence for a few minutes. Then they reached another rise, and they saw it. It was about 50 feet long and half as wide at the centre. It was divided into two vaguely cone shaped sections, connected at their bases - possibly front and rear. Its surface was mostly black, though part of it seemed to be soot and dirt, with some metallic silver visible beneath it. It had at least one big dent, and countless smaller cracks and scratches, but it was still in one piece. It was lying inside a crater twice as wide as the thing was long.
+
+Fischer gasped and made some sign over his breast with his right hand. “It's one of them.” His voice was hoarse. “It's one of the Petals."
 
 [tbd]
 
