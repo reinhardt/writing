@@ -7,7 +7,7 @@ Suddenly, she noticed a point of light in the sky. A plane? It was a little too 
 
 Her heart pounding, Silk descended the ladder. A thousand thought rushed through her head. Had she really just seen a spaceship crash-land? Had it had some technical defect? Or had there been a fight in orbit? Was there crew on board? Were there survivors? Would they need help? Was it a ship of the occupying forces or the resistance? She had moved out here to distance herself from the conflict. Should she go to the impact site now, risking being drawn into it again? Even while asking herself the question, she knew that this was exactly what she would do. Her curiosity alone would not leave her in peace. But what was more was the possibility that someone might be hurt and helpless. She looked into the direction one more where she had seen the object fall. It could only be a few miles away. She should be able to teach it within one or two hours. She packed a small backpack with a water bottle and a first aid kit, grabbed a light jacket and, without further ado, was on her way.
 
-She was cresting a small rise between two hills when she saw movement in the valley behind. She stopped. This could be bad. If she ran into Cruachar, she would be done for. But she didn't particularly want to be seen by resistance forces, either. At a minimum there would be some uncomfortable questions. She squinted and held her hand up against the sun. A lone figure on a horse was moving in roughly the same direction as she was. She was pretty sure the stranger was human, but the couldn't tell whether he or she was armed. It was probably just a random person who had also witnessed the crash. Silk decided to keep walking, even if that meant to risk being spotted. At least she was well away from her dwelling, so she would not easily be connected to it.
+She was cresting a small rise between two hills when she saw movement in the valley behind her. She stopped. This could be bad. If she ran into Cruachar, she would be done for. But she didn't particularly want to be seen by resistance forces, either. At a minimum there would be some uncomfortable questions. She squinted and held her hand up against the sun. A lone figure on a horse was moving in roughly the same direction as she was. She was pretty sure the stranger was human, but the couldn't tell whether he or she was armed. It was probably just a random person who had also witnessed the crash. Silk decided to keep walking, even if that meant to risk being spotted. At least she was well away from her dwelling, so she would not easily be connected to it.
 
 The rider caught up with her on the way down to the next valley. It was a light-skinned man about her age in simple black and grey clothing. He slowed, and Silk stopped and turned to face him.
 
@@ -36,7 +36,29 @@ There was a patch of open space with hardly any vegetation ahead, and the horse 
 
 He nodded, or maybe his head was just bobbing along with the mare's motion. They rode on in silence for a few minutes. Then they reached another rise, and they saw it. It was about 50 feet long and half as wide at the centre. It was divided into two vaguely cone shaped sections, connected at their bases - possibly front and rear. Its surface was mostly black, though part of it seemed to be soot and dirt, with some metallic silver visible beneath it. It had at least one big dent, and countless smaller cracks and scratches, but it was still in one piece. It was lying inside a crater twice as wide as the thing was long.
 
-Fischer gasped and made some sign over his breast with his right hand. “It's one of them.” His voice was hoarse. “It's one of the Petals."
+Fischer gasped and made some sign over his breast with his right hand. “It's one of them.” His voice was hoarse. “It's one of the Petals.”
+
+“Petals? Is that a type of spaceship?”
+
+He turned his head and stared at her for a few seconds. “Don't tell me you haven't heard of Chrysanthemum.”
+
+Silk shrugged. “I've been somewhat off the grid for a while.”
+
+Fischer dismounted, and together they walked towards the ship. “There was a prophecy that these ships would come and defeat the enemy. They arrived just a few weeks ago, and they've wreaked havoc on the Cruachar since.”
+
+“Where did they come from?”
+
+“No one knows exactly. They arrived at Brixton from the rough direction of Virgo, but it's unclear where they set out.”
+
+Silk had a lot of questions, but she decided to save them for later. She also didn't point out the obvious fact that one of these mysterious saviour ships had just been shot down. As they came closer she noticed that there was no discernible cockpit. “Could it be that they're unmanned?”
+
+“It's possible. They haven't communicated with us, they're only sending encrypted signals among themselves.” He stopped and frowned. “Hang on, let me check something.” He stared into the distance for a while. “Yes, just as I thought - it has a clear text interface open right now. Probably an emergency measure.”
+
+For a moment Silk couldn't make sense of what he said, then she realized that he must have a communications implant that let him connect to ship. “So you can talk to it?”
+
+“Not quite.” He shook his head. “It's asking for credentials. But I can try a few things. Give me a minute.”
+
+He put on his vacant stare again. Silk walked a few steps closer to the ship, then stopped. It was still giving off heat. They wouldn't be able to touch it for quite a while. The wireless interface that Fischer had found was certainly their best bet. She wondered how much time they had. She turned to look at the city. It was some way off, but the vessel would probably have shown up on some radar or something. As she let her gaze wander over the distant buildings, she noticed something quite a bit closer.
 
 [tbd]
 
