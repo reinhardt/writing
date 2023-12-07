@@ -41,7 +41,7 @@ I woke up to a call of one of my colleagues. He had seen my check-in and tried i
 
 Fuck. Fuck fuck fuck. I take everything back. There's something fucked up about eFreeT. Maybe I'm imagining things. But if only half of what I suspect is true then I'm thoroughly fucked. I can count myself lucky if I only lose my job. I could go to prison, like, forever. And all because I trusted fucking eFreeT.
 
-At first things seemed to go reasonably well. We were pretty busy after the launch, as could be expected, fixing the odd issue and fine tuning the caches and load balancers and everything. I did not find the time to analyze the mysterious plugin that eFreeT had given me, but it seemed to do its job. Then I heard about a death at the client company. Someone mentioned it in passing in a meeting - a car accident; sad, but not suspicious. We chugged on. More fixes and tweaks, fending off bug reports that were actually thinly disguised feature requests, the usual stuff. Then, only days later, another employee died. It was another car accident; a tragic coincidence, everyone agreed. I didn't dwell on it much. Only when the very next day a guy who had worked for our client was shot dead did I get a bad feeling. But I still didn't think there was a connection to my work.
+After the launch things seemed to go reasonably well. We were pretty busy, as could be expected, fixing the odd issue and fine tuning the caches and load balancers and everything. I did not find the time to analyze the mysterious plugin that eFreeT had given me, but it seemed to do its job. Then I heard about a death at the client company. Someone mentioned it in passing in a meeting - a car accident; sad, but not suspicious. We chugged on. More fixes and tweaks, fending off bug reports that were actually thinly disguised feature requests, the usual stuff. Then, only days later, another employee died. It was another car accident; a tragic coincidence, everyone agreed. I didn't dwell on it much. Only when the very next day a guy who had worked for our client was shot dead did I get a bad feeling. But I still didn't think there was a connection to my work.
 
 About two weeks after the launch I finally got around to taking a look at that module that eFreeT had conjured up. It was a binary file, so I couldn't just go and read it. It wasn't executable on any of my computers either, which of course I only tried after throwing up some serious sandboxing. Checking for magic bytes and other patterns didn't turn up any clue. I decided asking eFreeT.
 
@@ -53,13 +53,16 @@ About two weeks after the launch I finally got around to taking a look at that m
 
     include <io.h>
 
+    #IFDEF GRGRTH
+    [...]
+
 It spit out something that looked like C code at first glance, but skimming over it I noticed that it drifted off into something more like java after a few dozen lines, and when I scrolled down further it started resembling Haskell. I had serious doubts that this would compile into anything at all.
 
     Melody: What language is this?
 
-    eFreeT: This module is written in LAMPP.
+    eFreeT: This module is written in WiiSH.
 
-That sounded completely made-up, and indeed a quick web search did not turn up any references. I asked where to get a compiler and it pointed me to a web site that did offer some compilers but had no mention of a language called “LAMPP”.
+That sounded completely made-up, and indeed a quick web search did not turn up any references. I asked where to get a compiler and it pointed me to a web site that did offer some compilers but had no mention of a language called “WiiSH”.
 
     Melody: I don't see it there. Maybe it has been removed. Is there another site where I can get it?
 
