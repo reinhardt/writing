@@ -24,4 +24,47 @@ Fragen:
 ** Wie viele?
 ** Wie groß sind die Planeten? (Konfliktpotential mit Cruachar)
 ** Wie sehen sie aus? (Atmosphäre, Land/Wasser...)
+** Wie sehen die Bewohner aus? (Genetische Anpassung)
 * In welcher Entfernung wird die Cruachar-Flotte beim 1. bzw. 2. Kontakt entdeckt?
+
+# Kolonien
+
+## Geisler
+
+Temperature: Cold
+Gravity: Normal
+Radiation: High UV
+Atmosphere: Low oxygen
+Genetic Adaptions: Fur
+
+## Brixton
+
+Temperature: Warm
+Gravity: High
+Radiation: Normal
+Atmosphere: Normal
+Genetic Adaptations: Height, strength
+
+# Charaktere
+
+## Silk
+
+Geisler
+First gen genetic adaption - fur
+Biology teacher
+
+## Fischer
+
+Earth
+Cybernetic enhancements - comms implant
+IT Security
+
+## Oat
+
+Brixton
+First gen genetic adaption - tall, muscular
+Mechatronics Engineer
+
+## Amy
+
+Geisler
