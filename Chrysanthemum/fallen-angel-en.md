@@ -64,7 +64,33 @@ He put on his vacant stare again. Silk walked a few steps closer to the ship, th
 
 “Just a second.” He held up a hand. “I think I've got something.”
 
-Silk sighed and turned back to watch the buggy. Part of her wanted to run, but she knew that it was no use. So she just waited. Soon she could make out more details. The driver was huge, not only tall but also muscular, with broad shoulders and back. The passenger was regular sized and slim. The buggy stopped about ten paces from her.
+Silk sighed and turned back to watch the buggy. Part of her wanted to run, but she knew that it was no use. So she just waited. Soon she could make out more details. The driver was huge, not only tall but also muscular, with broad shoulders and back. The passenger was regular sized and slim. The buggy stopped about ten paces from her, and the two of them got out and stared. The driver only had eyes for the ship. “Wow,” he said and put a hand above his eyes to shield them from the sun. The passenger, a woman with shoulder length black hair, looked back and forth between the wreck, Silk, and Fischer. Her hand touched the side of her jacket. Did she have a weapon concealed there?
+
+“Warm hours,” Silk offered. “I'm Silk. This is Fischer.” He was apparently still busy and didn't react.
+
+“Quiet nights,” replied the woman. “I'm Amy.”
+
+“Oat,” boomed the man in a deep bass. It was quite common on Geisler to introduce yourself with a nickname. After all, she had done the same.
+
+Amy walked a few steps closer. “Quite a sight, this, up close. Have you been here long? What's the status?”
+
+“We've only just arrived as well. Fischer here is trying to access some wireless interface. We need to get this thing open to check for survivors.”
+
+“If there's someone inside then there must be some door or hatch somewhere.” Oat grabbed a box from the buggy and walked towards the spaceship. “I've got some tools here that might get it open.”
+
+Silk held up a hand. “Careful. THe hull is still hot.”
+
+Oat grunted. He changed course and started walking around the ship at a safe distance. “There's something over here,” he called from the other side. Silk and Amy followed him.
+
+Suddenly there was a loud clank followed by a hissing noise. Amy started running. “What did you do? Are you okay?”
+
+Oat held up his hands. “That wasn't me.” Silk reached him and followed his gaze. There was a circular hatch about three feet across that was slowly swinging open. The hissing died down and was replaced by a whirring sound as a cylindrical object moved out of the opening.
+
+Silk looked over to Fischer. “Was that you?”
+
+Finally there was a reaction. “No, I'm still running some checks.” He came over to them. “What's happening?”
+
+Amy pointed, unnecessarily. “It's opening.”
 
 [tbd]
 
