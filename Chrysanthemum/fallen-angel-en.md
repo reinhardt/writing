@@ -84,13 +84,21 @@ Oat grunted. He changed course and started walking around the ship at a safe dis
 
 Suddenly there was a loud clank followed by a hissing noise. Amy started running. “What did you do? Are you okay?”
 
-Oat held up his hands. “That wasn't me.” Silk reached him and followed his gaze. There was a circular hatch about three feet across that was slowly swinging open. The hissing died down and was replaced by a whirring sound as a cylindrical object moved out of the opening.
+Oat held up his hands. “That wasn't me.” Silk reached him and followed his gaze. There was a circular hatch that was slowly swinging open. It was ten feet up from the ground and about three feet across. After a few seconds the hissing died down and was replaced by a whirring sound as a cylindrical object moved out of the opening.
 
 Silk looked over to Fischer. “Was that you?”
 
 Finally there was a reaction. “No, I'm still running some checks.” He came over to them. “What's happening?”
 
 Amy pointed, unnecessarily. “It's opening.”
+
+When the cylinder had come out four or five feet it suddenly tipped downward. Silk jumped back, thinking it would fall down towards them, but instead it slowly descended on some sort of cable. When it lay on the ground on its long side the cable stopped.
+
+Silk took a quick look over her shoulder. Everyone was looking at the black object expectantly. She cautiously stepped forward towards it. The heat had died down to a bearable level. She started sweating before she reached the capsule, but she didn't think she was in danger of getting burned if she didn't touch anything. The black thing was completely opaque. A few small red lights were blinking along either end. She kind of expected the thing to open, but she still started when there was a click and another hiss and a section of the cylinder started moving upwards. Silk wondered what was inside. It was too small to contain a person, except for a child. When the lid had opened enough so that she could see inside, she took an involuntary step back and stumbled into Amy. “Ouch!” she exclaimed. Then she must have seen inside the cylinder as well, because she added, “What in fuck's name ...”
+
+There was indeed a person inside. It was small, but it was not a child. Or was it? Silk wasn't even sure it was human. It was definitely not Cruachar either. It did have resemblance to a human person. There was no carapace and no mandibles. The eyes, nose and mouth were all somewhat in the right places, yet somehow slightly off. Its skin was pale, almost grey. It was slim, so much so that the bones were showing. It was lying in the fetal position, eyes closed, in some kind of liquid or gel.
+
+“Fuck me,” Oat rumbled.
 
 [tbd]
 
