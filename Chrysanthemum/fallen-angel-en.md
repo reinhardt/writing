@@ -94,11 +94,25 @@ Amy pointed, unnecessarily. “It's opening.”
 
 When the cylinder had come out four or five feet it suddenly tipped downward. Silk jumped back, thinking it would fall down towards them, but instead it slowly descended on some sort of cable. When it lay on the ground on its long side the cable stopped.
 
-Silk took a quick look over her shoulder. Everyone was looking at the black object expectantly. She cautiously stepped forward towards it. The heat had died down to a bearable level. She started sweating before she reached the capsule, but she didn't think she was in danger of getting burned if she didn't touch anything. The black thing was completely opaque. A few small red lights were blinking along either end. She kind of expected the thing to open, but she still started when there was a click and another hiss and a section of the cylinder started moving upwards. Silk wondered what was inside. It was too small to contain a person, except for a child. When the lid had opened enough so that she could see inside, she took an involuntary step back and stumbled into Amy. “Ouch!” she exclaimed. Then she must have seen inside the cylinder as well, because she added, “What in fuck's name ...”
+Silk took a quick look over her shoulder. Everyone was looking at the black object expectantly. She cautiously stepped forward towards it. The heat had died down to a bearable level. Still, she started sweating before she reached the capsule, but she didn't think she was in danger of getting burned if she didn't touch anything. The black thing was completely opaque. A few small red lights were blinking along either end. She kind of expected the thing to open, but she still started when there was a click and another hiss and a section of the cylinder moved upward. Silk wondered what was inside. It was too small to contain a person, except for a child. When the lid had opened enough so that she could see inside, she took an involuntary step back and stumbled into Amy. “Ouch!” she exclaimed. Then she must have seen inside the cylinder as well, because she added, “What in fuck's name ...”
 
-There was indeed a person inside. It was small, but it was not a child. Or was it? Silk wasn't even sure it was human. It was definitely not Cruachar either. It did have resemblance to a human person. There was no carapace and no mandibles. The eyes, nose and mouth were all somewhat in the right places, yet somehow slightly off. Its skin was pale, almost grey. It was slim, so much so that the bones were showing. It was lying in the fetal position, eyes closed, in some kind of liquid or gel.
+There was indeed a person inside. It was small, but it was not a child. Or was it? Silk wasn't even sure it was human. It was definitely not Cruachar either. It did have resemblance to a human person. There was no carapace and no mandibles. The eyes, nose and mouth were all somewhat in the right places, yet slightly off. It was naked. Its skin was pale, almost grey. It was slim, so much so that the bones were showing. It was lying in the fetal position, eyes closed, in some kind of liquid or gel.
 
 “Fuck me,” Oat rumbled.
+
+Amy stepped around Silk to get a closer look. “What is that?“
+
+“An angel,” Fischer whispered.
+
+Amy snorted. “It doesn't have wings.”
+
+Fischer shook his head. “Most angels don't.”
+
+Silk noticed that the creature's chest was moving. It was breathing, but shallowly. Silk reached out and touched its shoulder. “Hello? Can you hear me?” There was no reaction. As she bent over the “angel” she noticed a black cable that was attached to its neck. Silk took a deep breath. This was getting stranger by the minute, but she had to pull herself together and remember what she had come here for. She didn't know exactly what she was looking at, but it was a living creature, and Silk was going to do what she could to make sure it was OK. There were no visible injuries, but there might be internal bleeding. But the first job was to figure out whether it was unconscious or only jacked in. She pointed at the cable. “Is that a neurolink? Is it safe to pull it out?”
+
+Fischer eyed the cable while keeping a reverent distance. “I think it is, although it's pretty massive.” He hesitated for a second, then stepped closer and touched the cable. “It usually unlocks like this ...” He twisted the cable slightly. There was a click as it came off.
+
+Silk slowly slid her hands under the pilot and carefully lifted it out of the cylinder. It was slippery from the gel that it had been lying in.
 
 [tbd]
 
