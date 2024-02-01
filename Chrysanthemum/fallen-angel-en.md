@@ -108,11 +108,17 @@ Amy snorted. “It doesn't have wings.”
 
 Fischer shook his head. “Most angels don't.”
 
-Silk noticed that the creature's chest was moving. It was breathing, but shallowly. Silk reached out and touched its shoulder. “Hello? Can you hear me?” There was no reaction. As she bent over the “angel” she noticed a black cable that was attached to its neck. Silk took a deep breath. This was getting stranger by the minute, but she had to pull herself together and remember what she had come here for. She didn't know exactly what she was looking at, but it was a living creature, and Silk was going to do what she could to make sure it was OK. There were no visible injuries, but there might be internal bleeding. But the first job was to figure out whether it was unconscious or only jacked in. She pointed at the cable. “Is that a neurolink? Is it safe to pull it out?”
+Silk noticed that the creature's chest was moving. It was breathing, but shallowly. Silk reached out and touched its shoulder. “Hello? Can you hear me?” There was no reaction. As she bent over the “angel” she noticed a black cable that was attached to its neck. Silk took a deep breath. This was getting stranger by the minute, but she had to pull herself together and remember what she had come here for. She didn't know exactly what she was looking at, but it was a living creature, and Silk was going to do what she could to make sure it was OK. The first job was to figure out whether it was unconscious or only jacked in. She pointed at the cable. “Is that a neurolink? Is it safe to pull it out?”
 
 Fischer eyed the cable while keeping a reverent distance. “I think it is, although it's pretty massive.” He hesitated for a second, then stepped closer and touched the cable. “It usually unlocks like this ...” He twisted the cable slightly. There was a click as it came off.
 
-Silk slowly slid her hands under the pilot and carefully lifted it out of the cylinder. It was slippery from the gel that it had been lying in.
+Silk took a light blanket out of her pack and spread it on the ground. Then she slid her hands under the pilot and carefully lifted her out of the cylinder. The body was light even for her size. She was slippery from the gel that she had been lying in. Slowly Silk laid her down on the blanket. There were a few bruises but no bleeding and no obvious broken bones. She checked for a pulse. It was weak, which might be normal for her species. Or not. She dismissed taking her blood pressure. She didn't have a clue what a healthy value would be either. She pulled up one eyelid. The eyes were definitely human.
+
+“How's it looking?” Oat had knelt down next to Silk.
+
+“No major external injuries. There might be internal bleeding, but maybe this gel protected her from the worst of it.”
+
+“Do you think we can get her away from here?” Oat lowered his voice - rather pointlessly, as the others were standing no more than two steps away. “We'll soon have company of a... non-human kind, and I for one am not too keen on that, if you catch my drift.”
 
 [tbd]
 
