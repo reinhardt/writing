@@ -5,7 +5,7 @@ Silk checked the ladder one more time, then climbed up. She paused for a moment 
 
 Suddenly, she noticed a point of light in the sky. A plane? It was a little too fast for that. The sky was not dark enough any more for a shooting star, except if it was a pretty big chunk. Curious, she followed the point with her eyes. It got ever brighter and bigger, and eventually Silk could make out a longish form. Was that a spaceship? Suddenly the thing showed down and its trajectory became flatter. At the same time, it continued to get bigger - or rather, come closer. It was definitely not a chunk of rock, but a man-made object. It glowed from the friction with the air, but it seemed to be mostly intact. Something that could be a parachute was affixed at the rear end. In front of Silk's eyes, the vessel continued to fall toward the ground and finally vanished behind a hill. Muffled thunder marked its impact.
 
-Her heart pounding, Silk descended the ladder. A thousand thought rushed through her head. Had she really just seen a spaceship crash-land? Had it had some technical defect? Or had there been a fight in orbit? Was there crew on board? Were there survivors? Would they need help? Was it a ship of the occupying forces or the resistance? She had moved out here to distance herself from the conflict. Should she go to the impact site now, risking being drawn into it again? Even while asking herself the question, she knew that this was exactly what she would do. Her curiosity alone would not leave her in peace. But what was more was the possibility that someone might be hurt and helpless. She looked into the direction one more where she had seen the object fall. It could only be a few miles away. She should be able to teach it within one or two hours. She packed a small backpack with a water bottle and a first aid kit, grabbed a light jacket and, without further ado, was on her way.
+Her heart pounding, Silk descended the ladder. A thousand thought rushed through her head. Had she really just seen a spaceship crash-land? Had it had some technical defect? Or had there been a fight in orbit? Was there crew on board? Were there survivors? Would they need help? Was it a ship of the occupying forces or the resistance? She had moved out here to distance herself from the conflict. Should she go to the impact site now, risking being drawn into it again? Even while asking herself the question, she knew that this was exactly what she would do. Her curiosity alone would not leave her in peace. But what was more was the possibility that someone might be hurt and helpless. She looked north once more, where she had seen the object fall. It could only be a few miles away. She should be able to teach it within one or two hours. She packed a small backpack with a water bottle and a first aid kit, grabbed a light jacket and, without further ado, was on her way.
 
 She was cresting a small rise between two hills when she saw movement in the valley behind her. She stopped. This could be bad. If she ran into Cruachar, she would be done for. But she didn't particularly want to be seen by resistance forces, either. At a minimum there would be some uncomfortable questions. She squinted and held her hand up against the sun. A lone figure on a horse was moving in roughly the same direction as she was. She was pretty sure the stranger was human, but the couldn't tell whether he or she was armed. It was probably just a random person who had also witnessed the crash. Silk decided to keep walking, even if that meant to risk being spotted. At least she was well away from her dwelling, so she would not easily be connected to it.
 
@@ -13,8 +13,7 @@ The rider caught up with her on the way down to the next valley. It was a light-
 
 "Warm hours," he greeted. His narrow, clean-shaven face was set in a frown. It did not quite seem unfriendly, merely as if he were thinking too hard about something.
 
-"Quiet nights," she replied, and held out her hand to the chestnut mare, who lowered her
-head and sniffed Silk's palm.
+"Quiet nights," she replied, and held out her hand to the chestnut mare, who lowered her head and sniffed Silk's palm.
 
 "You heading over there, too?" He motioned to the wisp of smoke that marked the crash site.
 
@@ -78,7 +77,7 @@ Amy walked a few steps closer. “Quite a sight, this, up close. Have you been h
 
 “If there's someone inside then there must be some door or hatch somewhere.” Oat grabbed a box from the buggy and walked towards the spaceship. “I've got some tools here that might get it open.”
 
-Silk held up a hand. “Careful. THe hull is still hot.”
+Silk held up a hand. “Careful. The hull is still hot.”
 
 Oat grunted. He changed course and started walking around the ship at a safe distance. “There's something over here,” he called from the other side. Silk and Amy followed him.
 
@@ -119,6 +118,34 @@ Silk took a light blanket out of her pack and spread it on the ground. Then she 
 “No major external injuries. There might be internal bleeding, but maybe this gel protected her from the worst of it.”
 
 “Do you think we can get her away from here?” Oat lowered his voice - rather pointlessly, as the others were standing no more than two steps away. “We'll soon have company of a... non-human kind, and I for one am not too keen on that, if you catch my drift.”
+
+“Hello? You know we can still hear you, right?” Amy smiled mischievously. “But don't worry. I don't have any loyalties to the crabs.” She turned to Fischer. “You?”
+
+He shook his head. “No.”
+
+“Then let's get the kid into the buggy and be off.”
+
+Silk considered. “That would certainly be the fastest option. But it would be a rather bumpy ride, and as long as I'm not sure that there are no internal injuries I wouldn't risk that.”
+
+“Maybe June can carry her,” Fischer suggested.
+
+It took Silk a few seconds to understand what he meant. “Your horse? Maybe... But anything faster than a walk would shake her up pretty badly as well.”
+
+“I'd go for the buggy.” Oat made a tilting motion with his hand. “Recline the passenger seat, go real slow...”
+
+Silk hesitated, but then she nodded. “Probably better than carrying her. But we'll have to be really careful.”
+
+Oat grinned. “This baby can do anything. You need speed? She goes fast. You need stability? She's the smoothest thing on this side of the galaxy.”
+
+Fischer nodded his approval. Amy just shrugged. So Silk picked up the pilot again and carried her to the buggy. Oat adjusted the passenger seat and climbed in on the driver's side. Amy stood on the small platform behind the seats and held on to the metal frame.
+
+Oat pushed the ignition and the engine began to purr. “There's an abandoned house on the outskirts. Let's go there first and then decide the next step.”
+
+Silk gently laid the small body in the passenger seat and fastened the belt. She turned to Fischer. “I'll join you on June again, if you don't mind. We should scout ahead for any trouble.”
+
+They went to the horse, who was waiting patiently where they had left her, nibbling on some shrub. As they mounted, the buggy approached - very slowly, as Oat had promised. He gave a thumbs up and smiled. Amy let her gaze wander over the landscape.
+
+At a gentle press of Fischer's thighs June started into a trot, then sped up to a gallop. Soon they had left the buggy behind. It was easy to keep track of its location, though - it did not stir up as much dust as earlier, when it had been going at full speed, but a faint cloud was still visible. Silk worried that others might see it as well, but they'd have to take that chance. Silk kept an eye out for any trouble, but the area seemed completely deserted. The sun was higher in the sky now, but it was still about two hours until noon. They rode straight west for a while, up and down the hills, then circled back and checked north and south, but found only shrubs and moss and no sign of other people. They completed the circle and passed the buggy, which was still making slow and steady progress. It made an odd picture, the small pilot next to the huge man in the driver's seat looking even more tiny and fragile. She looked on to Amy and then to Fischer in front of her. She had no idea whether she could trust her new acquaintances, but so far they seemed decent enough and had proven rather helpful.
 
 [tbd]
 
