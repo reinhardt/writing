@@ -1,17 +1,17 @@
 ---
 title: Fallen Angel
 ---
-Silk checked the ladder one more time, then climbed up. She paused for a moment and looked around. The sun was still low over the horizon. A few last wisps of fog hung between the hills and defied its rays. Beyond, to the west, the outskirts of the city were barely visible. Silk put the metal sheet that she had cut below onto the roof and then pulled herself up as well. The hole she wanted to mend was not big, but it let moisture in and warmth out. Better to take care of it right away. With routine motions, she affixed the sheet and sealed the gaps. Just a few minutes later, she was done and regarded her handiwork with satisfaction. Then she let her gaze wander over the scenery one last time. She liked the spot she had withdrawn to, even if the reason was not a happy one. She had some peace and quiet here, not only from the occupational force but also from some of the more annoying aspects of city life. The landscape was sparse in vegetation - mosses and heather dominated - but beautiful. Finding enough food was not always easy, but until now she had managed.
+Silk checked the ladder one more time, then climbed up. She paused for a moment and looked around. The sun was still low over the horizon. A few last wisps of fog hung between the hills and defied its rays. Beyond, to the west, the outskirts of the city were barely visible. Silk put the metal sheet that she had cut to about a square foot onto the roof and then pulled herself up as well. The hole she wanted to mend was not big, but it let moisture in and warmth out. Better to take care of it right away. With routine motions, she affixed the sheet and sealed the gaps. When she was done she regarded her handiwork with satisfaction. Then she let her gaze wander over the scenery one last time. She liked the spot she had withdrawn to, even if the reason was not a happy one. She had some peace and quiet here, not only from the occupying force but also from some of the more annoying aspects of city life. The landscape was sparse in vegetation - mosses and heather dominated - but beautiful. Finding enough food was not always easy, but until now she had managed.
 
-Suddenly, she noticed a point of light in the sky. A plane? It was a little too fast for that. The sky was not dark enough any more for a shooting star, except if it was a pretty big chunk. Curious, she followed the point with her eyes. It got ever brighter and bigger, and eventually Silk could make out a longish form. Was that a spaceship? Suddenly the thing showed down and its trajectory became flatter. At the same time, it continued to get bigger - or rather, come closer. It was definitely not a chunk of rock, but a man-made object. It glowed from the friction with the air, but it seemed to be mostly intact. Something that could be a parachute was affixed at the rear end. In front of Silk's eyes, the vessel continued to fall toward the ground and finally vanished behind a hill. Muffled thunder marked its impact.
+Suddenly, she noticed a point of light in the northern sky. A plane? It was a little too fast for that. The sky was not dark enough any more for a shooting star, except if it was a pretty big chunk. Curious, she followed the point with her eyes. It got ever brighter and bigger, and eventually Silk could make out a longish form. Was that a spaceship? Suddenly the thing slowed down and its trajectory became flatter. At the same time, it continued to get bigger - or rather, come closer. It was definitely not a chunk of rock, but a man-made object. It glowed from the friction with the air, but it seemed to be mostly intact. Something that could be a parachute was affixed at the rear end - that might explain the sudden decrease in speed. In front of Silk's eyes, the vessel continued to fall toward the ground and finally vanished behind a hill. Muffled thunder marked its impact.
 
-Her heart pounding, Silk descended the ladder. A thousand thought rushed through her head. Had she really just seen a spaceship crash-land? Had it had some technical defect? Or had there been a fight in orbit? Was there crew on board? Were there survivors? Would they need help? Was it a ship of the occupying forces or the resistance? She had moved out here to distance herself from the conflict. Should she go to the impact site now, risking being drawn into it again? Even while asking herself the question, she knew that this was exactly what she would do. Her curiosity alone would not leave her in peace. But what was more was the possibility that someone might be hurt and helpless. She looked north once more, where she had seen the object fall. It could only be a few miles away. She should be able to teach it within one or two hours. She packed a small backpack with a water bottle and a first aid kit, grabbed a light jacket and, without further ado, was on her way.
+Her heart pounding, Silk descended the ladder. A thousand thoughts rushed through her head. Had she really just seen a spaceship crash-land? Had it had some technical defect? Or had there been a fight in orbit? Was there crew on board? Were there survivors? Would they need help? Was it a ship of the occupying forces or the resistance? She had moved out here to distance herself from the conflict. Should she go to the impact site now, risking being drawn into it again? Even while asking herself the question, she knew that this was exactly what she would do. Her curiosity alone would not leave her in peace. But what was more was the possibility that someone might be hurt and helpless. She looked north once more, where she had seen the object fall. It could only be a few miles away. She should be able to reach it within one or two hours. Her mind already made up, she packed a small backpack with a water bottle and a first aid kit, grabbed a light jacket and, without further ado, was on her way.
 
-She was cresting a small rise between two hills when she saw movement in the valley behind her. She stopped. This could be bad. If she ran into Cruachar, she would be done for. But she didn't particularly want to be seen by resistance forces, either. At a minimum there would be some uncomfortable questions. She squinted and held her hand up against the sun. A lone figure on a horse was moving in roughly the same direction as she was. She was pretty sure the stranger was human, but the couldn't tell whether he or she was armed. It was probably just a random person who had also witnessed the crash. Silk decided to keep walking, even if that meant to risk being spotted. At least she was well away from her dwelling, so she would not easily be connected to it.
+She was cresting a low rise between two larger hills when she looked around and saw movement in the valley behind her. She stopped. This could be bad. If she ran into Cruachar, she would be done for. Humans were not supposed to wander outside the city without permission. But she didn't particularly want to be seen by resistance forces, either. At a minimum there would be some annoying questions. She squinted and held her hand up against the sun. A lone figure on a horse was moving in roughly the same direction as she was. She was pretty sure the stranger was human, but the couldn't tell whether he or she was armed. It was probably just a random person who had also witnessed the crash. Silk decided to keep walking, even if that meant risking being spotted. At least she was well away from her dwelling, so she would not easily be connected to it.
 
 The rider caught up with her on the way down to the next valley. It was a light-skinned man about her age in simple black and grey clothing. He slowed, and Silk stopped and turned to face him.
 
-"Warm hours," he greeted. His narrow, clean-shaven face was set in a frown. It did not quite seem unfriendly, merely as if he were thinking too hard about something.
+"Warm hours," he greeted. His narrow, clean-shaven face was set in a frown. It did not seem unfriendly, merely as if he were thinking too hard about something.
 
 "Quiet nights," she replied, and held out her hand to the chestnut mare, who lowered her head and sniffed Silk's palm.
 
@@ -29,13 +29,13 @@ He looked toward the smoke, then back down at her. "Do you want a ride?"
 
 Going the rest of the way on horseback would save precious time. She hesitated only a second to consider whether she could trust him, then she climbed up behind him. There was no way to tell his intentions, but if he meant her harm she was out of luck anyway - he had a horse and she was alone in the wilderness. Better to sit right next to him than five feet below. And for what it was worth, there was a knife in the first aid kit.
 
-The horse sped up to a gallop and carried them over a patch of open space with hardly any vegetation. She almost held on to the stranger's hips, then thought better of it. It occurred to her that she didn't know his name yet. “I'm Silk, by the way.”
+The horse sped up to a gallop and carried them over a patch of open space with hardly any vegetation. She considered holding on to the stranger's hips, then thought better of it. It occurred to her that she didn't know his name yet. “I'm Silk, by the way.”
 
 “Call me Fischer.” The wind was rushing past them, but he was close enough that she could understand him clearly. “So, are you following some guidance as well, or what are you doing out here?”
 
 “I want to see if I can help. I have some medical training.”
 
-He nodded, or maybe his head was just bobbing along with the mare's motion. They rode on in silence for a few minutes. Then they reached another rise, and they saw it. It was about 50 feet long and half as wide at the centre. It was divided into two vaguely cone-shaped sections, connected at their bases - possibly front and rear. Its surface was mostly black, though part of it seemed to be soot and dirt, with some metallic silver visible beneath it. It had at least one big dent, and countless smaller cracks and scratches, but it was still in one piece. It was lying inside a crater twice as wide as the thing was long.
+He nodded, or maybe his head was just bobbing along with the mare's motion. They rode on in silence for a few minutes. Then they reached another rise, and they saw it. It was about fifty feet long and half as wide at the centre. It was divided into two vaguely cone-shaped sections, connected at their bases - possibly front and rear. Its surface was mostly black, though part of it seemed to be soot and dirt, with some metallic silver visible beneath it. It had at least one big dent, and countless smaller cracks and scratches, but it was still in one piece. It was lying inside a crater twice as wide as the thing was long.
 
 Fischer gasped and made some sign over his breast with his right hand. “It's one of them.” His voice was hoarse. “It's one of the Petals.”
 
@@ -47,19 +47,19 @@ Silk shrugged. “I've been somewhat off the grid for a while.”
 
 Fischer dismounted, and together they walked towards the ship. “There was a prophecy that these ships would come and defeat the enemy. They arrived just a few weeks ago, and they've wreaked havoc on the Cruachar since.”
 
-“Where did they come from?”
+“A prophecy?” Silk looked at him incredulously, but he seemed to be serious. “Well. Where did they come from?”
 
 “No one knows exactly. They arrived at Brixton from the rough direction of Virgo, but it's unclear where they set out.”
 
 Silk had a lot of questions, but she decided to save them for later. She also didn't point out the obvious fact that one of these mysterious saviour ships had just been shot down. As they came closer she noticed that there was no discernible cockpit. “Could it be that they're unmanned?”
 
-“It's possible. They haven't communicated with us, they're only sending encrypted signals among themselves.” He stopped and frowned. “Hang on, let me check something.” He stared into the distance for a while. “Yes, just as I thought - it has a clear-text interface open right now. Probably an emergency measure.”
+He shrugged. “It's possible. They haven't communicated with us, they're only sending encrypted signals among themselves.” He stopped and frowned. “Hang on, let me check something.” He stared into the distance for a while. “Yes, just as I thought - it has a clear-text interface open right now. Probably an emergency measure.”
 
 For a moment Silk couldn't make sense of what he said, then she realized that he must have a communications implant that let him connect to the ship. “So you can talk to it?”
 
 “Not quite.” He shook his head. “It's asking for credentials. But I can try a few things. Give me a minute.”
 
-He put on his vacant stare again. Silk walked a few steps closer to the ship, then stopped. It was still giving off heat. They wouldn't be able to touch it for quite a while. The wireless interface that Fischer had found was certainly their best bet. She wondered how much time they had. She turned to look in the direction of the city, but it was hidden behind the hills. It was some way off, but the vessel would probably have shown up on some radar or something. As she let her gaze wander over the landscape, she heard a whining noise. It was growing louder, and when she realized that it sounded like a motor it was already coming into view over a rise. It was a small vehicle, and it was going pretty fast considering the rough terrain. “Shit.” She ducked behind a small bush. She could make out two people - human - inside something like a buggy. There was a chance that they were just random civilians like her and this Fischer guy. But they could also be mercenaries working for the occupation force. Best not to take any chances. However, there was no place to hide, and even with the horse they could not outrun this vehicle. She eyed the bush in front of her and reluctantly stood up straight. “Fischer.” She turned around, but he was still staring into the distance. “This is turning into a party.”
+He put on his vacant stare again. Silk walked a few steps closer to the ship, then stopped. It was still giving off heat. They wouldn't be able to touch it for quite a while. The wireless interface that Fischer had found was certainly their best bet. She wondered how much time they had. She turned to look in the direction of the city, but it was hidden behind the hills. It was some way off, but the vessel would probably have shown up on some radar or something. As she let her gaze wander over the landscape, she heard a whining noise. It was growing louder, and when she realized that it sounded like a motor it was already coming into view over a rise. It was a small vehicle, and it was going pretty fast considering the rough terrain. “Shit.” She ducked behind a small bush. She could make out two people - human - inside something like a buggy. There was a chance that they were just random civilians, like her and this Fischer guy. But they could also be mercenaries working for the occupation force. Best not to take any chances. However, there was no place to hide, and even with the horse they could not outrun this vehicle. She eyed the bush in front of her and reluctantly stood up straight. “Fischer.” She turned around, but he was still staring into the distance. “This is turning into a party.”
 
 “Just a second.” He held up a hand. “I think I've got something.”
 
@@ -69,7 +69,7 @@ Silk sighed and turned back to watch the buggy. Part of her wanted to run, but s
 
 “Quiet nights,” replied the woman. “I'm Amy.”
 
-“Oat,” boomed the man in a deep bass. It was quite common on Geisler to introduce yourself with a nickname. After all, she had done the same.
+“Oat,” boomed the man in a deep bass. It was common on Geisler to introduce yourself with a nickname. After all, she had done the same.
 
 Amy walked a few steps closer. “Quite a sight, this, up close. Have you been here long? What's the status?”
 
@@ -81,13 +81,13 @@ Silk held up a hand. “Careful. The hull is still hot.”
 
 Oat grunted. He changed course and started walking around the ship at a safe distance. “There's something over here,” he called from the other side. Silk and Amy followed him.
 
-Suddenly there was a loud clank followed by a hissing noise. Amy started running. “What did you do? Are you okay?”
+Suddenly there was a loud clank followed by a hissing noise. Amy started running. “What did you do? Is something happening?”
 
 Oat held up his hands. “That wasn't me.” Silk reached him and followed his gaze. There was a circular hatch that was slowly swinging open. It was ten feet up from the ground and about three feet across. After a few seconds the hissing died down and was replaced by a whirring sound as a cylindrical object moved out of the opening.
 
 Silk looked over to Fischer. “Was that you?”
 
-Finally there was a reaction. “No, I'm still running some checks.” He came over to them. “What's happening?”
+Finally his eyes came back into focus. “No, I'm still running some checks.” He came over to them. “What's happening?”
 
 Amy pointed, unnecessarily. “It's opening.”
 
@@ -109,7 +109,7 @@ Fischer shook his head. “Most angels don't.”
 
 Silk noticed that the creature's chest was moving. It was breathing, but shallowly. Silk reached out and touched its shoulder. “Hello? Can you hear me?” There was no reaction. As she bent over the “angel” she noticed a black cable that was attached to its neck. Silk took a deep breath. This was getting stranger by the minute, but she had to pull herself together and remember what she had come here for. She didn't know exactly what she was looking at, but it was a living creature, and Silk was going to do what she could to make sure it was OK. The first job was to figure out whether it was unconscious or only jacked in. She pointed at the cable. “Is that a neurolink? Is it safe to pull it out?”
 
-Fischer eyed the cable while keeping a reverent distance. “I think it is, although it's pretty massive.” He hesitated for a second, then stepped closer and touched the cable. “It usually unlocks like this ...” He twisted the cable slightly. There was a click as it came off.
+Fischer eyed the cable while keeping a reverent distance. “I think it is a neurolink, although it's pretty massive.” He hesitated for a second, then stepped closer and touched the cable. “It usually unlocks like this ...” He twisted the cable slightly. There was a click as it came off.
 
 Silk took a light blanket out of her pack and spread it on the ground. Then she slid her hands under the pilot and carefully lifted her out of the cylinder. The body was light even for her size. She was slippery from the gel that she had been lying in. Slowly Silk laid her down on the blanket. There were a few bruises but no bleeding and no obvious broken bones. She checked for a pulse. It was weak, which might be normal for her species. Or not. She dismissed taking her blood pressure. She didn't have a clue what a healthy value would be either. She pulled up one eyelid. The eyes were definitely human.
 
@@ -123,7 +123,7 @@ Silk took a light blanket out of her pack and spread it on the ground. Then she 
 
 He shook his head. “No.”
 
-“Then let's get the kid into the buggy and be off.”
+“Great! So, as far as I'm concerned, we can get the kid into the buggy and be off.”
 
 Silk considered. “That would certainly be the fastest option. But it would be a rather bumpy ride, and as long as I'm not sure that there are no internal injuries I wouldn't risk that.”
 
@@ -139,11 +139,11 @@ Oat grinned. “This baby can do anything. You need speed? She goes fast. You ne
 
 Fischer nodded his approval. Amy just shrugged. So Silk picked up the pilot again and carried her to the buggy. Oat adjusted the passenger seat and climbed in on the driver's side. Amy stood on the small platform behind the seats and held on to the metal frame.
 
-Oat pushed the ignition and the engine began to purr. “There's an abandoned house on the outskirts. Let's go there first and then decide the next step.”
+Oat pushed the ignition and the engine began to purr. “There's an abandoned house on the outskirts. Let's go there first and then decide on the next step.”
 
-Silk gently laid the small body in the passenger seat and fastened the belt. She took the light blanket out of there medikit and draped it over the pilot, tucking it under her at the edges. Then she turned to Fischer. “I'll join you on June again, if you don't mind. We should scout ahead for any trouble.”
+Silk gently laid the small body in the passenger seat and fastened the belt. She picked up the medikit blanket and draped it over the pilot, tucking it under her at the edges. Then she turned to Fischer. “I'll join you on June again, if you don't mind. We should scout ahead for any trouble.”
 
-They went to the horse, who was waiting patiently where they had left her, nibbling on some shrub. As they mounted, the buggy approached - very slowly, as Oat had promised. He gave a thumbs up and smiled. Amy let her gaze wander over the landscape.
+They went to the horse, who was waiting patiently where they had left her, nibbling on some shrub. As they mounted, the buggy approached - very slowly, as Oat had promised. He gave a thumbs up and smiled.
 
 At a gentle press of Fischer's thighs June started into a trot, then sped up to a gallop. Soon they had left the buggy behind. It was easy to keep track of its location, though - it did not stir up as much dust as earlier, when it had been going at full speed, but a faint cloud was still visible. Silk worried that others might see it as well, but they'd have to take that chance. Silk kept an eye out for any trouble, but the area seemed completely deserted. The sun was higher in the sky now, but it was still about two hours until noon. They rode straight west for a while, up and down the hills, then circled back and checked north and south, but found only shrubs and moss and no sign of other people. They completed the circle and passed the buggy, which was still making slow and steady progress. It made an odd picture, the small spaceship pilot looking even more tiny and fragile next to the huge man in the driver's seat. She looked on to Amy and then to Fischer in front of her. She realised she had no idea whether she could trust her new acquaintances, but so far they seemed decent enough and had proven rather helpful.
 
