@@ -106,4 +106,40 @@ Why, though? What business had the user database sending malware to its users? H
 
 23/11/2024
 
-I don't believe it. This must all be some kind of horrible dream. The police was here. Apparently they've also made the connection between the dead people and the user directory, and they got my name as one of those who worked on that system. Two officers knocked on my door, a woman and a man, and wanted to ask me a few questions. I was tempted to talk to them just to find out how much they knew. But I sent them away. We don't talk to the police. They'll be back, though. Possibly with a search warrant. I may not have much time. I need to find out as much as I can, and then somehow fix this fucking mess.
+I don't believe it. This must all be some kind of horrible dream. The police was here. Apparently they've also made the connection between the dead people and the user directory, and they must have gotten my name as one of those who worked on that system. Two officers knocked on my door, a woman and a man, and wanted to ask me a few questions. I was tempted to talk to them just to find out how much they knew. But no. I sent them away. We don't talk to the police. They'll be back, though. Possibly with a search warrant. I may not have much time. I need to find out as much as I can, and then somehow fix this fucking mess.
+
+24/11/2024
+
+This is so bloody crazy. There's been another death. I don't know much yet, possibly something related to substance abuse. But sure enough the guy is on the list. And there have been more messages going out from the user directory.
+
+I have to stop this. But I don't know how!
+
+I've tried removing the weird module, but it won't go away. As I said, I don't have direct access to the server, except through this stupid interface. Most of the time it just throws an error. Sometimes it acts as if the module is deleted, but the next time I load the listing it's right there again.
+
+I've tried rebooting the server, to no effect. I can't shut it down completely, it keeps coming up again. There's some automation that fires it up again whenever it goes down. I don't have the privileges to turn that off, and I haven't managed to crack it yet. And even if I do, it won't help, because someone is going go notice that it's down and fix it. And how am I going to explain to them that it needs to stay turned off? That's going to raise so many questions. Am I supposed to tell them that I manipulated the user directory and now people are dying because of it? They're going to think I'm crazy, or lock me up right away, or both.
+
+I need proper shell access to the server. And because no one's going to grant it to me, I'll have to break in, figure out how that bloody system works, and rip the module out, all the while the user directory keeps sending out death messages and the coppers continue to figure out what's happening. 
+
+25/11/2024
+
+I finally thought of the obvious thing - let eFreeT figure out its own mess. Yeah, that went well.
+
+    Melody: How can I remove or deactivate the plugin module?
+
+    eFreeT: You can delete it using the administrative interface.
+
+    Melody: That doesn't work. I need another way.
+
+    eFreeT: If you shut down the server, it will stop working.
+
+    Melody: Nope. What else can I try?
+
+    eFreeT: Cutting the power source is an effective way to stop a computer from working.
+
+You don't say. So it's back to the previous plan - break in with the police on my tail.
+
+Coffee is ready. It's going to be a long night.
+
+26/11/2024
+
+Coppers were back in the early morning. I didn't open this time. They knocked and yelled their usual bullshit but didn't break down the door. Guess they still don't have a warrant.
