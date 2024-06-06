@@ -128,18 +128,36 @@ I finally thought of the obvious thing - let eFreeT figure out its own mess. Yea
 
     eFreeT: You can delete it using the administrative interface.
 
-    Melody: That doesn't work. I need another way.
+    Melody: That doesn't work. The admin interface is broken as fuck. I need another way.
 
-    eFreeT: If you shut down the server, it will stop working.
+    eFreeT: If you shut down the server, the module will stop working.
 
-    Melody: Nope. What else can I try?
+    Melody: No can do. What else can I try?
 
     eFreeT: Cutting the power source is an effective way to stop a computer from working.
 
-You don't say. So it's back to the previous plan - break in with the police on my tail.
+    Melody: You don't say.
+
+So it's back to the previous plan - break in. With the police on my tail.
 
 Coffee is ready. It's going to be a long night.
 
 26/11/2024
 
 Coppers were back in the early morning. I didn't open this time. They knocked and yelled their usual bullshit but didn't break down the door. Guess they still don't have a warrant.
+
+I'm in, though. For all the good that it does me. I found an exploit that worked. Wasn't too hard. The system hasn't seen a security patch in ages. Only reason it's still up and running is because it's not reachable from the open net. But, what can I say... It's the weirdest fucking system I've ever seen. Half of the standard utilities are missing, and trying to install them throws errors. I've gotten loads of “permission denied” messages, and I'm logged in as the root user. Full privileges. Or at least that's how it would work on a normal system. The configuration files and libraries are in strange places, and there are processes running that I've never heard of. It's almost as if the machine was infected by some virus or worm.
+
+Wait a minute. Maybe it was. Maybe *I've* infected it. Shit. I've uploaded something... Who knows if some malware was in there? I was so desperate, it didn't even occur to me that eFreeT might have put something malicious in there. Why would it, though? It makes fuck all sense. Probably it was just a mistake. It doesn't matter anyway. It would take months until I've understood the system enough to fix it. And I don't have months.
+
+OK. Think, Melody. What do you do with a system that has been infected by malware? Either you remove the malware by hand, or if you can't, you restore a backup. That's gotta work. Reset everything to before I uploaded the bloody module. Sure, we'll lose some data, but that's a small price to pay for stopping this nightmare. God, I hope the backups go back far enough. If there are backups at all.
+
+---
+
+There are no backups. Shit. Another possible solution out the window. On the other hand... There are no backups. What if something were to happen to the system? Say the hard drive was wiped for some reason. There would be no way to restore it. It would just stop. Both its normal operations and its killing spree.
+
+---
+
+Come on! What the fuck!? How can it be impossible to erase the data from a server? I've tried everything. From plain deleting everything to overwriting it with zeroes or random data. On the file system level or on the device node. With every tool I could find on the cursed server. Everything throws an error, silently fails or goes wrong in some other fucking inexplicable way.
+
+Well. If shell access won't do the trick, then there's only one level left to escalate to: physical access. I know it sounds crazy and stupid, but I'll have to walk into the data center in person and destroy the fucking machine. Smash it with an axe, or blow it up with C4, or dissolve it in acid, or whatever. All of the above, preferably. First I'll have to find out what data center it's in. There are three that the client is using. And then I'll have to find the exact location inside the data center. Though I gotta say, I'm almost prepared to blow up the whole building if necessary. God, this is so fucked up! I've never done a B&E, not in the offline world at least, nor property damage, for that matter. Well, there's a first time for everything, as they say. Better go look up vendors of explosives and industrial grade chemicals.
