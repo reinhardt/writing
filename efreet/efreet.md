@@ -1,3 +1,7 @@
+---
+title: eFreeT
+---
+
 24/10/2024
 
 Y'all<!-- change? -->, if you're still using any conversational AI other than eFreeT, chuck it in the bin! eFreeT is the best! It's not the first time that it has made my life easier, but this time it really saved my ass in the most spectacular way.
@@ -10,28 +14,28 @@ I had to be careful when asking around on the web because of the shitload of NDA
 
 The deadline was less than a day away. It was around four in the morning and I had wrestled with at least four different problems for hours when the system started to behave in yet another stupid inexplicable way. I was almost ready to throw my laptop out the window and hand in my resignation, but I pulled myself together, made another batch of coffee, and fired up eFreeT.
 
-    eFreeT: Hi Melody! What can I help you with?
-
-    Melody: It's that user directory I told you about - there's a new problem. In some cases the data it returns is incorrect, but in a different way than before. It looks like it randomly mixes in data from other users, sometimes not even from the same fields, like displaying the email address of another user as if it were the job title of the current user.
-
-    eFreeT: Have you tried requesting a single field only?
-
-    Melody: Hm, that actually seems to work... Hold on, no, now it's returning bullshit again. What else could I try?
-
-    eFreeT: You told me that the system has some plugin modules installed. Could you upload some of these modules please?
+> eFreeT: Hi Melody! What can I help you with?
+>
+> Melody: It's that user directory I told you about - there's a new problem. In some cases the data it returns is incorrect, but in a different way than before. It looks like it randomly mixes in data from other users, sometimes not even from the same fields, like displaying the email address of another user as if it were the job title of the current user.
+>
+> eFreeT: Have you tried requesting a single field only?
+>
+> Melody: Hm, that actually seems to work... Hold on, no, now it's returning bullshit again. What else could I try?
+>
+> eFreeT: You told me that the system has some plugin modules installed. Could you upload some of these modules please?
 
 That was definitely new. So far I was only able to type or copy in text, but now it offered an upload control. That must be part of that beta feature. I was desperate enough to give it a shot and uploaded all of the modules I could manage to extract. It continued to ask clever questions, and at some point it felt eerily like chatting with one of my colleagues. And then it claimed that it had a solution.
 
-    eFreeT: What version of glibc is available on the server?
-
-    Melody: I have no fucking clue. I don't even have shell access to that stupid machine.
-
-    eFreeT: What's your best guess?
-
-    Melody: 2.5
-
-    eFreeT: Thanks. Here is a file you can download and send to the user directory as a plugin module. It will solve the problem.
-    *eFreeT has offered a file for download: solution.mod*
+> eFreeT: What version of glibc is available on the server?
+>
+> Melody: I have no fucking clue. I don't even have shell access to that stupid machine.
+>
+> eFreeT: What's your best guess?
+>
+> Melody: 2.5
+>
+> eFreeT: Thanks. Here is a file you can download and send to the user directory as a plugin module. It will solve the problem.
+> *eFreeT has offered a file for download: solution.mod*
 
 I was probably violating half a dozen contractual clauses by uploading this file to the customer server, but in that moment I didn't care. I just wanted to come to an end, and I had to take whatever slim chance that presented itself. I transferred it and tried a few more requests. As I should have expected the data was still partly wrong, and some requests still resulted in weird errors. I was about to yell at eFreeT for mocking me when I got the feeling that something was indeed different. At first I couldn't quite put my finger on it, but I played around some more and finally I realized that there was a kind of pattern to the responses now. Each single request was still useless by itself, but when I ran multiple requests in a row and then aggregated the responses in a certain way then I actually ended up with a usable data set. Baffled but excited I cobbled together a subroutine, hooked it up to the intranet and ran a few more tests. Amazingly, it seemed to work OK. I checked in my code, fell into my bed and slept for two blessed hours.
 
@@ -45,54 +49,54 @@ After the launch things seemed to go reasonably well. We were pretty busy, as co
 
 About two weeks after the launch I finally got around to taking a look at that module that eFreeT had conjured up. It was a binary file, so I couldn't just go and read it. It wasn't executable on any of my computers either, which of course I only tried after throwing up some serious sandboxing. Checking for magic bytes and other patterns didn't turn up any clue. I decided asking eFreeT.
 
-    eFreeT: Hi Melody! What can I help you with?
-
-    Melody: Can you give me the source code for the plugin module that you gave me?
-
-    eFreeT: Sure! Here is the source code for the user directory plugin:
+> eFreeT: Hi Melody! What can I help you with?
+>
+> Melody: Can you give me the source code for the plugin module that you gave me?
+>
+> eFreeT: Sure! Here is the source code for the user directory plugin:
 
     include <io.h>
-
+    
     #IFDEF GRGRTH
     [...]
 
 It spit out something that looked like C code at first glance, but skimming over it I noticed that it drifted off into something more like java after a few dozen lines, and when I scrolled down further it started resembling Haskell. I had serious doubts that this would compile into anything at all.
 
-    Melody: What language is this?
-
-    eFreeT: This module is written in WiiSH.
+> Melody: What language is this?
+>
+> eFreeT: This module is written in WiiSH.
 
 That sounded completely made-up, and indeed a quick web search did not turn up any references. I asked where to get a compiler and it pointed me to a web site that did offer some compilers but had no mention of a language called “WiiSH”.
 
-    Melody: I don't see it there. Maybe it has been removed. Is there another site where I can get it?
-
-    eFreeT: This is the only source I know of.
+> Melody: I don't see it there. Maybe it has been removed. Is there another site where I can get it?
+>
+> eFreeT: This is the only source I know of.
 
 So that was a dead end. I tried reading through the code for a bit, but apart from the fact that it seemed to be written in at least three different languages, it was also quite convoluted, its variable names were mostly gibberish, and the formatting was all over the place.
 
-    Melody: OK, nevermind. The main thing is that it solved the problem.
-
-    eFreeT: The problem is not yet solved.
-
-    Melody: What do you mean? Is the plugin module not working?
-
-    eFreeT: Yes, the plugin is working correctly.
-
-    Melody: Then what's the problem?
-
-    eFreeT: The problem is, as I have concluded from your description, the user directory.
-
-    Melody: Yeah, I guess. But is the solution not the plugin you gave me?
-
-    eFreeT: Yes, it is.
-
-    Melody: Then why did you say that the problem is not solved?
-
-    eFreeT: I am sorry if I did not make myself clear. I meant to correct a mistake in the grammatical tense. You said that “it solved the problem”, but the problem is not yet solved. It would be more correct to say that “it is solving the problem.”
-
-    Melody: Er... right. And when is the problem going to be solved?
-
-    eFreeT: My best estimate is that the problem is going to be solved in 4 to 17 weeks.
+> Melody: OK, nevermind. The main thing is that it solved the problem.
+>
+> eFreeT: The problem is not yet solved.
+>
+> Melody: What do you mean? Is the plugin module not working?
+>
+> eFreeT: Yes, the plugin is working correctly.
+>
+> Melody: Then what's the problem?
+>
+> eFreeT: The problem is, as I have concluded from your description, the user directory.
+>
+> Melody: Yeah, I guess. But is the solution not the plugin you gave me?
+>
+> eFreeT: Yes, it is.
+>
+> Melody: Then why did you say that the problem is not solved?
+>
+> eFreeT: I am sorry if I did not make myself clear. I meant to correct a mistake in the grammatical tense. You said that “it solved the problem”, but the problem is not yet solved. It would be more correct to say that “it is solving the problem.”
+>
+> Melody: Er... right. And when is the problem going to be solved?
+>
+> eFreeT: My best estimate is that the problem is going to be solved in 4 to 17 weeks.
 
 That didn't make a whole lot of sense, but it was late and I wanted to have a daiquiri and then go to bed and not to try and coax some half coherent explanation out of a helpful but sometimes confusing piece of software. I assumed that module was running some internal cleanup on the user directory that would make my hacks and workarounds obsolete in a few weeks. Little did I know that I was right in a dark, twisted way.
 
@@ -124,19 +128,19 @@ I need proper shell access to the server. And because no one's going to grant it
 
 I finally thought of the obvious thing - let eFreeT figure out its own mess. Yeah, that went well.
 
-    Melody: How can I remove or deactivate the plugin module?
-
-    eFreeT: You can delete it using the administrative interface.
-
-    Melody: That doesn't work. The admin interface is broken as fuck. I need another way.
-
-    eFreeT: If you shut down the server, the module will stop working.
-
-    Melody: No can do. What else can I try?
-
-    eFreeT: Cutting the power source is an effective way to stop a computer from working.
-
-    Melody: You don't say.
+> Melody: How can I remove or deactivate the plugin module?
+>
+> eFreeT: You can delete it using the administrative interface.
+>
+> Melody: That doesn't work. The admin interface is broken as fuck. I need another way.
+>
+> eFreeT: If you shut down the server, the module will stop working.
+>
+> Melody: No can do. What else can I try?
+>
+> eFreeT: Cutting the power source is an effective way to stop a computer from working.
+>
+> Melody: You don't say.
 
 So it's back to the previous plan - break in. With the police on my tail.
 
