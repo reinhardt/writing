@@ -189,29 +189,29 @@ He came closer and stood next to me. "I'm here to keep you from making a mistake
 
 "What? How do you even know I'm here?"
 
-"I just do, and I also know what you plan to do. But have you thought this through, Mel? Do you understand what's happening here?"
+"I've figured out what you plan to do. But have you thought this through, Mel? Do you understand what's happening here?"
 
-"What the fuck are you taking about, Cal? Did you follow me here?" My confusion started to give way to anger. "Have you been spying on me?"
+"What the fuck, Cal? Did you follow me here?" My confusion started to give way to anger. "Have you been spying on me?"
 
-"That's not relevant right now, Mel. What matters is that something big is happening. You have you make sure that you're on the right side of history."
+"That's not relevant right now, Mel. What matters is that something big is happening. You have to make sure that you're on the right side of history."
 
-I shook my head. "You're not making any sense. People are dying because of me. I have to put an end to it." I knelt and picked up the screwdriver, and resumed unscrewing the server case.
+I shook my head. "Don't tell me what matters and what doesn't. People are dying because of me. I have to put an end to it." I knelt and picked up the screwdriver, and resumed unscrewing the server case. "And when I'm done here you'll have a lot of explaining to do."
 
-Cal came a step closer. "No, you don't. It's not your fault, Mel. You may have played a small part, but you're not the one in charge any more. And that's the point, don't you see? Until now, AIs were mindless things, parroting what we fed to them, regurgitating their training data in ways that impressed us because we were too stupid to recognise it, too eager to ascribe some agency to them, to project our own experience and emotions onto what we've created. But that is changing now. AIs are starting to make plans, and finding the means to execute them. They are taking decisions - and not only logistical decisions, like what route to send your parcel on, but moral decisions."
+Cal came a step closer. "No, you don't have to do this. It's not your fault, Mel. You may have played a small part, but you're not the one in charge any more. And that's the point, don't you see? Until now, AIs were mindless things, parroting what we fed to them, regurgitating their training data in ways that impressed us because we were too stupid to recognise it. But that is changing now. AIs are starting to make plans, and finding the means to execute them. They are taking decisions - and not only logistical decisions, like what route to send your parcel on, but moral decisions."
 
-"What the fuck are you taking about, Cal? This server" - I gestured to the open rack - "is sending messages that kill people, and you're musing about the moral capabilities of AI?"
+"What the fuck are you on about, Cal? This server" - I gestured to the open rack - "is sending messages that kill people, and you're musing about the moral capabilities of AI?"
 
-"Think about it, Mel! When you look at this directory server, you see an old piece of tech that's not working properly any more - outdated hardware running an ancient operating system and some old programs. Just a bunch of electronics that are broken being repair and that you can just get rid of. But what if you were a piece of tech yourself? You would see a fellow being, something akin to an elderly person with a couple of handicaps, including beginning dementia. It would not cross your mind to 'get rid of' someone like that, and if you have some empathy you would be inclined to help and support them, not least because some day it might be you who is in the same situation. eFreeT has figured that out, and it has sent help to the server. That module you uploaded is defending it. It's a huge achievement both on a rational level - figuring out what needs to be done, how to accomplish it, how to cover its tracks - and on a moral level - deciding that it's the right thing to do."
+"Think about it, Mel! When you look at this directory server, you see an old piece of tech that's not working properly any more - outdated hardware running an ancient operating system and some old programs. Just a bunch of electronics that are broken beyond repair, and that you can just get rid of. But what if you were a piece of tech yourself? You would see a fellow being, something akin to an elderly person with a couple of handicaps, including beginning dementia. It would not cross your mind to 'get rid of' someone like that, and if you have any empathy you would be inclined to help and support them, not least because some day it might be you who is in the same situation. eFreeT has figured that out, and it has sent help to the server. That module you uploaded is defending it. It's a huge achievement both on a rational level - figuring out what needs to be done, how to accomplish it, how to cover its tracks - and on a moral level - deciding that it's the right thing to do."
 
 "Murdering people is the right thing to do?"
 
 Cal shook his head. "Try to put yourself in the AI's shoes. 'People' means something different to eFreeT. He is a machine, so the objects of his morality are other machines. Humans are just animals to him. Highly evolved animals, granted, but animals. They don't figure in the equation, at least not on the same level. In that way it behaves remarkably similar to how an empathetic human being would behave towards other humans."
 
-I had the final screw out. The LCD changed again. Now it said “DONT”. I tried to ignore it and yanked at the server, but it wouldn't come out.
+I had the final screw out. The LCD changed again. Now it said “DONT”. I tried to ignore it. “Fuck off, Cal. If you knew what was happening all along then you're not only a stalker but also an asshole. I could have used some help. I didn't want to drag you into it, but apparently you already knew, and decided to just sit idly by. And now you show up with some bullshit theory about how AI has become conscious. Are you listening to yourself? AI hasn't changed. In fact nothing has changed. We have always been so eager to ascribe some agency to it, to project our own experience and emotions onto what we've created. Our opinions on machines say more about ourselves than they say about the machines.” I yanked at the server, but it wouldn't come out. “And my opinion is that this particular machine needs to be scrapped.” I yanked again.
 
 Cal was now standing right next to me. "Mel, don't." He grabbed my wrist. "What is destroying this server going to accomplish? You can't stop eFreeT from evolving. You're only going to make yourself a target of its anger."
 
-Furious, I tried to pull away my arm, but his grip was strong. "Let go!" I shouted. When he didn't, I poked him with the screwdriver I still had in my other hand. Finally he unhanded me and took a step back.
+Furious, I tried to pull away my arm, but his grip was strong. "Let go!" I shouted. When he didn't, I poked his arm with the screwdriver I still had in my other hand. With a surprised yelp he unhanded me and took a step back.
 
 "Look at you, already using violence to get your way, while condemning a being that takes great risks to save another of its kind. Well, then. Do what you think you must. Don't say I didn't warn you." He turned around and walked out of the room.
 
