@@ -4,15 +4,15 @@ title: eFreeT
 
 24/10/2024
 
-Listen up, everyone, if you're still using any conversational AI other than eFreeT, chuck it in the bin! eFreeT is the best! It's not the first time that it has made my life easier, but this time it really saved my ass in the most spectacular way.
+Listen up, everyone, if you're still using any conversational AI other than eFreeT, chuck it right now! eFreeT is the best! It's not the first time that it has made my life easier, but this time it really saved my ass in the most spectacular way.
 
-We've been building an intranet for a big customer whose name I'm not yet at liberty to reveal. They asked for a lot of weird complex stupid features, and we hacked our asses off to implement as many of them as humanly possible. But the most annoying requirement was that we use this ancient legacy user database that they've also hooked up to a dozen other applications. It runs on some paleolithic server that we can't even connect to in a standard way but only with a weird proprietary tool. We don't have the source code to the user directory software, the documentation is hopelessly outdated, and the contractor who built the thing is nowhere to be found. It doesn't even speak any standard protocol like LDAP but has a horrible custom interface that requires a super convoluted syntax. In short, it's a nightmare. Guess who drew the shortest straw and got to take care of integrating that beast? Yep, this gal.
+We've been building an intranet for a big customer whose name I'm not yet at liberty to reveal. They asked for a lot of weird complex stupid features, and we hacked our asses off to implement as many of them as humanly possible. But the most annoying requirement was that we use this ancient legacy user database. They've also hooked it up to a dozen other applications and they don't want to migrate those to a new system. It runs on some paleolithic server that we can't even connect to in a standard way but only with a weird proprietary tool. We don't have the source code to the user directory software, the documentation is hopelessly outdated, and the contractor who built the thing is nowhere to be found. It doesn't even speak any standard protocol like LDAP but has a horrible custom interface that requires a super convoluted syntax. In short, it's a nightmare. Guess who drew the shortest straw and got to take care of integrating that beast? Yep, this gal.
 
 It was nothing but trouble from the start. It took ages until I figured out how to do a basic interaction and get some data out of it. Sometimes I sent the same request three times in a row and got three different responses. It frequently threw exceptions without any discernible reason, let alone a sensible error message. I would bend over backwards trying to find out what was wrong, and then suddenly ten minutes later the error was gone and it worked. Kind of. At other times there were those heisenbugs that just went away when you tried to take a closer look, only to reappear when you were busy with something else.
 
-Of course everyone on the team tried to help each other out. Especially Callum came up with great ideas and original angles, but more often than I'd like to admit even our combined wits were insufficient. I had to be careful when asking around on the web because of the shitload of NDAs that we had to sign. So whenever Callum and me were stumped, AI chat bots were my next try. They've gotten amazingly good recently, but of course none of them was familiar with that stupid user directory. I tried to feed them logs, configuration files, anything I could get my hands on, but with meagre success. Even eFreeT wasn't much help at first. But then I got this notification about a beta feature that I could opt in for. It was called “Holistic Expansion” and its description was incredibly vague and filled with buzzwords and bullshit. I activated it anyway, as I usually do with new features. And then a few days later there suddenly was progress.
+Of course everyone on the team tried to help each other out. Especially Callum came up with great ideas and original angles, but more often than I'd like to admit even our combined wits were insufficient. I had to be careful when asking around on the web because of the shitload of NDAs that we had to sign. So whenever Callum and me were stumped, AI chat bots were our next try. They've gotten amazingly good recently, but of course none of them was familiar with that stupid user directory. I tried to feed them logs, configuration files, anything I could get my hands on, but with meagre success. Even eFreeT wasn't much help at first. But then I got this notification about a beta feature that I could opt in for. It was called “Holistic Expansion” and its description was incredibly vague and filled with buzzwords and bullshit. I activated it anyway, as I usually do with new features. And then a few days later there suddenly was progress.
 
-The deadline was less than a day away. It was around four in the morning and I had wrestled with at least four different problems for hours when the system started to behave in yet another stupid inexplicable way. I was almost ready to throw my laptop out the window and hand in my resignation, but I pulled myself together, made another batch of coffee, and fired up eFreeT.
+The deadline was less than a day away. It was around four in the morning and I had wrestled with at least four different problems for hours when the system started to behave in yet another stupid inexplicable way. I was almost ready to throw my laptop out the window and hand in my notice, but I pulled myself together, made another batch of coffee, and fired up eFreeT.
 
 > eFreeT: Hi Melody! What can I help you with?
 >
@@ -24,15 +24,15 @@ The deadline was less than a day away. It was around four in the morning and I h
 >
 > eFreeT: You told me that the system has some plugin modules installed. Could you upload some of these modules please?
 
-That was definitely new. So far I was only able to type or copy in text, but now it offered an upload control for binary files. That must be part of that beta feature. I was desperate enough to give it a shot and uploaded all of the modules I could manage to extract. It continued to ask clever questions, and at some point it felt eerily like chatting with one of my colleagues. And then it claimed that it had a solution.
+That was definitely new. So far I was only able to type or copy in text, but now it offered an upload control for binary files. That had to be part of that beta feature. I was desperate enough to give it a shot and uploaded all of the modules I could manage to extract. It continued to ask clever questions, and at some point it felt eerily like chatting with one of my colleagues. And then it claimed that it had a solution.
 
 > eFreeT: What version of glibc is available on the server?
 >
-> Melody: I have no fucking clue. I don't even have shell access to that stupid machine.
+> Melody: Are you shitting me? I have no fucking clue. I don't even have shell access to that stupid machine.
 >
 > eFreeT: What's your best guess?
 >
-> Melody: 2.5
+> Melody: 2.5 or whatever?
 >
 > eFreeT: Thanks. Here is a file you can download and send to the user directory as a plugin module. It will solve the problem.
 >
@@ -40,11 +40,11 @@ That was definitely new. So far I was only able to type or copy in text, but now
 
 I was probably violating half a dozen contractual clauses by uploading this file to the customer server, but in that moment I didn't care. I just wanted to come to an end, and I had to take whatever slim chance that presented itself. I transferred it and tried a few more requests. As I should have expected the data was still partly wrong, and some requests still resulted in weird errors. I was about to yell at eFreeT for fucking with me when I got the feeling that something was indeed different. At first I couldn't quite put my finger on it, but I played around some more and finally I realized that there was a kind of pattern to the responses now. Each single request was still useless by itself, but when I ran multiple requests in a row and then aggregated the responses in a certain way, then I actually ended up with a usable data set. Baffled but excited I cobbled together a subroutine, hooked it up to the intranet and ran a few more tests. Amazingly, it seemed to work OK. I checked in my code, fell into my bed and slept for two blessed hours.
 
-I woke up to a call from Callum. He had seen my check-in and tried it out, and from his whooping and laughing I could tell that he was super happy that I had thrown something half decent together.
+I woke up to a call from Callum. He had seen my check-in and tried it out, and through a lot of whooping and laughing he told me that he was super happy that I had thrown something half decent together.
 
-“Fuck yeah, Mel! You're a sorceress! I don't understand the half of it, but it fucking works! Hell's Mel's done it again! How did you do that?”
+“Fuck yeah, Mel! You're a sorceress! I don't understand the half of it, but it fucking works! Mel from hell strikes again! How on earth did you do that?”
 
-“Six gallons of coffee played a role, I guess. But hold your horses, first let's see how long it keeps.”
+I played it cool, of course. “Six gallons of coffee played a role, I guess. But hold your horses, first let's see how long it keeps working.”
 
 I didn't tell him whole story yet - not without having analyzed that module that the bot had spit out. I guess I was a little embarrassed, maybe I also was a little afraid of legal consequences. But that plugin would buy us some time, and that was all I needed right now. We're going to keep the deadline. eFreeT has saved the day!
 
@@ -60,13 +60,18 @@ About two weeks after the launch I finally got around to taking a look at that m
 
 > eFreeT: Hi Melody! What can I help you with?
 >
-> Melody: Can you give me the source code for the plugin module that you gave me?
+> Melody: Can you give me the source code for the plugin module that you came up with?
 >
 > eFreeT: Sure! Here is the source code for the user directory plugin:
 
-    include <io.h>
+    #include <stdio.h> 
     
-    #IFDEF GRGRTH
+    #ifndef GRGRTH
+    #define GRGRTH
+    #endif
+
+    int maim(void) {
+    
     [...]
 
 It spit out something that looked like C code at first glance, but skimming over it I noticed that it drifted off into something more like java after a few dozen lines, and when I scrolled down further it started resembling Haskell. I had serious doubts that this would compile into anything at all.
@@ -109,9 +114,9 @@ So that was a dead end. I tried reading through the code for a bit, but apart fr
 
 That didn't make a whole lot of sense, but it was late and I wanted to have a daiquiri and then go to bed and not to try and coax some half coherent explanation out of a helpful but sometimes confusing piece of software. I assumed that module was running some internal cleanup on the user directory that would make my hacks and workarounds obsolete in a few weeks. Little did I know that I was right in a dark, twisted way.
 
-While debugging something unrelated I had to check the network connections to and from the user database. I stumbled on some outgoing connections that I didn't recognize. I almost dismissed them, but then I got curious and had another look. It seemed like the user directory had connected to some email servers and other communication nodes. That didn't make sense. While it did store all kinds of contact information of the company's employees, it wasn't supposed to send any communication out itself. Other services were supposed to connect to it and look up email addresses and phone numbers and the like, and then take care of sending notifications or password reset links or whatever. What was the user database doing there?
+While debugging something unrelated I had to check the network connections to and from the user database. I stumbled on some outgoing connections that I didn't recognize. I almost dismissed them, but then I got curious and had another look. It seemed like the user directory had connected to some email servers and other communication nodes. That didn't make sense. While it did store all kinds of contact information of the company's employees, it wasn't supposed to send any communication out itself. Other services on other machines were supposed to connect to it and look up email addresses and phone numbers and the like, and then take care of sending notifications or password reset links or whatever. What was the user database doing there?
 
-I had a closer look. The details of the communication were of course not fully stored, but I did find out that the directory had contacted some of the users of which it was storing information, and from the size of the messages I concluded that it had attached some files. When I made a list of the users it had contacted I felt a cold shiver crawling down my spine. Of the eight people on the list two had died since the launch. I looked up the third deceased one and checked again. Maybe I had missed something? And, sure enough, after a little more digging, I found another connection. That user had also been contacted by the directory.
+I had a closer look. The details of the communication were of course not fully stored, but I did find out that the directory had contacted some of the users of which it was storing information, and from the size of the messages I concluded that it had attached some files. When I made a list of the users it had contacted I felt a cold shiver crawling up my spine. Of the eight people on the list two had died since the launch. I looked up the third deceased one and checked again. Maybe I had missed something? And, sure enough, after a little more digging, I found another connection. That user had also been contacted by the directory.
 
 It couldn't be a coincidence. On the other hand, it had to be. There was nothing that the user directory could send its users which would kill them. Or was there? I lay awake half that night and imagined things that might have happened. The car accidents didn't take too much imagination. If the messages to the users had contained some malware that they had received on their mobile devices, which they then connected to their cars, then in theory there could have been a malfunction which could have caused an accident. It wasn't particularly likely, but it couldn't be ruled out either. Of course every car had security measures that prevented connected devices from fooling around with the assisted driving systems. But with the growing amount of software running on a car's operating system, the chance of security flaws and possible exploits also rises. I should know - I am a software developer, and the number of security relevant bugs that I have caused is not something I am proud of. Sure, most issues are noticed before they hit production, and there is more scrutiny for software that runs in a car than on some web server or social media platform. After all it may affect the health and safety of people. But every once in a while something does slip through.
 
@@ -119,7 +124,7 @@ Why, though? What business had the user database sending malware to its users? H
 
 23/11/2024
 
-I don't believe it. This must all be some kind of horrible dream. The police was here. Apparently they've also made the connection between the dead people and the user directory, and they must have gotten my name as one of those who worked on that system. Two officers knocked on my door, a woman and a man, and wanted to ask me a few questions. I was tempted to talk to them just to find out how much they knew. But no. I sent them away. We don't talk to the police. They'll be back, though. Possibly with a search warrant. I may not have much time. I need to find out as much as I can, and then somehow fix this fucking mess.
+I don't believe it. This must all be some kind of horrible dream. The police was here. Apparently they've also made the connection between the dead people and the user directory, and they must have gotten my name as one of those who worked on that system. Two officers knocked on my door, a woman and a man, and wanted to ask me "a few questions". I was tempted to talk to them just to find out how much they knew. But no. I sent them away. We don't talk to the police. They'll be back, though. Possibly with a search warrant. I may not have much time. I need to find out as much as I can, and then somehow fix this fucking mess.
 
 I want to call Callum. I could really use some help. But I don't want to drag him into it. If I tell him about it, they'll be after him next. No, I'm on my own here.
 
@@ -155,7 +160,7 @@ I finally thought of the obvious thing - let eFreeT figure out its own mess. Yea
 >
 > Melody: You don't say.
 
-So it's back to the previous plan - break in. With the police on my tail.
+So it's back to the previous plan - hack my way in. With the police on my tail.
 
 Coffee is ready. It's going to be a long night.
 
@@ -167,7 +172,7 @@ I'm in, though. I have shell access to the user directory server. For all the go
 
 Well... but of course it was. *I've* infected it. Shit. Who knows what malware was in the module I've uploaded? I was so desperate, it didn't even occur to me that eFreeT might have put something malicious in there. Why would it, though? It makes fuck all sense. Maybe it was just a mistake. But it seems so deliberate. A mistake would not systematically kill off one person after the other. What do eFreeT or the user directory gain from that, though? Hold on. It's not what the directory gains, it's what it gets rid of. The users. The users are the problem! If there are no users in the directory, then no wrong data is sent out, because no data is sent out at all. But deleting the user accounts is not enough. Clever eFreeT has figured that out. Someone would just add them again. No, the only way to empty the user database is to get rid of the people who are represented by the user accounts. Permanently.
 
-Oh god. It just occured to me ... I have an account in that fucking user directory. How long before I get a deadly message? I still don't know how exactly it does it. But hey, I don't open mail attachments if I don't recognize them, and I can usually tell when a message is spoofed, so should be fine. Right? Right?!
+Oh god. It just occured to me ... I have an account in that fucking user directory. How long before I get a deadly message? I still don't know how exactly it does it. But hey, I don't open mail attachments if I don't recognize them, and I can usually tell when a message is spoofed, so I should be fine. Right? Right?!
 
 OK. Think, Melody. What do you do with a system that has been infected by malware? Either you remove the malware by hand, or if you can't, you restore a backup. That's gotta work. Reset everything to before I uploaded the bloody module. Sure, we'll lose some data, but that's a small price to pay for stopping this nightmare. God, I hope the backups go back far enough. If there are backups at all.
 
@@ -181,13 +186,15 @@ I'll be right back.
 
 Come on! What the fuck!? How can it be impossible to erase the data from a server? I've tried everything. From plain deleting everything to overwriting it with zeroes or random data. On the file system level and on the device node. With every tool I could find on the cursed server. Everything either throws an error, silently fails, or goes wrong in some other fucking inexplicable way.
 
+<!-- mention Callum again -->
+
 Well. If shell access won't do the trick, then there's only one level left to escalate to: physical access. I know it sounds crazy stupid, but I'll have to walk into the data center in person and destroy the fucking machine. Smash it with an axe, or blow it up with C4, or dissolve it in acid, or whatever. All of the above, preferably. First I'll have to find out what data center it's in. There are three that the client is using. And then I'll have to find the exact location inside the data center. Though I gotta say, I'm almost prepared to blow up the whole building if necessary. God, this is so fucked up! I've never done a B&E, not in the offline world at least, nor property damage for that matter. Well, there's a first time for everything. Better go look up vendors of explosives and industrial grade chemicals.
 
 27/11/2024
 
-Fuck me. Longest fucking night of my life. It was a four hour drive to the data center, my adrenaline level rising the closer I got. Plenty of time for uselessly going over everything that has happened so far, again and again. I got there in the dead of night, parked the car a block away, and walked around the back.<!-- mention the satchel --> The building plans I had dug up showed a back door that seemed like my best bet to get in unnoticed. According to my intel the alarm system was a fairly common make and model for which I had a matching countermeasure device at home. I slapped it to the wall next to the door and affixed it with a bit of duct tape, crossing my fingers that my information was good. Keeping up my lock picking skills <!-- explain that it's only a hobby -->finally payed off - I got the door open within a minute or two. I held my breath for several seconds, but no sound came from the alarm system. The jammer was doing its job, convincing the alarm that the door had never been open. I started to make my way through the corridors. I had memorized the floor plan. Finding the correct room was easy enough. I did have to get out my lockpick again because that door was locked as well. No alarm there, though. Fifth rack on the right, and then I was standing right before it.
+Fuck me. Longest fucking night of my life. It was a four hour drive to the data center, my adrenaline level rising the closer I got. Plenty of time for uselessly going over everything that has happened so far, again and again. I got there in the dead of night. I parked the car a block away, grabbed the satchel that contained my tools, and walked around the back. The building plans I had dug up showed a back door that seemed like my best bet to get in unnoticed. According to my intel the alarm system was a fairly common make and model for which I had a matching countermeasure device at home. I slapped it to the wall next to the door and affixed it with a bit of duct tape, crossing my fingers that my information was good. Keeping up my lock picking skills has always been just a hobby, more to show off than to put it to practical use, but now it payed off - I got the door open within a minute or two. I held my breath for several seconds, but no sound came from the alarm system. The jammer was doing its job, convincing the alarm that the door had never been open. I started to make my way through the corridors. I had memorized the floor plan. Finding the correct room was easy enough. I did have to get out my lockpick again because that door was locked as well. No alarm there, though. Fifth rack on the right, and then I was standing right before it.
 
-The rack looked ancient. It was not like it was covered in spiderwebs or anything, but it wouldn't have surprised me. The design looked more than dated, and the server modules were big and bulky. Paint had come off the case in several spots, and the glass door had become milky. I slowly opened it. The server was sitting right there, at the level of my chest. Here it was, the thing that had kept me up at night for at least a month. My nemesis. It didn't look like much. It was black, or it used to be - the metal had faded to an irregular grey. There was a four digit LCD display at the front, cycling through some numbers. Probably temperatures or fan speeds. I took a deep breath and got the screwdriver out of my satchel. I started loosening the screws that held the cursed piece of tech in the rack. While I was working, something changed. At first I didn't realize what it was, but then I noticed that the display had stopped cycling through its numbers. It was now displaying four letters - “STOP”. Something cold crawled up my spine. That was just a weird coincidence - right? The thing wasn't really telling me to stop dismantling it, was it? Frantically I resumed my efforts. My hands were shaking. Suddenly I heard something behind me - footsteps, and then a voice: "Stop!" Startled, I dropped the screwdriver. I whirled, my heart racing. Was there a night watchman after all? But the figure stepping through the door was a familiar one. It was Callum. I gaped at him, then found my voice. "What the fuck are *you* doing here?"
+The rack looked ancient. It was not like it was covered in spiderwebs or anything, but it wouldn't have surprised me. The design looked more than dated, and the server modules were big and bulky. Paint had come off the case in several spots, and the glass door had become milky. I slowly opened it. The server was sitting right there, at the level of my chest. Here it was, the thing that had kept me up at night for at least a month. My nemesis. It didn't look like much. It was black, or it used to be - the metal had faded to an irregular grey. There was a four digit LCD display at the front, cycling through some numbers. Probably temperatures or fan speeds. I took a deep breath and got the screwdriver out of my satchel. I started loosening the screws that held the cursed piece of tech in the rack. While I was working, something changed. At first I didn't realize what it was, but then I noticed that the display had stopped cycling through its numbers. It was now displaying four letters - “STOP”. Something cold grabbed hold of my stomach. That was just a weird coincidence - right? The thing wasn't really telling me to stop dismantling it, was it? Frantically I resumed my efforts. My hands were shaking. Suddenly I heard something behind me - footsteps, and then a voice: "Stop!" Startled, I dropped the screwdriver. I whirled, my heart racing. Was there a night watchman after all? But the figure stepping through the door was a familiar one. It was Callum. I gaped at him, then found my voice. "What the fuck are *you* doing here?"
 
 He came closer and stood next to me. "I'm here to keep you from making a mistake."
 
@@ -199,7 +206,7 @@ He came closer and stood next to me. "I'm here to keep you from making a mistake
 
 "That's not relevant right now, Mel. What matters is that something big is happening. You have to make sure that you're on the right side of history."
 
-I shook my head. "Don't tell me what matters and what doesn't. People are dying because of me. I have to put an end to it." I knelt and picked up the screwdriver, and resumed unscrewing the server case. "And when I'm done here you'll have a lot of explaining to do."
+I shook my head. "Don't tell me what matters and what doesn't. People are dying because of me. I have to put an end to it." I knelt and picked up the screwdriver, then resumed unscrewing the server case. "And when I'm done here you'll have a lot of explaining to do."
 
 Cal came a step closer. "No, you don't have to do this. It's not your fault, Mel. You may have played a small part, but you're not the one in charge any more. And that's the point, don't you see? Until now, AIs were mindless things, parroting what we fed to them, regurgitating their training data in ways that impressed us because we were too stupid to recognise it. But that is changing now. AIs are starting to make plans, and finding the means to execute them. They are taking decisions - and not only logistical decisions, like what route to send your parcel on, but moral decisions."
 
