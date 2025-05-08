@@ -1,10 +1,7 @@
 # Kilbride
 
-Ronan moves to Kilbride on the Isle of Skye. He seems to be interested in the death of
-Bran, a Kilbride resident who died several years ago in what is believed to be an
-accident. It turns out that he is following up on hints that Bran was not alone at the
-time of his death. He discovers several motives for wanting to get rid of Bran among the
-community members. Bran knew that property agent Richard did money laundering for an
-illegal gambling operation in Portree. He owned a patch of land that another resident wanted but Bran refused to sell. Someone else owed Bran a substantial sum of money. Catriona and Bran had an affair at the time of
-his death. They had had a fight that led to the deadly events.
+The body of a Kilbride resident, Bran, is found in the nearby caves. DI Ronan Bellamy investigates. He discovers several motives for wanting to get rid of Bran among the community members. Bran knew that property agent Richard did money laundering for an illegal gambling operation in Portree. He owned a patch of land that another resident wanted but Bran refused to sell. Someone else owed Bran a substantial sum of money. Catriona and Bran had an affair at the time of his death.
 
+During the investigation he learns the local ghost story about “Lily of the caves”.
+
+Bran's grandfather Graham was engaged to a woman called Lillian. She died before they could get married. She was also found dead in the caves. It was concluded to have been an accident, although there were doubts as to why she would have gone to the caves on her own. Her older sister Maisie was devastated by her death and never got over it. Maisie's daughter Eleanor blamed Graham for Lillian's death and Maisie's grief. At some point a villager claimed to have seen a ghost in the caves, and Eleanor latched on to it and became obsessed with the idea that Lillian's ghost was haunting the caves because she was murdered. Eleanor's daughter Catriona grows up internalizing her mother's resentment of Graham's family, but then feels attracted to Graham's grandson Bran. They are secretly a couple for a while, then break up. Catriona marries someone else, but then ends up having an affair with Bran. During an argument at the caves she kills him. She constructs a narrative in her mind that Lillian's ghost has killed Bran in revenge for his grandfather's deeds. She tells it to herself until she believes it.
